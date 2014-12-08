@@ -1,7 +1,7 @@
 #
 # Jekyll Settings
 #
-baseurl: /test-gh-pages
+baseurl: /help-center
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
