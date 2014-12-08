@@ -1,0 +1,9 @@
+#
+# Jekyll Settings
+#
+baseurl: /test-gh-pages
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+sass:
+  style: :compressed
