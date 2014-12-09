@@ -1,4 +1,5 @@
 ---
+permalink: "/decouvrir-lecture-numerique/"
 layout: post
 title: Découvrir la lecture numérique
 ---
@@ -19,6 +20,13 @@ Améliorez votre confort de lecture en modifiant la taille de caractère, la pol
 ### Supports de lecture
 
 Les livres numériques se lisent sur de nombreux supports tels que les liseuses à encre électronique, les tablettes tactiles, les ordinateurs ou les smartphones.
+
+Le plus de la liseuse : un support dédié à la lecture numérique et équipé d’une technologie d’écran spécialement conçue pour permettre une lecture prolongée sans fatiguer les yeux.
+
+Besoin d’aide sur les liseuses vendues dans notre librairie ?
+
+- Aide : PocketBook Touch Lux by TEA
+- Aide : Cybook Odyssey
 
 <p class="warning">**Lecture sur Ipad**.
 Les e-books au format epub et pdf sont lisibles sur Ipad à condition d'avoir téléchargé une application de lecture telle que Bluefire Reader.</p>
