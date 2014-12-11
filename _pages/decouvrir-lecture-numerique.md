@@ -23,18 +23,27 @@ Les livres numériques se lisent sur de nombreux supports tels que les liseuses 
 
 Le plus de la liseuse : un support dédié à la lecture numérique et équipé d’une technologie d’écran spécialement conçue pour permettre une lecture prolongée sans fatiguer les yeux.
 
-Besoin d’aide sur les liseuses vendues dans notre librairie ?
+<span class="protip">
+  <span class="title">Besoin d’aide sur les liseuses vendues dans notre librairie ?</span>
+  Aide : PocketBook Touch Lux by TEA  
+  Aide : Cybook Odyssey  
+</span>
 
-- Aide : PocketBook Touch Lux by TEA
-- Aide : Cybook Odyssey
+<span class="warning">
+  <span class="title">Lecture sur Ipad</span class="title">
+  Les e-books au format epub et pdf sont lisibles sur Ipad à condition d'avoir téléchargé une application de lecture telle que Bluefire Reader.
+</span>
 
-<p class="warning">**Lecture sur Ipad**.
-Les e-books au format epub et pdf sont lisibles sur Ipad à condition d'avoir téléchargé une application de lecture telle que Bluefire Reader.</p>
+<span class="warning">
+  <span class="title">Lecture sur Kindle</span>
+  Les e-books au format epub ne sont pas lisibles sur une liseuse Kindle.  
+  Les e-books au format pdf sont lisibles sur une liseuse Kindle à condition qu'ils n'aient pas de DRM. Le logiciel gratuit Calibre permet de convertir les e-books au format pdf sans DRM dans un format compatible avec le Kindle.
+</span>
 
-<p class="warning">**Lecture sur Kindle**. Les e-books au format epub ne sont pas lisibles sur une liseuse Kindle.
-Les e-books au format pdf sont lisibles sur une liseuse Kindle à condition qu'ils n'aient pas de DRM. Le logiciel gratuit Calibre permet de convertir les e-books au format pdf sans DRM dans un format compatible avec le Kindle.</p>
-
-<p class="warning">**Lecture sur Reader de Sony**. Un logiciel complémentaire doit être installé pour transférer vos e-books. Vous devrez installer le Reader for PC & Mac.</p>
+<span class="warning">
+  <span class="title">Lecture sur Reader de Sony</span>
+  Un logiciel complémentaire doit être installé pour transférer vos e-books. Vous devrez installer le Reader for PC & Mac.
+</span>
 
 ###Catalogue d’e-books
 Le catalogue comporte plus de 100 000 e-books disponibles en français et la majorité des nouveautés sort désormais en format numérique.
@@ -57,9 +66,15 @@ Il existe plusieurs formats de livres numériques :
 
 Sur notre librairie numérique, nous commercialisons les e-books tels qu'ils sont fournis par l’éditeur : au format ePub, PDF, streaming ou multiformat.
 
-<p class="warning">**Format propriétaire** : Certains formats sont dits propriétaires, c’est-à-dire que les fichiers ont un format spécifique ne pouvant être lus que sur un seul type de support. C’est par exemple le cas des formats .azw pour Amazon qui ne peuvent être lus que sur des Kindle. **Nous garantissons des formats ouverts et non propriétaires pour assurer l'intéropérabilité.**</p>
+<span class="warning">
+  <span class="title">Format propriétaire</span>
+  Certains formats sont dits propriétaires, c’est-à-dire que les fichiers ont un format spécifique ne pouvant être lus que sur un seul type de support. C’est par exemple le cas des formats .azw pour Amazon qui ne peuvent être lus que sur des Kindle. **Nous garantissons des formats ouverts et non propriétaires pour assurer l'intéropérabilité.**
+</span>
 
-<p class="warning">**Format .acsm**. Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. L’installation d’Adobe Digital Editions est obligatoire pour les lires et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions](04-lire-un-ebook#lecture-sur-ordinateur)</p>
+<span class="warning">
+  <span class="title">Format .acsm</span>
+  Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. L’installation d’Adobe Digital Editions est obligatoire pour les lires et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions](04-lire-un-ebook#lecture-sur-ordinateur)
+</span>
 
 ####Quel format choisir entre le PDF et l’ePub ?
 
@@ -82,7 +97,7 @@ Vous pouvez trouver cette information sur la fiche technique de la fiche produit
 
 ![Fiche_technique_protection](media/help-pages/02_Decouvrir_la_lecture_numerique_2_MB.jpg)
 
-<p class="warning">Vous pourrez également remarquer au moment du téléchargement qu’un fichier e-book non protégé a l’extension " .pdf " ou " .epub " selon son format, alors qu’**un fichier protégé par Adobe DRM a l’extension ".acsm"**. Pour le lire vous devez disposer d'[un compte personnel ID Adobe ](04-lire-un-ebook#lecture-sur-ordinateur)</p>
+<span class="warning">Vous pourrez également remarquer au moment du téléchargement qu’un fichier e-book non protégé a l’extension " .pdf " ou " .epub " selon son format, alors qu’**un fichier protégé par Adobe DRM a l’extension ".acsm"**. Pour le lire vous devez disposer d'[un compte personnel ID Adobe ](04-lire-un-ebook#lecture-sur-ordinateur)</span>
 
 #### Malgré les protections, peut-on imprimer ou copier un e-book ?
 Tout dépend des protections qui sont apposées sur vos e-books. La fiche technique de la fiche produit d’un e-book communique également ce type d’information. Vous devez regarder sur la fiche technique afin de savoir si l’e-book est imprimable ou copiable. Dans l'exemple ci-dessus, il n'est ni imprimable, ni copiable.
