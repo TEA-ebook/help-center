@@ -1,6 +1,6 @@
 ---
 permalink: "/decouvrir-lecture-numerique/"
-layout: post
+layout: page
 title: Découvrir la lecture numérique
 ---
 

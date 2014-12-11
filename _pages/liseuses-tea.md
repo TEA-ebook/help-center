@@ -1,6 +1,6 @@
 ---
 permalink: "/liseuses-tea/"
-layout: post
+layout: page
 title: Liseuses TEA
 ---
 

@@ -1,6 +1,6 @@
 ---
 permalink: "/tablettes-android/"
-layout: post
+layout: page
 title: Tablettes Android
 ---
 
