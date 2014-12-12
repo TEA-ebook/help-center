@@ -6,14 +6,19 @@ article.page a {
   text-decoration: underline;
 }
 
-article.page h3 {
+article.page h2 {
   margin-top: 35px;
   margin-bottom: 25px;
 }
 
-article.page h4 {
+article.page h3 {
   margin-top: 25px;
   margin-bottom: 15px;
+}
+
+article.page p > img {
+  display: block;
+  margin: auto;
 }
 
 .warning, .protip {
