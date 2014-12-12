@@ -1,3 +1,7 @@
+.container.marketing {
+  box-shadow: 0 0 55px -25px;
+}
+
 article.page p {
   font-size: 120%;
 }
