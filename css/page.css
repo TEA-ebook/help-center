@@ -2,7 +2,7 @@
   box-shadow: 0 0 55px -25px;
 }
 
-article.page p {
+article.page p, article.page li {
   font-size: 120%;
 }
 
