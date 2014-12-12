@@ -1,6 +1,6 @@
 ---
 permalink: "/acheter-ebook/"
-layout: post
+layout: page
 title: Acheter un e-book
 ---
 

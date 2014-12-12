@@ -1,6 +1,6 @@
 ---
 permalink: "/lire-ebook/"
-layout: post
+layout: page
 title: Lire un e-book
 ---
 
