@@ -23,9 +23,7 @@ Les livres numériques se lisent sur de nombreux supports tels que les liseuses 
 
 Le plus de la liseuse : un support dédié à la lecture numérique et équipé d’une technologie d’écran spécialement conçue pour permettre une lecture prolongée sans fatiguer les yeux.
 
-<span class="protip">
-  <span class="title">Besoin d’aide sur les liseuses vendues dans notre librairie ?</span>
-  [Aide : PocketBook Touch Lux by TEA]()
+<span class="protip"><span class="title">Besoin d’aide sur les liseuses vendues dans notre librairie ?</span>[Aide : PocketBook Touch Lux by TEA]()
   [Aide : Cybook Odyssey]()
 </span>
 
