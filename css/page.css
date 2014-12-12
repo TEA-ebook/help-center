@@ -23,6 +23,7 @@ article.page h3 {
 article.page p > img {
   display: block;
   margin: auto;
+  box-shadow: 0 0 20px -5px;
 }
 
 .warning, .protip {
