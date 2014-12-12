@@ -30,7 +30,7 @@ Pour en savoir plus sur les Conditions Générales de Ventes, cliquez sur le lie
 
 ## Achat depuis un ordinateur
 
-L’achat d’un e-book se réalise en quelques clics :
+L’achat d’un e-book se réalise en quelques clics :
 
 ### Étape 1 : Validation du panier
 
@@ -38,23 +38,23 @@ Trouvez l’e-book que vous désirez en vous servant du moteur de recherche ou e
 
 ![Capture d'écran d'ajout au panier](/images/03_Acheter_un_ebook_1_MB.jpg)
 
-### Étape 2 : Identification
+### Étape 2 : Identification
 
 Identifiez-vous si « Vous avez déjà un compte client ». Sinon créez-vous un compte en enregistrant une adresse e-mail et un mot de passe dans la partie « Vous êtes un nouveau client ? ». Vous devrez par la suite compléter les champs proposés afin de finaliser la création de votre compte client.
 
 ![Capture d'écran du formulaire connexion/inscription](/images/03_Acheter_un_ebook_2_MB.jpg)
 
-### Étape 3 : Paiement
+### Étape 3 : Paiement
 
 Cochez les Conditions Générales de Vente en bas à gauche, puis validez votre commande.
 Entrez le numéro de votre carte, la date d’expiration de votre carte ainsi que son cryptogramme visuel (les 3 chiffres situés au dos de votre carte), puis cliquez sur « Valider ».
 
 ![Capture d'écran](/images/03_Acheter_un_ebook_3-4_MB.jpg)
 
-### Étape 4 : Téléchargement
+### Étape 4 : Téléchargement
 
 Félicitations, vous venez de passer votre premier achat d’e-book ! Un e-mail vous est envoyé. Vous pouvez alors télécharger votre livre numérique depuis cet e-mail ou depuis « Mon compte » puis « Mes E-books ».
 
 ## Achat depuis les liseuses TEA
 
-Pour découvrir comment passer un achat depuis une liseuse TEA, cliquez sur le lien suivant : [Achat depuis la liseuse]().
+Pour découvrir comment passer un achat depuis une liseuse TEA, cliquez sur le lien suivant : [Achat depuis la liseuse]().
