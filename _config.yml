@@ -4,6 +4,10 @@
 include: ['_pages']
 markdown: redcarpet
 redcarpet:
-  extensions: ["tables", "hard_wrap", "with_toc_data"]
+  extensions:
+    - tables
+    - hard_wrap
+    - with_toc_data
+    - no_intra_emphasis
 sass:
   style: :compressed
