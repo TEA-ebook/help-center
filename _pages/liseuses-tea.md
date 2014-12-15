@@ -262,3 +262,97 @@ Pour vérifier quelle version de logiciel est installée sur votre liseuse Cyboo
 ### Problèmes matériels
 
 En cas de problèmes matériels sur votre liseuse Cybook, nous vous invitons à contacter le Service Client ou à vous rendre dans le magasin où vous l’avez achetée.
+
+## Acheter un e-book
+
+### Présentation de l’ebookstore
+
+L’accès à votre librairie numérique embarquée dans votre liseuse TEA (également appelée « Ebookstore ») se fait en cliquant sur les onglets « Ebookstore » ou « Librairie » de votre page d’accueil.
+
+![](/images/06_Acheter_un_ebook_sur_la_liseuse_2_MB.jpg)
+
+Cet ebookstore vous permet d’acheter des e-books directement depuis votre liseuse TEA. Le catalogue d’e-books disponible dans cette librairie embarquée est le même que celui accessible depuis le site Internet.
+
+Vous pouvez retrouver les e-books que vous souhaitez grâce au moteur de recherche ou découvrir les sélections que nous vous proposons (les nouveautés, les meilleures ventes, les promotions, les sélections du libraire, les petits prix, les gratuits…).
+
+Bonne navigation sur l’Ebookstore !
+
+### Achat depuis la liseuse
+
+Découvrez comment initialiser votre liseuse PocketBook Touch Lux : [Initialisation de ma liseuse PocketBook Touch Lux by TEA]().
+
+Découvrez comment initialiser et acheter un e-book depuis votre liseuse Cybook : [Vidéo d’initialisation de la liseuse Cybook]().
+
+#### Étape 1 : Validation du panier
+
+- Accédez à la librairie.
+- Sélectionnez votre e-book grâce aux différents accès de la page principale de la librairie.
+- Sélectionnez « Acheter » pour ajouter un e-book à votre panier.
+
+![](/images/06_Acheter_un_ebook_sur_la_liseuse_3_MB.jpg)
+
+- Vous pouvez ensuite soit continuer vos achats, soit accéder à votre panier en touchant « Voir mon panier ».
+
+![](/images/06_Acheter_un_ebook_sur_la_liseuse_4_MB.jpg)
+
+- Une fois tous vos achats effectués, sélectionnez « Valider mon panier ».
+
+![](/images/06_Acheter_un_ebook_sur_la_liseuse_5_MB.jpg)
+
+#### Étape 2 : Identification
+
+Si vous avez déjà un compte client : identifiez-vous en saisissant votre adresse e-mail et votre mot de passe.
+
+![](/images/06_Acheter_un_ebook_sur_la_liseuse_6_MB.jpg)
+
+Si vous n’avez pas de compte client : créez un compte directement *via* votre liseuse TEA en sélectionnant « Créer mon compte » et en remplissant les champs demandés.
+
+<span class="protip">Cliquez sur mémoriser mon compte afin de ne plus avoir à entrer votre adresse e-mail.</span>
+
+#### Étape 3 : Paiement
+
+Acceptez les Conditions Générales de Vente puis sélectionnez « Saisir une carte de paiement ».
+
+![](/images/06_Acheter_un_ebook_sur_la_liseuse_7_MB.jpg)
+
+Remplissez les champs suivants : le N° de la carte, la date d’expiration et le cryptogramme visuel (les 3 chiffres situés au dos de votre carte) et cliquez sur « Valider ».
+
+![](/images/06_Acheter_un_ebook_sur_la_liseuse_8_MB.jpg)
+
+#### Étape 4 : Téléchargement
+
+Afin de télécharger votre e-book, cliquez sur « Télécharger ».
+
+![](/images/06_Acheter_un_ebook_sur_la_liseuse_9_MB.jpg)
+
+Une fenêtre apparaît pour vous demander d’ouvrir le fichier de l’e-book. Si vous désirez lire votre e-book maintenant,sélectionnez « Oui », sinon sélectionnez « Non » et vous resterez sur la page « Mes commandes ». Vous pourrez alors retrouver l'e-book téléchargé dans la bibliothèque.
+
+Bonne lecture !
+
+## Transférer un e-book
+
+### Synchronisation du compte client (recommandé)
+
+Votre compte client vous permet de synchroniser vos achats depuis un support vers un autre sans câble.
+
+- Allumez votre liseuse TEA et allez sur l’Ebookstore/Librairie depuis la page d’accueil.
+- Sélectionnez « Mon compte », identifiez-vous si nécessaire.
+- Sélectionnez « Mes commandes », vous retrouverez toutes vos commandes passées depuis le site Internet ou depuis l’ebookstore de la liseuse TEA.
+- Il ne vous reste plus qu’à télécharger les e-books que vous avez achetés précédemment.
+
+### Transfert par câble USB
+
+Pour transférer un e-book depuis votre ordinateur vers votre liseuse TEA par câble USB, vous devez :
+
+- Avoir installé Adobe Digital Editions sur votre ordinateur au préalable.
+- Avoir activé votre compte personnel ID Adobe sur votre liseuse.
+
+Pour activer votre compte personnel ID Adobe sur les liseuses TEA cliquez sur le lien correspondant à votre liseuse :
+[PocketBook Touch Lux by TEA]().
+[Bookeen Cybook Odyssey]().
+
+Pour plus d’informations sur Adobe Digital Editions, cliquez sur le lien suivant : [Pourquoi installer Adobe Digital Editions ?]().
+Pour découvrir comment installer et utiliser Adobe Digital Editions sur votre ordinateur, cliquez sur le lien suivant : [Comment installer et utiliser Adobe Digital Editions ?]().
+
+Si Adobe Digital Editions est installé sur votre ordinateur, cliquez sur le lien suivant :
+[Lecture sur liseuse : Étape 2 transfert d’un e-book]().
