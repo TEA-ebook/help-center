@@ -23,7 +23,7 @@ La PocketBook Touch Lux « by TEA » est le produit de la coopération et du s
 Pour initialiser votre liseuse PocketBook Touch Lux by TEA et accéder à la librairie numérique, il faut connecter la liseuse au WiFi et créer un compte client.
 L’accès à la bibliothèque ne demande aucune configuration particulière.
 
-<span class="warning">Lorsque vous allumez votre liseuse PocketBook Touch Lux by TEA pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse et notamment lors de vos futurs achats.</span>
+<span class="warning">Lorsque vous allumez votre liseuse PocketBook Touch Lux by TEA pour la première fois, il est important de bien vérifier et **régler la date et l’heure** pour garantir un bon fonctionnement de la liseuse et notamment lors de vos futurs achats.</span>
 
 Il est possible qu’une mise à jour vous soit demandée à l’allumage de la liseuse. Si c’est le cas, vous trouverez plus d’information sur le lien suivant : [Installation des mises à jour](). Sinon vous pouvez commencer à lire les e-books pré-chargés dans votre bibliothèque numérique situés sur l’onglet bibliothèque.
 
