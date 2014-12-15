@@ -23,7 +23,7 @@ Vous retrouverez ensuite facilement l’application sur votre tablette : l’ic
 
 ### Initialisation de l’application
 
-Une fois l’application lancée et si c’est la première fois que vous l’ouvrez, il vous sera demander d’« Affirmer avoir pris connaissance des conditions d’utilisation ». Ces dernières vous conseillent de vous identifier avec votre compte client et votre compte personnel ID Adobe dès la première utilisation de l’application afin de faciliter votre expérience utilisateur ainsi que la lecture des fichiers protégés par Adobe DRM. Pour plus d’information sur ce type de fichiers, cliquez sur le lien suivant : [Les protections d’e-books (Adobe DRM, watermarking)]().
+Une fois l’application lancée et si c’est la première fois que vous l’ouvrez, il vous sera demandé d’« Affirmer avoir pris connaissance des conditions d’utilisation ». Ces dernières vous conseillent de vous identifier avec votre compte client et votre compte personnel ID Adobe dès la première utilisation de l’application afin de faciliter votre expérience utilisateur ainsi que la lecture des fichiers protégés par Adobe DRM. Pour plus d’information sur ce type de fichiers, cliquez sur le lien suivant : [Les protections d’e-books (Adobe DRM, watermarking)]().
 
 #### Étape 1 : Validation des Conditions d’Utilisation
 
@@ -69,7 +69,7 @@ Vous trouverez en dessous du compte client, le compte Adobe ID. Cliquez sur « 
  Pour accéder à la librairie, cliquez  sur l’icône « Librairie » située en haut de l’application. Depuis l’accueil de la librairie numérique, vous pouvez retrouver les e-books que vous souhaitez grâce au moteur de recherche ou découvrir les sélections que nous vous proposons (les nouveautés, les meilleures ventes, nos coups de cœur).
 
 - Pour accéder à plus de sélections, notamment thématiques, cliquez sur « Nos rayons » et sélectionnez la catégorie qui vous intéresse.
-- Pour plus de renseignement sur un e-book en particulier, cliquez sur la couverture. Une page de renseignements s’ouvrira avec un résumé de l’e-book ainsi qu’un descriptif technique et une sélection d’e-book du même auteur.
+- Pour plus de renseignement sur un e-book en particulier, cliquez sur la couverture. Une page de renseignements s’ouvrira avec un résumé de l’e-book ainsi qu’un descriptif technique et une sélection d’e-books du même auteur.
 - Vous pouvez accéder à votre panier sur la droite de l’application.
 
 Bonne navigation sur la Librairie numérique !
