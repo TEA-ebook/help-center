@@ -1,5 +1,6 @@
 .container.marketing {
   box-shadow: 0 0 55px -25px;
+  border: 1px solid #E8E8E8;
 }
 
 article.page p {
@@ -24,6 +25,7 @@ article.page p > img {
   display: block;
   margin: auto;
   box-shadow: 0 0 20px -5px;
+  border: 1px solid #E8E8E8;
 }
 
 .warning, .protip {
