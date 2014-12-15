@@ -21,6 +21,11 @@ article.page h3 {
   margin-bottom: 15px;
 }
 
+article.page h4 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 article.page p > img {
   display: block;
   margin: auto;
