@@ -11,6 +11,10 @@ body {
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
+nav.navbar {
+  box-shadow: 0 0 10px 3px;
+}
+
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
 .navbar-wrapper {
   position: absolute;
