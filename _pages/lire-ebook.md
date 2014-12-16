@@ -14,7 +14,7 @@ Vos achats d’e-books sont synchronisés et associés à votre compte client. V
 ## Compte Adobe
 
 Afin de pouvoir lire vos e-books protégés par Adobe DRM, vous devez disposer d’un compte personnel Adobe.
-Pour en savoir plus sur les protections d’e-books, cliquez sur le lien suivant : [Protections d’e-books (Adobe DRM, watermarking)]().
+Pour en savoir plus sur les protections d’e-books, cliquez sur le lien suivant : [Protections d’e-books (Adobe DRM, watermarking)](/decouvrir-lecture-numerique/#protections-d’e-books-(adobe-drm,-watermarking)).
 
 ### Comment créer un compte personnel Adobe ?
 
@@ -26,16 +26,17 @@ Remplissez l’ensemble des champs proposés puis cliquez sur « S'inscrire »
 Vous venez de créer votre compte personnel Adobe.
 Pensez à bien conserver vos identifiant et mot de passe, vous aurez à les saisir sur le(s) support(s) de lecture de votre choix  afin de pouvoir lire vos e-books protégés par Adobe DRM.
 
-- [Comment enregistrer puis activer un compte personnel Adobe sur une PocketBook Touch Lux by TEA ?]()
-- [Comment enregistrer un compte personnel Adobe sur une Cybook Odyssey ?]()
-- [Comment enregistrer un compte personnel Adobe sur ma tablette / mon application Android ?]()
+- [Comment enregistrer puis activer un compte personnel Adobe sur une PocketBook Touch Lux by TEA ?](/liseuses-tea/#connexion-id-adobe-pocketbook)
+- [Comment enregistrer un compte personnel Adobe sur une Cybook Odyssey ?](/liseuses-tea/#initialisation-de-la-liseuse-cybook)
+- [Comment enregistrer un compte personnel Adobe sur ma tablette / mon application Android ?](/tablettes-android/#connexion-id-adobe)
 
 ## Lecture sur ordinateur
 
 Vous pouvez lire depuis votre ordinateur l’ensemble des e-books que vous avez achetés.
 Afin de pouvoir lire les e-books protégés par Adobe DRM, il est nécessaire d’installer **Adobe Digital Editions**.
-Pour en savoir plus sur Adobe DRM et les protections numériques, cliquez sur le lien suivant : [Les protections d’e-books (Adobe DRM, watermarking)]().
+Pour en savoir plus sur Adobe DRM et les protections numériques, cliquez sur le lien suivant : [Les protections d’e-books (Adobe DRM, watermarking)](/decouvrir-lecture-numerique/#protections-d’e-books-(adobe-drm,-watermarking)).
 
+<a name="pourquoi-ade"></a>
 **Pourquoi installer Adobe Digital Editions ?**
 Adobe Digital Editions est un gestionnaire de bibliothèque de livres protégés par Adobe DRM. Ce logiciel est nécessaire pour :
 
@@ -51,7 +52,7 @@ Adobe Digital Editions est un gestionnaire de bibliothèque de livres protégés
 #### Étape 1 : Télécharger Adobe Digital Editions 2.0
 
 - Rendez-vous dans la section « Mes e-books » de votre compte client.
-- Cliquez sur « Télécharger Adobe Digital Editions » (situé au-dessus de vos e-books à télécharger) ou depuis ce lien [Télécharger Adobe Digital Editions]().
+- Cliquez sur « Télécharger Adobe Digital Editions » (situé au-dessus de vos e-books à télécharger) ou depuis ce lien [Télécharger Adobe Digital Editions](http://www.adobe.com/fr/solutions/ebook/digital-editions/download.html).
 
 ![](/images/04_Lire_un_ebook_1_MB.jpg)
 
@@ -120,8 +121,8 @@ Pensez bien enfin à conserver vos identifiants de compte personnel ID Adobe et 
 Par exemple, pour transférer un e-book protégé par Adobe DRM depuis votre ordinateur vers votre liseuse TEA, vous devez avoir renseigné le même compte personnel ID Adobe sur les deux supports.
 Pour en savoir plus sur la connexion de votre liseuse à Adobe Digital Editions, cliquez sur l'un des liens suivant :
 
-- [PocketBook Touch Lux]().
-- [Bookeen Cybook Odyssey]().
+- [PocketBook Touch Lux](/liseuses-tea/#connexion-id-adobe-pocketbook).
+- [Bookeen Cybook Odyssey](/liseuses-tea/#initialisation-de-la-liseuse-cybook).
 
 <span class="protip">Si votre e-book est déjà téléchargé sur votre ordinateur, vous pouvez le retrouver dans le dossier "Téléchargements" de votre ordinateur.</span>
 
@@ -131,15 +132,16 @@ Si vous possédez une liseuse TEA ; PocketBook Touch Lux by TEA ou une liseuse 
 
 Pour plus d’information sur ces liseuses, cliquez sur les liens suivants :
 
-- [PocketBook Touch Lux by TEA]().
-- [Bookeen Cybook Odyssey]().
+- [PocketBook Touch Lux by TEA](/liseuses-tea/#pocketbook-touch-lux).
+- [Bookeen Cybook Odyssey](/liseuses-tea/#cybook-odyssey).
 
 ### Étape 1 : Vérifier la compatibilité de votre liseuse
 
 À l’exception des liseuses Kindle d’Amazon, vous pouvez lire les livres numériques de format ePub et PDF achetés sur nos librairies numériques sur toutes les liseuses.
 
-Si vous possédez un Reader de Sony, un logiciel complémentaire doit être installé pour transférer vos e-books. Vous le retrouverez en cliquant sur le lien suivant : [Reader Sony]() puis cliquez sur Reader for PC & Mac et suivez les instructions.
+Si vous possédez un Reader de Sony, un logiciel complémentaire doit être installé pour transférer vos e-books. Vous le retrouverez en cliquant sur le lien suivant : [Reader Sony](https://ebookstore.sony.com/download) puis cliquez sur Reader for PC & Mac et suivez les instructions.
 
+<a name="transférer-ebook-vers-liseuse"></a>
 ### Étape 2 : Transférer un e-book sur votre liseuse
 
 Le transfert sur une liseuse se fait grâce à un câble USB.
@@ -180,8 +182,8 @@ Bonne lecture !
 
 Si vous possédez une tablette Android (de 7 à 10 pouces), cliquez sur les liens suivants pour plus d’informations :
 
-- [Installation de l’application]().
-- [Transférer un e-book sur la tablette Android]().
+- [Installation de l’application](/tablettes-android/#installation-de-l’application).
+- [Transférer un e-book sur la tablette Android](/tablettes-android/#transférer-un-e-book).
 
 Pour les autres supports (iPad ou smartphone) vous pouvez lire l’ensemble des e-books achetés sur notre site. Il vous faut pour cela utiliser une application de lecture telles que Aldiko (Android) ou Bluefire (iOS).
 

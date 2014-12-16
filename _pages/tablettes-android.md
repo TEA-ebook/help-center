@@ -23,12 +23,13 @@ Vous retrouverez ensuite facilement l’application sur votre tablette : l’ic
 
 ### Initialisation de l’application
 
-Une fois l’application lancée et si c’est la première fois que vous l’ouvrez, il vous sera demandé d’« Affirmer avoir pris connaissance des conditions d’utilisation ». Ces dernières vous conseillent de vous identifier avec votre compte client et votre compte personnel ID Adobe dès la première utilisation de l’application afin de faciliter votre expérience utilisateur ainsi que la lecture des fichiers protégés par Adobe DRM. Pour plus d’information sur ce type de fichiers, cliquez sur le lien suivant : [Les protections d’e-books (Adobe DRM, watermarking)]().
+Une fois l’application lancée et si c’est la première fois que vous l’ouvrez, il vous sera demandé d’« Affirmer avoir pris connaissance des conditions d’utilisation ». Ces dernières vous conseillent de vous identifier avec votre compte client et votre compte personnel ID Adobe dès la première utilisation de l’application afin de faciliter votre expérience utilisateur ainsi que la lecture des fichiers protégés par Adobe DRM. Pour plus d’information sur ce type de fichiers, cliquez sur le lien suivant : [Les protections d’e-books (Adobe DRM, watermarking)](/decouvrir-lecture-numerique/#protections-d%E2%80%99e-books-(adobe-drm,-watermarking)).
 
 #### Étape 1 : Validation des Conditions d’Utilisation
 
 Lisez le texte, cochez la case de validation puis cliquez sur « Me connecter ». L’espace « Mon compte » va alors s’ouvrir automatiquement.
 
+<a name="connexion-compte-client"></a>
 #### Étape 2 : Connexion au compte client
 Afin de faciliter votre expérience d’achat, entrez vos identifiants de compte client TEA dans la fenêtre « Mon Compte » qui s’est ouverte. Ensuite, cliquez sur « Connectez-vous ». Si vous n’avez pas de compte, vous pourrez en créer un lors de votre premier achat.
 
@@ -36,6 +37,7 @@ Afin de faciliter votre expérience d’achat, entrez vos identifiants de compte
 
 <span class="warning">Le compte client que vous enregistrez doit être le même que celui utilisé sur le site TEA.com ou sur votre Liseuse numérique avec la librairie TEA.</span>
 
+<a name="connexion-id-adobe"></a>
 #### Étape 3 : Connexion au compte personnel ID Adobe
 
 Vous trouverez en dessous du compte client, le compte Adobe ID. Cliquez sur « Connectez-vous ».
@@ -109,7 +111,7 @@ Un message de confirmation apparaît. Cliquez sur « Télécharger ».
 Vous êtes alors redirigé sur la page de synchronisation des e-books. L’e-book que vous venez d’acheter est pré-coché. Il ne vous reste plus qu’à cliquer sur « Synchroniser la sélection ». Votre e-book est alors sur votre bibliothèque, vous pouvez commencer votre lecture !
 
 <span class="protip">Si vous compte client TEA n’était pas enregistré dans l’application avant la réalisation de l’achat, vous recevrez un message d’information lors de la tentative de téléchargement.
-Après lecture de ce message, cliquez sur « Fermer, puis « Mon compte » et enregistrez votre adresse e-mail et mot de passe associé à votre compte client. Une fois enregistré, cliquez sur l’onglet « Bibliothèque ». Il ne vous reste plus qu’à faire la synchronisation de votre compte client *via* l’onglet importer. Cliquez sur le lien suivant pour avoir une explication plus détaillée : [Synchronisation depuis le compte client]().</span>
+Après lecture de ce message, cliquez sur « Fermer, puis « Mon compte » et enregistrez votre adresse e-mail et mot de passe associé à votre compte client. Une fois enregistré, cliquez sur l’onglet « Bibliothèque ». Il ne vous reste plus qu’à faire la synchronisation de votre compte client *via* l’onglet importer. Cliquez sur le lien suivant pour avoir une explication plus détaillée : [Synchronisation depuis le compte client](/tablettes-android/#synchronisation-depuis-le-compte-client).</span>
 
 ![](/images/10_Acheter_un_ebook_8.png)
 
@@ -118,7 +120,7 @@ Après lecture de ce message, cliquez sur « Fermer, puis « Mon compte » et
 ### Synchronisation depuis le compte client
 
 Votre compte client vous permet de synchroniser vos achats depuis un support vers un autre sans câble.
-Vous devez donc avoir enregistré votre compte client sur l’application TEA, avant toute synchronisation. Pour plus d’informations sur l’enregistrement de votre compte client dans l’application, cliquez sur le lien suivant : [Connexion au compte client]().
+Vous devez donc avoir enregistré votre compte client sur l’application TEA, avant toute synchronisation. Pour plus d’informations sur l’enregistrement de votre compte client dans l’application, cliquez sur le lien suivant : [Connexion au compte client](#connexion-compte-client).
 
 - Sur la page principale de la bibliothèque, cliquez sur la flèche jaune « Importer ».
 - Dans la partie « Synchronisation » cliquez sur « Lancez la recherche ». L’ensemble des e-books que vous avez acheté via votre compte client (sur site web, tablette ou liseuse) va apparaître.
@@ -137,7 +139,7 @@ Vous devez donc avoir enregistré votre compte client sur l’application TEA, a
 - Une fois votre sélection terminée, cliquez sur « Importer la sélection ».
 - Vous pouvez dès à présent retrouver vos e-books importés dans votre bibliothèque et commencer votre lecture !
 
-<span class="protip">Afin de retrouver l’ensemble de vos e-books sur votre tablette, vous pouvez transférer vos e-books depuis votre ordinateur sur votre tablette, *via* un câble USB (livré avec votre tablette). Pour les fichiers sans DRM vous pouvez faire le transfert *via* votre explorateur, pour ceux protégés par Adobe DRM vous devrez passer par Adobe Digital Edition. Le processus sera le même qu’avec une liseuse : [Transfert par câble USB]().</span>
+<span class="protip">Afin de retrouver l’ensemble de vos e-books sur votre tablette, vous pouvez transférer vos e-books depuis votre ordinateur sur votre tablette, *via* un câble USB (livré avec votre tablette). Pour les fichiers sans DRM vous pouvez faire le transfert *via* votre explorateur, pour ceux protégés par Adobe DRM vous devrez passer par Adobe Digital Edition. Le processus sera le même qu’avec une liseuse : [Transfert par câble USB](/liseuses-tea/#transfert-par-câble-usb).</span>
 
 ## Lire sur la tablette
 

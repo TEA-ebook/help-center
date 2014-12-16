@@ -23,12 +23,12 @@ Les livres numériques se lisent sur de nombreux supports tels que les liseuses 
 
 Le plus de la liseuse : un support dédié à la lecture numérique et équipé d’une technologie d’écran spécialement conçue pour permettre une lecture prolongée sans fatiguer les yeux.
 
-<span class="protip"><span class="title">Besoin d’aide sur les liseuses vendues dans notre librairie ?</span>[Aide : PocketBook Touch Lux by TEA]()
-  [Aide : Cybook Odyssey]()
+<span class="protip"><span class="title">Besoin d’aide sur les liseuses vendues dans notre librairie ?</span>[Aide : PocketBook Touch Lux by TEA](/liseuses-tea/#pocketbook-touch-lux)
+  [Aide : Cybook Odyssey](/liseuses-tea/#cybook-odyssey)
 </span>
 
 <!-- TODO: properly add images to the links above. -->
-[![Liseuse PocketBook](/images/02_Decouvrir_la_lecture_numerique_1_1_MB.jpg)]( "Accédez à l'aide PocketBook") [![Liseuse Cybook](/images/02_Decouvrir_la_lecture_numerique_1_2_MB.jpg)]( "Accédez à l'aide Cybook")
+[![Liseuse PocketBook](/images/02_Decouvrir_la_lecture_numerique_1_1_MB.jpg)](/liseuses-tea/#pocketbook-touch-lux "Accédez à l'aide PocketBook") [![Liseuse Cybook](/images/02_Decouvrir_la_lecture_numerique_1_2_MB.jpg)](/liseuses-tea/#cybook-odyssey "Accédez à l'aide Cybook")
 
 <span class="warning"><span class="title">Lecture sur Ipad</span>Les e-books au format epub et pdf sont lisibles sur Ipad à condition d'avoir téléchargé une application de lecture telle que Bluefire Reader.
 </span>
@@ -66,7 +66,7 @@ Sur notre librairie numérique, nous commercialisons les e-books tels qu'ils son
 <span class="warning"><span class="title">Format propriétaire</span>Certains formats sont dits propriétaires, c’est-à-dire que les fichiers ont un format spécifique ne pouvant être lus que sur un seul type de support. C’est par exemple le cas des formats .azw pour Amazon qui ne peuvent être lus que sur des Kindle. **Nous garantissons des formats ouverts et non propriétaires pour assurer l'intéropérabilité.**
 </span>
 
-<span class="warning"><span class="title">Format .acsm</span>Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. L’installation d’Adobe Digital Editions est obligatoire pour les lire et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions]()
+<span class="warning"><span class="title">Format .acsm</span>Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. L’installation d’Adobe Digital Editions est obligatoire pour les lire et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions](/lire-ebook/#lecture-sur-ordinateur)
 </span>
 
 ### Quel format choisir entre le PDF et l’ePub ?
@@ -80,7 +80,7 @@ Lorsque vous achetez un livre numérique, vous achetez un droit de lecture. Vous
 Afin de protéger ces droits d’auteur, les éditeurs utilisent dans certains cas des protections.
 Il existe deux types de protections : les DRM et le watermarking (ou « tatouage numérique »).
 
-**DRM** est l'acronyme de *Digital Rights Management* (« Gestion des Droits Numériques » en français). La DRM la plus répandue pour les e-books est la protection Adobe DRM. C’est celle qui est apposée sur certains fichiers numériques que nous commercialisons. Ces DRM sont apposées *via* un chiffrement du fichier ePub ou PDF (appelé .acsm, lisible et transférable par [Adobe Digital Editions *via* un compte personnel ID Adobe]()) et constituent une protection qui vous empêche de transmettre l’e-book à d’autres utilisateurs mais également de transférer votre e-book sur plus de 6 supports de lecture différents.
+**DRM** est l'acronyme de *Digital Rights Management* (« Gestion des Droits Numériques » en français). La DRM la plus répandue pour les e-books est la protection Adobe DRM. C’est celle qui est apposée sur certains fichiers numériques que nous commercialisons. Ces DRM sont apposées *via* un chiffrement du fichier ePub ou PDF (appelé .acsm, lisible et transférable par [Adobe Digital Editions](/lire-ebook/#lecture-sur-ordinateur)) *via* un compte personnel ID Adobe et constituent une protection qui vous empêche de transmettre l’e-book à d’autres utilisateurs mais également de transférer votre e-book sur plus de 6 supports de lecture différents.
 
 Le **watermarking**, contrairement aux DRM, ne limite pas techniquement l’utilisateur. C’est un tatouage numérique mis en place par les éditeurs sur certains titres afin de vérifier la traçabilité de l’e-book en y enregistrant les coordonnées de l’acheteur.
 
@@ -89,10 +89,10 @@ Vous pouvez trouver cette information sur la fiche technique de la fiche produit
 
 ![Fiche technique : protection](/images/02_Decouvrir_la_lecture_numerique_2_MB.jpg)
 
-<span class="warning">Vous pourrez également remarquer au moment du téléchargement qu’un fichier e-book non protégé a l’extension « .pdf » ou « .epub » selon son format, alors qu’**un fichier protégé par Adobe DRM a l’extension « .acsm »**. Pour le lire vous devez disposer d'[un compte personnel ID Adobe ]()</span>
+<span class="warning">Vous pourrez également remarquer au moment du téléchargement qu’un fichier e-book non protégé a l’extension « .pdf » ou « .epub » selon son format, alors qu’**un fichier protégé par Adobe DRM a l’extension « .acsm »**. Pour le lire vous devez disposer d'[un compte personnel ID Adobe](/lire-ebook/#lecture-sur-ordinateur).</span>
 
 ### Malgré les protections, peut-on imprimer ou copier un e-book ?
 Tout dépend des protections qui sont apposées sur vos e-books. La fiche technique de la fiche produit d’un e-book communique également ce type d’information. Vous devez regarder sur la fiche technique afin de savoir si l’e-book est imprimable ou copiable. Dans l'exemple ci-dessus, il n'est ni imprimable, ni copiable.
 
 ### Comment lire un e-book protégé par Adobe DRM ?
-Reportez-vous à la partie [Lire un e-book]().
+Reportez-vous à la partie [Lire un e-book](/lire-ebook/).
