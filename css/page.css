@@ -3,6 +3,25 @@
   border: 1px solid #E8E8E8;
 }
 
+/*
+ * Trick from http://css-tricks.com/hash-tag-links-padding/
+ * Makes one able to follow an anchor link and arrive at the right place,
+ * despite the fixed menu bar.
+ */
+article.page a[name]:not([href])::before,
+article.page h1[id]::before,
+article.page h2[id]::before,
+article.page h3[id]::before,
+article.page h4[id]::before,
+article.page h5[id]::before,
+article.page h6[id]::before {
+  display: block;
+  content: " ";
+  margin-top: -55px;
+  height: 55px;
+  visibility: hidden;
+}
+
 article.page p, article.page li {
   font-size: 120%;
 }
@@ -32,6 +51,21 @@ article.page p > img {
   box-shadow: 0 0 20px -5px;
   border: 1px solid #E8E8E8;
   max-width: 100%;
+}
+
+article.page .video {
+  max-width: 100%;
+  text-align: center;
+}
+
+article.page .video iframe {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  width: 560px;
+  height: 315px;
+  box-shadow: 0 0 20px -5px;
+  border: 1px solid #E8E8E8;
 }
 
 .warning, .protip {

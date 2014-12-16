@@ -25,7 +25,7 @@ L’accès à la bibliothèque ne demande aucune configuration particulière.
 
 <span class="warning">Lorsque vous allumez votre liseuse PocketBook Touch Lux by TEA pour la première fois, il est important de bien vérifier et **régler la date et l’heure** pour garantir un bon fonctionnement de la liseuse et notamment lors de vos futurs achats.</span>
 
-Il est possible qu’une mise à jour vous soit demandée à l’allumage de la liseuse. Si c’est le cas, vous trouverez plus d’information sur le lien suivant : [Installation des mises à jour](). Sinon vous pouvez commencer à lire les e-books pré-chargés dans votre bibliothèque numérique situés sur l’onglet bibliothèque.
+Il est possible qu’une mise à jour vous soit demandée à l’allumage de la liseuse. Si c’est le cas, vous trouverez plus d’information sur le lien suivant : [Installation des mises à jour](#installation-des-mises-à-jour). Sinon vous pouvez commencer à lire les e-books pré-chargés dans votre bibliothèque numérique situés sur l’onglet bibliothèque.
 
 <span class="protip">Afin de faciliter votre découverte de la liseuse, voici deux guides à télécharger :
 [Guide de démarrage rapide](/documents/tea_guide_demarrage_pocketbook.pdf).
@@ -46,15 +46,16 @@ Pour accéder à la librairie numérique et télécharger / acheter des e-books,
 
 ![](/images/09_Decouvrir_la_liseuse_pocketbook_3_MB.jpg)
 
+<a name="connexion-id-adobe-pocketbook"></a>
 #### Étape 3 (recommandée) : Enregistrement du compte personnel ID Adobe dans la liseuse
 
 Afin de faciliter l’utilisation de votre liseuse PocketBook Touch Lux by TEA, nous vous conseillons de vous connecter à votre compte personnel Adobe ID avant de réaliser un achat sur la librairie numérique.
 
 Pour se connecter à votre compte personnel ID Adobe, il faut cliquer sur « Paramètres » (situé sur la page d’accueil de la liseuse), puis « Comptes et synchronisation » et enfin « Adobe DRM ». Vous pouvez alors entrer votre identifiant et votre mot de passe sur les deux onglets prévus à cet effet. Cette étape vous permet de pré-enregistrer votre compte personnel ID Adobe dans la liseuse afin de faciliter son utilisation.
 
-Si vous n’avez pas encore ce compte personnel ID Adobe, cliquez sur le lien suivant : [Créer un compte personnel ID Adobe]().
+Si vous n’avez pas encore ce compte personnel ID Adobe, cliquez sur le lien suivant : [Créer un compte personnel ID Adobe](/lire-ebook/#compte-adobe).
 
-Pour plus d’informations sur l’utilité d’un compte personnel ID Adobe et sur les DRM, reportez vous au lien suivant : [Les protections d’ebooks (Adobe DRM, watermarking)]().
+Pour plus d’informations sur l’utilité d’un compte personnel ID Adobe et sur les DRM, reportez vous au lien suivant : [Les protections d’ebooks (Adobe DRM, watermarking)](/decouvrir-lecture-numerique/#protections-d%E2%80%99e-books-(adobe-drm,-watermarking)).
 
 #### Étape 4 : Activation du compte personnel ID Adobe
 
@@ -118,12 +119,12 @@ Chaque PocketBook Touch Lux by TEA a un dictionnaire embarqué. Pour l’activer
 
 #### Le compte personnel ID Adobe (Adobe Digital Editions)
 
-La connexion au compte personnel ID Adobe se fait lors de la première lecture d’un e-book avec DRM, qu’il soit [téléchargé depuis un autre support]() ou [acheté depuis la liseuse PocketBook Touch Lux by TEA]().
+La connexion au compte personnel ID Adobe se fait lors de la première lecture d’un e-book avec DRM, qu’il soit téléchargé depuis un autre support ou acheté depuis la liseuse PocketBook Touch Lux by TEA.
 Cependant afin de faciliter l’utilisation de votre liseuse PocketBook Touch Lux by TEA nous vous conseillons de vous connecter à votre compte personnel Adobe ID avant de réaliser un achat sur la librairie numérique.
 
 Pour se connecter à votre compte personnel ID Adobe, il faut cliquer sur « Paramètres » (situé sur la page principale de la liseuse), puis « Comptes et synchronisation » et enfin « Adobe DRM ». Vous pouvez alors entrer votre identifiant et votre mot de passe sur les deux onglets prévus à cet effet.
 
-Si vous n’avez pas encore ce compte personnel ID Adobe cliquez sur le lien suivant : [Créer un compte personnel ID Adobe]().
+Si vous n’avez pas encore ce compte personnel ID Adobe cliquez sur le lien suivant : [Créer un compte personnel ID Adobe](/lire-ebook/#compte-adobe).
 
 Si vous avez oublié quel compte personnel ID Adobe est associé à votre liseuse, vous pouvez le consulter en suivant les mêmes étapes : cliquez sur « Paramètres », puis « Comptes et synchronisation » et enfin « Adobe DRM ». Vous pouvez alors consulter votre identifiant Adobe.
 
@@ -153,7 +154,8 @@ Pour tous problèmes matériels, veuillez contacter le libraire qui vous a vendu
 
 ![](/images/05_Decouvrir_votre_liseuse_Cybook_1_MB.jpg)
 
-Découvrez votre liseuse Cybook : [Vidéo de présentation de la liseuse Cybook]().
+Découvrez votre liseuse Cybook :
+{% include dailymotion-embedded-video.html name="vidéo-découvrir-cybook" embed-url="http://www.dailymotion.com/embed/video/xyeauw" url="http://www.dailymotion.com/video/xyeauw_presentation-de-la-liseuse-cybook_tech#from=embediframe" %}
 
 La liseuse Cybook est dotée d’un écran à encre électronique E-ink qui vous permet une lecture prolongée sans fatigue pour un confort de lecture identique au livre papier. Ce support de lecture peut stocker une bibliothèque numérique de plusieurs milliers de titres, dans un format plus fin qu’un livre pour un poids de 180g. L’autonomie de près d'un mois, pour une utilisation classique, vous permet de profiter pleinement de cette bibliothèque portative.
 
@@ -169,15 +171,17 @@ Pour plus d’informations sur votre liseuse, cliquez sur les liens suivants :
 - [Cybook Odyssey HD Frontlight]().
 - [Cybook Odyssey 2013 Edition]().
 
+<a name="initialisation-de-la-liseuse-cybook"></a>
 ### Initialisation de la liseuse
 
 Pour initialiser votre liseuse Cybook et accéder à la librairie numérique, il faut connecter la liseuse au WiFi et à Adobe Digital Editions.
 
 ![](/images/05_Decouvrir_votre_liseuse_Cybook_3_MB.jpg)
 
-Découvrez comment initialiser et acheter un e-book depuis votre liseuse Cybook : [Vidéo d’initialisation de la liseuse Cybook]().
+Découvrez comment initialiser et acheter un e-book depuis votre liseuse Cybook :
+{% include dailymotion-embedded-video.html name="vidéo-initialiser-cybook" embed-url="http://www.dailymotion.com/embed/video/xyiofg" url="http://www.dailymotion.com/video/xyiofg_initialisation-de-la-liseuse-cybook-et-utilisation-de-l-ebookstore_tech#from=embediframe" %}
 
-<span class="protip">Afin de vous accompagner au mieux dans l’initialisation de votre liseuse Cybook, vous pouvez [télécharger le guide de démarrage de la liseuse](). Vous y trouverez les grandes étapes à suivre pour initialiser votre liseuse et accéder à la librairie numérique.</span>
+<span class="protip">Afin de vous accompagner au mieux dans l’initialisation de votre liseuse Cybook, vous pouvez [télécharger le guide de démarrage de la liseuse](/documents/tea_guide_demarrage_ebookstore.pdf). Vous y trouverez les grandes étapes à suivre pour initialiser votre liseuse et accéder à la librairie numérique.</span>
 
 #### Étape 1 : Connexion au WiFi
 
@@ -190,6 +194,7 @@ Pour accéder à la librairie numérique et télécharger / acheter des e-books,
 
 <span class="protip">Parfois la qualité du signal n’est pas optimale et vous pouvez perdre la connexion. Il faudra alors choisir un autre réseau Wifi et faire les mêmes actions.</span>
 
+<a name="cybook-connexion-ade"></a>
 #### Étape 2 : Connexion à Adobe Digital Editions
 
 Lors de votre première connexion à l’ebookstore, un message vous indique qu’un compte personnel ID Adobe est nécessaire pour activer votre liseuse. Le compte personnel ID Adobe vous permet d’utiliser Adobe Digital Editions afin de lire les e-books avec des protections DRM Adobe.
@@ -251,7 +256,7 @@ Acceptez ce téléchargement afin de profiter des dernières améliorations de B
 
 Pour vérifier quelle version de logiciel est installée sur votre liseuse Cybook, cliquez sur « Réglages » en bas à gauche de l’écran quand vous êtes sur la page d’accueil. Cliquez ensuite sur l’onglet « À propos ». La version installée sur votre Cybook s’affiche dans la rubrique « Boo Reader ».
 
-<span class="protip">Vous pouvez retrouver sur le site de Bookeen l’information de [la dernière version à jour]().</span>
+<span class="protip">Vous pouvez retrouver sur le site de Bookeen l’information de [la dernière version à jour](http://bookeen.com/blogfr/category/mises-a-jour/).</span>
 
 #### Comment vérifier que la dernière version est installé sur ma Cybook ?
 
@@ -279,9 +284,9 @@ Bonne navigation sur l’Ebookstore !
 
 ### Achat depuis la liseuse
 
-Découvrez comment initialiser votre liseuse PocketBook Touch Lux : [Initialisation de ma liseuse PocketBook Touch Lux by TEA]().
+Découvrez comment initialiser votre liseuse PocketBook Touch Lux : [Initialisation de ma liseuse PocketBook Touch Lux by TEA](#initialisation-de-la-liseuse).
 
-Découvrez comment initialiser et acheter un e-book depuis votre liseuse Cybook : [Vidéo d’initialisation de la liseuse Cybook]().
+Découvrez comment initialiser et acheter un e-book depuis votre liseuse Cybook : [Vidéo d’initialisation de la liseuse Cybook](#vidéo-initialiser-cybook).
 
 #### Étape 1 : Validation du panier
 
@@ -348,11 +353,11 @@ Pour transférer un e-book depuis votre ordinateur vers votre liseuse TEA par c�
 - Avoir activé votre compte personnel ID Adobe sur votre liseuse.
 
 Pour activer votre compte personnel ID Adobe sur les liseuses TEA cliquez sur le lien correspondant à votre liseuse :
-[PocketBook Touch Lux by TEA]().
-[Bookeen Cybook Odyssey]().
+[PocketBook Touch Lux by TEA](#connexion-id-adobe-pocketbook).
+[Bookeen Cybook Odyssey](#cybook-connexion-ade).
 
-Pour plus d’informations sur Adobe Digital Editions, cliquez sur le lien suivant : [Pourquoi installer Adobe Digital Editions ?]().
-Pour découvrir comment installer et utiliser Adobe Digital Editions sur votre ordinateur, cliquez sur le lien suivant : [Comment installer et utiliser Adobe Digital Editions ?]().
+Pour plus d’informations sur Adobe Digital Editions, cliquez sur le lien suivant : [Pourquoi installer Adobe Digital Editions ?](/lire-ebook/#pourquoi-ade).
+Pour découvrir comment installer et utiliser Adobe Digital Editions sur votre ordinateur, cliquez sur le lien suivant : [Comment installer et utiliser Adobe Digital Editions ?](/lire-ebook/#comment-installer-et-utiliser-adobe-digital-editions-?).
 
 Si Adobe Digital Editions est installé sur votre ordinateur, cliquez sur le lien suivant :
-[Lecture sur liseuse : Étape 2 transfert d’un e-book]().
+[Lecture sur liseuse : Étape 2 transfert d’un e-book](/lire-ebook/#transférer-ebook-vers-liseuse).

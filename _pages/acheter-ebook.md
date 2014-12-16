@@ -16,7 +16,7 @@ Vous pouvez retrouver à tout moment dans votre compte client les achats d’e-b
 
 ### Droit de lecture numérique :
 
-Conformément aux Conditions Générales de Vente, lorsque vous achetez un livre numérique, vous achetez un droit de lecture. Vous pouvez donc télécharger votre e-book autant de fois que vous le souhaitez. Cependant, ce droit est personnel et non transmissible. Des protections de fichier, telles que Adobe DRM ou watermarking, sont mises en place par les éditeurs afin de protéger / surveiller ce droit de lecture . Pour plus d’informations sur les protections d’e-books, cliquez sur le lien suivant : [Les protections d’e-books (Adobe DRM, watermarking)]().
+Conformément aux Conditions Générales de Vente, lorsque vous achetez un livre numérique, vous achetez un droit de lecture. Vous pouvez donc télécharger votre e-book autant de fois que vous le souhaitez. Cependant, ce droit est personnel et non transmissible. Des protections de fichier, telles que Adobe DRM ou watermarking, sont mises en place par les éditeurs afin de protéger / surveiller ce droit de lecture . Pour plus d’informations sur les protections d’e-books, cliquez sur le lien suivant : [Les protections d’e-books (Adobe DRM, watermarking)](/decouvrir-lecture-numerique/#protections-d’e-books-(adobe-drm,-watermarking)).
 
 ### Territorialité :
 
@@ -57,4 +57,4 @@ Félicitations, vous venez de passer votre premier achat d’e-book ! Un e-mail 
 
 ## Achat depuis les liseuses TEA
 
-Pour découvrir comment passer un achat depuis une liseuse TEA, cliquez sur le lien suivant : [Achat depuis la liseuse]().
+Pour découvrir comment passer un achat depuis une liseuse TEA, cliquez sur le lien suivant : [Achat depuis la liseuse](/liseuses-tea/#achat-depuis-la-liseuse).
