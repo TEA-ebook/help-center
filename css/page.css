@@ -34,6 +34,21 @@ article.page p > img {
   max-width: 100%;
 }
 
+article.page .video {
+  max-width: 100%;
+  text-align: center;
+}
+
+article.page .video iframe {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  width: 560px;
+  height: 315px;
+  box-shadow: 0 0 20px -5px;
+  border: 1px solid #E8E8E8;
+}
+
 .warning, .protip {
   display: block;
   background-repeat: no-repeat;
