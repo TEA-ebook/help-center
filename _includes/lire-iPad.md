@@ -19,8 +19,8 @@
 3. Détail du livre (Sommaire, résumé, note)
 4. Paramètre de lecture (Luminosité, police + taille, affichage, orientation, contraste)
 5. Ajouter une note
-6. Pagination
-7. Ajouter un marque page
+6. Ajouter un marque page
+7. Pagination
 
 ####Changer le thème de lecture (confort de lecture)
 A quoi ça sert?

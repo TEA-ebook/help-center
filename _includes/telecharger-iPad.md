@@ -2,7 +2,7 @@ L'application synchronise automatiquement la bibliothèque « Mes livres » de
 
 Les livres qui n'ont pas encore été télécharger apparaissent légèrement grisé avec une icône télécharger orange au milieu.
 
-Capture
+![](/images/telecharger-iPad-1.png)
 
 Pour télécharger un livre, il suffit d'appuyer sur la couverture, il sera alors ajouté à « Mes livres ».
 

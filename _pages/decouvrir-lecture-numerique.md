@@ -6,6 +6,7 @@ title: Découvrir la lecture numérique
 
 {% include presentation-rapide-lecture-numerique.md %}
 
+
 ## Supports de lecture
 
 Les livres numériques se lisent sur de nombreux supports tels que : 
@@ -58,12 +59,43 @@ modifier la forme de vos textes avec beaucoup de facilité.
 
 **Chaque format possède des avantages et s'adapte différemment aux différents supports :**
 
- | Ordinateur | Tablette | Liseuse | Smartphone
----|---|---|---|---
-ePub | Compatible | Compatible | Recommandé | Compatible
-PDF | Compatible | Compatible | Compatible, mais non recommandé | Compatible
-Streaming | Compatible, nécessite une connexion internet | Compatible, nécessite une connexion internet | Non Compatible | Compatible, nécessite une connexion internet
-Mobipocket(prc) | Non Compatible |Compatible avec une application spécifique | Compatible | Compatible avec une application spécifique
+<table class="table table-bordered">
+    <tr>
+        <th></th>
+        <th>Ordinateur</th>
+        <th>Tablette</th>
+        <th>Liseuse</th>
+        <th>Smartphone</th>
+    </tr>
+    <tr>
+        <th>ePub</th>
+        <td>Compatible</td>
+        <td>Compatible</td>
+        <td>Recommandé</td>
+        <td>Compatible</td>
+    </tr>
+    <tr>
+        <th>PDF</th>
+        <td>Compatible</td>
+        <td>Compatible</td>
+        <td>Compatible, mais non recommandé</td>
+        <td>Compatible</td>
+    </tr>
+    <tr>
+        <th>Streaming</th>
+        <td>Compatible, nécessite une connexion internet</td>
+        <td>Compatible, nécessite une connexion internet</td>
+        <td>Non Compatible</td>
+        <td>Compatible, nécessite une connexion internet</td>
+    </tr>
+    <tr>
+        <th>Mobipocket(prc)</th>
+        <td>Non Compatible</td>
+        <td>Compatible avec une application spécifique</td>
+        <td>Compatible</td>
+        <td>Compatible avec une application spécifique</td>
+    </tr>
+</table>
 
 ## Protections d’e-books (Adobe DRM, watermarking)
 

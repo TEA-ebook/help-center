@@ -7,7 +7,7 @@ title: Lire un ebook
 ##Le compte Adobe
 
 Afin de pouvoir lire vos e-books protégés par Adobe DRM, vous devez disposer d’un compte personnel Adobe.
-Pour en savoir plus sur les protections d’e-books, cliquez sur le lien suivant : Protections d’e-books (Adobe DRM, watermarking).
+{% include creation-compte-Adobe.md %}
 
 ##Sur une liseuse Pocketbook
 

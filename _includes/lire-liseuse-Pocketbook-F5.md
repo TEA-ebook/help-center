@@ -1,6 +1,7 @@
-####Les « Évènements récents »
+####Les « Livres récents »
 
-Un accès rapide à vos dernières lectures vous est proposé *via* les « Évènements récents » situés sur la page d’accueil qui récensent vos dernières actions sur la liseuse.
+Un accès rapide à vos dernières lectures vous est proposé *via* les « Livres récents » situés sur la page d’accueil qui remonte les trois derniers livres ouverts.
+En dessous sont recencées vos dernières actions sur la liseuse.
 
 ![](/images/lire-liseuse-Pocketbook-F5-1.jpg)
 
@@ -26,18 +27,15 @@ Vous pouvez modifier les paramètres d'affichage et de tri de la bibliothèque.
 
 ![](/images/lire-liseuse-Pocketbook-F5-4.jpg)
 
-**Critères de filtrage**
-- Tous les livres ;
-- Lecture en cours ;
-- Favoris.
-
 **Critères de regroupement**
+
 - Dossier ;
 - Auteur ;
 - Format ;
 - Date d'ajout.
 
 **Critères d'ordonnancement**
+
 - Titres des livres ;
 - Noms des fichiers ;
 - Dernier ouvert ;
@@ -45,14 +43,9 @@ Vous pouvez modifier les paramètres d'affichage et de tri de la bibliothèque.
 - Auteur.
 
 **Critères d'affichages :**
-- Simple ;
+
 - Détaillée ;
 - Miniature.
-
-**Stockage**
-- Internet + carte mémoire ;
-- Internet ;
-- Carte mémoire.
 
 #####Le menu contextuel
 

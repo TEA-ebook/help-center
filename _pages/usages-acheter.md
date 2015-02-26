@@ -11,4 +11,4 @@ title: Acheter un ebook
 {% include acheter-tablette-Android.md %}
 
 ##Acheter sur ordinateur
-{% include acheter-ordinateur.md %}}
+{% include acheter-ordinateur.md %}

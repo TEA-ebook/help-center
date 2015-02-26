@@ -1,6 +1,18 @@
 TEA Help Center
 ===============
 
+## Tester le site en local.
+
+Installer Jekyll :
+```
+bundle install
+```
+
+Lancer Jekyll :
+```
+bundle exec jekyll serve
+```
+
 ## Liens problématiques présents dans ces pages d'aides :
 
 1. Le lien fait référence à une page de magasin et ne peut être générique.

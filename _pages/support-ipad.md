@@ -13,8 +13,28 @@ L’application est alors téléchargée et installée sur votre tablette Androi
 
 Vous retrouverez ensuite facilement l’application sur votre tablette : l’icône « TEA Ebooks » apparaît désormais avec les autres applications sur votre tablette.
 
+##Initialisation de l'application
+Afin de pouvoir utiliser toutes les fonctionnalités de l'application, il faut paramétrer son compte client et son compte Adobe.
+En haut à droite, appuyez sur le bouton représentant un engrenage.
+
+![](/images/support-iPad-2.png)
+
+###Connexion au compte client
+Arrivé sur la page « Mon compte », appuyez sur le bouton « Me connecter ».
+
+![](/images/support-iPad-3.png)
+
+Entrez le login et le mot de passe de votre compte client et appuyez sur suivant. (L'application iPad ne permet pas de créer directement votre compte client, vous devez le faire directement sur le site internet : Compte client)
+
+###Connexion au compte personnel ID Adobe
+{% include creation-compte-Adobe.md %}
+
+![](/images/support-iPad-4.png)
+
+Entrez ensuite le login et le mot de passe de votre compte Adobe et appuyez sur suivant. Si vous n'avez pas encore de compte Adobe, appuyez sur « Créer un ID ».
+
 ##Lire
-{% include lire-tablette-iPad.md %}
+{% include lire-iPad.md %}
 
 ##Transférer
-{% include transferer-ordinateur-tablette-iPad.md %}
+{% include transferer-ordinateur-iPad.md %}

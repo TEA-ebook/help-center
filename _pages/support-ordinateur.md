@@ -1,7 +1,7 @@
 ---
 permalink: "/support-ordinateur/"
 layout: page
-title: L'application Android TEA
+title: Adobe Digital Edition
 ---
 
 ##Installer Adobe Digital Éditions
@@ -41,7 +41,24 @@ Laissez l’ensemble des cases cochées et cliquez sur « Suivant » puis sur 
 
 ![](/images/support-ordinateur-8.png)
 
-Adobe Digital Editions peut reconnaître une ancienne version d’Adobe sur votre ordinateur ou des fichiers d’e-books. Dans ce cas cliquez sur « Migrer les données » .
+Adobe Digital Editions peut reconnaître une ancienne version d’Adobe sur votre ordinateur ou des fichiers d’e-books. Dans ce cas cliquez sur « Migrer les données ».
+
+###Autoriser son ordinateur avec son identifiant Adobe
+
+####Création du compte Adobe
+{% include creation-compte-Adobe.md %}
+
+Dans le menu d'Adobe Digital Edition, allez dans Aide > Autorisation de l'ordinateur. 
+
+![](/images/support-ordinateur-9.png)
+
+Dans le champ « Fournisseur d'eBook », choisissez « Adobe ID ». Puis tapez l'email et le mot de passe de votre compte Adobe et cliquez sur « Autorisez ».
+
+![](/images/support-ordinateur-10.png)
+
+![](/images/support-ordinateur-11.png)
+
+Une fois l'ordinateur autorisé, cliquez sur « OK ».
 
 ##Lire
 {% include lire-ordinateur.md %}
