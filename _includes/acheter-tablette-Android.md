@@ -1,3 +1,4 @@
+{% include anchor.html id="validation-panier-a" label="Validation du panier" %}
 ###Validation du panier
 
 Cliquez sur la couvertures de l’e-book qui vous intéresse, puis sur « Ajouter au panier ».
@@ -14,12 +15,14 @@ Une fois vos e-books sélectionnés, validez votre panier en cliquant sur « Te
 
 ![](/images/acheter-tablette-Android-4.png) 
 
+{% include anchor.html id="identification-a" label="Identification" %}
 ###Identification
 
 Si vous avez déjà un compte client et que vous vous êtes déjà enregistré dans la partie « Mon compte » de la page d’accueil de l’application, cette étape n’apparaît pas. Sinon, identifiez-vous en saisissant votre adresse e-mail et votre mot de passe.
 
 Si vous n’avez pas de compte client : créez un compte directement depuis votre tablette en remplissant les champs adresse mail et mot de passe dans la partie « Vous êtes un nouveau client ? ». 
 
+{% include anchor.html id="paiement-a" label="Paiement" %}
 ###Paiement
 
 Acceptez les Conditions Générales de Vente puis cliquez sur « Valider votre commande ». Enfin, sélectionnez vos coordonnées de paiement : le N° de la carte, la date d’expiration et le cryptogramme visuel (les 3 chiffres situés au dos de votre carte) et cliquez sur « Valider ».
@@ -28,6 +31,7 @@ Acceptez les Conditions Générales de Vente puis cliquez sur « Valider votre 
 
 ![](/images/acheter-tablette-Android-6.png)
 
+{% include anchor.html id="telecharger-a" label="Téléchargement" %}
 ###Téléchargement
 
 Un message de confirmation apparaît. Cliquez sur « Télécharger ».

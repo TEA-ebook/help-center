@@ -1,3 +1,4 @@
+{% include anchor.html id="synchronisation-compte-client-a" label="Synchronisation depuis le compte client" %}
 ###Synchronisation depuis le compte client
 Votre compte client vous permet de synchroniser vos achats depuis un support vers un autre sans câble.
 
@@ -13,6 +14,7 @@ Cochez les e-books que vous voulez synchroniser.
 Une fois votre sélection terminée, cliquez sur « Importer la sélection ». 
 Vous pouvez dès à présent retrouver vos e-books synchronisés dans votre bibliothèque et commencer votre lecture ! 
 
+{% include anchor.html id="importation-depuis-liseuse-a" label="Importation depuis la tablette" %}
 ###Importation depuis la tablette
 Sur la page principale de la bibliothèque, cliquez sur la flèche jaune « Importer ».
 

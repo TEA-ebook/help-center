@@ -1,3 +1,4 @@
+{% include anchor.html id="fonctionnement-bibliotheque-a" label="Fonctionnement de la bibliothèque" %}
 ### Fonctionnement de la bibliothèque
 
 ![](/images/lire-tablette-Android-1.png)
@@ -16,6 +17,7 @@
 
 S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’outil d’importation afin de synchroniser l’ensemble des e-books que vous avez acheté chez TEA, grâce à votre compte client TEA.
 
+{% include anchor.html id="fonctionnalites-lecture-a" label="Les fonctionnalités de lecture" %}
 ### Les fonctionnalités de lecture
 
 ![](/images/lire-tablette-Android-2.png)

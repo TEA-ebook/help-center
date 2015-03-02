@@ -1,3 +1,4 @@
+{% include anchor.html id="fonctionnement-bibliotheque-o" label="Fonctionnement de la bibliothèque" %}
 ###Fonctionnement de la bibliothèque
 
 ![](/images/lire-ordinateur-1.jpg)
@@ -7,6 +8,7 @@
 3. Trier par (auteur, titre, éditeur, derniers lus, derniers ajoutés, pages, statut)
 4. Affichage (couverture, détail)
 
+{% include anchor.html id="fonctionnalite-lecture-o" label="Les fonctionnalités de lecture" %}
 ###Les fonctionnalités de lecture
 
 ![](/images/lire-ordinateur-2.jpg)

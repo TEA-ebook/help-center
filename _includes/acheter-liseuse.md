@@ -1,3 +1,4 @@
+{% include anchor.html id="validation-panier" label="Validation du panier" %}
 ###Validation du panier
 Accédez à la librairie. 
 
@@ -17,6 +18,7 @@ Une fois tous vos achats effectués, sélectionnez « Valider mon panier ».
 
 ![](/images/acheter-liseuse-4.jpg)
 
+{% include anchor.html id="identification" label="Identification" %}
 ###Identification
 Si vous avez déjà un compte client : identifiez-vous en saisissant votre adresse e-mail et votre mot de passe.
 
@@ -26,6 +28,7 @@ Si vous n’avez pas de compte client : créez un compte directement via votre 
 
 Cliquez sur mémoriser mon compte afin de ne plus avoir à entrer votre adresse e-mail.
 
+{% include anchor.html id="paiement" label="Paiement" %}
 ###Paiement
 Acceptez les Conditions Générales de Vente puis sélectionnez « Saisir une carte de paiement ».
 
@@ -35,6 +38,7 @@ Remplissez les champs suivants : le N° de la carte, la date d’expiration et 
 
 ![](/images/acheter-liseuse-7.jpg)
 
+{% include anchor.html id="telechargement" label="Téléchargement" %}
 ###Téléchargement
 Afin de télécharger votre e-book, cliquez sur « Télécharger ».
 

@@ -2,6 +2,7 @@ La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de 
 
 ![](/images/lire-liseuse-Cybook-1.jpg)
 
+{% include anchor.html id="comment-consulter-bibliotheque-c" label="Comment consulter ma bibliothèque numérique ?" %}
 ### Comment consulter ma bibliothèque numérique ?
 
 Depuis la page d’accueil de votre Cybook, vous pouvez :
@@ -12,6 +13,7 @@ Depuis la page d’accueil de votre Cybook, vous pouvez :
 S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’Ebookstore, puis « Mon compte » et « Mes commandes » afin de les télécharger à nouveau.
 Si c’est votre première utilisation de la liseuse TEA, vous remarquerez qu’une bibliothèque de quelques titres vous est offerte afin que vous commenciez à découvrir votre liseuse TEA et les possibilités de la lecture numérique.
 
+{% include anchor.html id="fonctionnalites-lecture-c" label="Quelles sont les fonctionnalités de lecture de ma Cybook ?" %}
 ### Quelles sont les fonctionnalités de lecture de ma Cybook ?
 
 Afin d'accéder au menu des fonctionnalités de votre Cybook, appuyez au centre de l’écran lorsque vous êtes en mode lecture. Vous pouvez également appuyer sur le bouton central de votre Cybook puis sélectionner « Menu ». Dans tous les cas vous accèderez à un menu vous permettant de nombreuses actions sur votre texte :

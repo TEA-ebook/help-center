@@ -4,6 +4,7 @@ layout: page
 title: Foire aux questions
 ---
 
+{% include anchor.html id="achat" label="Achat" %}
 ##Achat
 
 **Puis-je acheter plusieurs e-books en même temps ?**
@@ -36,6 +37,7 @@ Elles indiquent que le délai de rétractation de 7 jours prévu par l’article
 **La remise de 5% des libraires s’applique-t-elle sur les e-books ?**
 Les e-books ne bénéficient pas de la remise de 5%.
 
+{% include anchor.html id="lecture" label="Lecture" %}
 ##Lecture
 
 **Puis-je lire mes livres sur iPad ?**
@@ -54,11 +56,13 @@ pour Mac : http://www.sony.fr/support/fr/content/cnt-dwnl/prd-ebo/sony-reader-so
 **Puis-je lire mes livres sur Kobo ?**
 Il faut penser à éjecter "proprement" la liseuse KOBO avant de la déconnecter d'un ordinateur et utiliser l'application kobo desktop téléchargeable sur http://www.kobosetup.fr/
 
+{% include anchor.html id="adobe-drm" label="Adobe DRM" %}
 ##Adobe DRM
 
 **Comment lire un e-book protégé par Adobe DRM ?**
 Reportez-vous à la partie [Lire un e-book](/lire-ebook/).
 
+{% include anchor.html id="autres" label="Autres" %}
 ##Autres
 
 **Malgré les protections, peut-on imprimer ou copier un e-book ?**

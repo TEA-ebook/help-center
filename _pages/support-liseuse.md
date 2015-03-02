@@ -4,8 +4,10 @@ layout: page
 title: Les liseuses TEA
 ---
 
+{% include anchor.html id="pocketbook" label="Pocketbook" %}
 ##Pocketbook
 
+{% include anchor.html id="differents-modeles" label="Les différents modèles" %}
 ###Les différents modèles
 
 <table class="table table-bordered" style="text-align:center;">
@@ -51,9 +53,12 @@ title: Les liseuses TEA
     </tr>
 </table>
 
+{% include anchor.html id="firmware-4" label="Firmware 4" %}
 ###Firmware 4
 
+{% include anchor.html id="initialisation-liseuse-4" label="Initialisation de la liseuse" %}
 ####Initialisation de la liseuse
+
 #####Premiers pas
 Lorsque vous allumez votre liseuse PocketBook by TEA pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse et notamment lors de vos futurs achats.
 
@@ -84,6 +89,7 @@ Si vous avez enregistré votre compte Adobe, il vous suffit de cliquer sur « O
 
 Dans le cas contraire vous devez entrez votre compte personnel ID Adobe ainsi que le mot de passe associé afin de débloquer la protection de l’e-book et commencer la lecture.
 
+{% include anchor.html id="fonctionnalites-4" label="Fonctionnalités" %}
 ####Fonctionnalités
 Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware (ces fonctionnalités peuvent différer d'un modèle à l'autre)&nbsp;:
 
@@ -98,25 +104,29 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware 
 - **Dictionnaire**
 - **Musique** (*uniquement sur Touch Lux*)
 
+{% include anchor.html id="lire-4" label="Lire" %}
 ####Lire
 {% include lire-liseuse-Pocketbook-F4.md %}
 
+{% include anchor.html id="firmware-5" label="Firmware 5" %}
 ###Firmware 5
 
+{% include anchor.html id="initialisation-liseuse-5" label="Initialisation de la liseuse" %}
 ####Initialisation de la liseuse
 --TODO--
 À écrire
 
+{% include anchor.html id="fonctionnalites-5" label="Fonctionnalités" %}
 ####Fonctionnalités
 Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware (ces fonctionnalités peuvent différer d'un modèle à l'autre)&nbsp;:
 
-####Directement sur la page d'acceuil :
+#####Directement sur la page d'accueil :
 
 - **Bibliothèque** : Retrouvez tous les livres présent sur votre liseuse.
 - **Librairie** : Achetez de nouveaux livres
 - **Mes achats** : Téléchargez facilement tous vos livres sur votre liseuse.
 
-####Menu du haut :
+#####Menu du haut :
 
 - **wi-Fi** : Connectez-vous à votre réseau Wi-Fi.
 - **Synchroniser** : Synchronisez les différents services de synchronisation (ex : Dropbox).
@@ -125,7 +135,7 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware 
 - **Rechercher**
 - Réglez la luminosité
 
-####Menu du bas :
+#####Menu du bas :
 
 - **Calculatrice**
 - **Dictionnaire**
@@ -140,11 +150,14 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware 
 - **Sudoku**
 - **Échecs**
 
+{% include anchor.html id="lire-5" label="Lire" %}
 ####Lire
 {% include lire-liseuse-Pocketbook-F5.md %}
 
+{% include anchor.html id="cybook" label="Cybook" %}
 ##Cybook
 
+{% include anchor.html id="presentation-liseuse-c" label="Présentation de la liseuse" %}
 ###Présentation de la liseuse
 
 ![](/images/support-liseuse-3.jpg)
@@ -160,6 +173,7 @@ La librairie numérique embarquée dans votre liseuse (librairie numérique éga
 
 Vous retrouvez le même catalogue d’e-books que celui disponible sur le site Internet.
 
+{% include anchor.html id="initialisation-liseuse-c" label="Initialisation de la liseuse" %}
 ###Initialisation de la liseuse
 
 Pour initialiser votre liseuse Cybook et accéder à la librairie numérique, il faut connecter la liseuse au WiFi et à Adobe Digital Editions.
@@ -169,6 +183,7 @@ Découvrez comment initialiser et acheter un e-book depuis votre liseuse Cybook�
 
 <span class="protip">Afin de vous accompagner au mieux dans l’initialisation de votre liseuse Cybook, vous pouvez [télécharger le guide de démarrage de la liseuse](/documents/tea_guide_demarrage_ebookstore.pdf). Vous y trouverez les grandes étapes à suivre pour initialiser votre liseuse et accéder à la librairie numérique.</span>
 
+{% include anchor.html id="connexion-wifi-c" label="Connexion au WiFi" %}
 ####Connexion au WiFi
 
 Pour accéder à la librairie numérique et télécharger / acheter des e-books, vous devez vous connecter à un réseau WiFi, en suivant les instructions ci-dessous :
@@ -180,6 +195,7 @@ Pour accéder à la librairie numérique et télécharger / acheter des e-books,
 
 <span class="protip">Parfois la qualité du signal n’est pas optimale et vous pouvez perdre la connexion. Il faudra alors choisir un autre réseau Wifi et faire les mêmes actions.</span>
 
+{% include anchor.html id="connexion-adobe-digital-editions-c" label="Connexion à Adobe Digital Editions" %}
 ####Connexion à Adobe Digital Editions
 
 Lors de votre première connexion à l’ebookstore, un message vous indique qu’un compte personnel ID Adobe est nécessaire pour activer votre liseuse. Le compte personnel ID Adobe vous permet d’utiliser Adobe Digital Editions afin de lire les e-books avec des protections DRM Adobe.
@@ -194,15 +210,19 @@ Lors de votre première connexion à l’ebookstore, un message vous indique qu�
 <span class="protip">Lorsque votre adresse e-mail est déjà associée à un compte personnel ID Adobe, un message d’erreur s'affiche après votre tentative de création de compte.
 Sélectionnez « Accéder au formulaire d’identification ». Entrez à présent votre e-mail et votre mot de passe en utilisant la fonction « Mot de passe oublié » si vous ne vous en souvenez plus.</span>
 
+{% include anchor.html id="lire-c" label="Lire" %}
 ###Lire
 {% include lire-liseuse-Cybook.md %}
 
+{% include anchor.html id="acheter" label="Acheter" %}
 ##Acheter
 {% include acheter-liseuse.md %}
 
+{% include anchor.html id="transferer" label="Transférer" %}
 ##Transférer
 {% include transferer-ordinateur-liseuse.md %}
 
+{% include anchor.html id="telecharger" label="Télécharger" %}
 ##Télécharger
 {% include telecharger-liseuse.md %}
 

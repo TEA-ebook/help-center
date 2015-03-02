@@ -4,9 +4,11 @@ layout: page
 title: Adobe Digital Edition
 ---
 
+{% include anchor.html id="installer-adobe-digital-edition" label="Installer Adobe Digital Éditions" %}
 ##Installer Adobe Digital Éditions
 
-###Télécharger Adobe Digital Editions 4.0.2
+{% include anchor.html id="telecharger-adobe-digital-edition" label="Télécharger Adobe Digital Editions 4" %}
+###Télécharger Adobe Digital Editions 4
 
 Rendez-vous dans la section « Mes e-books » de votre compte client. 
 
@@ -24,6 +26,7 @@ Dans la section « Adobe Digital Editions  4.0.2 – Programmes d'installation
 
 Cliquez sur « Enregistrer le fichier », puis double-cliquez sur le fichier téléchargé « ADE_4.0_Installer.exe ». Autorisez le programme à apporter des modifications sur votre ordinateur si cela vous est demandé. 
 
+{% include anchor.html id="installer-adobe-digital-editions" label="Installer Adobe Digital Editions" %}
 ###Installer Adobe Digital Editions
 Cliquez sur « Exécuter » afin de démarrer l’installation. 
 
@@ -43,8 +46,10 @@ Laissez l’ensemble des cases cochées et cliquez sur « Suivant » puis sur 
 
 Adobe Digital Editions peut reconnaître une ancienne version d’Adobe sur votre ordinateur ou des fichiers d’e-books. Dans ce cas cliquez sur « Migrer les données ».
 
+{% include anchor.html id="autoriser-ordinateur-identifiant-adobe" label="Autoriser son ordinateur avec son identifiant Adobe" %}
 ###Autoriser son ordinateur avec son identifiant Adobe
 
+{% include anchor.html id="creation-compte-Adobe" label="Création du compte Adobe" %}
 ####Création du compte Adobe
 {% include creation-compte-Adobe.md %}
 
@@ -60,11 +65,14 @@ Dans le champ « Fournisseur d'eBook », choisissez « Adobe ID ». Puis tap
 
 Une fois l'ordinateur autorisé, cliquez sur « OK ».
 
+{% include anchor.html id="lire" label="Lire" %}
 ##Lire
 {% include lire-ordinateur.md %}
 
+{% include anchor.html id="acheter" label="Acheter" %}
 ##Acheter
 {% include acheter-ordinateur.md %}
 
+{% include anchor.html id="telecharger" label="Télécharger" %}
 ##Télécharger
 {% include telecharger-ordinateur.md %}
