@@ -1,6 +1,35 @@
-.container.marketing {
-  box-shadow: 0 0 55px -25px;
-  border: 1px solid #E8E8E8;
+body{
+  color: #444;
+}
+
+ul#anchor-menu{
+  list-style-type: none;
+}
+
+li.level-1{
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+li.level-2{
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+li.level-3{
+  padding-left: 15px;
+}
+
+li.level-4{
+  padding-left: 30px;
+}
+
+li.level-4 a{
+  color: #444;
+}
+
+li.level-4 a:focus, li.level-4 a:hover{
+  color: #444;
 }
 
 /*
@@ -8,17 +37,18 @@
  * Makes one able to follow an anchor link and arrive at the right place,
  * despite the fixed menu bar.
  */
-article.page a[name]:not([href])::before,
+/*article.page a[name]:not([href])::before,
 article.page h1[id]::before,
 article.page h2[id]::before,
 article.page h3[id]::before,
 article.page h4[id]::before,
 article.page h5[id]::before,
-article.page h6[id]::before {
+article.page h6[id]::before*/ 
+article.page a.anchor-menu-item-target{
   display: block;
   content: " ";
-  margin-top: -55px;
-  height: 55px;
+  margin-top: -20px;
+  height: 20px;
   visibility: hidden;
 }
 
@@ -30,19 +60,47 @@ article.page a {
   text-decoration: underline;
 }
 
+article.page h1 {
+  color: #00AD85;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 3.6em;
+  margin: 0;
+}
+
 article.page h2 {
-  margin-top: 35px;
-  margin-bottom: 25px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  color: white;
+  background-color: #00AD85;
+  font-size: 3em;
+  padding: 5px 10px;
+  font-weight: bold;
 }
 
 article.page h3 {
-  margin-top: 25px;
-  margin-bottom: 15px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  background-color: #EDECE8;
+  font-size: 2.4em;
+  padding: 5px 10px;
+  font-weight: bold;
+  color:  #00AD85;
 }
 
 article.page h4 {
   margin-top: 20px;
   margin-bottom: 10px;
+  font-weight: bold;
+  color:  #00AD85;
+  font-size: 1.8em;
+}
+
+article.page h5 {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 1.4em;
 }
 
 article.page p > img {
@@ -68,24 +126,43 @@ article.page .video iframe {
   border: 1px solid #E8E8E8;
 }
 
-.warning, .protip {
+a {
+    color: #00AD85;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #00AD85;
+    text-decoration: underline;
+}
+
+.btn-default {
+  background-image: linear-gradient(#00E0AC, #009471 50%, #007F62);
+  background-repeat: no-repeat;
+  filter: none;
+  border: 1px solid #00614A;
+  color: #FFF;
+  background-color: #009471;
+}
+
+.warning2, .protip {
   display: block;
   background-repeat: no-repeat;
   background-position: 20px center;
   padding: 10px 20px 10px 60px;
   border: 1px solid;
 }
-.warning .title, .protip .title {
+.warnin2 .title, .protip .title {
   display: block;
   font-weight: bold;
 }
 
-.warning {
+.warning2 {
   background-color: bisque;
   background-image: url(/images/warning.png);
   border-color: burlywood;
 }
-.warning .title {
+.warning2 .title {
   color: darkred;
 }
 

@@ -12,8 +12,22 @@ body {
 -------------------------------------------------- */
 
 nav.navbar {
-  box-shadow: 0 0 10px 3px;
+  background: url('../images/bg-tea.png') #ebeae6;
+  border-color: #D4D4D4;
 }
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav > li > a {
+  color: #444;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-nav > li > a:focus {
+  color: #00AD85;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus, .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
+  background-color: #00AD85;
+}
+
 
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
 .navbar-wrapper {
@@ -44,16 +58,39 @@ nav.navbar {
 /* Center align the text within the three columns below the carousel */
 .marketing .col-lg-4 {
   margin-bottom: 20px;
-  text-align: center;
 }
-.marketing h2 {
-  font-weight: normal;
-}
+
 .marketing .col-lg-4 p {
   margin-right: 10px;
   margin-left: 10px;
 }
 
+.marketing .col-lg-4 ul {
+  margin-right: 10px;
+  margin-left: 10px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.marketing .col-lg-4 ul li {
+  font-size: 1.4em;
+}
+
+.marketing h2{
+  color: white;
+  background-color: #00AD85;
+  font-size: 2.4em;
+  padding: 5px 10px;
+  font-weight: bold;
+}
+
+.marketing h3{
+  background-color: #EDECE8;
+  font-size: 1.8em;
+  padding: 5px 10px;
+  font-weight: bold;
+  color:  #00AD85;
+}
 
 /* Featurettes
 ------------------------- */
@@ -125,7 +162,7 @@ nav.navbar {
   padding: .8em 1.5em;
   width: 15em;
   text-align: center;
-  background-color: #000;
+  background-color: #A00;
   font-size: .9em;
   font-weight: 500;
   text-decoration: none;
@@ -139,4 +176,5 @@ nav.navbar {
   -webkit-transition: background-color .2s;
   transition: background-color .2s;
   z-index: 1040;
+  box-shadow: 0px 0px 10px #888;
 }

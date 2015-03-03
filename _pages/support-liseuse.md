@@ -27,11 +27,6 @@ title: Les liseuses TEA
             <a href="">Fiche produit</a><br />
             <a href="">Manuel</a>
         </td>
-        <td>
-            <img src="/images/Sense.jpg"><br />
-            <a href="">Fiche produit</a><br />
-            <a href="">Manuel</a>
-        </td>
     </tr>
     <tr>
         <td>
@@ -49,6 +44,14 @@ title: Les liseuses TEA
             <a href="">Fiche produit</a><br />
             <a href="">Manuel</a>
         </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/images/Sense.jpg"><br />
+            <a href="">Fiche produit</a><br />
+            <a href="">Manuel</a>
+        </td>
+        <td></td>
         <td></td>
     </tr>
 </table>
@@ -60,7 +63,9 @@ title: Les liseuses TEA
 ####Initialisation de la liseuse
 
 #####Premiers pas
-Lorsque vous allumez votre liseuse PocketBook by TEA pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse et notamment lors de vos futurs achats.
+<span class="warning2">Lorsque vous allumez votre liseuse PocketBook by TEA pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse et notamment lors de vos futurs achats.</span>
+
+Il est possible qu’une mise à jour vous soit demandée à l’allumage de la liseuse. Si c’est le cas, vous trouverez plus d’information sur le lien suivant : Installation des mises à jour. Sinon vous pouvez commencer à lire les e-books pré-chargés dans votre bibliothèque numérique situés sur l’onglet bibliothèque.
 
 #####Connexion à un réseau Wi-Fi
 Pour accéder à la librairie numérique et télécharger / acheter des e-books, vous devez être connecter à Internet.
@@ -73,7 +78,7 @@ Sélectionnez un des réseaux disponibles (celui de votre box par exemple) en ap
 
 Entrez la Clé WiFi (appelée aussi WPA, située au dos de votre box internet) puis « Validez ».
 
-N’oubliez pas de mettre sur « On » la connexion automatique, cela vous évitera de passer par cette étape à chaque fois que vous voulez vous connecter à la librairie numérique en passant par ce réseau WiFi.
+<span class="protip">N’oubliez pas de mettre sur « On » la connexion automatique, cela vous évitera de passer par cette étape à chaque fois que vous voulez vous connecter à la librairie numérique en passant par ce réseau WiFi.</span>
 
 #####Enregistrement du compte personnel ID Adobe dans la liseuse (recommandé)
 {% include creation-compte-Adobe.md %}
@@ -236,8 +241,6 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware 
 - **Sudoku**
 - **Échecs**
 
-{% include anchor.html id="lire-5" label="Lire" %}
-####Lire
 {% include lire-liseuse-Pocketbook-F5.md %}
 
 {% include anchor.html id="cybook" label="Cybook" %}

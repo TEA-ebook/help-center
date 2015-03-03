@@ -47,10 +47,10 @@ Il existe plusieurs formats de livres numériques :
 
 Sur notre librairie numérique, nous commercialisons les e-books tels qu'ils sont fournis par l’éditeur : au format ePub, PDF, streaming ou multiformat.
 
-<span class="warning"><span class="title">Format propriétaire</span>Certains formats sont dits propriétaires, c’est-à-dire que les fichiers ont un format spécifique ne pouvant être lus que sur un seul type de support. C’est par exemple le cas des formats .azw pour Amazon qui ne peuvent être lus que sur des Kindle. **Nous garantissons des formats ouverts et non propriétaires pour assurer l'intéropérabilité.**
+<span class="warning2"><span class="title">Format propriétaire : </span>Certains formats sont dits propriétaires, c’est-à-dire que les fichiers ont un format spécifique ne pouvant être lus que sur un seul type de support. C’est par exemple le cas des formats .azw pour Amazon qui ne peuvent être lus que sur des Kindle. **Nous garantissons des formats ouverts et non propriétaires pour assurer l'intéropérabilité.**
 </span>
 
-<span class="warning"><span class="title">"Format" .acsm</span>Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. Il s'agit d'un ichier de licence qui vous permettra de télécharger votre livre.L’installation d’Adobe Digital Editions est obligatoire pour les lire et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions](/usage-lire/#sur-un-ordinateur)
+<span class="warning2"><span class="title">"Format" .acsm : </span>Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. Il s'agit d'un ichier de licence qui vous permettra de télécharger votre livre.L’installation d’Adobe Digital Editions est obligatoire pour les lire et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions](/usage-lire/#sur-un-ordinateur)
 </span>
 
 {% include anchor.html id="choisir-format-ebook" label="Quel format choisir entre le PDF et l’ePub ?" %}
@@ -71,31 +71,31 @@ modifier la forme de vos textes avec beaucoup de facilité.
     </tr>
     <tr>
         <th>ePub</th>
-        <td>Compatible</td>
-        <td>Compatible</td>
-        <td>Recommandé</td>
-        <td>Compatible</td>
+        <td class="success">Compatible</td>
+        <td class="success">Compatible</td>
+        <td class="success"><strong>Recommandé</strong></td>
+        <td class="success">Compatible</td>
     </tr>
     <tr>
         <th>PDF</th>
-        <td>Compatible</td>
-        <td>Compatible</td>
-        <td>Compatible, mais non recommandé</td>
-        <td>Compatible</td>
+        <td class="success">Compatible</td>
+        <td class="success">Compatible</td>
+        <td class="warning">Compatible, mais non recommandé</td>
+        <td class="success">Compatible</td>
     </tr>
     <tr>
         <th>Streaming</th>
-        <td>Compatible, nécessite une connexion internet</td>
-        <td>Compatible, nécessite une connexion internet</td>
-        <td>Non Compatible</td>
-        <td>Compatible, nécessite une connexion internet</td>
+        <td class="warning">Compatible, nécessite une connexion internet</td>
+        <td class="warning">Compatible, nécessite une connexion internet</td>
+        <td class="danger">Non Compatible</td>
+        <td class="warning">Compatible, nécessite une connexion internet</td>
     </tr>
     <tr>
         <th>Mobipocket(prc)</th>
-        <td>Non Compatible</td>
-        <td>Compatible avec une application spécifique</td>
-        <td>Compatible</td>
-        <td>Compatible avec une application spécifique</td>
+        <td class="danger">Non Compatible</td>
+        <td class="warning">Compatible avec une application spécifique</td>
+        <td class="success">Compatible</td>
+        <td class="warning">Compatible avec une application spécifique</td>
     </tr>
 </table>
 
@@ -116,4 +116,4 @@ Vous pouvez trouver cette information sur la fiche technique de la fiche produit
 
 ![Fiche technique : protection](/images/decouvrir-lecture-numerique-2.jpg)
 
-<span class="warning">Vous pourrez également remarquer au moment du téléchargement qu’un fichier e-book non protégé a l’extension « .pdf » ou « .epub » selon son format, alors qu’**un fichier protégé par Adobe DRM a l’extension « .acsm »**. Pour le lire vous devez disposer d'[un compte personnel ID Adobe](/usage-lire/#sur-un-ordinateur).</span>
+<span class="warning2">Vous pourrez également remarquer au moment du téléchargement qu’un fichier e-book non protégé a l’extension « .pdf » ou « .epub » selon son format, alors qu’**un fichier protégé par Adobe DRM a l’extension « .acsm »**. Pour le lire vous devez disposer d'[un compte personnel ID Adobe](/usage-lire/#sur-un-ordinateur).</span>

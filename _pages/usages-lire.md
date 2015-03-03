@@ -8,7 +8,10 @@ title: Lire un ebook
 ##Le compte Adobe
 
 Afin de pouvoir lire vos e-books protégés par Adobe DRM, vous devez disposer d’un compte personnel Adobe.
+
 {% include creation-compte-Adobe.md %}
+
+<span class="warning2">Votre compte personnel ID Adobe vous permet de transférer vos e-books sur un maximum de 6 supports de lecture différents. En d’autres termes, si un même utilisateur et donc un même compte personnel ID Adobe a été enregistré sur un ordinateur, une liseuse et une tablette, il ne vous reste que 3 possibilités d’enregistrement. Cette restriction a été imposée par les éditeurs afin de limiter les risques de diffusion des e-books à d’autres utilisateurs.</span>
 
 {% include anchor.html id="liseuse-pocketbook" label="Sur une liseuse Pocketbook" %}
 ##Sur une liseuse Pocketbook

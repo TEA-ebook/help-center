@@ -1,7 +1,7 @@
 ---
 permalink: "/faq/"
 layout: page
-title: Foire aux questions
+title: Foire Aux Questions
 ---
 
 {% include anchor.html id="achat" label="Achat" %}

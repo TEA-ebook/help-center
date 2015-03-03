@@ -1,7 +1,7 @@
 ---
 permalink: "/support-ordinateur/"
 layout: page
-title: Adobe Digital Edition
+title: Adobe Digital Editions
 ---
 
 {% include anchor.html id="installer-adobe-digital-edition" label="Installer Adobe Digital Éditions" %}
@@ -64,6 +64,8 @@ Dans le champ « Fournisseur d'eBook », choisissez « Adobe ID ». Puis tap
 ![](/images/support-ordinateur-11.png)
 
 Une fois l'ordinateur autorisé, cliquez sur « OK ».
+
+<span class="warning2">Dans les deux cas, vous ne devez pas cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</span>
 
 {% include anchor.html id="lire" label="Lire" %}
 ##Lire
