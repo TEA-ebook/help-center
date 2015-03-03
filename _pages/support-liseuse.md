@@ -104,17 +104,103 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware 
 - **Dictionnaire**
 - **Musique** (*uniquement sur Touch Lux*)
 
-{% include anchor.html id="lire-4" label="Lire" %}
-####Lire
 {% include lire-liseuse-Pocketbook-F4.md %}
+
+{% include anchor.html id="maj-firmware-4" label="Mise à jour du firmware" %}
+####Mise à jour du firmware
+Mettre à jour votre liseuse permet de bénéficier de nouvelles fonctionnalités, d'améliorations et de correctifs, tout au long de sa vie. On parle de mise à jour du "firmware", comme "Windows" pour des ordinateurs. Lors d'une mise à jour, tous vos livres et réglages sont conservés.
+
+Régulièrement des mises à jour sont proposées, avec de nouvelles fonctionnalités, visant à améliorer votre expérience de lecture. Pour en profiter dès leur sortie, il est recommandé d'activer la mise à jour automatique. Une mise à jour manuelle peut également être faite.
+ 
+#####Activer la mise à jour automatique
+Naviguer jusqu'au menu "Logiciel"
+
+![](/images/maj-firmware-1.png)
+    
+Activez la mise à jour automatique
+
+![](/images/maj-firmware-2.png)
+ 
+#####Faire une mise à jour manuelle
+
+<span class="protip">Cette procédure peut durer environ 20 minutes. Mettez votre liseuse en charge pendant toute la durée de cette procédure, ou bien veillez à ce qu'elle soit chargée entièrement avant de l'entamer. La procédure est illustrée avec une liseuse TEA PocketBook Touch Lux 2.</span>
+ 
+Naviguer jusqu'au menu "Logiciel"
+
+![](/images/maj-firmware-3.png)
+    
+Connectez votre liseuse au réseau wifi, tel que proposé.
+
+![](/images/maj-firmware-4.jpg)
+    
+Acceptez ("Oui") la recherche de mise à jour et son téléchargement
+
+![](/images/maj-firmware-5.png)
+    
+Le téléchargement de la nouvelle version commence
+
+![](/images/maj-firmware-6.jpg)
+
+Le temps de téléchargement peut-être relativement long (~20 minutes) suivant le type de mise à jour. Laissez le téléchargement se poursuivre jusqu'au bout. En cas d'interruption, recommencez la démarche, le téléchargement reprendra où il s'est arrêté.
+    
+La mise à jour est ensuite appliquée
+
+![](/images/maj-firmware-7.jpg)
+
+Elle peut durer plusieurs minutes, ne l'interrompez pas.
+    
+Des écrans de ce type peuvent se succéder pendant l'application de la mise à jour :
+
+![](/images/maj-firmware-8.jpg)
+
+La liseuse redémarre ensuite, pour finaliser la mise à jour
+
+![](/images/maj-firmware-9.jpg)
 
 {% include anchor.html id="firmware-5" label="Firmware 5" %}
 ###Firmware 5
 
 {% include anchor.html id="initialisation-liseuse-5" label="Initialisation de la liseuse" %}
 ####Initialisation de la liseuse
---TODO--
-À écrire
+
+#####Connexion au Wifi
+
+L’activation du wifi vous est proposée dès le début de l’initialisation afin de bénéficier de 100% des fonctionnalités interactives de votre liseuse.
+
+Sélectionnez le wifi auquel vous voulez vous connecter. 
+
+![](/images/support-liseuse-3.jpg)
+
+Une fenêtre s’ouvre, vous pouvez dès lors renseigner le mot de passe associé au réseau wifi puis cliquez sur « OK ».
+
+![](/images/support-liseuse-4.jpg)
+
+Lisez et acceptez le contrat de licence
+
+#####Compte client
+
+La connexion au compte client vous permettra de retrouver, en un clic via la fonctionnalité « Mes achats » , l’ensemble des ebooks que vous avez acheté sur notre site et/ou nos applications mobiles.
+
+![](/images/support-liseuse-5.png)
+
+Connectez vous en cliquant dans les champs proposés et en renseignant l’adresse mail et le mot de passe de votre compte client. Vous pouvez vérifier votre mot de passe en cliquant sur l’œil à droit du champ « Mot de passe ». Cliquez ensuite sur « Se connecter ».
+
+Si vous n’avez pas de compte chez nous, cliquez sur « Créer un compte » puis renseignez votre adresse mail ainsi qu’un mot de passe. Nous vous demandons de confirmez votre mot de passe. Pour ne pas vous tromper, vous pouvez vérifier votre mot de passe en cliquant sur l’œil à droite des champs « Mot de passe ». Cliquez ensuite sur « Créer un compte ».
+
+#####Compte Adobe
+
+La connexion au compte Adobe vous permet de lire les ebooks protégés par Adobe DRM. S’identifier directement lors de l’initialisation vous permettra de limiter les risques de blocage lors de vos futurs achats.
+
+Renseignez votre Adobe ID (ou identifiant adobe / adresse mail ) ainsi que votre mot de passe et cliquez sur « Activez ».
+
+![](/images/support-liseuse-6.jpg)
+
+Si vous n’avez pas de compte Adobe, créez en un facilement depuis votre PC ou smartphone en suivant les étapes suivantes.
+{% include creation-compte-Adobe.md %}
+
+L’activation de votre liseuse est à présent terminée. Félicitation !
+
+Découvrez la sélection d’ebooks et extraits offerts présents dans la bibliothèque
 
 {% include anchor.html id="fonctionnalites-5" label="Fonctionnalités" %}
 ####Fonctionnalités
@@ -160,7 +246,7 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware 
 {% include anchor.html id="presentation-liseuse-c" label="Présentation de la liseuse" %}
 ###Présentation de la liseuse
 
-![](/images/support-liseuse-3.jpg)
+![](/images/support-liseuse-7.jpg)
 
 Découvrez votre liseuse Cybook :
 {% include dailymotion-embedded-video.html name="vidéo-découvrir-cybook" embed-url="http://www.dailymotion.com/embed/video/xyeauw" url="http://www.dailymotion.com/video/xyeauw_presentation-de-la-liseuse-cybook_tech#from=embediframe" %}
