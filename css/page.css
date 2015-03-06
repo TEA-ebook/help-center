@@ -4,6 +4,8 @@ body{
 
 ul#anchor-menu{
   list-style-type: none;
+  background-color: #EDECE8;
+  padding: 10px 15px;
 }
 
 li.level-1{
