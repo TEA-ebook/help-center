@@ -13,43 +13,29 @@ title: Les liseuses TEA
 <table class="table table-bordered" style="text-align:center;">
     <tr>
         <td>
-            <img src="/images/Aqua.jpg"><br />
-            <a href="">Fiche produit</a><br />
-            <a href="">Manuel</a>
+            <img src="/images/Aqua.jpg">
         </td>
         <td>
-            <img src="/images/TouchLux.jpg"><br />
-            <a href="">Fiche produit</a><br />
-            <a href="">Manuel</a>
+            <img src="/images/TouchLux.jpg">
         </td>
         <td>
-            <img src="/images/TouchLux2.jpg"><br />
-            <a href="">Fiche produit</a><br />
-            <a href="">Manuel</a>
+            <img src="/images/TouchLux2.jpg">
         </td>
     </tr>
     <tr>
         <td>
-            <img src="/images/Basic2.jpg"><br />
-            <a href="">Fiche produit</a><br />
-            <a href="">Manuel</a>
+            <img src="/images/Basic2.jpg">
         </td>
         <td>
-            <img src="/images/BasicTouch.jpg"><br />
-            <a href="">Fiche produit</a><br />
-            <a href="">Manuel</a>
+            <img src="/images/BasicTouch.jpg">
         </td>
         <td>
-            <img src="/images/Inkpad.jpg"><br />
-            <a href="">Fiche produit</a><br />
-            <a href="">Manuel</a>
+            <img src="/images/Inkpad.jpg">
         </td>
     </tr>
     <tr>
         <td>
-            <img src="/images/Sense.jpg"><br />
-            <a href="">Fiche produit</a><br />
-            <a href="">Manuel</a>
+            <img src="/images/Sense.jpg">
         </td>
         <td></td>
         <td></td>
