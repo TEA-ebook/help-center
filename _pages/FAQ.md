@@ -45,7 +45,7 @@ Les e-books ne bénéficient pas de la remise de 5 %.
 Les e-books au format epub et PDF sont lisibles sur iPad, à condition d'avoir téléchargé une application de lecture telle que Bluefire Reader.
 
 **Puis-je lire mes livres sur Kindle ?**
-Les e-books au format epuvb ne sont pas lisibles sur une liseuse Kindle.
+Les e-books au format epub ne sont pas lisibles sur une liseuse Kindle.
 Les e-books au format pdf sont lisibles sur une liseuse Kindle à condition qu'ils n'aient pas de DRM. Le logiciel gratuit Calibre permet de convertir les e-books au format pdf sans DRM dans un format compatible avec le Kindle.
 
 **Puis-je lire mes livres sur Reader de Sony ?**
