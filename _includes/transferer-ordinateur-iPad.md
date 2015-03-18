@@ -3,7 +3,7 @@ Si le logiciel iTunes n’est pas installé sur votre ordinateur, rendez-vous su
 Lancez le ensuite.
 
 ###Connecter l’iPad/iPhone à votre ordinateur
-A l’aide d’un câble USB, connectez votre iPad / iPhone à votre ordinateur. Il apparaîtra dans iTunes comme suit : 
+À l’aide d’un câble USB, connectez votre iPad / iPhone à votre ordinateur. Il apparaîtra dans iTunes comme suit : 
 
 ![](images/transferer-ordinateur-ipad-1.png)
 
