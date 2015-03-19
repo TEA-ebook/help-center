@@ -148,6 +148,63 @@ La liseuse redémarre ensuite, pour finaliser la mise à jour
 
 ![](/images/maj-firmware-9.jpg)
 
+
+
+{% include anchor.html id="maj-firmware-5" label="Mise à jour du firmware version 5" %}
+####Mise à jour du firmware
+Mettre à jour votre liseuse permet de bénéficier de nouvelles fonctionnalités, d'améliorations et de correctifs, tout au long de sa vie. On parle de mise à jour du "firmware", comme "Windows" pour des ordinateurs. Lors d'une mise à jour, tous vos livres et réglages sont conservés.
+
+Régulièrement des mises à jour sont proposées, avec de nouvelles fonctionnalités, visant à améliorer votre expérience de lecture. Pour en profiter dès leur sortie, il est recommandé d'activer la mise à jour automatique. Une mise à jour manuelle peut également être faite.
+ 
+#####Activer la mise à jour automatique
+Naviguer jusqu'au menu "Logiciel"
+
+![](/images/maj-firmware5-1.png)
+    
+Activez la mise à jour automatique
+
+![](/images/maj-firmware5-2.png)
+ 
+#####Faire une mise à jour manuelle
+
+<span class="protip">Cette procédure peut durer environ 20 minutes. Mettez votre liseuse en charge pendant toute la durée de cette procédure, ou bien veillez à ce qu'elle soit chargée entièrement avant de l'entamer. La procédure est illustrée avec une liseuse TEA PocketBook Touch Lux 2.</span>
+ 
+Naviguer jusqu'au menu "Logiciel"
+
+![](/images/maj-firmware5-3.png)
+    
+Connectez votre liseuse au réseau wifi, tel que proposé.
+
+![](/images/maj-firmware5-4.jpg)
+    
+Acceptez ("Oui") la recherche de mise à jour et son téléchargement
+
+![](/images/maj-firmware5-5.png)
+    
+Le téléchargement de la nouvelle version commence
+
+![](/images/maj-firmware5-6.jpg)
+
+Le temps de téléchargement peut-être relativement long (~20 minutes) suivant le type de mise à jour. Laissez le téléchargement se poursuivre jusqu'au bout. En cas d'interruption, recommencez la démarche, le téléchargement reprendra où il s'est arrêté.
+    
+La mise à jour est ensuite appliquée
+
+![](/images/maj-firmware5-7.jpg)
+
+Elle peut durer plusieurs minutes, ne l'interrompez pas.
+    
+Des écrans de ce type peuvent se succéder pendant l'application de la mise à jour :
+
+![](/images/maj-firmware5-8.jpg)
+
+La liseuse redémarre ensuite, pour finaliser la mise à jour
+
+![](/images/maj-firmware5-9.jpg)
+
+
+
+
+
 {% include anchor.html id="firmware-5" label="Firmware 5" %}
 ###Firmware 5
 
