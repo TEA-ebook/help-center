@@ -151,7 +151,7 @@ La liseuse redémarre ensuite, pour finaliser la mise à jour
 
 
 {% include anchor.html id="maj-firmware-5" label="Mise à jour du firmware version 5" %}
-####Mise à jour du firmware
+####Mise à jour du firmware version 5
 Mettre à jour votre liseuse permet de bénéficier de nouvelles fonctionnalités, d'améliorations et de correctifs, tout au long de sa vie. On parle de mise à jour du "firmware", comme "Windows" pour des ordinateurs. Lors d'une mise à jour, tous vos livres et réglages sont conservés.
 
 Régulièrement des mises à jour sont proposées, avec de nouvelles fonctionnalités, visant à améliorer votre expérience de lecture. Pour en profiter dès leur sortie, il est recommandé d'activer la mise à jour automatique. Une mise à jour manuelle peut également être faite.
