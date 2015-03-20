@@ -174,9 +174,9 @@ Le téléchargement de la nouvelle version commence
 
 ![](/images/maj-firmware5-3-telechargement_mise_a_jour.jpg)
 
-Le temps de téléchargement peut-être relativement long (~20 minutes) suivant le type de mise à jour. Laissez le téléchargement se poursuivre jusqu'au bout. En cas d'interruption, recommencez la démarche, le téléchargement reprendra où il s'est arrêté.
+Le temps de téléchargement peut être relativement long (environ 20 minutes) suivant le type de mise à jour. Laissez le téléchargement se poursuivre jusqu'au bout. En cas d'interruption, recommencez la démarche, le téléchargement reprendra où il s'est arrêté.
     
-La mise à jour est ensuite appliquée
+La mise à jour est ensuite appliquée.
 
 ![](/images/maj-firmware5-4-application_mise_a_jour.jpg)
 
@@ -186,7 +186,7 @@ Des écrans de ce type peuvent se succéder pendant l'application de la mise à 
 
 ![](/images/maj-firmware5-5-application_mise_a_jour_suite.jpg)
 
-La liseuse redémarre ensuite, pour finaliser la mise à jour
+La liseuse redémarre ensuite, pour finaliser la mise à jour.
 
 
 
