@@ -1,10 +1,11 @@
+{% include anchor.html id="lancer-itunes" label="Lancer iTunes" %}
 ###Lancer iTunes
 Si le logiciel iTunes n’est pas installé sur votre ordinateur, rendez-vous sur http://itunes.com, téléchargez et installez ce logiciel.
 Lancez le ensuite.
 
+{% include anchor.html id="connecter-ipad-ordinateur" label="Connecter l’iPad/iPhone à votre ordinateur" %}
 ###Connecter l’iPad/iPhone à votre ordinateur
 À l’aide d’un câble USB, connectez votre iPad / iPhone à votre ordinateur. Il apparaîtra dans iTunes comme suit : 
-
 ![](/images/transferer-ordinateur-ipad-1.png)
 
 Naviguez vers l’iPad, en cliquant sur l’icône associé : 
@@ -19,6 +20,7 @@ Dans la section “Partage de fichier” (File Sharing) de cet écran, cliquez (
 
 ![](/images/transferer-ordinateur-ipad-4.png)
 
+{% include anchor.html id="transferer-fichier" label="Transférer le fichier" %}
 ###Transférer le fichier
 Une fois l’application de lecture sélectionnée (voir ci-dessus), cliquez sur le bouton “Ajouter” (“Add”). comme suit : 
 
