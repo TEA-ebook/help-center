@@ -41,6 +41,10 @@ Entrez ensuite le login et le mot de passe de votre compte Adobe et appuyez sur 
 ##Lire
 {% include lire-iPad.md %}
 
+{% include anchor.html id="telecharger" label="Télécharger" %}
+##Télécharger
+{% include telecharger-iPad.md %}
+
 {% include anchor.html id="transferer" label="Transférer" %}
 ##Transférer
 {% include transferer-ordinateur-iPad.md %}
