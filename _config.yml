@@ -11,3 +11,5 @@ redcarpet:
     - no_intra_emphasis
 sass:
   style: :compressed
+gems:
+  - jekyll-sitemap
