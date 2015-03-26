@@ -154,7 +154,7 @@ nav.navbar {
 }
 
 .header-github {
-  display: block;
+  display: none;
   position: fixed;
   bottom: 2.5em;
   left: -3.5em;
