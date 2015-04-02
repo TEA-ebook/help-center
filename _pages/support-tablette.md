@@ -33,6 +33,9 @@ Lisez le texte, cochez la case de validation puis cliquez sur « Me connecter 
 
 {% include anchor.html id="connexion-compte-client" label="Connexion au compte client" %}
 ###Connexion au compte client
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/MwtSOLta5h4" %}
+
 Afin de faciliter votre expérience d’achat, entrez vos identifiants de compte client TEA dans la fenêtre « Mon Compte » qui s’est ouverte. Ensuite, cliquez sur « Connectez-vous ». Si vous n’avez pas de compte, vous pourrez en créer un lors de votre premier achat.
 
 ![](/images/support-tablette-2.png)
@@ -42,6 +45,8 @@ Afin de faciliter votre expérience d’achat, entrez vos identifiants de compte
 {% include anchor.html id="connexion-compte-adobe" label="Connexion au compte personnel ID Adobe" %}
 ###Connexion au compte personnel ID Adobe
 {% include creation-compte-Adobe.md %}
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/ks5gKmheahU" %}
 
 Vous trouverez en dessous du compte client, le compte Adobe ID. Cliquez sur « Connectez-vous ».
 

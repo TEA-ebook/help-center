@@ -75,6 +75,8 @@ Un moteur de recherche est disponible dans la bibliothèque pour retrouver vos l
 
 #####Les fonctionnalités de lecture
 
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/k9r1v_liSaE" %}
+
 Ci-dessous les actions principales en mode lecture. N’oubliez pas que vous pouvez également utiliser les boutons physiques pour naviguer sur votre liseuse.
 Description des boutons de gauche à droite : Accueil | Précédent | Suivant | Menu.
 
@@ -84,6 +86,10 @@ Afin d'accéder au menu des fonctionnalités de votre PocketBook Touch Lux by TE
 
 #####Les paramètres de lecture
 
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/yH5QLkEZhjY" %}
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/pg22JzXQI7c" %}
+
 Afin d’optimiser votre confort de lecture, vous pouvez notamment modifier la police, la sensibilité du zoom, les interlignes, marges ou l’orientation du texte. Une fois vos modifications effectuées, cliquez sur la flèche retour en haut à gauche de l’écran. Vous êtes de retour sur le mode lecture.
 
 ![](/images/lire-liseuse-Pocketbook-F4-9.jpg)
@@ -91,6 +97,8 @@ Afin d’optimiser votre confort de lecture, vous pouvez notamment modifier la p
 Vous pouvez également mettre des annotations (signets, surlignages, notes, captures d’écrans…) lors de votre lecture. Pour annoter il vous suffit d’activer le menu puis cliquez sur « Note ». Ceci vous permet de mettre des repères ou simplement de taper des informations supplémentaires sur les textes que vous lisez.
 
 #####Activation de l'éclairage frontal :
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/d5XTEk3pWkc" %}
 
 Par défaut, il suffit de maintenir longtemps le bouton physique « Menu » appuyé afin de déclencher l’éclairage. Sinon plusieurs méthodes s’offrent à vous :
 
@@ -103,5 +111,7 @@ Par défaut, il suffit de maintenir longtemps le bouton physique « Menu » ap
 
 {% include anchor.html id="dictionnaire-embarque-4" label="Dictionnaire embarqué" %}
 ####Dictionnaire embarqué :
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/g9WEq1k-dSU" %}
 
 Chaque PocketBook Touch Lux by TEA a un dictionnaire embarqué. Pour l’activer il vous suffit d’ouvrir le menu en mode lecture, de cliquer sur « Dictionnaire » puis de cliquer sur la partie du texte que vous recherchez. Une définition apparaîtra dans une fenêtre en bas de page.

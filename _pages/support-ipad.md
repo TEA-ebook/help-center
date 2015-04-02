@@ -6,6 +6,9 @@ title: L'application iOS TEA
 
 {% include anchor.html id="installer-application" label="Installer l'application" %}
 ##Installer l'application
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/OAKwJdwVaL8" %}
+
 Le téléchargement de l'application TEA ebook se fait depuis l'App Store. Cliquez sur la loupe de recherche en haut à droite de votre écran et écrivez « TEA Ebooks ». Lancez la recherche et cliquez sur l’icône télécharger de l'appli « TEA Ebooks »
 
 ![](/images/support-iPad-1.jpg)
