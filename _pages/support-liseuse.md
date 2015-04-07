@@ -4,6 +4,18 @@ layout: page
 title: Les liseuses TEA
 ---
 
+{% include anchor.html id="acheter" label="Acheter" %}
+##Acheter
+{% include acheter-liseuse.md %}
+
+{% include anchor.html id="telecharger" label="Télécharger" %}
+##Télécharger
+{% include telecharger-liseuse.md %}
+
+{% include anchor.html id="transferer" label="Transférer" %}
+##Transférer
+{% include transferer-ordinateur-liseuse.md %}
+
 {% include anchor.html id="pocketbook" label="Pocketbook" %}
 ##Pocketbook
 
@@ -321,16 +333,3 @@ Sélectionnez « Accéder au formulaire d’identification ». Entrez à prés
 {% include anchor.html id="lire-c" label="Lire" %}
 ###Lire
 {% include lire-liseuse-Cybook.md %}
-
-{% include anchor.html id="acheter" label="Acheter" %}
-##Acheter
-{% include acheter-liseuse.md %}
-
-{% include anchor.html id="transferer" label="Transférer" %}
-##Transférer
-{% include transferer-ordinateur-liseuse.md %}
-
-{% include anchor.html id="telecharger" label="Télécharger" %}
-##Télécharger
-{% include telecharger-liseuse.md %}
-

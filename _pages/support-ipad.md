@@ -40,6 +40,10 @@ Entrez le login et le mot de passe de votre compte client et appuyez sur suivant
 
 Entrez ensuite le login et le mot de passe de votre compte Adobe et appuyez sur suivant. Si vous n'avez pas encore de compte Adobe, appuyez sur « Créer un ID ».
 
+{% include anchor.html id="telecharger" label="Télécharger" %}
+##Télécharger
+{% include telecharger-iPad.md %}
+
 {% include anchor.html id="lire" label="Lire" %}
 ##Lire
 {% include lire-iPad.md %}

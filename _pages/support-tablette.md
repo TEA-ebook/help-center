@@ -56,18 +56,18 @@ Identifiez-vous en remplissant les champs « Login » et « Mot de passe ».
 
 Cliquez ensuite sur « Connectez-vous ». Votre application est initialisée !
 
-{% include anchor.html id="lire" label="Lire" %}
-##Lire
-{% include lire-tablette-Android.md %}
-
 {% include anchor.html id="acheter" label="Acheter" %}
 ##Acheter
 {% include acheter-tablette-Android.md %}
+
+{% include anchor.html id="telecharger" label="Télécharger" %}
+##Télécharger
+{% include telecharger-tablette-Android.md %}
 
 {% include anchor.html id="transferer" label="Transférer" %}
 ##Transférer
 {% include transferer-ordinateur-tablette-Android.md %}
 
-{% include anchor.html id="telecharger" label="Télécharger" %}
-##Télécharger
-{% include telecharger-tablette-Android.md %}
+{% include anchor.html id="lire" label="Lire" %}
+##Lire
+{% include lire-tablette-Android.md %}
