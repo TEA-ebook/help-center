@@ -4,6 +4,18 @@ layout: page
 title: Les liseuses TEA
 ---
 
+{% include anchor.html id="acheter" label="Acheter" %}
+##Acheter
+{% include acheter-liseuse.md %}
+
+{% include anchor.html id="telecharger" label="Télécharger" %}
+##Télécharger
+{% include telecharger-liseuse.md %}
+
+{% include anchor.html id="transferer" label="Transférer" %}
+##Transférer
+{% include transferer-ordinateur-liseuse.md %}
+
 {% include anchor.html id="pocketbook" label="Pocketbook" %}
 ##Pocketbook
 
@@ -49,12 +61,18 @@ title: Les liseuses TEA
 ####Initialisation de la liseuse
 
 #####Premiers pas
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/XAd5F693mZ4" %}
+
 <span class="warning2">Lorsque vous allumez votre liseuse PocketBook by TEA pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse et notamment lors de vos futurs achats.</span>
 
-Il est possible qu’une mise à jour vous soit demandée à l’allumage de la liseuse. Si c’est le cas, vous trouverez plus d’information sur le lien suivant : Installation des mises à jour. Sinon vous pouvez commencer à lire les e-books pré-chargés dans votre bibliothèque numérique situés sur l’onglet bibliothèque.
+Il est possible qu’une mise à jour vous soit demandée à l’allumage de la liseuse. Si c’est le cas, vous trouverez plus d’informations sur le lien suivant : [Installation des mises à jour](/support-liseuse/#maj-firmware-4). Sinon vous pouvez commencer à lire les e-books pré-chargés dans votre bibliothèque numérique situés sur l’onglet bibliothèque.
 
 #####Connexion à un réseau Wi-Fi
-Pour accéder à la librairie numérique et télécharger / acheter des e-books, vous devez être connecter à Internet.
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/ufR3HeqZFsQ" %}
+
+Pour accéder à la librairie numérique et télécharger / acheter des e-books, vous devez être connecté à Internet.
 
 Appuyez sur « Paramètres » depuis la page d'accueil, puis sur « Réseau ».
 
@@ -68,6 +86,8 @@ Entrez la Clé WiFi (appelée aussi WPA, située au dos de votre box internet) p
 
 #####Enregistrement du compte personnel ID Adobe dans la liseuse (recommandé)
 {% include creation-compte-Adobe.md %}
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/yycYSESoz44" %}
 
 Pour se connecter à votre compte personnel ID Adobe, il faut cliquer sur « Paramètres » (situé sur la page d’accueil de la liseuse), puis « Comptes et synchronisation » et enfin « Adobe DRM ». Vous pouvez alors entrer votre identifiant et votre mot de passe sur les deux onglets prévus à cet effet. Cette étape vous permet de pré-enregistrer votre compte personnel ID Adobe dans la liseuse afin de faciliter son utilisation.
 
@@ -95,10 +115,15 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware 
 - **Dictionnaire**
 - **Musique** (*uniquement sur Touch Lux*)
 
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/yYdyoO1Sa5w" %}
+
 {% include lire-liseuse-Pocketbook-F4.md %}
 
 {% include anchor.html id="maj-firmware-4" label="Mise à jour du firmware" %}
 ####Mise à jour du firmware
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/jNXMBA56iw8" %}
+
 Mettre à jour votre liseuse permet de bénéficier de nouvelles fonctionnalités, d'améliorations et de correctifs, tout au long de sa vie. On parle de mise à jour du "firmware", comme "Windows" pour des ordinateurs. Lors d'une mise à jour, tous vos livres et réglages sont conservés.
 
 Régulièrement des mises à jour sont proposées, avec de nouvelles fonctionnalités, visant à améliorer votre expérience de lecture. Pour en profiter dès leur sortie, il est recommandé d'activer la mise à jour automatique. Une mise à jour manuelle peut également être faite.
@@ -155,7 +180,11 @@ La liseuse redémarre ensuite, pour finaliser la mise à jour
 {% include anchor.html id="initialisation-liseuse-5" label="Initialisation de la liseuse" %}
 ####Initialisation de la liseuse
 
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/9UO-n02Tdko" %}
+
 #####Connexion au Wifi
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/UUMT9dvKrG0" %}
 
 L’activation du wifi vous est proposée dès le début de l’initialisation afin de bénéficier de 100% des fonctionnalités interactives de votre liseuse.
 
@@ -180,6 +209,8 @@ Connectez vous en cliquant dans les champs proposés et en renseignant l’adres
 Si vous n’avez pas de compte chez nous, cliquez sur « Créer un compte » puis renseignez votre adresse mail ainsi qu’un mot de passe. Nous vous demandons de confirmez votre mot de passe. Pour ne pas vous tromper, vous pouvez vérifier votre mot de passe en cliquant sur l’œil à droite des champs « Mot de passe ». Cliquez ensuite sur « Créer un compte ».
 
 #####Compte Adobe
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/7xzUpRbXn40" %}
 
 La connexion au compte Adobe vous permet de lire les ebooks protégés par Adobe DRM. S’identifier directement lors de l’initialisation vous permettra de limiter les risques de blocage lors de vos futurs achats.
 
@@ -289,16 +320,3 @@ Sélectionnez « Accéder au formulaire d’identification ». Entrez à prés
 {% include anchor.html id="lire-c" label="Lire" %}
 ###Lire
 {% include lire-liseuse-Cybook.md %}
-
-{% include anchor.html id="acheter" label="Acheter" %}
-##Acheter
-{% include acheter-liseuse.md %}
-
-{% include anchor.html id="transferer" label="Transférer" %}
-##Transférer
-{% include transferer-ordinateur-liseuse.md %}
-
-{% include anchor.html id="telecharger" label="Télécharger" %}
-##Télécharger
-{% include telecharger-liseuse.md %}
-

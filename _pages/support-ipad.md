@@ -6,6 +6,9 @@ title: L'application iOS TEA
 
 {% include anchor.html id="installer-application" label="Installer l'application" %}
 ##Installer l'application
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/OAKwJdwVaL8" %}
+
 Le téléchargement de l'application TEA ebook se fait depuis l'App Store. Cliquez sur la loupe de recherche en haut à droite de votre écran et écrivez « TEA Ebooks ». Lancez la recherche et cliquez sur l’icône télécharger de l'appli « TEA Ebooks »
 
 ![](/images/support-iPad-1.jpg)
@@ -36,6 +39,10 @@ Entrez le login et le mot de passe de votre compte client et appuyez sur suivant
 ![](/images/support-iPad-4.png)
 
 Entrez ensuite le login et le mot de passe de votre compte Adobe et appuyez sur suivant. Si vous n'avez pas encore de compte Adobe, appuyez sur « Créer un ID ».
+
+{% include anchor.html id="telecharger" label="Télécharger" %}
+##Télécharger
+{% include telecharger-iPad.md %}
 
 {% include anchor.html id="lire" label="Lire" %}
 ##Lire

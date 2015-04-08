@@ -4,6 +4,14 @@ layout: page
 title: Adobe Digital Editions
 ---
 
+{% include anchor.html id="acheter" label="Acheter" %}
+##Acheter
+{% include acheter-ordinateur.md %}
+
+{% include anchor.html id="telecharger" label="Télécharger" %}
+##Télécharger
+{% include telecharger-ordinateur.md %}
+
 {% include anchor.html id="installer-adobe-digital-edition" label="Installer Adobe Digital Éditions" %}
 ##Installer Adobe Digital Éditions
 
@@ -70,11 +78,3 @@ Une fois l'ordinateur autorisé, cliquez sur « OK ».
 {% include anchor.html id="lire" label="Lire" %}
 ##Lire
 {% include lire-ordinateur.md %}
-
-{% include anchor.html id="acheter" label="Acheter" %}
-##Acheter
-{% include acheter-ordinateur.md %}
-
-{% include anchor.html id="telecharger" label="Télécharger" %}
-##Télécharger
-{% include telecharger-ordinateur.md %}

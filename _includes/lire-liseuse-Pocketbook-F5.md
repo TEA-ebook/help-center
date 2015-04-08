@@ -68,6 +68,12 @@ Un moteur de recherche est disponible dans la bibliothèque pour retrouver vos l
 
 #####Les fonctionnalités de lecture
 
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/LxRKVw2zJUI" %}
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/Szt3NIlTBN8" %}
+
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/QV7K4M7eqkU" %}
+
 Ci-dessous les actions principales en mode lecture. N’oubliez pas que vous pouvez également utiliser les boutons physiques pour naviguer sur votre liseuse.
 Description des boutons de gauche à droite : Accueil | Précédent | Suivant | Menu.
 
@@ -77,6 +83,8 @@ Afin d'accéder au menu des fonctionnalités de votre PocketBook Touch Lux by TE
 
 #####Les paramètres de lecture
 
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/ZMXO3dIqCgM" %}
+
 Afin d’optimiser votre confort de lecture, vous pouvez notamment modifier la police, la sensibilité du zoom, les interlignes, marges ou l’orientation du texte. Une fois vos modifications effectuées, cliquez sur la flèche retour en haut à gauche de l’écran. Vous êtes de retour sur le mode lecture.
 
 ![](/images/lire-liseuse-Pocketbook-F5-9.jpg)
@@ -85,7 +93,9 @@ Vous pouvez également mettre des annotations (signets, surlignages, notes, capt
 
 #####Activation de l'éclairage frontal :
 
-Par défaut, il suffit de maintenir longtemps le bouton physique « Menu » appuyé afin de déclencher l’éclairage. Sinon plusieurs méthodes s’offrent à vous :
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/9UO-n02Tdko" %}
+
+Plusieurs méthodes s’offrent à vous :
 
 - Soit vous cliquez deux fois au centre de votre liseuse en mode lecture, une barre en bas de page apparait. Cliquez sur l’icône en forme de soleil. Une fenêtre s’ouvre pour vous proposer d’activer l’éclairage et de régler l’intensité.
 - Soit vous cliquez deux fois sur le bouton physique « Menu » en mode lecture pour faire apparaître cette même barre.
