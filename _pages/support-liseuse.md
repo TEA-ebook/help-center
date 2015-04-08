@@ -80,13 +80,13 @@ title: Les liseuses TEA
 
 <span class="warning2">Lorsque vous allumez votre liseuse PocketBook by TEA pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse et notamment lors de vos futurs achats.</span>
 
-Il est possible qu’une mise à jour vous soit demandée à l’allumage de la liseuse. Si c’est le cas, vous trouverez plus d’information sur le lien suivant : Installation des mises à jour. Sinon vous pouvez commencer à lire les e-books pré-chargés dans votre bibliothèque numérique situés sur l’onglet bibliothèque.
+Il est possible qu’une mise à jour vous soit demandée à l’allumage de la liseuse. Si c’est le cas, vous trouverez plus d’informations sur le lien suivant : [Installation des mises à jour](/support-liseuse/#maj-firmware-4). Sinon vous pouvez commencer à lire les e-books pré-chargés dans votre bibliothèque numérique situés sur l’onglet bibliothèque.
 
 #####Connexion à un réseau Wi-Fi
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/ufR3HeqZFsQ" %}
 
-Pour accéder à la librairie numérique et télécharger / acheter des e-books, vous devez être connecter à Internet.
+Pour accéder à la librairie numérique et télécharger / acheter des e-books, vous devez être connecté à Internet.
 
 Appuyez sur « Paramètres » depuis la page d'accueil, puis sur « Réseau ».
 
