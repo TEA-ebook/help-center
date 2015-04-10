@@ -62,7 +62,7 @@ title: Les liseuses TEA
 
 #####Premiers pas
 
-{% include youtube-embedded-video.html url="https://www.youtube.com/embed/XAd5F693mZ4" %}
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/zlI7RQfKAug" %}
 
 <span class="warning2">Lorsque vous allumez votre liseuse PocketBook by TEA pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse et notamment lors de vos futurs achats.</span>
 
