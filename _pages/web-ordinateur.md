@@ -1,8 +1,12 @@
 ---
-permalink: "/support-ordinateur/"
+permalink: "/web-ordinateur/"
 layout: page
-title: Adobe Digital Editions
+title: Acheter un livre sur le web et le lire sur son ordinateur
 ---
+
+{% include anchor.html id="acheter" label="Acheter" %}
+##Acheter
+{% include acheter-ordinateur.md %}
 
 {% include anchor.html id="installer-adobe-digital-edition" label="Installer Adobe Digital Éditions" %}
 ##Installer Adobe Digital Éditions
@@ -10,13 +14,8 @@ title: Adobe Digital Editions
 {% include anchor.html id="telecharger-adobe-digital-edition" label="Télécharger Adobe Digital Editions 4" %}
 ###Télécharger Adobe Digital Editions 4
 
-Rendez-vous dans la section « Mes e-books » de votre compte client. 
-
-Cliquez sur « Télécharger Adobe Digital Editions » (situé au-dessus de vos e-books à télécharger) ou depuis ce lien Télécharger Adobe Digital Editions. 
-
-![](/images/support-ordinateur-1.jpg)
-
-Cliquez sur « Télécharger : 
+Rendez-vous sur la page [Adobe Digital Editions du site Adobe](http://www.adobe.com/fr/solutions/ebook/digital-editions.html)
+Puis cliquez sur l'onglet « Télécharger ».
 
 ![](/images/support-ordinateur-2.png)
 
@@ -67,14 +66,10 @@ Une fois l'ordinateur autorisé, cliquez sur « OK ».
 
 <span class="warning2">Dans les deux cas, vous ne devez pas cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</span>
 
-{% include anchor.html id="lire" label="Lire" %}
-##Lire
-{% include lire-ordinateur.md %}
-
-{% include anchor.html id="acheter" label="Acheter" %}
-##Acheter
-{% include acheter-ordinateur.md %}
-
 {% include anchor.html id="telecharger" label="Télécharger" %}
 ##Télécharger
 {% include telecharger-ordinateur.md %}
+
+{% include anchor.html id="lire" label="Lire" %}
+##Lire
+{% include lire-ordinateur.md %}
