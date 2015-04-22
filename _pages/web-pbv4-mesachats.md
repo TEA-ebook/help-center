@@ -1,7 +1,7 @@
 ---
 permalink: "/web-pbv4/"
 layout: page
-title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook v4
+title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook v4 « mes achats »
 ---
 
 {% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
@@ -12,9 +12,9 @@ title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook v4
 ##Initialiser votre liseuse Pocketbook v4
 {% include initialiser-pbv4.md %}
 
-{% include anchor.html id="telecharger-pbv4" label="Télécharger sur votre liseuse Pocketbook v4 depuis le store liseuse" %}
-##Télécharger sur votre liseuse Pocketbook v4 depuis le store liseuse
-{% include telecharger-liseuse.md %}
+{% include anchor.html id="telecharger-pbv4" label="Télécharger sur votre liseuse Pocketbook v4 depuis « mes achats »" %}
+##Télécharger sur votre liseuse Pocketbook v4 depuis « mes achats »
+{% include telecharger-mes-achats.md %}
 
 {% include anchor.html id="lire-pbv4" label="Lire sur votre liseuse Pocketbook v4" %}
 ##Lire sur votre liseuse Pocketbook v4
