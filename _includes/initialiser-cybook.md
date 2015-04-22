@@ -7,7 +7,7 @@ Découvrez comment initialiser et acheter un e-book depuis votre liseuse Cybook�
 
 <span class="protip">Afin de vous accompagner au mieux dans l’initialisation de votre liseuse Cybook, vous pouvez [télécharger le guide de démarrage de la liseuse](/documents/tea_guide_demarrage_ebookstore.pdf). Vous y trouverez les grandes étapes à suivre pour initialiser votre liseuse et accéder à la librairie numérique.</span>
 
-{% include anchor.html id="connexion-wifi-c" label="Connexion au WiFi" %}
+{% include anchor.html id="connexion-wifi" label="Connexion au WiFi" %}
 ###Connexion au WiFi
 
 Pour accéder à la librairie numérique et télécharger / acheter des e-books, vous devez vous connecter à un réseau WiFi, en suivant les instructions ci-dessous :
@@ -17,9 +17,11 @@ Pour accéder à la librairie numérique et télécharger / acheter des e-books,
 - Entrez la Clé WiFi (appelée aussi WPA, située au dos de votre box internet) puis validez.
 - Ca y est, vous êtes connecté à un réseau WiFi, vous pouvez naviguer sur l’ebookstore et télécharger du contenu !
 
+{% include anchor.html id="creation-compte-adobe" label="Création du compte Adobe" %}
 ###Création du compte Adobe
 {% include creation-compte-Adobe.md %}
 
+{% include anchor.html id="activation-compte-adobe" label="Activation du compte Adobe dans la liseuse Cybook" %}
 ###Activation du compte Adobe dans la liseuse Cybook
 Lorsque vous vous connectez à l'ebookstore pour la première fois, il vous est alors demandé d'autoriser votre liseuse avec votre compte Adobe.
 Pour cela, il vous suffit de saisir l'identifiant Adobe et le mot de passe que vous avez créé préalablement.
