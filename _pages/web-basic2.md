@@ -44,7 +44,7 @@ Connectez votre ordinateur à votre liseuse grâce à votre câble USB.
 Confirmez la connexion sur votre liseuse (cliquez sur connecter/accepter/Oui). 
 Lors de la première connexion un programme d’installation peut être lancé. 
 
-<span class="protip">Dans le cas des PocketBook by TEA, si vous branchez votre liseuse à votre ordinateur alors qu’elle est éteinte, celle-ci ne vous proposera pas de transférer des fichiers mais se mettra automatiquement à charger la batterie.
+<span class="protip">Dans le cas des liseuses PocketBook, si vous branchez votre liseuse à votre ordinateur alors qu’elle est éteinte, celle-ci ne vous proposera pas de transférer des fichiers mais se mettra automatiquement à charger la batterie.
 Il faut donc allumer votre liseuse, attendre l’apparition du menu principal, brancher la liseuse à votre ordinateur et sélectionner « Transférer des fichiers ».</span>
 
 Lancez Adobe Digital Editions s’il ne s’est pas lancé tout seul. 
