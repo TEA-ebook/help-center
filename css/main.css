@@ -146,6 +146,9 @@ nav.navbar {
     margin-top: 120px;
   }
 }
+.header-github {
+  display: none;
+}
 
 .header-github:hover {
   background-color: #9d9d9d;
@@ -153,8 +156,8 @@ nav.navbar {
   text-decoration: none;
 }
 
-.header-github {
-  display: none;
+.bandeau {
+  display: block;
   position: fixed;
   bottom: 2.5em;
   left: -3.5em;
