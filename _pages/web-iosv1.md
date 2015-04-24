@@ -1,7 +1,7 @@
 ---
 permalink: "/web-iosv1/"
 layout: page
-title: L'application iOS TEA
+title: Acheter un ebook sur Internet et le lire sur son iPad/iPhone (app v1)
 ---
 
 {% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
