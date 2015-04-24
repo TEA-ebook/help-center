@@ -1,7 +1,7 @@
 ---
-permalink: "/web-android/"
+permalink: "/web-androidv1/"
 layout: page
-title: Acheter un ebook sur Internet et le lire sur sa tablette Android (app v1)
+title: Acheter un ebook sur Internet et le lire sur son iPad/iPhone (app v1)
 ---
 
 {% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
