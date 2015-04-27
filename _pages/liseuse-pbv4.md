@@ -1,7 +1,7 @@
 ---
-permalink: "/web-pbv4/"
+permalink: "/liseuse-pbv4/"
 layout: page
-title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook v4
+title: Acheter un ebook et le lire sur sa liseuse Pocketbook v4
 ---
 
 {% include anchor.html id="initialiser-pbv4" label="Initialiser votre liseuse Pocketbook v4" %}
