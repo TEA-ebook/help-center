@@ -1,5 +1,5 @@
 ---
-permalink: "/web-pbv4-mesachats/"
+permalink: "/web-pbv4MesAchats/"
 layout: page
 title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook v4 « mes achats »
 ---
