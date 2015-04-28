@@ -1,17 +1,19 @@
 TEA Help Center
 ===============
 
-## Tester le site en local.
+## Pré-Requis
 
-Installer Jekyll :
-```
-bundle install
-```
+* Ruby
+* NodeJS
+
+## Tester en local
 
 Lancer Jekyll :
 ```
 bundle exec jekyll serve
 ```
+
+Puis accéder à [http://localhost:4000/]
 
 ## Liens problématiques présents dans ces pages d'aides :
 
