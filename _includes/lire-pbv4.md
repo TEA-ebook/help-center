@@ -115,10 +115,4 @@ Par défaut, il suffit de maintenir longtemps le bouton physique « Menu » ap
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/g9WEq1k-dSU" %}
 
-<<<<<<< HEAD:_includes/lire-pbv4.md
 Chaque PocketBook v4 a un dictionnaire embarqué. Pour l’activer il vous suffit d’ouvrir le menu en mode lecture, de cliquer sur « Dictionnaire » puis de cliquer sur la partie du texte que vous recherchez. Une définition apparaîtra dans une fenêtre en bas de page.
-=======
-{% include youtube-embedded-video.html url="https://www.youtube.com/embed/g9WEq1k-dSU" %}
-
-Chaque PocketBook Touch Lux by TEA a un dictionnaire embarqué. Pour l’activer il vous suffit d’ouvrir le menu en mode lecture, de cliquer sur « Dictionnaire » puis de cliquer sur la partie du texte que vous recherchez. Une définition apparaîtra dans une fenêtre en bas de page.
->>>>>>> gh-pages:_includes/lire-liseuse-Pocketbook-F4.md
