@@ -1,18 +1,30 @@
 (function enableJsNavigation($) {
     'use strict';
     var tree = {
-        'web' : {
-            'web' : 'http://blabla/web-web.html',
-            'ordinateur' : 'web-ordinateur',
-            'basic2' : 'web-liseuse'
+        'le web' : {
+            //'web' : '/web-web',
+            'un ordinateur' : '<a href="/web-ordinateur">Acheter un ebook sur Internet et le lire sur son ordinateur</a>',
+            'une liseuse basic2' : '<a href="/web-basic2">Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook Basic 2</a>',
+            'une liseuse cybook' : '<a href="/web-cybook">Acheter un ebook sur Internet et le lire sur sa liseuse Cybook</a>',
+            'une liseuse Pocketbook firmware 4' : '<a href="/web-pbv4">Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook v4</a>',
+            'une liseuse Pocketbook firmware 4 "MesAchats"' : '<a href="/web-pbv4MesAchats">Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook v4 « mes achats »</a>',
+            'une liseuse Pocketbook firmware 5' : '<a href="/web-pbv5">Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook v5</a>',
+            'l\'application android v1' : '<a href="/web-androidv1">Acheter un ebook sur Internet et le lire sur sa tablette Android (app v1)</a>',
+            //'l\'application android v2' : '/web-androidv2',
+            'l\'application iOs v1' : '<a href="/web-iosv1">Acheter un ebook sur Internet et le lire sur son iPad/iPhone (app v1)</a>'
+            //'l\'application iOs v2' : '/web-iosv2'
         },
-        'liseuse' : {
-            'cybook' : 'link liseuse-cybook',
-            'pbv4' : 'link liseuse-pb4'
+        'une liseuse' : {
+            'une liseuse cybook' : '<a href="/liseuse-cybook">Acheter un ebook et le lire sur sa liseuse Cybook</a>',
+            'une liseuse Pocketbook firmware 4' : '<a href="/liseuse-pbv4">Acheter un ebook et le lire sur sa liseuse Pocketbook v4</a>',
+            'une liseuse Pocketbook firmware 5' : '<a href="/liseuse-pbv5">Acheter un ebook et le lire sur sa liseuse Pocketbook v5</a>'
         },
-        'android' : {
-            'android' : 'link android'
+        'l\'application android v1' : {
+            'l\'application android v1' : '<a href="/androidv1-androidv1">Acheter un ebook et le lire sur sa tablette Android (app v1)</a>'
         }
+        /*'l\'application android v2' : {
+            'l\'application android v2' : '/androidv2-androidv2'
+        }*/
     };
 
     var $achat = $('#select_achat');
@@ -37,6 +49,7 @@
         $('#select_lecture_wrapper').html($lecture);
         $lecture.change();
     }
+    $('#select_container').on('click', '#select_achat', updateLectureSelect);
     $('#select_container').on('change', '#select_achat', updateLectureSelect);
 
     function updateSelectResult(e, t) {

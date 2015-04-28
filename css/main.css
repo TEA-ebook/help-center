@@ -147,16 +147,20 @@ nav.navbar {
   }
 }
 
+.header-github {
+  display: none;
+}
+
 .header-github:hover {
   background-color: #9d9d9d;
   color: #fff;
   text-decoration: none;
 }
 
-.header-github {
-  display: none;
+.bandeau {
+  display: block;
   position: fixed;
-  bottom: 2.5em;
+  top: 2.5em;
   left: -3.5em;
   color: #fff;
   padding: .8em 1.5em;
@@ -167,9 +171,9 @@ nav.navbar {
   font-weight: 500;
   text-decoration: none;
   white-space: nowrap;
-  -webkit-transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
-  transform: rotate(45deg);
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
   -webkit-transform-origin: 50% 50%;
   -ms-transform-origin: 50% 50%;
   transform-origin: 50% 50%;

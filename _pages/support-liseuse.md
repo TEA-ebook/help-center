@@ -95,7 +95,7 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware 
 - **Dictionnaire**
 - **Musique** (*uniquement sur Touch Lux*)
 
-{% include lire-liseuse-Pocketbook-F4.md %}
+{% include lire-pbv4.md %}
 
 {% include anchor.html id="maj-firmware-4" label="Mise à jour du firmware" %}
 ####Mise à jour du firmware
@@ -228,7 +228,46 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware 
 - **Sudoku**
 - **Échecs**
 
-{% include lire-liseuse-Pocketbook-F5.md %}
+{% include lire-pbv5.md %}
+
+{% include anchor.html id="maj-firmware-5" label="Mise à jour du firmware/logiciel version 5" %}
+####Mise à jour du firmware/logiciel version 5
+Mettre à jour votre liseuse permet de bénéficier de nouvelles fonctionnalités, d'améliorations et de correctifs, tout au long de sa vie. On parle de mise à jour du "firmware", comme "Windows" pour des ordinateurs. Lors d'une mise à jour, tous vos livres et réglages sont conservés.
+
+Régulièrement des mises à jour sont proposées, avec de nouvelles fonctionnalités, visant à améliorer votre expérience de lecture. Pour en profiter dès leur sortie, il est recommandé d'activer la mise à jour automatique. Il est aussi possible de procéder à une mise à jour manuelle.
+ 
+#####Effectuer une mise à jour
+
+<span class="protip">Cette procédure peut durer environ 20 minutes. Mettez votre liseuse en charge pendant toute la durée de cette procédure, ou bien veillez à ce qu'elle soit chargée entièrement avant de l'entamer. La procédure est illustrée avec une liseuse TEA PocketBook Sense.</span>
+ 
+Naviguer jusqu'au menu "Logiciel"
+
+![](/images/maj-firmware5-1-Navigation_vers_mise_a_jour.jpg)
+    
+Connectez votre liseuse au réseau wifi au besoin.
+    
+Acceptez ("Oui") la recherche de mise à jour et son téléchargement.
+
+![](/images/maj-firmware5-2-Accepter_mise_a_jour.jpg)
+    
+Le téléchargement de la nouvelle version commence.
+
+![](/images/maj-firmware5-3-telechargement_mise_a_jour.jpg)
+
+Le temps de téléchargement peut être relativement long (environ 20 minutes) suivant le type de mise à jour. Laissez le téléchargement se poursuivre jusqu'au bout. En cas d'interruption, recommencez la démarche, le téléchargement reprendra où il s'est arrêté.
+    
+La mise à jour est ensuite appliquée.
+
+![](/images/maj-firmware5-4-application_mise_a_jour.jpg)
+
+Elle peut durer plusieurs minutes, ne l'interrompez pas.
+    
+Des écrans de ce type peuvent se succéder pendant l'application de la mise à jour :
+
+![](/images/maj-firmware5-5-application_mise_a_jour_suite.jpg)
+
+La liseuse redémarre ensuite, pour finaliser la mise à jour.
+
 
 {% include anchor.html id="cybook" label="Cybook" %}
 ##Cybook
@@ -285,10 +324,6 @@ Lors de votre première connexion à l’ebookstore, un message vous indique qu�
 
 <span class="protip">Lorsque votre adresse e-mail est déjà associée à un compte personnel ID Adobe, un message d’erreur s'affiche après votre tentative de création de compte.
 Sélectionnez « Accéder au formulaire d’identification ». Entrez à présent votre e-mail et votre mot de passe en utilisant la fonction « Mot de passe oublié » si vous ne vous en souvenez plus.</span>
-
-{% include anchor.html id="lire-c" label="Lire" %}
-###Lire
-{% include lire-liseuse-Cybook.md %}
 
 {% include anchor.html id="acheter" label="Acheter" %}
 ##Acheter
