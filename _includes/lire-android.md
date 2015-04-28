@@ -1,4 +1,4 @@
-{% include anchor.html id="fonctionnement-bibliotheque-a" label="Fonctionnement de la bibliothèque" %}
+{% include anchor.html id="fonctionnement-bibliotheque" label="Fonctionnement de la bibliothèque" %}
 ### Fonctionnement de la bibliothèque
 
 ![](/images/lire-tablette-Android-1.png)
@@ -15,9 +15,9 @@
 10 – Livre en cours de lecture.
 11 – Un appui long sur la couverture d’un e-book vous permet d’accéder à la fiche informative du livre (résumé, sommaire, carnet de notes) ; un appui court ouvre directement l’e-book.
 
-S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’outil d’importation afin de synchroniser l’ensemble des e-books que vous avez acheté chez TEA, grâce à votre compte client TEA.
+<span class="protip">S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’outil d’importation afin de synchroniser l’ensemble des e-books que vous avez acheté chez TEA, grâce à votre compte client TEA.</span>
 
-{% include anchor.html id="fonctionnalites-lecture-a" label="Les fonctionnalités de lecture" %}
+{% include anchor.html id="fonctionnalites-lecture" label="Les fonctionnalités de lecture" %}
 ### Les fonctionnalités de lecture
 
 ![](/images/lire-tablette-Android-2.png)

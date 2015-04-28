@@ -1,11 +1,11 @@
-{% include anchor.html id="depuis-store-liseuse" label="Depuis le store liseuse" %}
-###Depuis le store liseuse
-
 ![](/images/telecharger-liseuse-1.jpg)
 
 - Allumez votre liseuse TEA et allez sur l’Ebookstore/Librairie depuis la page d’accueil. 
 - Sélectionnez « Mon compte », identifiez-vous si nécessaire.
 - Sélectionnez « Mes commandes », vous retrouverez toutes vos commandes passées depuis le site Internet ou depuis l’ebookstore de la liseuse TEA. 
+<<<<<<< HEAD
+- Il ne vous reste plus qu’à télécharger les e-books que vous avez achetés précédemment.
+=======
 - Il ne vous reste plus qu’à télécharger les e-books que vous avez achetés précédemment.
 
 {% include anchor.html id="depuis-mes-achats" label="Depuis « Mes achats »" %}
@@ -21,3 +21,4 @@ Pour l'instant la fonctionnalité « Mes achats » n'est disponible que sur le
 
 - Allumez votre liseuse TEA et allez sur « Mes achats ».
 - Il ne vous reste plus qu’à télécharger les e-books que vous avez achetés précédemment.
+>>>>>>> gh-pages

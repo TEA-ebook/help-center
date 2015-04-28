@@ -16,7 +16,7 @@ Si c’est votre première utilisation de la liseuse TEA, vous remarquerez qu’
 {% include anchor.html id="fonctionnalites-lecture-c" label="Quelles sont les fonctionnalités de lecture de ma Cybook ?" %}
 ### Quelles sont les fonctionnalités de lecture de ma Cybook ?
 
-Afin d'accéder au menu des fonctionnalités de votre Cybook, appuyez au centre de l’écran lorsque vous êtes en mode lecture. Vous pouvez également appuyer sur le bouton central de votre Cybook puis sélectionner « Menu ». Dans tous les cas vous accèderez à un menu vous permettant de nombreuses actions sur votre texte :
+Afin d'accéder au menu des fonctionnalités de votre Cybook, appuyez au centre de l’écran lorsque vous êtes en mode lecture. Vous pouvez également appuyer sur le bouton central de votre Cybook puis sélectionner « Menu ». Dans tous les cas vous accéderez à un menu vous permettant de nombreuses actions sur votre texte :
 
 **Optimisation de votre confort de lecture :**
 Les fonctionnalités de votre Cybook vous permettent d’améliorer votre confort de lecture. Vous pouvez, si nécessaire, agrandir la police ou changer la luminosité de votre texte. Vous pouvez également éclairer votre écran si vous possédez la Cybook Odyssey HD Frontlight.

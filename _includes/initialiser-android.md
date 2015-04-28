@@ -1,12 +1,3 @@
----
-permalink: "/support-tablette/"
-layout: page
-title: L'application Android TEA
----
-
-{% include anchor.html id="installer-application" label="Installer l'application" %}
-##Installer l'application
-
 {% include anchor.html id="telecharger-google-play" label="Téléchargement sur Google Play" %}
 ###Téléchargement sur Google Play
 
@@ -42,10 +33,16 @@ Afin de faciliter votre expérience d’achat, entrez vos identifiants de compte
 
 <span class="warning2">Le compte client que vous enregistrez doit être le même que celui utilisé sur le site TEA.com ou sur votre Liseuse numérique avec la librairie TEA.</span>
 
-{% include anchor.html id="connexion-compte-adobe" label="Connexion au compte personnel ID Adobe" %}
-###Connexion au compte personnel ID Adobe
+{% include anchor.html id="creation-compte-adobe" label="Création du compte Adobe" %}
+###Création du compte Adobe
 {% include creation-compte-Adobe.md %}
 
+<<<<<<< HEAD:_includes/initialiser-android.md
+{% include anchor.html id="activation-compte-adobe" label="Activation du compte Adobe dans l'application Android v1" %}
+###Activation du compte Adobe dans l'application Android v1
+
+=======
+>>>>>>> gh-pages:_pages/support-tablette.md
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/ks5gKmheahU" %}
 
 Vous trouverez en dessous du compte client, le compte Adobe ID. Cliquez sur « Connectez-vous ».
@@ -54,6 +51,9 @@ Vous trouverez en dessous du compte client, le compte Adobe ID. Cliquez sur « 
 
 Identifiez-vous en remplissant les champs « Login » et « Mot de passe ». Une fois de plus vous devez utiliser le même compte personnel ID Adobe et donc la même adresse e-mail que sur vos autres supports de lecture de livres numériques.
 
+<<<<<<< HEAD:_includes/initialiser-android.md
+Cliquez ensuite sur « Connectez-vous ». Votre application est initialisée !
+=======
 Cliquez ensuite sur « Connectez-vous ». Votre application est initialisée !
 
 {% include anchor.html id="acheter" label="Acheter" %}
@@ -71,3 +71,4 @@ Cliquez ensuite sur « Connectez-vous ». Votre application est initialisée 
 {% include anchor.html id="lire" label="Lire" %}
 ##Lire
 {% include lire-tablette-Android.md %}
+>>>>>>> gh-pages:_pages/support-tablette.md

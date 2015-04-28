@@ -1,3 +1,7 @@
+{% include anchor.html id="ouvrir-DRM-o" label="Ouvrir un livre sous DRM" %}
+###Ouvrir un livre sous DRM
+{% include ouvrir-drm.md %}
+
 {% include anchor.html id="fonctionnement-bibliotheque-o" label="Fonctionnement de la bibliothèque" %}
 
 ###Ouvrir un livre sous DRM

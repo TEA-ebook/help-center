@@ -1,16 +1,28 @@
+{% include anchor.html id="fiche-produit-o" label="Fiche produit" %}
+###Fiche produit
+Elle vous permet d'accéder à toutes les informations liées au livre, notamment le format (de manière générale, il est conseillé d'acheter ses ebooks au format epub) et la protection.
+
+![](/images/acheter-ordinateur-1.png)
+
 {% include anchor.html id="validation-panier-o" label="Validation du panier" %}
 ###Validation du panier
 
-Trouvez l’e-book que vous désirez en vous servant du moteur de recherche ou en cliquant sur l’une des catégories proposées, et cliquez sur « Télécharger ». Cliquez ensuite sur « Voir mon panier », puis sur « Valider mon panier ».
+Trouvez l’e-book que vous désirez en vous servant du moteur de recherche ou en cliquant sur l’une des catégories proposées et cliquez sur « Télécharger ». Cliquez ensuite sur « Voir mon panier ».
 
-![](/images/acheter-ordinateur-1.jpg)
+![](/images/acheter-ordinateur-2.png)
+
+Pour finir cliquez sur « Valider mon panier ».
+
+![](/images/acheter-ordinateur-3.png)
 
 {% include anchor.html id="identification-o" label="Identification" %}
 ###Identification
 
 Identifiez-vous si « Vous avez déjà un compte client ». Sinon créez-vous un compte en enregistrant une adresse e-mail et un mot de passe dans la partie « Vous êtes un nouveau client ? ». Vous devrez par la suite compléter les champs proposés afin de finaliser la création de votre compte client.
 
-![](/images/acheter-ordinateur-2.jpg)
+![](/images/acheter-ordinateur-4.png)
+
+![](/images/acheter-ordinateur-5.png)
 
 {% include anchor.html id="paiement-o" label="Paiement" %}
 ###Paiement
@@ -19,9 +31,12 @@ Cochez les Conditions Générales de Vente en bas à gauche, puis validez votre 
 
 Entrez le numéro de votre carte, la date d’expiration de votre carte ainsi que son cryptogramme visuel (les 3 chiffres situés au dos de votre carte), puis cliquez sur « Valider ».
 
-![](/images/acheter-ordinateur-3.jpg)
+![](/images/acheter-ordinateur-6.png)
 
-{% include anchor.html id="telechargement-o" label="Téléchargement" %}
-###Téléchargement
+![](/images/acheter-ordinateur-7.png)
 
-Félicitations, vous venez de passer votre premier achat d’e-book ! Un e-mail vous est envoyé. Vous pouvez alors télécharger votre livre numérique depuis cet e-mail ou depuis « Mon compte » puis « Mes E-books ».
+{% include anchor.html id="inalisation-commande-o" label="Finalisation de la commande" %}
+###Finalisation de la commande
+Une fois la commande terminée, vous pouvez retrouver un récapitulatif de votre commande vous permettant de télécharger vos livres et un mail vous est automatiquement envoyé.
+
+![](/images/acheter-ordinateur-8.png)

@@ -150,6 +150,10 @@ nav.navbar {
   display: none;
 }
 
+.header-github {
+  display: none;
+}
+
 .header-github:hover {
   background-color: #9d9d9d;
   color: #fff;

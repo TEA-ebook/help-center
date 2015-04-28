@@ -1,3 +1,16 @@
+---
+permalink: "/androidv1-androidv1/"
+layout: page
+title: Acheter un ebook et le lire sur sa tablette Android (app v1)
+---
+
+{% include anchor.html id="installer-android" label="Installer l'application Android v1" %}
+##Installer l'application Android v1
+{% include initialiser-android.md %}
+
+{% include anchor.html id="acheter-android" label="Acheter sur l'application Android v1" %}
+##Acheter sur l'application Android v1
+
 {% include anchor.html id="validation-panier-a" label="Validation du panier" %}
 ###Validation du panier
 
@@ -43,3 +56,11 @@ Vous êtes alors redirigé sur la page de synchronisation des e-books. L’e-boo
 <span class="protip">Si vous compte client TEA n’était pas enregistré dans l’application avant la réalisation de l’achat, vous recevrez un message d’information lors de la tentative de téléchargement.</span>
 
 Après lecture de ce message, cliquez sur « Fermer, puis « Mon compte » et enregistrez votre adresse e-mail et mot de passe associé à votre compte client. Une fois enregistré, cliquez sur l’onglet « Bibliothèque ». Il ne vous reste plus qu’à faire la synchronisation de votre compte client via l’onglet importer. Cliquez sur le lien suivant pour avoir une explication plus détaillée : Synchronisation depuis le compte client.
+
+{% include anchor.html id="telecharger-android" label="Télécharger sur son application Android v1" %}
+##Télécharger sur son application Android v1
+{% include telecharger-android.md %}
+
+{% include anchor.html id="lire-android" label="Lire avec votre application Android v1" %}
+##Lire avec votre application Android v1
+{% include lire-android.md %}
