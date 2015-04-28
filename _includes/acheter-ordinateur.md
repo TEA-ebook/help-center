@@ -1,13 +1,13 @@
 {% include anchor.html id="fiche-produit-o" label="Fiche produit" %}
 ###Fiche produit
-Elle vous permet d'accéder à toutes les informations lié au livre, notamment le format (de manière général, il est conseillé d'acheter ses ebooks au format epub) et la protection.
+Elle vous permet d'accéder à toutes les informations liées au livre, notamment le format (de manière générale, il est conseillé d'acheter ses ebooks au format epub) et la protection.
 
 ![](/images/acheter-ordinateur-1.png)
 
 {% include anchor.html id="validation-panier-o" label="Validation du panier" %}
 ###Validation du panier
 
-Trouvez l’e-book que vous désirez en vous servant du moteur de recherche ou en cliquant sur l’une des catégories proposées, et cliquez sur « Télécharger ». Cliquez ensuite sur « Voir mon panier ».
+Trouvez l’e-book que vous désirez en vous servant du moteur de recherche ou en cliquant sur l’une des catégories proposées et cliquez sur « Télécharger ». Cliquez ensuite sur « Voir mon panier ».
 
 ![](/images/acheter-ordinateur-2.png)
 
@@ -37,6 +37,6 @@ Entrez le numéro de votre carte, la date d’expiration de votre carte ainsi qu
 
 {% include anchor.html id="inalisation-commande-o" label="Finalisation de la commande" %}
 ###Finalisation de la commande
-Une fois la commande terminée, vous pouvez retrouver un récapitulatif de votre commande, vous permettant de télécharger vos livres et un mail vous est automatiquement envoyé.
+Une fois la commande terminée, vous pouvez retrouver un récapitulatif de votre commande vous permettant de télécharger vos livres et un mail vous est automatiquement envoyé.
 
 ![](/images/acheter-ordinateur-8.png)

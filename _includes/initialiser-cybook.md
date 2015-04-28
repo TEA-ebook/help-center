@@ -15,7 +15,7 @@ Pour accéder à la librairie numérique et télécharger / acheter des e-books,
 - Cliquez tout d’abord sur le bandeau intitulé « ebookstore ». Une connexion WiFi vous sera alors demandée.
 - Sélectionnez le réseau WiFi auquel vous désirez vous connecter (celui de votre box par exemple). Si votre liseuse ne détecte pas de réseau, sélectionnez « Rechercher les réseaux Wi-Fi »
 - Entrez la Clé WiFi (appelée aussi WPA, située au dos de votre box internet) puis validez.
-- Ca y est, vous êtes connecté à un réseau WiFi, vous pouvez naviguer sur l’ebookstore et télécharger du contenu !
+- Ça y est, vous êtes connecté à un réseau WiFi, vous pouvez naviguer sur l’ebookstore et télécharger du contenu !
 
 {% include anchor.html id="creation-compte-adobe" label="Création du compte Adobe" %}
 ###Création du compte Adobe
@@ -23,5 +23,5 @@ Pour accéder à la librairie numérique et télécharger / acheter des e-books,
 
 {% include anchor.html id="activation-compte-adobe" label="Activation du compte Adobe dans la liseuse Cybook" %}
 ###Activation du compte Adobe dans la liseuse Cybook
-Lorsque vous vous connectez à l'ebookstore pour la première fois, il vous est alors demandé d'autoriser votre liseuse avec votre compte Adobe.
+Lorsque vous vous connectez à l'ebookstore pour la première fois, il vous est demandé d'autoriser votre liseuse avec votre compte Adobe.
 Pour cela, il vous suffit de saisir l'identifiant Adobe et le mot de passe que vous avez créé préalablement.

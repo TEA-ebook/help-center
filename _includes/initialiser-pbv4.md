@@ -1,13 +1,13 @@
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/zlI7RQfKAug" %}
 
-<span class="warning2">Lorsque vous allumez votre liseuse PocketBook v4 pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse et notamment lors de vos futurs achats.</span>
+<span class="warning2">Lorsque vous allumez votre liseuse PocketBook v4 pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse, notamment lors de vos futurs achats.</span>
 
 {% include anchor.html id="connexion-wifi" label="Connexion au WiFi" %}
 ###Connexion à un réseau Wi-Fi
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/ufR3HeqZFsQ" %}
 
-Pour accéder à la librairie numérique et télécharger / acheter des e-books, vous devez être connecter à Internet.
+Pour accéder à la librairie numérique et télécharger / acheter des e-books, vous devez être connecté à Internet.
 
 Appuyez sur « Paramètres » depuis la page d'accueil, puis sur « Réseau ».
 
@@ -19,7 +19,7 @@ Entrez la Clé WiFi (appelée aussi WPA, située au dos de votre box internet) p
 
 N’oubliez pas de mettre sur « On » la connexion automatique, cela vous évitera de passer par cette étape à chaque fois que vous voulez vous connecter à la librairie numérique en passant par ce réseau WiFi.
 
-<span class="protip">Lorsque vous vous connectez à un réseau, il est possible qu’une mise à jour vous soit demandée. Il est préférable de faire ses mises à jour, car elles vous permettent de bénéficier des dernières fonctionnalités du logiciel et de corriger d'éventuels problèmes.</span>
+<span class="protip">Lorsque vous vous connectez à un réseau, il est possible qu’une mise à jour vous soit demandée. Il est préférable de faire ces mises à jour, car elles vous permettent de bénéficier des dernières fonctionnalités du logiciel et de corriger d'éventuels problèmes.</span>
 
 {% include anchor.html id="creation-compte-adobe" label="Création du compte Adobe" %}
 ###Création du compte Adobe
@@ -62,6 +62,6 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware 
 {% include anchor.html id="evenements-recents-4" label="Les « Évènements récents »" %}
 ###Les « Évènements récents »
 
-Un accès rapide à vos dernières lectures vous est proposé *via* les « Évènements récents » situés sur la page d’accueil qui récensent vos dernières actions sur la liseuse.
+Un accès rapide à vos dernières lectures vous est proposé *via* les « Évènements récents » situés sur la page d’accueil et qui recensent vos dernières actions sur la liseuse.
 
 ![](/images/lire-liseuse-Pocketbook-F4-1.jpg)

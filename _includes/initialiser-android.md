@@ -37,9 +37,12 @@ Afin de faciliter votre expérience d’achat, entrez vos identifiants de compte
 ###Création du compte Adobe
 {% include creation-compte-Adobe.md %}
 
+<<<<<<< HEAD:_includes/initialiser-android.md
 {% include anchor.html id="activation-compte-adobe" label="Activation du compte Adobe dans l'application Android v1" %}
 ###Activation du compte Adobe dans l'application Android v1
 
+=======
+>>>>>>> gh-pages:_pages/support-tablette.md
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/ks5gKmheahU" %}
 
 Vous trouverez en dessous du compte client, le compte Adobe ID. Cliquez sur « Connectez-vous ».
@@ -48,4 +51,24 @@ Vous trouverez en dessous du compte client, le compte Adobe ID. Cliquez sur « 
 
 Identifiez-vous en remplissant les champs « Login » et « Mot de passe ». Une fois de plus vous devez utiliser le même compte personnel ID Adobe et donc la même adresse e-mail que sur vos autres supports de lecture de livres numériques.
 
+<<<<<<< HEAD:_includes/initialiser-android.md
 Cliquez ensuite sur « Connectez-vous ». Votre application est initialisée !
+=======
+Cliquez ensuite sur « Connectez-vous ». Votre application est initialisée !
+
+{% include anchor.html id="acheter" label="Acheter" %}
+##Acheter
+{% include acheter-tablette-Android.md %}
+
+{% include anchor.html id="telecharger" label="Télécharger" %}
+##Télécharger
+{% include telecharger-tablette-Android.md %}
+
+{% include anchor.html id="transferer" label="Transférer" %}
+##Transférer
+{% include transferer-ordinateur-tablette-Android.md %}
+
+{% include anchor.html id="lire" label="Lire" %}
+##Lire
+{% include lire-tablette-Android.md %}
+>>>>>>> gh-pages:_pages/support-tablette.md
