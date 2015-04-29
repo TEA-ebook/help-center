@@ -1,38 +1,37 @@
-body{
+body {
   color: #444;
 }
 
-ul#anchor-menu{
+ul#anchor-menu {
   list-style-type: none;
   background-color: #EDECE8;
   padding: 10px 15px;
 }
 
-li.level-1{
-  font-weight: bold;
-  font-size: 1.4em;
+li {
+  &.level-1 {
+    font-weight: bold;
+    font-size: 1.4em;
+  }
+  &.level-2 {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+  &.level-3 {
+    padding-left: 15px;
+  }
+  &.level-4 {
+    padding-left: 30px;
+    & a {
+      color: #444;
+
+      &:focus, &:hover {
+        color: #444;
+      }
+    }
+  }
 }
 
-li.level-2{
-  font-weight: bold;
-  font-size: 1.2em;
-}
-
-li.level-3{
-  padding-left: 15px;
-}
-
-li.level-4{
-  padding-left: 30px;
-}
-
-li.level-4 a{
-  color: #444;
-}
-
-li.level-4 a:focus, li.level-4 a:hover{
-  color: #444;
-}
 
 /*
  * Trick from http://css-tricks.com/hash-tag-links-padding/
