@@ -146,6 +146,9 @@ a:hover, a:focus {
   color: #FFF;
   background-color: #009471;
 }
+.btn-default:hover {
+  color: #fff;
+}
 
 .warning2, .protip {
   display: block;
