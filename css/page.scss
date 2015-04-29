@@ -151,11 +151,15 @@ a:hover, a:focus {
   border: 1px solid #00614A;
   color: #FFF;
   background-color: #009471;
+  &:hover {
+    color: #fff;
+  }
 }
 
 .warning2, .protip {
   display: block;
   background-repeat: no-repeat;
+  margin: 50px 0;
   background-position: 20px center;
   padding: 10px 20px 10px 60px;
   border: 1px solid;
