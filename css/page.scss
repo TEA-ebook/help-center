@@ -1,3 +1,7 @@
+---
+# Style for pages
+---
+
 body {
   color: #444;
 }
@@ -45,87 +49,90 @@ article.page h3[id]::before,
 article.page h4[id]::before,
 article.page h5[id]::before,
 article.page h6[id]::before*/ 
-article.page a.anchor-menu-item-target{
-  display: block;
-  content: " ";
-  margin-top: -20px;
-  height: 20px;
-  visibility: hidden;
+article.page {
+
+  p, li {
+    font-size: 120%;
+  }
+
+  a {
+    text-decoration: underline;
+    &.anchor-menu-item-target{
+      display: block;
+      content: " ";
+      margin-top: -20px;
+      height: 20px;
+      visibility: hidden;
+    }
+  }
+
+  h1 {
+    color: #00AD85;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 3.6em;
+    margin: 0;
+  }
+
+  h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: #00AD85;
+    font-size: 3em;
+    padding: 5px 10px;
+    font-weight: bold;
+  }
+
+  h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #EDECE8;
+    font-size: 2.4em;
+    padding: 5px 10px;
+    font-weight: bold;
+    color:  #00AD85;
+  }
+
+  h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color:  #00AD85;
+    font-size: 1.8em;
+  }
+
+  h5 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 1.4em;
+  }
+
+  p > img {
+    display: block;
+    margin: auto;
+    box-shadow: 0 0 20px -5px;
+    border: 1px solid #E8E8E8;
+    max-width: 100%;
+  }
+
+  .video {
+    max-width: 100%;
+    text-align: center;
+
+    iframe {
+      display: block;
+      margin: auto;
+      max-width: 100%;
+      width: 560px;
+      height: 315px;
+      box-shadow: 0 0 20px -5px;
+      border: 1px solid #E8E8E8;
+    }
+  }
 }
 
-article.page p, article.page li {
-  font-size: 120%;
-}
-
-article.page a {
-  text-decoration: underline;
-}
-
-article.page h1 {
-  color: #00AD85;
-  font-weight: bold;
-  font-variant: small-caps;
-  font-size: 3.6em;
-  margin: 0;
-}
-
-article.page h2 {
-  margin-top: 30px;
-  margin-bottom: 20px;
-  color: white;
-  background-color: #00AD85;
-  font-size: 3em;
-  padding: 5px 10px;
-  font-weight: bold;
-}
-
-article.page h3 {
-  margin-top: 20px;
-  margin-bottom: 10px;
-  background-color: #EDECE8;
-  font-size: 2.4em;
-  padding: 5px 10px;
-  font-weight: bold;
-  color:  #00AD85;
-}
-
-article.page h4 {
-  margin-top: 20px;
-  margin-bottom: 10px;
-  font-weight: bold;
-  color:  #00AD85;
-  font-size: 1.8em;
-}
-
-article.page h5 {
-  margin-top: 15px;
-  margin-bottom: 5px;
-  font-weight: bold;
-  font-size: 1.4em;
-}
-
-article.page p > img {
-  display: block;
-  margin: auto;
-  box-shadow: 0 0 20px -5px;
-  border: 1px solid #E8E8E8;
-  max-width: 100%;
-}
-
-article.page .video {
-  max-width: 100%;
-  text-align: center;
-}
-
-article.page .video iframe {
-  display: block;
-  margin: auto;
-  max-width: 100%;
-  width: 560px;
-  height: 315px;
-  box-shadow: 0 0 20px -5px;
-  border: 1px solid #E8E8E8;
-}
 
 a {
     color: #00AD85;
@@ -171,7 +178,9 @@ a:hover, a:focus {
   background-color: powderblue;
   background-image: url(/images/protip.png);
   border-color: steelblue;
+
+  .title {
+    color: midnightblue;
+  }
 }
-.protip .title {
-  color: midnightblue;
-}
+
