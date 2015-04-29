@@ -1,0 +1,190 @@
+---
+# Style for pages
+---
+
+body {
+  color: #444;
+}
+
+ul#anchor-menu {
+  list-style-type: none;
+  background-color: #EDECE8;
+  padding: 10px 15px;
+}
+
+li {
+  &.level-1 {
+    font-weight: bold;
+    font-size: 1.4em;
+  }
+  &.level-2 {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+  &.level-3 {
+    padding-left: 15px;
+  }
+  &.level-4 {
+    padding-left: 30px;
+    & a {
+      color: #444;
+
+      &:focus, &:hover {
+        color: #444;
+      }
+    }
+  }
+}
+
+
+/*
+ * Trick from http://css-tricks.com/hash-tag-links-padding/
+ * Makes one able to follow an anchor link and arrive at the right place,
+ * despite the fixed menu bar.
+ */
+/*article.page a[name]:not([href])::before,
+article.page h1[id]::before,
+article.page h2[id]::before,
+article.page h3[id]::before,
+article.page h4[id]::before,
+article.page h5[id]::before,
+article.page h6[id]::before*/ 
+article.page {
+
+  p, li {
+    font-size: 120%;
+  }
+
+  a {
+    text-decoration: underline;
+    &.anchor-menu-item-target{
+      display: block;
+      content: " ";
+      margin-top: -20px;
+      height: 20px;
+      visibility: hidden;
+    }
+  }
+
+  h1 {
+    color: #00AD85;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 3.6em;
+    margin: 0;
+  }
+
+  h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: #00AD85;
+    font-size: 3em;
+    padding: 5px 10px;
+    font-weight: bold;
+  }
+
+  h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #EDECE8;
+    font-size: 2.4em;
+    padding: 5px 10px;
+    font-weight: bold;
+    color:  #00AD85;
+  }
+
+  h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color:  #00AD85;
+    font-size: 1.8em;
+  }
+
+  h5 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 1.4em;
+  }
+
+  p > img {
+    display: block;
+    margin: auto;
+    box-shadow: 0 0 20px -5px;
+    border: 1px solid #E8E8E8;
+    max-width: 100%;
+  }
+
+  .video {
+    max-width: 100%;
+    text-align: center;
+
+    iframe {
+      display: block;
+      margin: auto;
+      max-width: 100%;
+      width: 560px;
+      height: 315px;
+      box-shadow: 0 0 20px -5px;
+      border: 1px solid #E8E8E8;
+    }
+  }
+}
+
+
+a {
+    color: #00AD85;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #00AD85;
+    text-decoration: underline;
+}
+
+.btn-default {
+  background-image: linear-gradient(#00E0AC, #009471 50%, #007F62);
+  background-repeat: no-repeat;
+  filter: none;
+  border: 1px solid #00614A;
+  color: #FFF;
+  background-color: #009471;
+  &:hover {
+    color: #fff;
+  }
+}
+
+.warning2, .protip {
+  display: block;
+  background-repeat: no-repeat;
+  margin: 50px 0;
+  background-position: 20px center;
+  padding: 10px 20px 10px 60px;
+  border: 1px solid;
+}
+.warnin2 .title, .protip .title {
+  display: block;
+  font-weight: bold;
+}
+
+.warning2 {
+  background-color: bisque;
+  background-image: url(/images/warning.png);
+  border-color: burlywood;
+}
+.warning2 .title {
+  color: darkred;
+}
+
+.protip {
+  background-color: powderblue;
+  background-image: url(/images/protip.png);
+  border-color: steelblue;
+
+  .title {
+    color: midnightblue;
+  }
+}
+

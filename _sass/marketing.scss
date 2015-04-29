@@ -1,0 +1,42 @@
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+.marketing {
+  .col-lg-4 {
+    /* Center align the text within the three columns below the carousel */
+    margin-bottom: 20px;
+
+    p {
+      margin-right: 10px;
+      margin-left: 10px;
+    }
+
+    ul {
+      margin-right: 10px;
+      margin-left: 10px;
+      list-style-type: none;
+      padding: 0;
+
+      li {
+        font-size: 1.4em;
+      }
+    }
+  }
+
+  h2 {
+    color: white;
+    background-color: #00AD85;
+    font-size: 2.4em;
+    padding: 5px 10px;
+    font-weight: bold;
+  }
+
+  h3 {
+    background-color: #EDECE8;
+    font-size: 1.8em;
+    padding: 5px 10px;
+    font-weight: bold;
+    color:  #00AD85;
+  }
+}
+
