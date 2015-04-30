@@ -19,7 +19,7 @@ Entrez la Clé WiFi (appelée aussi WPA, située au dos de votre box internet) p
 
 N’oubliez pas de mettre sur « On » la connexion automatique, cela vous évitera de passer par cette étape à chaque fois que vous voulez vous connecter à la librairie numérique en passant par ce réseau WiFi.
 
-<span class="protip">Lorsque vous vous connectez à un réseau, il est possible qu’une mise à jour vous soit demandée. Il est préférable de faire ces mises à jour, car elles vous permettent de bénéficier des dernières fonctionnalités du logiciel et de corriger d'éventuels problèmes.</span>
+<p class="protip">Lorsque vous vous connectez à un réseau, il est possible qu’une mise à jour vous soit demandée. Il est préférable de faire ces mises à jour, car elles vous permettent de bénéficier des dernières fonctionnalités du logiciel et de corriger d'éventuels problèmes.</p>
 
 {% include anchor.html id="creation-compte-adobe" label="Création du compte Adobe" %}
 ###Création du compte Adobe

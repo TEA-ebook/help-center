@@ -5,7 +5,7 @@ Pour initialiser votre liseuse Cybook et accéder à la librairie numérique, il
 Découvrez comment initialiser et acheter un e-book depuis votre liseuse Cybook :
 {% include dailymotion-embedded-video.html name="vidéo-initialiser-cybook" embed-url="http://www.dailymotion.com/embed/video/xyiofg" url="http://www.dailymotion.com/video/xyiofg_initialisation-de-la-liseuse-cybook-et-utilisation-de-l-ebookstore_tech#from=embediframe" %}
 
-<span class="protip">Afin de vous accompagner au mieux dans l’initialisation de votre liseuse Cybook, vous pouvez [télécharger le guide de démarrage de la liseuse](/documents/tea_guide_demarrage_ebookstore.pdf). Vous y trouverez les grandes étapes à suivre pour initialiser votre liseuse et accéder à la librairie numérique.</span>
+<p class="protip">Afin de vous accompagner au mieux dans l’initialisation de votre liseuse Cybook, vous pouvez [télécharger le guide de démarrage de la liseuse](/documents/tea_guide_demarrage_ebookstore.pdf). Vous y trouverez les grandes étapes à suivre pour initialiser votre liseuse et accéder à la librairie numérique.</p>
 
 {% include anchor.html id="connexion-wifi" label="Connexion au WiFi" %}
 ###Connexion au WiFi

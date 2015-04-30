@@ -17,8 +17,8 @@ Les livres numériques se lisent sur de nombreux supports tels que :
 
 ![Lecture sur tous supports](/images/decouvrir-lecture-numerique-1.jpg)
 
-<span class="protip"><span class="title">Le plus de la liseuse :</span>
-un support dédié à la lecture numérique et équipé d’une technologie d’écran spécialement conçue pour permettre une lecture prolongée sans fatiguer les yeux.</span>
+<p class="protip"><span class="title">Le plus de la liseuse :</span>
+un support dédié à la lecture numérique et équipé d’une technologie d’écran spécialement conçue pour permettre une lecture prolongée sans fatiguer les yeux.</p>
 
 **Besoin d’aide sur les liseuses vendues dans notre librairie ?**
 [Aide : PocketBook Touch Lux by TEA](/liseuses-Pocketbook)

@@ -15,7 +15,7 @@
 10 – Livre en cours de lecture.
 11 – Un appui long sur la couverture d’un e-book vous permet d’accéder à la fiche informative du livre (résumé, sommaire, carnet de notes) ; un appui court ouvre directement l’e-book.
 
-<span class="protip">S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’outil d’importation afin de synchroniser l’ensemble des e-books que vous avez acheté chez TEA, grâce à votre compte client TEA.</span>
+<p class="protip">S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’outil d’importation afin de synchroniser l’ensemble des e-books que vous avez acheté chez TEA, grâce à votre compte client TEA.</p>
 
 {% include anchor.html id="fonctionnalites-lecture" label="Les fonctionnalités de lecture" %}
 ### Les fonctionnalités de lecture
