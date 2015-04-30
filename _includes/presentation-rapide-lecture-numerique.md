@@ -1,5 +1,3 @@
-<p>Un livre numérique (e-book) est un livre édité et diffusé en version numérique, disponible sous forme de fichier, qui peut être téléchargé, stocké et lu sur différents supports de lecture numérique.</p>
-
 <a id="avantages" title="Avantages !" class="anchor-menu-item-target"></a><h2>Avantages !</h2>
 
 <a id="bibliotheque-portable-perenne" title="Une bibliothèque portable et pérenne" class="anchor-menu-item-target"></a><h3>Une bibliothèque portable et pérenne</h3>
