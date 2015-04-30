@@ -29,7 +29,7 @@
 5 – Carnet de notes : l’ensemble de vos notes sont réunies dans votre carnet. Vous pouvez notamment les exporter depuis cet onglet.
 6 – Annotations : vous permet de prendre des notes sur le contenu de votre e-book. Une fonction de partage y est également associée.
 
-<span class="protip">Vous pouvez rester appuyé sur votre texte afin de déclencher les fonctions « copier » et « annoter ». Une fois déclenché, sélectionnez le texte qui vous intéresse, puis cliquez sur « Annoter » afin d’ouvrir l’onglet d’annotation et prendre une note.</span>
+<p class="protip">Vous pouvez rester appuyé sur votre texte afin de déclencher les fonctions « copier » et « annoter ». Une fois déclenché, sélectionnez le texte qui vous intéresse, puis cliquez sur « Annoter » afin d’ouvrir l’onglet d’annotation et prendre une note.</p>
 
 7 – Marque page : cliquez dessus pour l’activer.
 8 – Onglet d’aide : cliquez dessus pour l’activer.
