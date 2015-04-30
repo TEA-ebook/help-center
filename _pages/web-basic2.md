@@ -19,7 +19,7 @@ title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook Basic 
 ##Faire ses premiers pas sur sa liseuse Pocketbook Basic 2
 La pocketbook Basic 2 ne possède pas d'écran tactile, la navigation dans la liseuse se fait donc à l'aide des boutons (pour plus d'information se référer au manuel de la liseuse). Lors du premier démarrage de la liseuse, acceptez le contrat de licence puis paramétrez la date et l'heure.
 
-<p class="warning2">Il est important de bien vérifier et régler la date et l’heure correctement pour garantir un bon fonctionnement de la liseuse.</p>
+<p class="warning">Il est important de bien vérifier et régler la date et l’heure correctement pour garantir un bon fonctionnement de la liseuse.</p>
 
 Vous arrivez alors sur la page d'accueil de votre liseuse qui vous permet d’accéder aux différentes fonctionnalités de votre liseuse.
 

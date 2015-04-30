@@ -156,7 +156,7 @@ a:hover, a:focus {
   }
 }
 
-.warning2, .protip {
+.warning, .protip {
   display: block;
   background-repeat: no-repeat;
   margin: 50px 0;
@@ -169,12 +169,12 @@ a:hover, a:focus {
   font-weight: bold;
 }
 
-.warning2 {
+.warning {
   background-color: bisque;
   background-image: url(/images/warning.png);
   border-color: burlywood;
 }
-.warning2 .title {
+.warning .title {
   color: darkred;
 }
 

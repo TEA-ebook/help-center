@@ -1,6 +1,6 @@
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/zlI7RQfKAug" %}
 
-<p class="warning2">Lorsque vous allumez votre liseuse PocketBook v4 pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse, notamment lors de vos futurs achats.</p>
+<p class="warning">Lorsque vous allumez votre liseuse PocketBook v4 pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse, notamment lors de vos futurs achats.</p>
 
 {% include anchor.html id="connexion-wifi" label="Connexion au WiFi" %}
 ###Connexion à un réseau Wi-Fi
