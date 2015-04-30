@@ -7,7 +7,7 @@ La page de présentation de l’application apparaît. Cliquez alors sur « Ins
 
 ![](/images/support-tablette-1.jpg)
 
-<span class="warning2">Votre compte Google doit être enregistré au préalable sur votre tablette, sinon Google Play ne pourra pas installer l’application sur votre tablette. Si ce n’est pas le cas, l’enregistrement du compte Google se fait depuis Paramètre > Comptes > Ajouter un compte.</span>
+<p class="warning2">Votre compte Google doit être enregistré au préalable sur votre tablette, sinon Google Play ne pourra pas installer l’application sur votre tablette. Si ce n’est pas le cas, l’enregistrement du compte Google se fait depuis Paramètre > Comptes > Ajouter un compte.</p>
 
 L’application est alors téléchargée et installée sur votre tablette Android. Lancez l’application directement depuis le Play Store en cliquant sur « Ouvrir ».
 
@@ -31,7 +31,7 @@ Afin de faciliter votre expérience d’achat, entrez vos identifiants de compte
 
 ![](/images/support-tablette-2.png)
 
-<span class="warning2">Le compte client que vous enregistrez doit être le même que celui utilisé sur le site TEA.com ou sur votre Liseuse numérique avec la librairie TEA.</span>
+<p class="warning2">Le compte client que vous enregistrez doit être le même que celui utilisé sur le site TEA.com ou sur votre Liseuse numérique avec la librairie TEA.</p>
 
 {% include anchor.html id="creation-compte-adobe" label="Création du compte Adobe" %}
 ###Création du compte Adobe
