@@ -55,7 +55,6 @@
     function updateSelectResult(e, t) {
         var achat = $achat.val();
         var lecture = $(e.target).val();
-        console.log(achat, lecture);
         var resultat = tree[achat][lecture];
         var htmlResultat = '<a class="btn btn-default btn-home" role="button" href="'+resultat[0]+'">'+resultat[1]+'</a>';
         $('#select_result').html(htmlResultat);
