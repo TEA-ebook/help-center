@@ -4,6 +4,8 @@ layout: page
 title: Découvrir la lecture numérique
 ---
 
+Un livre numérique (e-book) est un livre édité et diffusé en version numérique, disponible sous forme de fichier, qui peut être téléchargé, stocké et lu sur différents supports de lecture numérique.
+
 {% include presentation-rapide-lecture-numerique.md %}
 
 {% include anchor.html id="supports-lecture" label="Supports de lecture" %}
@@ -20,17 +22,13 @@ Les livres numériques se lisent sur de nombreux supports tels que :
 <p class="protip"><span class="title">Le plus de la liseuse :</span>
 un support dédié à la lecture numérique et équipé d’une technologie d’écran spécialement conçue pour permettre une lecture prolongée sans fatiguer les yeux.</p>
 
-**Besoin d’aide sur les liseuses vendues dans notre librairie ?**
-[Aide : PocketBook Touch Lux by TEA](/liseuses-Pocketbook)
-[Aide : Cybook Odyssey](/liseuses-Cybook)
-
 {% include anchor.html id="catalogue-ebook" label="Catalogue d’e-books" %}
 ## Catalogue d’e-books
-Le catalogue comporte plus de 135 000 e-books disponibles en français et la majorité des nouveautés sort désormais en format numérique.
+Le catalogue comporte plus de 180 000 e-books disponibles en français, et la majorité des nouveautés sort désormais en format numérique.
 
-En moyenne, les livres numériques se vendent en France 20 à 25% moins cher que les livres papier. Le prix est fixé par les éditeurs et soumis à la loi du prix unique du livre de 1981, mise à jour en 2011 pour le livre numérique. Nous vous proposons donc le meilleur prix du marché.
+En moyenne, les livres numériques se vendent en France 25 à 30% moins cher que les livres papier. Le prix est fixé par les éditeurs et soumis à la loi du prix unique du livre de 1981, mise à jour en 2011 pour le livre numérique. Nous vous proposons donc le meilleur prix du marché.
 
-Vous trouverez également de nombreux ouvrages gratuits ou à prix réduit ce qui vous permet de découvrir de nombreux auteurs.
+Vous trouverez également de nombreux ouvrages gratuits ou à prix réduit, ce qui vous permet de découvrir de nombreux auteurs.
 
 {% include anchor.html id="formats-ebook" label="Formats d’e-books" %}
 ## Formats d’e-books
@@ -52,12 +50,10 @@ Sur notre librairie numérique, nous commercialisons les e-books tels qu'ils son
 
 <p class="warningtip"><span class="title">"Format" .acsm : </span>Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. Il s'agit d'un ichier de licence qui vous permettra de télécharger votre livre.L’installation d’Adobe Digital Editions est obligatoire pour les lire et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions](/usage-lire/#sur-un-ordinateur)
 </p>
-
 {% include anchor.html id="choisir-format-ebook" label="Quel format choisir entre le PDF et l’ePub ?" %}
 ### Quel format choisir entre le PDF et l’ePub ?
 
-Pour une lecture optimale, nous vous recommandons d’acheter vos e-books en format ePub. Ce format est en effet le plus adapté à la lecture numérique car il s’adapte aux différents supports de lecture et vous permet de
-modifier la forme de vos textes avec beaucoup de facilité.
+Pour une lecture optimale, nous vous recommandons d’acheter vos e-books en format ePub. Ce format est en effet le plus adapté à la lecture numérique car il s’adapte aux différents supports de lecture et vous permet de modifier la forme de vos textes avec beaucoup de facilité.
 
 **Chaque format possède des avantages et s'adapte différemment aux différents supports :**
 
@@ -103,16 +99,16 @@ modifier la forme de vos textes avec beaucoup de facilité.
 ## Protections d’e-books (Adobe DRM, watermarking)
 
 Lorsque vous achetez un livre numérique, vous achetez un droit de lecture. Vous pouvez donc télécharger votre livre autant de fois que vous le souhaitez. Cependant ce droit est personnel et non transmissible.
-Afin de protéger ces droits d’auteur, les éditeurs utilisent dans certains cas des protections.
+Afin de protéger ces droits d’auteur, dans certains cas les éditeurs utilisent des protections.
 Il existe deux types de protections : les DRM et le watermarking (ou « tatouage numérique »).
 
-**DRM** est l'acronyme de *Digital Rights Management* (« Gestion des Droits Numériques » en français). La DRM la plus répandue pour les e-books est la protection Adobe DRM. C’est celle qui est apposée sur certains fichiers numériques que nous commercialisons. Ces DRM sont apposées *via* un chiffrement du fichier ePub ou PDF (appelé .acsm, lisible et transférable par [Adobe Digital Editions](/usage-lire/#sur-un-ordinateur)) *via* un compte personnel ID Adobe et constituent une protection qui vous empêche de transmettre l’e-book à d’autres utilisateurs mais également de transférer votre e-book sur plus de 6 supports de lecture différents.
+**DRM** est l'acronyme de *Digital Rights Management* (« Gestion des Droits Numériques » en français). La DRM la plus répandue pour les e-books est la protection Adobe DRM. C’est celle qui est apposée sur certains fichiers numériques que nous commercialisons. Ces DRM sont apposées *via* un chiffrement du fichier ePub ou PDF (appelé .acsm, lisible et transférable par [Adobe Digital Editions](/usage-lire/#sur-un-ordinateur)) *via* un compte personnel ID Adobe. Elles constituent une protection qui vous empêche de transmettre l’e-book à d’autres utilisateurs mais également de transférer votre e-book sur plus de 6 supports de lecture différents.
 
 Le **watermarking**, contrairement aux DRM, ne limite pas techniquement l’utilisateur. C’est un tatouage numérique mis en place par les éditeurs sur certains titres afin de vérifier la traçabilité de l’e-book en y enregistrant les coordonnées de l’acheteur.
 
 {% include anchor.html id="savoir-ebook-protege" label="Comment savoir si un e-book est protégé ?" %}
 ### Comment savoir si un e-book est protégé ?
-Vous pouvez trouver cette information sur la fiche technique de la fiche produit d’un e-book. Si l’e-book est protégé, la mention « Adobe DRM » est indiquée au niveau de la protection numérique.
+Vous pouvez trouver cette information sur la fiche technique de la fiche produit d’un e-book. Si l’e-book est protégé, la mention « Contenu protégé » est indiquée au niveau de la protection numérique.
 
 ![Fiche technique : protection](/images/decouvrir-lecture-numerique-2.jpg)
 
