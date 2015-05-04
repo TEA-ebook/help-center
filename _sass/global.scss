@@ -3,7 +3,7 @@ body {
   padding-bottom: 50px;
 }
 
-.warning, .protip {
+.warningtip, .protip {
   display: block;
   background-repeat: no-repeat;
   margin: 50px 0;
@@ -17,7 +17,7 @@ body {
   }
 }
 
-.warning {
+.warningtip {
   background-color: bisque;
   background-image: url(/images/warning.png);
   border-color: burlywood;
