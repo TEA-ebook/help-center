@@ -4,25 +4,30 @@ title: Accueil
 ---
 
 <div class="row">
-  <div class="col-lg-12">
-    {% include presentation-rapide-lecture-numerique.md %}
-    <p><a class="btn btn-default" href="decouvrir-lecture-numerique/" role="button">En savoir plus »</a></p>
+  <div id="select_container" class="col-lg-5">
+    <h2>Choisissez votre parcours</h2>
+    <p>
+      <strong>J'achète sur</strong><br />
+      <select name="select_achat" id="select_achat"></select>
+    </p>
+    <p>
+      <strong>Je lis sur</strong><br />
+      <span id="select_lecture_wrapper">…</span>
+    </p>
+    <p>
+      <strong>Je me rends sur la page</strong><br />
+      <span id="select_result"></span>
+    </p>
+  </div>
+  <div class="col-lg-7">
+    <p class="img-home"><img src="/images/test-home.png"></p>
   </div>
 </div>
+
 <div class="row">
-  <div class="col-lg-8" id="select_container">
-    <div class="col-lg-3">
-      J'achète sur<br />
-      <select name="select_achat" id="select_achat"></select>
-    </div>
-    <div class="col-lg-6" >
-      Je lis sur<br />
-      <span id="select_lecture_wrapper">…</span>
-    </div>
-    <div class="col-lg-3">
-      Je me rends sur la page<br />
-      <span id="select_result"></span>
-    </div>
+  <div class="col-lg-8">
+    {% include presentation-rapide-lecture-numerique.md %}
+    <p><a class="btn btn-default" href="decouvrir-lecture-numerique/" role="button">En savoir plus »</a></p>
   </div>
   <div class="col-lg-4">
     <h2>FAQ</h2>
@@ -33,6 +38,7 @@ title: Accueil
     Les ebook sont uniquement téléchargeables depuis votre compte client.</p>
     <p><strong>La remise de 5% des libraires s’applique-t-elle sur les e-books ?</strong><br />
     Les e-books ne bénéficient pas de la remise de 5%.</p>
-    <p><a class="btn btn-default" href="faq/" role="button">En savoir plus »</a></p>
+    <p><a class="btn btn-default" role="button" href="faq/">En savoir plus »</a></p>
   </div>
 </div>
+

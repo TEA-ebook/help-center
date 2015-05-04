@@ -4,6 +4,8 @@ layout: page
 title: Découvrir la lecture numérique
 ---
 
+Un livre numérique (e-book) est un livre édité et diffusé en version numérique, disponible sous forme de fichier, qui peut être téléchargé, stocké et lu sur différents supports de lecture numérique.
+
 {% include presentation-rapide-lecture-numerique.md %}
 
 {% include anchor.html id="supports-lecture" label="Supports de lecture" %}
