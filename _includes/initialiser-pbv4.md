@@ -1,6 +1,6 @@
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/zlI7RQfKAug" %}
 
-<span class="warning2">Lorsque vous allumez votre liseuse PocketBook v4 pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse, notamment lors de vos futurs achats.</span>
+<p class="warningtip">Lorsque vous allumez votre liseuse PocketBook v4 pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse, notamment lors de vos futurs achats.</p>
 
 {% include anchor.html id="connexion-wifi" label="Connexion au WiFi" %}
 ###Connexion à un réseau Wi-Fi
@@ -19,7 +19,7 @@ Entrez la Clé WiFi (appelée aussi WPA, située au dos de votre box internet) p
 
 N’oubliez pas de mettre sur « On » la connexion automatique, cela vous évitera de passer par cette étape à chaque fois que vous voulez vous connecter à la librairie numérique en passant par ce réseau WiFi.
 
-<span class="protip">Lorsque vous vous connectez à un réseau, il est possible qu’une mise à jour vous soit demandée. Il est préférable de faire ces mises à jour, car elles vous permettent de bénéficier des dernières fonctionnalités du logiciel et de corriger d'éventuels problèmes.</span>
+<p class="protip">Lorsque vous vous connectez à un réseau, il est possible qu’une mise à jour vous soit demandée. Il est préférable de faire ces mises à jour, car elles vous permettent de bénéficier des dernières fonctionnalités du logiciel et de corriger d'éventuels problèmes.</p>
 
 {% include anchor.html id="creation-compte-adobe" label="Création du compte Adobe" %}
 ###Création du compte Adobe

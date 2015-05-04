@@ -15,7 +15,7 @@
 10 – Livre en cours de lecture.
 11 – Un appui long sur la couverture d’un e-book vous permet d’accéder à la fiche informative du livre (résumé, sommaire, carnet de notes) ; un appui court ouvre directement l’e-book.
 
-<span class="protip">S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’outil d’importation afin de synchroniser l’ensemble des e-books que vous avez acheté chez TEA, grâce à votre compte client TEA.</span>
+<p class="protip">S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’outil d’importation afin de synchroniser l’ensemble des e-books que vous avez acheté chez TEA, grâce à votre compte client TEA.</p>
 
 {% include anchor.html id="fonctionnalites-lecture" label="Les fonctionnalités de lecture" %}
 ### Les fonctionnalités de lecture
@@ -29,7 +29,7 @@
 5 – Carnet de notes : l’ensemble de vos notes sont réunies dans votre carnet. Vous pouvez notamment les exporter depuis cet onglet.
 6 – Annotations : vous permet de prendre des notes sur le contenu de votre e-book. Une fonction de partage y est également associée.
 
-<span class="protip">Vous pouvez rester appuyé sur votre texte afin de déclencher les fonctions « copier » et « annoter ». Une fois déclenché, sélectionnez le texte qui vous intéresse, puis cliquez sur « Annoter » afin d’ouvrir l’onglet d’annotation et prendre une note.</span>
+<p class="protip">Vous pouvez rester appuyé sur votre texte afin de déclencher les fonctions « copier » et « annoter ». Une fois déclenché, sélectionnez le texte qui vous intéresse, puis cliquez sur « Annoter » afin d’ouvrir l’onglet d’annotation et prendre une note.</p>
 
 7 – Marque page : cliquez dessus pour l’activer.
 8 – Onglet d’aide : cliquez dessus pour l’activer.

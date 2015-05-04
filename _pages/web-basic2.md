@@ -19,7 +19,7 @@ title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook Basic 
 ##Faire ses premiers pas sur sa liseuse Pocketbook Basic 2
 La pocketbook Basic 2 ne possède pas d'écran tactile, la navigation dans la liseuse se fait donc à l'aide des boutons (pour plus d'information se référer au manuel de la liseuse). Lors du premier démarrage de la liseuse, acceptez le contrat de licence puis paramétrez la date et l'heure.
 
-<span class="warning2">Il est important de bien vérifier et régler la date et l’heure correctement pour garantir un bon fonctionnement de la liseuse.</span>
+<p class="warningtip">Il est important de bien vérifier et régler la date et l’heure correctement pour garantir un bon fonctionnement de la liseuse.</p>
 
 Vous arrivez alors sur la page d'accueil de votre liseuse qui vous permet d’accéder aux différentes fonctionnalités de votre liseuse.
 
@@ -44,8 +44,8 @@ Connectez votre ordinateur à votre liseuse grâce à votre câble USB.
 Confirmez la connexion sur votre liseuse (cliquez sur connecter/accepter/Oui). 
 Lors de la première connexion un programme d’installation peut être lancé. 
 
-<span class="protip">Dans le cas des liseuses PocketBook, si vous branchez votre liseuse à votre ordinateur alors qu’elle est éteinte, celle-ci ne vous proposera pas de transférer des fichiers mais se mettra automatiquement à charger la batterie.
-Il faut donc allumer votre liseuse, attendre l’apparition du menu principal, brancher la liseuse à votre ordinateur et sélectionner « Transférer des fichiers ».</span>
+<p class="protip">Dans le cas des liseuses PocketBook, si vous branchez votre liseuse à votre ordinateur alors qu’elle est éteinte, celle-ci ne vous proposera pas de transférer des fichiers mais se mettra automatiquement à charger la batterie.
+Il faut donc allumer votre liseuse, attendre l’apparition du menu principal, brancher la liseuse à votre ordinateur et sélectionner « Transférer des fichiers ».</p>
 
 Lancez Adobe Digital Editions s’il ne s’est pas lancé tout seul. 
 Votre liseuse apparaît dans « Périphériques ». 

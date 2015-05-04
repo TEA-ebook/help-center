@@ -52,4 +52,4 @@ Dans le champ « Fournisseur d'eBook », choisissez « Adobe ID ». Puis tap
 
 Une fois l'ordinateur autorisé, cliquez sur « OK ».
 
-<span class="warning2">Dans les deux cas, vous ne devez pas cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</span>
+<p class="warningtip">Dans les deux cas, vous ne devez pas cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</p>

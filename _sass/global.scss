@@ -1,8 +1,33 @@
-/* GLOBAL STYLES
--------------------------------------------------- */
-/* Padding below the footer and lighter body text */
-
 body {
   padding-top: 80px;
   padding-bottom: 50px;
+}
+
+.warningtip, .protip {
+  display: block;
+  background-repeat: no-repeat;
+  margin: 50px 0;
+  background-position: 20px center;
+  padding: 10px 20px 10px 60px;
+  border: 1px solid;
+
+  .title {
+    display: block;
+    font-weight: bold;
+  }
+}
+
+.warningtip {
+  background-color: bisque;
+  background-image: url(/images/warning.png);
+  border-color: burlywood;
+  .title { color: darkred; }
+}
+
+.protip {
+  background-color: powderblue;
+  background-image: url(/images/protip.png);
+  border-color: steelblue;
+
+  .title { color: midnightblue; }
 }

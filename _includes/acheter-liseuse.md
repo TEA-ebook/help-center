@@ -28,7 +28,7 @@ Si vous avez déjà un compte client : identifiez-vous en saisissant votre adre
 
 Si vous n’avez pas de compte client : créez un compte directement via votre liseuse TEA en sélectionnant « Créer mon compte » et en remplissant les champs demandés.
 
-<span class="protip">Cliquez sur mémoriser mon compte afin de ne plus avoir à entrer votre adresse e-mail.</span>
+<p class="protip">Cliquez sur mémoriser mon compte afin de ne plus avoir à entrer votre adresse e-mail.</p>
 
 {% include anchor.html id="paiement" label="Paiement" %}
 ###Paiement

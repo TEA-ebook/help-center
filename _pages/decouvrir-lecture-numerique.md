@@ -19,8 +19,8 @@ Les livres numériques se lisent sur de nombreux supports tels que :
 
 ![Lecture sur tous supports](/images/decouvrir-lecture-numerique-1.jpg)
 
-<span class="protip"><span class="title">Le plus de la liseuse :</span>
-un support dédié à la lecture numérique et équipé d’une technologie d’écran spécialement conçue pour permettre une lecture prolongée sans fatiguer les yeux.</span>
+<p class="protip"><span class="title">Le plus de la liseuse :</span>
+un support dédié à la lecture numérique et équipé d’une technologie d’écran spécialement conçue pour permettre une lecture prolongée sans fatiguer les yeux.</p>
 
 {% include anchor.html id="catalogue-ebook" label="Catalogue d’e-books" %}
 ## Catalogue d’e-books
@@ -45,12 +45,11 @@ Il existe plusieurs formats de livres numériques :
 
 Sur notre librairie numérique, nous commercialisons les e-books tels qu'ils sont fournis par l’éditeur : au format ePub, PDF, streaming ou multiformat.
 
-<span class="warning2"><span class="title">Format propriétaire : </span>Certains formats sont dits propriétaires, c’est-à-dire que les fichiers ont un format spécifique ne pouvant être lus que sur un seul type de support. C’est par exemple le cas des formats .azw pour Amazon qui ne peuvent être lus que sur des liseuses Kindle. **Nous garantissons des formats ouverts et non propriétaires pour assurer l'intéropérabilité.**
-</span>
+<p class="warningtip"><span class="title">Format propriétaire : </span>Certains formats sont dits propriétaires, c’est-à-dire que les fichiers ont un format spécifique ne pouvant être lus que sur un seul type de support. C’est par exemple le cas des formats .azw pour Amazon qui ne peuvent être lus que sur des Kindle. **Nous garantissons des formats ouverts et non propriétaires pour assurer l'intéropérabilité.**
+</p>
 
-<span class="warning2"><span class="title">"Format" .acsm : </span>Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. Il s'agit d'un fichier de licence qui vous permettra de télécharger votre livre. L’installation d’Adobe Digital Editions est obligatoire pour les lire et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions](/usage-lire/#sur-un-ordinateur)
-</span>
-
+<p class="warningtip"><span class="title">"Format" .acsm : </span>Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. Il s'agit d'un ichier de licence qui vous permettra de télécharger votre livre.L’installation d’Adobe Digital Editions est obligatoire pour les lire et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions](/usage-lire/#sur-un-ordinateur)
+</p>
 {% include anchor.html id="choisir-format-ebook" label="Quel format choisir entre le PDF et l’ePub ?" %}
 ### Quel format choisir entre le PDF et l’ePub ?
 
@@ -113,4 +112,4 @@ Vous pouvez trouver cette information sur la fiche technique de la fiche produit
 
 ![Fiche technique : protection](/images/decouvrir-lecture-numerique-2.jpg)
 
-<span class="warning2">Vous pourrez également remarquer au moment du téléchargement qu’un fichier e-book non protégé a l’extension « .pdf » ou « .epub » selon son format, alors qu’**un fichier protégé par Adobe DRM a l’extension « .acsm »**. Pour le lire vous devez disposer d'[un compte personnel ID Adobe](/usage-lire/#sur-un-ordinateur).</span>
+<p class="warningtip">Vous pourrez également remarquer au moment du téléchargement qu’un fichier e-book non protégé a l’extension « .pdf » ou « .epub » selon son format, alors qu’**un fichier protégé par Adobe DRM a l’extension « .acsm »**. Pour le lire vous devez disposer d'[un compte personnel ID Adobe](/usage-lire/#sur-un-ordinateur).</p>

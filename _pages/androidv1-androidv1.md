@@ -53,7 +53,7 @@ Un message de confirmation apparaît. Cliquez sur « Télécharger ».
 
 Vous êtes alors redirigé sur la page de synchronisation des e-books. L’e-book que vous venez d’acheter est pré-coché. Il ne vous reste plus qu’à cliquer sur « Synchroniser la sélection ». Votre e-book est alors sur votre bibliothèque, vous pouvez commencer votre lecture !
 
-<span class="protip">Si vous compte client TEA n’était pas enregistré dans l’application avant la réalisation de l’achat, vous recevrez un message d’information lors de la tentative de téléchargement.</span>
+<p class="protip">Si vous compte client TEA n’était pas enregistré dans l’application avant la réalisation de l’achat, vous recevrez un message d’information lors de la tentative de téléchargement.</p>
 
 Après lecture de ce message, cliquez sur « Fermer, puis « Mon compte » et enregistrez votre adresse e-mail et mot de passe associé à votre compte client. Une fois enregistré, cliquez sur l’onglet « Bibliothèque ». Il ne vous reste plus qu’à faire la synchronisation de votre compte client via l’onglet importer. Cliquez sur le lien suivant pour avoir une explication plus détaillée : Synchronisation depuis le compte client.
 
