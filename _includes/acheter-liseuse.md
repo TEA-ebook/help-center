@@ -1,6 +1,6 @@
 {% include anchor.html id="validation-panier" label="Validation du panier" %}
 ###Validation du panier
-Accédez à la librairie. 
+Accédez à la librairie.
 
 ![](/images/acheter-liseuse-1.jpg)
 
@@ -28,7 +28,7 @@ Si vous avez déjà un compte client : identifiez-vous en saisissant votre adre
 
 Si vous n’avez pas de compte client : créez un compte directement via votre liseuse TEA en sélectionnant « Créer mon compte » et en remplissant les champs demandés.
 
-<p class="protip">Cliquez sur mémoriser mon compte afin de ne plus avoir à entrer votre adresse e-mail.</p>
+<p class="protip">Cliquez sur « Mémoriser mon compte » afin de ne plus avoir à entrer votre adresse e-mail.</p>
 
 {% include anchor.html id="paiement" label="Paiement" %}
 ###Paiement
@@ -46,7 +46,7 @@ Afin de télécharger votre e-book, cliquez sur « Télécharger ».
 
 ![](/images/acheter-liseuse-9.jpg)
 
-Une fenêtre apparaît pour vous demander d’ouvrir le fichier de l’e-book. Si vous désirez lire votre e-book maintenant,sélectionnez « Oui », sinon sélectionnez « Non » et vous resterez sur la page « Mes commandes ». Vous pourrez alors retrouver l'e-book téléchargé dans la bibliothèque.
+Une fenêtre apparaît pour vous demander d’ouvrir le fichier de l’e-book. Si vous désirez lire votre e-book maintenant, sélectionnez « Oui », sinon sélectionnez « Non » et vous resterez sur la page « Mes commandes ». Vous pourrez alors retrouver l'e-book téléchargé dans la bibliothèque.  
 Bonne lecture !
 
 Si vous ne souhaitez pas télécharger le livre tout de suite, vous avez la possibilité de les télécharger ultérieurement depuis le store liseuse ou depuis la fonctionnalité « Mes achats » si elle est disponible.
