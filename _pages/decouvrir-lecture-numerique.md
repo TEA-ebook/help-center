@@ -39,7 +39,7 @@ Il existe plusieurs formats de livres numériques :
 
 - Le **PDF** : format conservant la mise en forme initiale de l'ouvrage indépendamment des logiciels ou supports de lecture.
 
-- Le **multi-format** : pack comportant plusieurs fois le même titre en différents formats (formats pdf, epub, streaming).
+- Le **multi-format** : pack comportant plusieurs fois le même titre en différents formats (formats PDF, ePub, streaming).
 
 - Le **streaming** : format ne donnant pas lieu à un téléchargement / enregistrement du fichier. La lecture se fait en ligne *via* le navigateur Internet. Il vous faut donc une connexion Internet.
 

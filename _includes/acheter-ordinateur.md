@@ -1,6 +1,6 @@
 {% include anchor.html id="fiche-produit-o" label="Fiche produit" %}
 ###Fiche produit
-Elle vous permet d'accéder à toutes les informations liées au livre, notamment le format (de manière générale, il est conseillé d'acheter ses ebooks au format epub) et la protection.
+Elle vous permet d'accéder à toutes les informations liées au livre, notamment le format (de manière générale, il est conseillé d'acheter ses ebooks au format ePub) et la protection.
 
 ![](/images/acheter-ordinateur-1.png)
 
