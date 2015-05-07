@@ -60,34 +60,34 @@ Pour une lecture optimale, nous vous recommandons d’acheter vos e-books en for
 <table class="table table-bordered">
     <tr>
         <th></th>
-        <th>Ordinateur</th>
-        <th>Tablette</th>
-        <th>Liseuse</th>
-        <th>Smartphone</th>
+        <th scope="col">Ordinateur</th>
+        <th scope="col">Tablette</th>
+        <th scope="col">Liseuse</th>
+        <th scope="col">Smartphone</th>
     </tr>
     <tr>
-        <th>ePub</th>
+        <th scope="row">ePub</th>
         <td class="success">Compatible</td>
         <td class="success">Compatible</td>
         <td class="success"><strong>Recommandé</strong></td>
         <td class="success">Compatible</td>
     </tr>
     <tr>
-        <th>PDF</th>
+        <th scope="row">PDF</th>
         <td class="success">Compatible</td>
         <td class="success">Compatible</td>
         <td class="warning">Compatible, mais non recommandé</td>
         <td class="success">Compatible</td>
     </tr>
     <tr>
-        <th>Streaming</th>
+        <th scope="row">Streaming</th>
         <td class="warning">Compatible, nécessite une connexion internet</td>
         <td class="warning">Compatible, nécessite une connexion internet</td>
         <td class="danger">Non Compatible</td>
         <td class="warning">Compatible, nécessite une connexion internet</td>
     </tr>
     <tr>
-        <th>Mobipocket(prc)</th>
+        <th scope="row">Mobipocket(prc)</th>
         <td class="danger">Non Compatible</td>
         <td class="warning">Compatible avec une application spécifique</td>
         <td class="success">Compatible</td>
