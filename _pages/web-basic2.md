@@ -25,7 +25,9 @@ Vous arrivez alors sur la page d'accueil de votre liseuse qui vous permet d’ac
 
 ![](/images/support-basic2-1.jpg)
 
-Vous devez ensuite paramétrer votre compte Adobe, pour se faire aller dans le menu « Paramètres », puis « Comptes et synchronisation » et enfin « Adobe DRM ». Rentrez ensuite l'identifiant et [le mot de passe que vous avez préalablement créer sur le site Adobe](http://0.0.0.0:4000/web-basic2/#creation-compte-Adobe).
+Vous devez ensuite paramétrer votre compte Adobe.
+
+Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synchronisation » et enfin « Adobe DRM ». Rentrez ensuite l'identifiant et [le mot de passe que vous avez préalablement créé sur le site Adobe](http://0.0.0.0:4000/web-basic2/#creation-compte-Adobe).
 
 ![](/images/support-basic2-2.jpg)
 
@@ -35,20 +37,20 @@ Vous devez ensuite paramétrer votre compte Adobe, pour se faire aller dans le m
 
 {% include anchor.html id="tranferer-basic2" label="Transférer un livre sur votre liseuse Basic 2" %}
 ##Transférer un livre sur votre liseuse Basic 2
-Le transfert d'un ebook d'un ordinateur vers une liseuse se fait grâce à un câble USB.
+Le transfert d'un ebook depuis ordinateur vers une liseuse se fait grâce à un câble USB.
+
 Vous devez tout d’abord avoir vos e-books sur Adobe Digital Editions.
 
 ![](/images/transferer-ordinateur-liseuse-1.png)
 
-Connectez votre ordinateur à votre liseuse grâce à votre câble USB. 
-Confirmez la connexion sur votre liseuse (cliquez sur connecter/accepter/Oui). 
-Lors de la première connexion un programme d’installation peut être lancé. 
+* Connectez votre ordinateur à votre liseuse grâce à votre câble USB.
+* Confirmez la connexion sur votre liseuse (cliquez sur connecter/accepter/Oui).
+* Lors de la première connexion, un programme d’installation peut être lancé.
 
-<p class="protip">Dans le cas des liseuses PocketBook, si vous branchez votre liseuse à votre ordinateur alors qu’elle est éteinte, celle-ci ne vous proposera pas de transférer des fichiers mais se mettra automatiquement à charger la batterie.
-Il faut donc allumer votre liseuse, attendre l’apparition du menu principal, brancher la liseuse à votre ordinateur et sélectionner « Transférer des fichiers ».</p>
+<p class="protip">Dans le cas des liseuses PocketBook, si vous branchez votre liseuse à votre ordinateur alors qu’elle est éteinte, celle-ci ne vous proposera pas de transférer des fichiers mais se mettra automatiquement à charger la batterie.<br>Il faut donc allumer votre liseuse, attendre l’apparition du menu principal, brancher la liseuse à votre ordinateur et sélectionner « Transférer des fichiers ».</p>
 
-Lancez Adobe Digital Editions s’il ne s’est pas lancé tout seul. 
-Votre liseuse apparaît dans « Périphériques ». 
+* Lancez Adobe Digital Editions s’il ne s’est pas lancé tout seul. 
+* Votre liseuse apparaît dans « Périphériques ». 
 
 ![](/images/transferer-ordinateur-liseuse-2.png)
 
@@ -56,9 +58,9 @@ Cliquez sur l’e-book que vous voulez transférer et faites un glisser-déposer
 
 ![](/images/transferer-ordinateur-liseuse-3.png)
 
-Vérifiez que l’e-book a été transféré en cliquant sur le nom de votre liseuse dans « Périphériques ». 
-Débranchez votre liseuse après vérification. 
-Vous venez de transférer votre e-book. Félicitations ! 
+* Vérifiez que l’e-book a été transféré en cliquant sur le nom de votre liseuse dans « Périphériques ». 
+* Débranchez votre liseuse après vérification. 
+* Vous venez de transférer votre e-book. Félicitations ! 
 
 {% include anchor.html id="lire-basic2" label="Lire son livre sur votre liseuse Basic 2" %}
 ##Lire son livre sur votre liseuse Basic 2
@@ -72,7 +74,7 @@ La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de 
 ####L'accès à la bibliothèque
 Depuis la page d’accueil de votre PocketBook Basic 2, vous pouvez consulter vos e-books en cliquant sur « Bibliothèque » ou l’icône correspondante.
 
-La bibliothèque de votre liseuse vous permet de d'accéder aux livres présents sur votre liseuse, mais aussi de les ranger et de les organiser comme vous le souhaitez.
+La bibliothèque de votre liseuse vous permet d'accéder aux livres présents sur votre liseuse, mais aussi de les ranger et de les organiser comme vous le souhaitez.
 
 ![](/images/support-basic2-3.jpg)
 
@@ -96,7 +98,7 @@ Le menu contextuel, qui apparaît suite à une pression continue sur OK, permet 
 
 {% include anchor.html id="lecture-basic2" label="Fonctionnalités de lecture" %}
 ###Fonctionnalités de lecture
-Pour ouvrir un livre, appuyez sur OK sur son titre dans la section Événements récents ou dans la Bibliothèque. Si vous avez ouvert un livre auparavant, il sera ouvert à la page à laquelle vous vous êtes arrêté de lire.
+Pour ouvrir un livre, appuyez sur OK sur son titre dans la section _Événements récents_ ou dans la Bibliothèque. Si vous avez ouvert un livre auparavant, il sera ouvert à la page à laquelle vous vous êtes arrêté de lire.
 
 Utilisez les touches Précédent/Suivant ou Gauche/droite pour tourner les pages. Une pression continue sur les touches Précédent/Suivant permet de tourner 10 pages à la fois.
 
@@ -114,5 +116,5 @@ En appuyant sur le bouton OK, vous pouvez accéder au menu de l'application de l
 * Pivoter : Fixe l’orientation de l’écran.
 * Notes.
 * Paramètres : Vous pouvez configurer les paramètres de lecture qui vous conviennent le mieux : police, taille de police, l’espacement des lignes ou la largeur des marges de page.
-* Dictionnaire : Traduction d’un seul mot. Par défaut, le curseur met en surbrillance le mot à traduire, et le dictionnaire recherche une traduction automatiquement. En appuyant sur le bouton OK , une barre d’outils apparaît.
+* Dictionnaire : Traduction d’un seul mot. Par défaut, le curseur met en surbrillance le mot à traduire, et le dictionnaire recherche une traduction automatiquement. En appuyant sur le bouton OK, une barre d’outils apparaît.
 
