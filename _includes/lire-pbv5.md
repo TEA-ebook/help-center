@@ -7,7 +7,7 @@ La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de 
 
 Depuis la page d’accueil de votre PocketBook v5, vous pouvez consulter vos e-books en cliquant sur « Bibliothèque » ou l’icône correspondante.
 
-La bibliothèque de votre liseuse vous permet de d'accéder aux livres présents sur votre liseuse, mais aussi de les ranger et de les organiser comme vous le souhaitez.
+La bibliothèque de votre liseuse vous permet d'accéder aux livres présents sur votre liseuse, mais aussi de les ranger et de les organiser comme vous le souhaitez.
 
 ![](/images/lire-liseuse-Pocketbook-F5-2.jpg)
 

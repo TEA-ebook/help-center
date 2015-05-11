@@ -7,8 +7,8 @@ La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de 
 
 Depuis la page d’accueil de votre Cybook, vous pouvez :
 
-- Continuer à lire l’e-book que vous avez déjà commencé en sélectionnant « Lecture en cours ».
-- Consulter certains de vos e-books depuis le bloc « bibliothèque » ou la totalité en sélectionnant « tout voir ».
+- continuer à lire l’e-book que vous avez déjà commencé en sélectionnant « Lecture en cours »,
+- consulter certains de vos e-books depuis le bloc « bibliothèque » ou la totalité en sélectionnant « tout voir ».
 
 S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’Ebookstore, puis « Mon compte » et « Mes commandes » afin de les télécharger à nouveau.
 Si c’est votre première utilisation de la liseuse TEA, vous remarquerez qu’une bibliothèque de quelques titres vous est offerte afin que vous commenciez à découvrir votre liseuse TEA et les possibilités de la lecture numérique.

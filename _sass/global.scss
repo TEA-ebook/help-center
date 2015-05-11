@@ -30,4 +30,10 @@ body {
   border-color: steelblue;
 
   .title { color: midnightblue; }
+  a:link, a:visited {
+    color: steelblue;
+  }
+  a:hover {
+    color: darken(steelblue, 15%);
+  }
 }

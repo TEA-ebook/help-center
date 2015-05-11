@@ -1,7 +1,7 @@
 ---
 permalink: "/liseuse-pbv5/"
 layout: page
-title: Acheter un ebooket le lire sur sa liseuse Pocketbook v5
+title: Acheter un ebook et le lire sur sa liseuse Pocketbook v5
 ---
 
 {% include anchor.html id="initialiser-pbv5" label="Initialiser votre liseuse Pocketbook v5" %}

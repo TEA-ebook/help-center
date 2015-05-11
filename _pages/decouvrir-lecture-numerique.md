@@ -39,7 +39,7 @@ Il existe plusieurs formats de livres numériques :
 
 - Le **PDF** : format conservant la mise en forme initiale de l'ouvrage indépendamment des logiciels ou supports de lecture.
 
-- Le **multi-format** : pack comportant plusieurs fois le même titre en différents formats (formats pdf, epub, streaming).
+- Le **multi-format** : pack comportant plusieurs fois le même titre en différents formats (formats PDF, ePub, streaming).
 
 - Le **streaming** : format ne donnant pas lieu à un téléchargement / enregistrement du fichier. La lecture se fait en ligne *via* le navigateur Internet. Il vous faut donc une connexion Internet.
 
@@ -60,34 +60,34 @@ Pour une lecture optimale, nous vous recommandons d’acheter vos e-books en for
 <table class="table table-bordered">
     <tr>
         <th></th>
-        <th>Ordinateur</th>
-        <th>Tablette</th>
-        <th>Liseuse</th>
-        <th>Smartphone</th>
+        <th scope="col">Ordinateur</th>
+        <th scope="col">Tablette</th>
+        <th scope="col">Liseuse</th>
+        <th scope="col">Smartphone</th>
     </tr>
     <tr>
-        <th>ePub</th>
+        <th scope="row">ePub</th>
         <td class="success">Compatible</td>
         <td class="success">Compatible</td>
         <td class="success"><strong>Recommandé</strong></td>
         <td class="success">Compatible</td>
     </tr>
     <tr>
-        <th>PDF</th>
+        <th scope="row">PDF</th>
         <td class="success">Compatible</td>
         <td class="success">Compatible</td>
         <td class="warning">Compatible, mais non recommandé</td>
         <td class="success">Compatible</td>
     </tr>
     <tr>
-        <th>Streaming</th>
+        <th scope="row">Streaming</th>
         <td class="warning">Compatible, nécessite une connexion internet</td>
         <td class="warning">Compatible, nécessite une connexion internet</td>
         <td class="danger">Non Compatible</td>
         <td class="warning">Compatible, nécessite une connexion internet</td>
     </tr>
     <tr>
-        <th>Mobipocket(prc)</th>
+        <th scope="row">Mobipocket(prc)</th>
         <td class="danger">Non Compatible</td>
         <td class="warning">Compatible avec une application spécifique</td>
         <td class="success">Compatible</td>

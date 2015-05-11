@@ -4,27 +4,27 @@
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/UUMT9dvKrG0" %}
 
-L’activation du wifi vous est proposée dès le début de l’initialisation afin de bénéficier de 100% des fonctionnalités interactives de votre liseuse.
+L’activation du wifi vous est proposée dès le début de l’initialisation afin de bénéficier de 100 % des fonctionnalités interactives de votre liseuse.
 
-Sélectionnez le wifi auquel vous voulez vous connecter. 
+Sélectionnez le wifi auquel vous voulez vous connecter.
 
 ![](/images/support-liseuse-3.jpg)
 
-Une fenêtre s’ouvre, vous pouvez dès lors renseigner le mot de passe associé au réseau wifi puis cliquez sur « OK ».
+Une fenêtre s’ouvre, vous pouvez dès lors renseigner le mot de passe associé au réseau wifi puis cliquer sur « OK ».
 
 ![](/images/support-liseuse-4.jpg)
 
-Lisez et acceptez le contrat de licence
+Lisez et acceptez le contrat de licence.
 
 ###Compte client
 
-La connexion au compte client vous permettra de retrouver, en un clic via la fonctionnalité « Mes achats » , l’ensemble des ebooks que vous avez acheté sur notre site et/ou nos applications mobiles.
+La connexion au compte client vous permettra de retrouver, en un clic via la fonctionnalité « Mes achats », l’ensemble des ebooks que vous avez achetés sur notre site et/ou nos applications mobiles.
 
 ![](/images/support-liseuse-5.png)
 
-Connectez vous en cliquant dans les champs proposés et en renseignant l’adresse mail et le mot de passe de votre compte client. Vous pouvez vérifier votre mot de passe en cliquant sur l’œil à droit du champ « Mot de passe ». Cliquez ensuite sur « Se connecter ».
+Connectez-vous en cliquant dans les champs proposés et en renseignant l’adresse mail et le mot de passe de votre compte client. Vous pouvez vérifier votre mot de passe en cliquant sur l’œil à droite du champ « Mot de passe ». Cliquez ensuite sur « Se connecter ».
 
-Si vous n’avez pas de compte chez nous, cliquez sur « Créer un compte » puis renseignez votre adresse mail ainsi qu’un mot de passe. Nous vous demandons de confirmez votre mot de passe. Pour ne pas vous tromper, vous pouvez vérifier votre mot de passe en cliquant sur l’œil à droite des champs « Mot de passe ». Cliquez ensuite sur « Créer un compte ».
+Si vous n’avez pas de compte chez nous, cliquez sur « Créer un compte » puis renseignez votre adresse mail ainsi qu’un mot de passe. Nous vous demandons de confirmer votre mot de passe. Pour ne pas vous tromper, vous pouvez vérifier votre mot de passe en cliquant sur l’œil à droite des champs « Mot de passe ». Cliquez ensuite sur « Créer un compte ».
 
 ###Compte Adobe
 
@@ -38,11 +38,11 @@ Renseignez votre Adobe ID (ou identifiant adobe / adresse mail ) ainsi que votre
 
 ![](/images/support-liseuse-6.jpg)
 
-L’activation de votre liseuse est à présent terminée. Félicitation !
+L’activation de votre liseuse est à présent terminée. Félicitations !
 
 ##Utiliser votre liseuse Pocketbook v5
 
-Découvrez la sélection d’ebooks et extraits offerts présents dans la bibliothèque
+Découvrez la sélection d’ebooks et extraits offerts présents dans la bibliothèque.
 
 {% include anchor.html id="fonctionnalites-5" label="Fonctionnalités" %}
 ###Fonctionnalités
@@ -50,8 +50,8 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware 
 
 ####Directement sur la page d'accueil :
 
-- **Bibliothèque** : Retrouvez tous les livres présent sur votre liseuse.
-- **Librairie** : Achetez de nouveaux livres
+- **Bibliothèque** : Retrouvez tous les livres présents sur votre liseuse.
+- **Librairie** : Achetez de nouveaux livres.
 - **Mes achats** : Téléchargez facilement tous vos livres sur votre liseuse.
 
 ####Menu du haut :
@@ -59,7 +59,7 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware 
 - **wi-Fi** : Connectez-vous à votre réseau Wi-Fi.
 - **Synchroniser** : Synchronisez les différents services de synchronisation (ex : Dropbox).
 - **Gestionnaire de tâches**
-- **Paramètres** : Réglez votre liseuse suivant vos besoins (éclairage, compte Adobe, réseau, langues, date et heure...)
+- **Paramètres** : Réglez votre liseuse suivant vos besoins (éclairage, compte Adobe, réseau, langues, date et heure…)
 - **Rechercher**
 - Réglez la luminosité
 
