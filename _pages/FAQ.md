@@ -17,7 +17,7 @@ Le format PDF conserve la mise en forme initiale de l'ouvrage indépendamment de
 Il est également compatibles avec les liseuses à encre électronique mais la lisibilité est assez mauvaise. La lecture d'un PDF sur une liseuse est donc à déconseiller.
 
 **ePub : Electronic publication**
-Le format ePub est un format standardisé ouvert et est conçu pour faciliter la mise en page du contenu, le texte affiché étant ajusté pour le type d'appareil de lecture (taille de l'écran). Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac. Il est également compatibles avec les liseuses à encre électronique (qui acceptent le format EPUB) et est particulièrement adapté à ce type d'écran.
+Le format ePub est un format standardisé ouvert et est conçu pour faciliter la mise en page du contenu, le texte affiché étant ajusté pour le type d'appareil de lecture (taille de l'écran). Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac. Il est également compatible avec les liseuses à encre électronique (qui acceptent le format EPUB) et particulièrement adapté à ce type d'écran.
 
 **Mobipocket/PRC**
 Le format Mobipocket est destiné essentiellement aux PDA et nécessite l'installation de l'application Mobipocket Reader. On peut également ouvrir ceux qui n'ont pas de DRM sur une liseuse Kindle ou avec l'application Kindle pour PC ou tablette.
@@ -67,14 +67,14 @@ La lecture d'e-books en streaming ne donne pas lieu à un téléchargement ou un
 
 <p class="warningtip">
     <span class="title">Pack / Multi-format</span>
-    Un livre multi-format ou pack comporte plusieurs fois le même titre en différents formats. On peut ainsi acheter Le Rouge et le noir et obtenir à la fois un fichier PDF, un fichier ePub et un lien pour lire le livre en streaming. Les composants du pack sont indissociables, ils ne peuvent être vendus séparément.
+    Un livre multi-format ou pack comporte plusieurs fois le même titre en différents formats. On peut ainsi acheter "<em>Le Rouge et le noir</em>" et obtenir à la fois un fichier PDF, un fichier ePub et un lien pour lire le livre en streaming. Les composants du pack sont indissociables, ils ne peuvent être vendus séparément.
 </p>
 
 ###Quelles sont les protections présentes sur un e-book ?
 **Contenu protégé**
 Il s'agit d'un livre protégé par une mesure technique de protection mise en place pour préserver les droits des œuvres numériques. Le fichier est crypté grâce à l'insertion d'informations codées.
-Tant que vous rester dans l'environnement de votre librairie (lecture en ligne, liseuse Pocketbook, application Android et iOs), ce cryptage reste totalement invisible.
-Par contre, si vous souhaitez sortir de cet environnment, le livre vous sera fournir sous DRM (Digital Right Management) ACS4 (Adobe Content Server 4) dite DRM Adobe.
+Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse Pocketbook, application Android et iOs), ce cryptage reste totalement invisible.
+Par contre, si vous souhaitez sortir de cet environnment, le livre vous sera fourni sous DRM (Digital Right Management) ACS4 (Adobe Content Server 4) dite DRM Adobe.
 
 **Tatouage numérique / Watermarking / Marquage**
 Le tatouage numérique est une mesure dissuasive à l'égard des utilisateurs. Il ne verrouille pas le fichier mais en permet la traçabilité grâce à l'insertion d'un marquage (visible ou invisible pour le lecteur) dans les pages de l'e-book.
@@ -160,7 +160,7 @@ Certaines applications permettent également de se connecter directement à la b
 1. Vérifiez la compatibilité entre le format du livre que vous avez acheté et le support sur lequel vous essayez de l'ouvrir : Quel format choisir pour acheter un e-book ?
 2. Vérifiez si l'application de lecture est adaptée à votre support, notamment si la version l'application et bien compatible avec la version du support.
 3. Si votre livre est protégé :
-Vérifiez que l'application et/ou le support utilisé.e est fourni par votre librairie.
+Vérifiez que l'application et/ou le support utilisé.e est fourni.e par votre librairie.
   * Si oui : contacter le SAV.
   * Si non : vérifiez que le support/application utilisé.e est bien compatible avec Adobe DRM et le cas échéant, que l'identifiant Adobe est bien renseigné.
 
@@ -176,7 +176,7 @@ Les e-books au format epub et PDF sont lisibles sur iPad, à condition d'avoir t
 Nos e-books sont proposés au format EPUB ou PDF (excepté pour la BD où il s'agit de streaming)
 La liseuse Kindle ne supporte pas les fichiers EPUB.
 Vous pouvez lire un PDF sur une liseuse Kindle à condition que celui-ci n'ait pas de DRM.
-Certains livres multi-format, propose un format mobipocket, compatible avec la liseuse Kindle.
+Certains livres multi-format, proposent un format mobipocket, compatible avec la liseuse Kindle.
 
 ###Puis-je lire mes livres sur Reader de Sony ?
 Un logiciel complémentaire doit être installé pour transférer vos e-books. Vous devrez installer le Reader for PC & Mac.
@@ -202,7 +202,7 @@ Vous pouvez également utiliser un chargeur USB. Celui-ci doit avoir les caract�
 Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la carte SD. Vous ne pouvez juste plus utiliser votre liseuse et vous devez donc la mettre en charge. En revanche, vous pouvez parfaitement continuer d’avoir une image ou un texte à l’écran même si l’appareil est déchargé.
 
 ###Où peut-on voir le niveau de la batterie ?
-Suivant les modèles vous povez voir le niveau de la batterie se situe dans le coin inférieur ou supérieur droit de l'écran.
+Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inférieur ou supérieur droit de l'écran de votre liseuse.
 
 ###Quels sont les formats supportés par ma liseuse ?
 Formats d’ebooks supportés : ePub, PDF, Adobe® DRM, HTML, TXT, FB2 + pour les pocketbook : FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
@@ -217,7 +217,7 @@ Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 G
 Vous ne perdrez pas vos documents ou vos livres quand vous mettrez à jour votre liseuse. C’est seulement l’opportunité pour votre appareil de gagner de nouvelles fonctionnalités.
 
 ###Quel type de carte SD dois-je utiliser avec ma liseuse ?
-Les liseuses Cybook ou Pocketbook supporte une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
+Les liseuses Cybook ou Pocketbook supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
 
 {% include anchor.html id="Pocketbook" label="Liseuses Pocketbook" %}
 ##Liseuses Pocketbook
@@ -253,7 +253,7 @@ Une fenêtre s'ouvre alors vous permettant d'ajouter le livre à une étagère e
 
 Pour supprimer un livre d'une étagère, il faut choisir le mode "étagère", puis faire un appui long sur le livre que vous souhaitez supprimer. Appuyez ensuite sur "Supprimer de l'étagère".
 
-Pour supprimer une étagère il faut choisir le mode "étagère", puis faire un appui long sur l'étagère que vous souhaitez supprimer. Appuyer ensuite sur "Supprimer". Supprimer une étagère, ne supprime pas les livres qu'elle contient.
+Pour supprimer une étagère, il faut choisir le mode "étagère", puis faire un appui long sur l'étagère que vous souhaitez supprimer. Appuyer ensuite sur "Supprimer". Supprimer une étagère ne supprime pas les livres qu'elle contient.
 
 ###Comment régler la langue du menu ?
 
@@ -273,7 +273,7 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 - La mise à jour est ensuite appliquée. Elle peut durer plusieurs minutes, ne l'interrompez pas.
 - La liseuse redémarre ensuite, pour finaliser la mise à jour.
 
-Vous pouvez activiter les mises à jour automatique en appuyant sur le bouton On/Off correspondant à "Mise à jour automatique". La liseuse recherchera automatiquement s'il a des mises à jour lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
+Vous pouvez activer les mises à jour automatique en appuyant sur le bouton On/Off correspondant à "Mise à jour automatique". La liseuse recherchera automatiquement s'il a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
 
 ###Comment supprimer des livres de la liseuse ?
 
@@ -398,11 +398,11 @@ Sur la liseuse, ils sont également disponibles dans votre compte, rubrique "Mes
 ###Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?
 **La fenêtre de téléchargement de mon navigateur est apparu :**
 - vérifier que le livre n'est pas dans le dossier "(My) Downloads" ou "(Mes) téléchargements", ou dans un autre dossier de téléchargement par défaut.
-- vérifier que vous n'avez télécharger sur "Ouvrir" au lieu de "Télécharger" et que le fichier ne se trouve pas dans un dossier temporaire.
-- vérifier que le livre n'est pas au sous DRM, auquel cas, vous devez avoir télécharger un fichier de licence en .acsm, qui vous permettra d'accéder à votre livre une fois ouvert dans Adobe Digital Edition.
+- vérifier que vous n'avez cliqué sur "Ouvrir" au lieu de "Télécharger" et que le fichier ne se trouve pas dans un dossier temporaire.
+- vérifier que le livre n'est pas au sous DRM, auquel cas, vous devez avoir téléchargé un fichier de licence en .acsm, qui vous permettra d'accéder à votre livre, une fois ouvert dans Adobe Digital Edition.
 Si vous ne trouvez toujours pas votre livre ou bien qu'un message d'erreur est apparu, contactez le SAV.
 
-**La fenêtre de téléchargement de mon navigateur n'est pas apparu :**
+**La fenêtre de téléchargement de mon navigateur n'est pas apparue :**
 Le bouton "Télécharger" est :
 
 - gris : la commande a été annulé et le livre n'est pas téléchargeable.

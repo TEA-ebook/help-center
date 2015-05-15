@@ -28,7 +28,7 @@ Afin d'accéder au menu des fonctionnalités de votre Cybook, appuyez au centre 
 **Optimisation de votre confort de lecture :**
 Les fonctionnalités de votre Cybook vous permettent d’améliorer votre confort de lecture. Vous pouvez, si nécessaire, agrandir la police ou changer la luminosité de votre texte. Vous pouvez également éclairer votre écran si vous possédez la Cybook Odyssey HD Frontlight.
 
-*Changer la police de caractère :*
+*Changer la police de caractères :*
 Lorsque vous lisez un livre, vous pouvez choisir de changer la police de caractère. Dans le Menu, sélectionnez l'option "Police" et vous accéderez à la liste des polices de caractère disponibles.
 
 *Augmenter la taille du texte :*
