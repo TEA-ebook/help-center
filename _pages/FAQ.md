@@ -17,7 +17,7 @@ Le format PDF conserve la mise en forme initiale de l'ouvrage indépendamment de
 Il est également compatibles avec les liseuses à encre électronique mais la lisibilité est assez mauvaise. La lecture d'un PDF sur une liseuse est donc à déconseiller.
 
 **ePub : Electronic publication**
-Le format ePub est un format standardisé ouvert et est conçu pour faciliter la mise en page du contenu, le texte affiché étant ajusté pour le type d'appareil de lecture (taille de l'écran). Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac. Il est également compatible avec les liseuses à encre électronique (qui acceptent le format EPUB) et particulièrement adapté à ce type d'écran.
+Le format ePub est un format standardisé ouvert et est conçu pour faciliter la mise en page du contenu, le texte affiché étant ajusté pour le type d'appareil de lecture (taille de l'écran). Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac. Il est également compatible avec les liseuses à encre électronique (qui acceptent le format ePub) et particulièrement adapté à ce type d'écran.
 
 **Mobipocket/PRC**
 Le format Mobipocket est destiné essentiellement aux PDA et nécessite l'installation de l'application Mobipocket Reader. On peut également ouvrir ceux qui n'ont pas de DRM sur une liseuse Kindle ou avec l'application Kindle pour PC ou tablette.
@@ -67,7 +67,7 @@ La lecture d'e-books en streaming ne donne pas lieu à un téléchargement ou un
 
 <p class="warningtip">
     <span class="title">Pack / Multi-format</span>
-    Un livre multi-format ou pack comporte plusieurs fois le même titre en différents formats. On peut ainsi acheter "<em>Le Rouge et le noir</em>" et obtenir à la fois un fichier PDF, un fichier ePub et un lien pour lire le livre en streaming. Les composants du pack sont indissociables, ils ne peuvent être vendus séparément.
+    Un livre multi-format ou pack comporte plusieurs fois le même titre en différents formats. On peut ainsi acheter <em>Le Rouge et le noir</em> et obtenir à la fois un fichier PDF, un fichier ePub et un lien pour lire le livre en streaming. Les composants du pack sont indissociables, ils ne peuvent être vendus séparément.
 </p>
 
 ###Quelles sont les protections présentes sur un e-book ?
@@ -90,20 +90,20 @@ Chaque e-book possède ses propres caractéristiques dont on peut retrouver le d
 Est libre de droit ou appartient au domaine public un ouvrage dont l'auteur est décédé depuis 70 ans et un jour. Les e-books libres de droit sont souvent gratuits.
 
 **Impression**
-Le taux d'impression est exprimé en pourcentage ou en nombre de pages.Il dépend des protections appliquées au e-book et indique dans quelle mesure il peut être imprimé.
+Le taux d'impression est exprimé en pourcentage ou en nombre de pages. Il dépend des protections appliquées au e-book et indique dans quelle mesure il peut être imprimé.
 
 **Copier-coller**
-Le taux de « copier-coller » est exprimé en pourcentage ou en nombre de pages.Il dépend des protections appliquées au e-book et indique dans quelle mesure il sera possible de le dupliquer.
+Le taux de « copier-coller » est exprimé en pourcentage ou en nombre de pages. Il dépend des protections appliquées à l'e-book et indique dans quelle mesure il sera possible de le dupliquer.
 
 ###Puis-je acheter plusieurs e-books en même temps ?
 Dans un même panier, vous pouvez acheter : 
 - plusieurs e-books différents, 
 - plusieurs formats du même e-book. 
-*Exemple :* Oliver Twist (format pdf) + Oliver Twist (format ePub)
+*Exemple :* Oliver Twist (format PDF) + Oliver Twist (format ePub)
 
 Dans un même panier, vous ne pouvez pas acheter : 
 - plusieurs fois le même e-book au même format. 
-*Exemple :* Oliver Twist (format pdf) × 2
+*Exemple :* Oliver Twist (format PDF) × 2
 
 ###Y a-t-il une limitation du nombre de livres par commande sur la liseuse ?
 Nous vous conseillons de ne pas sélectionner plus de 30 ebooks par commande.
@@ -146,8 +146,8 @@ Cliquez sur Mon compte en haut à droite de la page d'accueil. Saisissez votre a
 Les supports / terminaux de lecture désignent de manière générale l'outil grâce auquel on peut lire un e-book.
 Outre les ordinateurs et les smartphones, il existe :
 
-**Liseuse /E-reader / Lecteur de livre numérique / E-book reader**
-Il s'agit de supports dédiés exclusivement à la lecture de livre numérique. Les liseuses sont livrées "prêtes à l'utilisation", c’est-à-dire qu'elles intègrent une application permettant de lire et d'organiser ses livres. Un accès direct à la boutique est proposé pour commander ses livres.
+**Liseuse / E-reader / Lecteur de livre numérique / E-book reader**
+Il s'agit de supports dédiés exclusivement à la lecture de livres numériques. Les liseuses sont livrées "prêtes à l'utilisation", c’est-à-dire qu'elles intègrent une application permettant de lire et d'organiser ses livres. Un accès direct à la boutique est proposé pour commander ses livres.
 Elles intègrent aussi le plus souvent un navigateur Internet (accès en Wifi).
 
 **Tablette / Tablette multimédia / Tablette tactile**
@@ -160,9 +160,9 @@ Certaines applications permettent également de se connecter directement à la b
 1. Vérifiez la compatibilité entre le format du livre que vous avez acheté et le support sur lequel vous essayez de l'ouvrir : Quel format choisir pour acheter un e-book ?
 2. Vérifiez si l'application de lecture est adaptée à votre support, notamment si la version l'application et bien compatible avec la version du support.
 3. Si votre livre est protégé :
-Vérifiez que l'application et/ou le support utilisé.e est fourni.e par votre librairie.
+Vérifiez que l'application et/ou le support utilisé(e) est fourni(e) par votre librairie.
   * Si oui : contacter le SAV.
-  * Si non : vérifiez que le support/application utilisé.e est bien compatible avec Adobe DRM et le cas échéant, que l'identifiant Adobe est bien renseigné.
+  * Si non : vérifiez que le support/application utilisé(e) est bien compatible avec Adobe DRM et le cas échéant, que l'identifiant Adobe est bien renseigné.
 
 ###L’e-book est incomplet. Il manque des pages ou des chapitres.
 Certains livres sont vendus soit au chapitre, soit en version intégrale.
@@ -176,7 +176,7 @@ Les e-books au format epub et PDF sont lisibles sur iPad, à condition d'avoir t
 Nos e-books sont proposés au format EPUB ou PDF (excepté pour la BD où il s'agit de streaming)
 La liseuse Kindle ne supporte pas les fichiers EPUB.
 Vous pouvez lire un PDF sur une liseuse Kindle à condition que celui-ci n'ait pas de DRM.
-Certains livres multi-format, proposent un format mobipocket, compatible avec la liseuse Kindle.
+Certains livres multi-format proposent un format mobipocket, compatible avec la liseuse Kindle.
 
 ###Puis-je lire mes livres sur Reader de Sony ?
 Un logiciel complémentaire doit être installé pour transférer vos e-books. Vous devrez installer le Reader for PC & Mac.
@@ -191,7 +191,7 @@ Il faut penser à éjecter « proprement » la liseuse KOBO avant de la décon
 ##Liseuses généralités
 
 ###Comment puis-je recharger ma liseuse ?
-Pour charger votre liseuse vous devez la connecter à un ordinateur en utilisant le câble fourni avec l'appareil (mini USB).
+Pour charger votre liseuse vous devez la connecter à un ordinateur en utilisant le câble fourni avec l'appareil (micro-USB).
 Vous pouvez également utiliser un chargeur USB. Celui-ci doit avoir les caractéristiques suivantes :
 
 - Input: AC100-240V 50/60Hz ;
@@ -205,8 +205,11 @@ Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la cart
 Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inférieur ou supérieur droit de l'écran de votre liseuse.
 
 ###Quels sont les formats supportés par ma liseuse ?
-Formats d’ebooks supportés : ePub, PDF, Adobe® DRM, HTML, TXT, FB2 + pour les pocketbook : FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
-Images : JPEG, PNG, GIF, BMP, TIF.
+
+- Formats d’ebooks supportés :
+  - Pour les cybook et les pocketbook : ePub, PDF, Adobe® DRM, HTML, TXT, FB2.
+  - Pour les pocketbook uniquement : FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
+- Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
 
 ###Combien de livres puis-je stocker ?
 Pour les liseuses Cybook, la capacité interne est de 2 Go ce qui représente environ 2 000 livres de taille standard.
@@ -246,7 +249,7 @@ Les autres chiffres (4.4.893) indiquent la version du logiciel. S'ils commencent
 La version 5 du logiciel de la liseuse introduit un nouveau concept, celui d'étagère, qui permet de trier ses livres.
 L'étagère "Favoris" est présente par défaut.
 
-Dans le mode "étagère", vous ne voyez que les livres qui ont été ajouté à une étagère. Vous pouvez directement créer une nouvelle étagère en appuyant sur "Nouveau rayon de bibliothèque"
+Dans le mode "étagère", vous ne voyez que les livres qui ont été ajoutés à une étagère. Vous pouvez directement créer une nouvelle étagère en appuyant sur "Nouveau rayon de bibliothèque"
 
 Pour ajouter un livre dans une étagère, il vous suffit de faire un appui long sur un livre, puis d'appuyer sur "Ajouter à la bibliothèque".
 Une fenêtre s'ouvre alors vous permettant d'ajouter le livre à une étagère existante ou de créer une étagère en ajoutant automatiquement le livre à cette nouvelle étagère.
@@ -273,7 +276,7 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 - La mise à jour est ensuite appliquée. Elle peut durer plusieurs minutes, ne l'interrompez pas.
 - La liseuse redémarre ensuite, pour finaliser la mise à jour.
 
-Vous pouvez activer les mises à jour automatique en appuyant sur le bouton On/Off correspondant à "Mise à jour automatique". La liseuse recherchera automatiquement s'il a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
+Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/Off correspondant à "Mise à jour automatique". La liseuse recherchera automatiquement s'il  a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
 
 ###Comment supprimer des livres de la liseuse ?
 
@@ -299,6 +302,8 @@ Si le client souhaite en supprimer plusieurs, il est préférable de passer par 
   - Gestionnaire des tâches
   - Wi-Fi
 
+<p class="warningtip">Vous n'avez la possibilité de n'afficher que 3 ou 4 éléments à la fois dans la barre d'état.</p>
+
 ####Version 5
 - Allez dans Paramètres > Personnalisation
 - Appuyez ensuite sur le bouton On/Off correspondant à Affichage en mode lecture, afin d'afficher ou non la barre d'état en haut.
@@ -314,23 +319,22 @@ Si le client souhaite en supprimer plusieurs, il est préférable de passer par 
   - Logo de démarrage
   - Logo pour la mise hors tension de l'appareil 
 
-###Ma liseuse Pocketbook est bloqué sur une page, que dois-je faire ?
-Appuyez une dizaine de seconde sur le bouton On/Off de la liseuse, afin de la redémarrer.
+###Ma liseuse Pocketbook est bloquée sur une page, que dois-je faire ?
+Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.
 
 {% include anchor.html id="liseuse-cybook" label="Liseuse Cybook" %}
 ##Liseuses Cybook
 
 ###Comment régler la langue du menu ?
 Lorsque vous allumez votre Cybook pour la première fois, après les deux écrans de démarrage, la liste des langues disponibles pour le Menu s'affiche pour que vous choisissiez celle que vous voulez.
-Ce choix n'est pas définitif, vous pouvez plus tard si vous désirez changer la langue du Menu:
-**Pour le Cybook Odyssey :**
+Ce choix n'est pas définitif, vous pouvez plus tard si vous désirez changer la langue du Menu :
 
 1. Sur la Page d’accueil : sélectionnez “Réglages”.
 2. Choisissez la deuxième option (Langues).
 3. Une fenêtre s’ouvre avec toutes les langues disponibles pour le Menu.
 4. Cliquez sur la langue de votre choix ou faites dérouler la liste avec votre doigt.
 
-###Comment supprimer des livres de la liseuse ?
+###Comment supprimer des livres de ma liseuse Cybook ?
 
 - Allez dans bibliothèque.
 - Cliquez le livre à supprimer qui s'ouvre.
@@ -343,38 +347,38 @@ Ce choix n'est pas définitif, vous pouvez plus tard si vous désirez changer la
 - OK.
 
 Cette manipulation est adaptée pour la suppression d'un ou quelques livres.
-Si le client souhaite en supprimer plusieurs, il est préférable de passer par le PC en connectant la liseuse et en utilisant ADE ou l'explorateur de fichiers.
+Si vous souhaitez en supprimer plusieurs, il est préférable de passer par le PC en connectant la liseuse et en utilisant ADE ou l'explorateur de fichiers.
 
 ###Quelle doit-être la couleur de la diode ?
-Sur le Cybook Odyssey, lorsque l'appareil est en activité, la LED s'allume en bleu. Et lorsque la batterie est en charge via l'USB, la LED s'allume en orange. Quand la batterie est chargée, la LED passe au vert.
+Sur la liseuse Cybook, lorsque l'appareil est en activité, la LED s'allume en bleu. Et lorsque la batterie est en charge via l'USB, la LED s'allume en orange. Quand la batterie est chargée, la LED passe au vert.
 
-###La diode clignote lorsque j'allume mon Cybook.
-Cela signifie que le Cybook n'a plus de batterie. Vous devez donc le recharger.
+###La diode clignote lorsque j'allume ma liseuse Cybook.
+Cela signifie que la liseuse Cybook n'a plus de batterie. Vous devez donc le recharger.
 
 ###Est-ce que je peux personnaliser mes économiseurs d’écran ?
 Sélectionnez l’image que vous souhaitez définir comme économiseur d’écran. Quand le menu contextuel apparaît il vous faut alors confirmer que vous voulez bien afficher cette image comme économiseur.
 
-###Où trouver sur mon Cybook Odyssey la mise à jour en vigueur ?
-A partir de la page d’accueil, sélectionnez « Réglages » puis « A propos » et vous trouverez la version en vigueur sur votre Cybook Odyssey dans la partie Boo Reader. Si ce n’est pas la toute dernière version, vous pouvez la télécharger à partir de votre ordinateur sur le site Bookeen ou accepter la mise à jour proposée dès que vous connectez votre Cybook au Wi-Fi.
+###Où trouver sur ma liseuse Cybook la mise à jour en vigueur ?
+A partir de la page d’accueil, sélectionnez « Réglages » puis « A propos » et vous trouverez la version en vigueur sur votre liseuse Cybook dans la partie Boo Reader. Si ce n’est pas la toute dernière version, vous pouvez la télécharger à partir de votre ordinateur sur le site Bookeen ou accepter la mise à jour proposée dès que vous connectez votre Cybook au Wi-Fi.
 
 ###Qu'est-ce que "Boo Reader" ?
-Boo Reader est le logiciel créé par Bookeen pour le Cybook.
-Pour connaître la version qui est actuellement installée dans votre appareil: Menu>Avancé>A propos: version x.x (build xxxx).
+Boo Reader est le logiciel créé par Bookeen pour la liseuse Cybook.
+Pour connaître la version qui est actuellement installée dans votre appareil: Menu > Avancé > A propos: version x.x (build xxxx).
 
-###Est-ce que des logiciels ou des programmes supplémentaires peuvent être installés sur le Cybook Odyssey ?
+###Est-ce que des logiciels ou des programmes supplémentaires peuvent être installés sur ma liseuse Cybook ?
 Non, des logiciels ou des programmes supplémentaires ne peuvent pas être installés sur cette liseuse.
 
-###Mon Cybook est bloqué sur une page, que dois-je faire ?
+###Ma liseuse Cybook est bloqué sur une page, que dois-je faire ?
 Nous vous invitons à utiliser le bouton "reset". Puis utilisez le bouton marche, l'appareil doit s'allumer normalement.
 Il est également possible que la batterie soit vide. En effet, avec la technologie de l'encre électronique, lorsque la batterie se vide pendant la lecture la dernière page affichée reste à l'écran. Quand le Cybook est bloqué, connectez-le à votre ordinateur ou bien votre chargeur USB pour le charger.
 
-###Comment faire un “reset” avec le Cybook Odyssey ?
-Appuyez sur le bouton marche/arrêt et tenez-le pendant 8 secondes. Quand le Cybook Odyssey est éteint vous pouvez le rallumer en appuyant à nouveau sur le bouton. Il faudra cette fois-ci le maintenir appuyé pendant seulement 2 secondes.
+###Comment faire un “reset” avec la liseuse Cybook ?
+Appuyez sur le bouton marche/arrêt et tenez-le pendant 8 secondes. Quand la liseuse Cybook est éteint vous pouvez le rallumer en appuyant à nouveau sur le bouton. Il faudra cette fois-ci le maintenir appuyé pendant seulement 2 secondes.
 
-Le bouton "reset" force le Cybook à s'éteindre sans en reformater la mémoire. Après le reset il est nécessaire de rallumer l'appareil pour le faire redémarrer. Vous ne perdrez aucun livre ou information mais seulement les derniers paramètres sélectionnés (comme la dernière page lue par exemple).
+Le bouton "reset" force la liseuse Cybook à s'éteindre sans en reformater la mémoire. Après le reset il est nécessaire de rallumer l'appareil pour le faire redémarrer. Vous ne perdrez aucun livre ou information mais seulement les derniers paramètres sélectionnés (comme la dernière page lue par exemple).
 
-###Mon Cybook ne s'allume pas.
-Veuillez vérifier que la batterie est bien chargée et bien connectée. Lorsque vous branchez l'appareil à un ordinateur ou à un chargeur USB la diode doit s'allumer orange sur le Cybook Odyssey.
+###Ma liseuse Cybook ne s'allume pas.
+Veuillez vérifier que la batterie est bien chargée et bien connectée. Lorsque vous branchez l'appareil à un ordinateur ou à un chargeur USB la diode doit s'allumer orange sur la liseuse Cybook.
 
 Vous pouvez également utiliser le bouton reset :
 
@@ -383,7 +387,7 @@ Vous pouvez également utiliser le bouton reset :
 
 ###Je ne peux pas voir un fichier que je viens de transférer.
 
-- Peut-être que le format de votre livre n'est pas compatible avec le Cybook. En effet, si vous transférez un fichier dont le format n'est pas supporté par l'appareil vous pourrez le voir depuis l'ordinateur mais pas depuis le Cybook.
+- Peut-être que le format de votre livre n'est pas compatible avec la liseuse Cybook. En effet, si vous transférez un fichier dont le format n'est pas supporté par l'appareil vous pourrez le voir depuis l'ordinateur mais pas depuis la liseuse Cybook.
 - Si vous avez transféré le livre dans un dossier que vous avez vous-même créé, vous devez sélectionner l'option "Affichage par dossier" pour pouvoir le retrouver. En effet, uniquement les livres se trouvant dans les dossiers "Books" et "Digital Editions" apparaissent dans la Bibliothèque.
 
 {% include anchor.html id="telechargement" label="Téléchargement" %}
@@ -396,16 +400,16 @@ Cliquez ensuite sur le bouton Télécharger pour enregistrer vos e-books sur vot
 Sur la liseuse, ils sont également disponibles dans votre compte, rubrique "Mes commandes".
 
 ###Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?
-**La fenêtre de téléchargement de mon navigateur est apparu :**
+**La fenêtre de téléchargement de mon navigateur est apparue :**
 - vérifier que le livre n'est pas dans le dossier "(My) Downloads" ou "(Mes) téléchargements", ou dans un autre dossier de téléchargement par défaut.
-- vérifier que vous n'avez cliqué sur "Ouvrir" au lieu de "Télécharger" et que le fichier ne se trouve pas dans un dossier temporaire.
-- vérifier que le livre n'est pas au sous DRM, auquel cas, vous devez avoir téléchargé un fichier de licence en .acsm, qui vous permettra d'accéder à votre livre, une fois ouvert dans Adobe Digital Edition.
+- vérifier que vous n'avez pas cliqué sur "Ouvrir" au lieu de "Télécharger" et que le fichier ne se trouve pas dans un dossier temporaire.
+- vérifier que le livre n'est pas au sous DRM, auquel cas, vous devez avoir téléchargé un fichier de licence en .acsm, qui vous permettra d'accéder à votre livre, une fois ouvert dans Adobe Digital Editions.
 Si vous ne trouvez toujours pas votre livre ou bien qu'un message d'erreur est apparu, contactez le SAV.
 
 **La fenêtre de téléchargement de mon navigateur n'est pas apparue :**
 Le bouton "Télécharger" est :
 
-- gris : la commande a été annulé et le livre n'est pas téléchargeable.
+- gris : la commande a été annulée et le livre n'est pas téléchargeable ;
 - en couleur : contacter le SAV.
 
 {% include anchor.html id="autres" label="Autres" %}

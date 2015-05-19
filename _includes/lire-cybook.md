@@ -32,7 +32,7 @@ Les fonctionnalités de votre Cybook vous permettent d’améliorer votre confor
 Lorsque vous lisez un livre, vous pouvez choisir de changer la police de caractère. Dans le Menu, sélectionnez l'option "Police" et vous accéderez à la liste des polices de caractère disponibles.
 
 *Augmenter la taille du texte :*
-Oui, 12 tailles de texte différentes sont disponibles. Vous pouvez choisir d'augmenter ou diminuer la taille du texte en sélectionnant l'option "Taille de texte" dans le Menu du livre.
+12 tailles de texte différentes sont disponibles. Vous pouvez choisir d'augmenter ou diminuer la taille du texte en sélectionnant l'option "Taille de texte" dans le Menu du livre.
 
 Vous pouvez également mettre des annotations (signets, surlignages, notes,…) lors de votre lecture. Ceci vous permet de mettre des repères ou simplement de taper des informations supplémentaires sur les textes que vous lisez.
 
