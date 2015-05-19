@@ -19,11 +19,11 @@ Les livres numériques se lisent sur de nombreux supports tels que :
 
 ![Lecture sur tous supports](/images/decouvrir-lecture-numerique-1.jpg)
 
-<p class="protip"><span class="title">Le plus de la liseuse :</span>
-un support dédié à la lecture numérique et équipé d’une technologie d’écran spécialement conçue pour permettre une lecture prolongée sans fatiguer les yeux.</p>
+<p class="protip"><span class="title">Le plus de la liseuse :</span>un support dédié à la lecture numérique et équipé d’une technologie d’écran spécialement conçue pour permettre une lecture prolongée sans fatiguer les yeux.</p>
 
-{% include anchor.html id="catalogue-ebook" label="Catalogue d’e-books" %}
-## Catalogue d’e-books
+{% include anchor.html id="catalogue-ebook" label="Catalogue d'e-books" %}
+##Catalogue d’e-books
+
 Le catalogue comporte plus de 180 000 e-books disponibles en français, et la majorité des nouveautés sort désormais en format numérique.
 
 En moyenne, les livres numériques se vendent en France 25 à 30% moins cher que les livres papier. Le prix est fixé par les éditeurs et soumis à la loi du prix unique du livre de 1981, mise à jour en 2011 pour le livre numérique. Nous vous proposons donc le meilleur prix du marché.
@@ -31,7 +31,7 @@ En moyenne, les livres numériques se vendent en France 25 à 30% moins cher que
 Vous trouverez également de nombreux ouvrages gratuits ou à prix réduit, ce qui vous permet de découvrir de nombreux auteurs.
 
 {% include anchor.html id="formats-ebook" label="Formats d’e-books" %}
-## Formats d’e-books
+##Formats d’e-books
 
 Il existe plusieurs formats de livres numériques :
 
@@ -50,6 +50,7 @@ Sur notre librairie numérique, nous commercialisons les e-books tels qu'ils son
 
 <p class="warningtip"><span class="title">"Format" .acsm : </span>Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. Il s'agit d'un ichier de licence qui vous permettra de télécharger votre livre.L’installation d’Adobe Digital Editions est obligatoire pour les lire et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions](/usage-lire/#sur-un-ordinateur)
 </p>
+
 {% include anchor.html id="choisir-format-ebook" label="Quel format choisir entre le PDF et l’ePub ?" %}
 ### Quel format choisir entre le PDF et l’ePub ?
 

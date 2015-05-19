@@ -23,18 +23,17 @@ Vous pouvez modifier les paramètres d'affichage et de tri de la bibliothèque.
 
 **Critères de regroupement**
 
-- Dossier ;
-- Auteur ;
-- Format ;
-- Date d'ajout.
+- Tous ;
+- Auteurs ;
+- Genres ;
+- Étagères ;
+- Dossiers ;
+- Formats ;
+- Séries.
 
-**Critères d'ordonnancement**
+Les résultats de regroupements peuvent être affichés dans l'ordre croissant (A-Z) ou décroissant (Z-A).
 
-- Titres des livres ;
-- Noms des fichiers ;
-- Dernier ouvert ;
-- Date de création ;
-- Auteur.
+Vous pouvez aussi effectuer une recherche par mot-clé.
 
 **Critères d'affichages :**
 
