@@ -18,7 +18,7 @@ Seuls les livres contenus dans les dossiers "Books" ou "Digital Editions" sont v
 Afin d'accéder à ces dossiers et à leur contenu il vous faut sélectionner l'option "Affichage par dossier" dans le Menu. Si vos livres sont sur une carte SD, vous pourrez y accéder grâce à ce mode d'affichage.
 
 S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’Ebookstore, puis « Mon compte » et « Mes commandes » afin de les télécharger à nouveau.
-Si c’est votre première utilisation de la liseuse TEA, vous remarquerez qu’une bibliothèque de quelques titres vous est offerte afin que vous commenciez à découvrir votre liseuse TEA et les possibilités de la lecture numérique.
+Si c’est votre première utilisation de la liseuse Cybook, vous remarquerez qu’une bibliothèque de quelques titres vous est offerte afin que vous commenciez à découvrir votre liseuse Cybook et les possibilités de la lecture numérique.
 
 {% include anchor.html id="fonctionnalites-lecture-c" label="Quelles sont les fonctionnalités de lecture de ma Cybook ?" %}
 ### Quelles sont les fonctionnalités de lecture de ma Cybook ?
@@ -37,7 +37,7 @@ Lorsque vous lisez un livre, vous pouvez choisir de changer la police de caract�
 Vous pouvez également mettre des annotations (signets, surlignages, notes,…) lors de votre lecture. Ceci vous permet de mettre des repères ou simplement de taper des informations supplémentaires sur les textes que vous lisez.
 
 **Dictionnaire embarqué :**
-Chaque Cybook a un dictionnaire Le Nouveau Littré embarqué, facile à consulter grâce à une simple pression qui vous permettra de sélectionner le mot qui vous voulez consulter.
+Chaque Cybook a un dictionnaire *Le Nouveau Littré* embarqué, facile à consulter grâce à une simple pression qui vous permettra de sélectionner le mot qui vous voulez consulter.
 Pour plus d’information, vous pouvez [consulter les manuels Bookeen](http://www.bookeen.com/fr/support_download).
 
 Bonne lecture !
