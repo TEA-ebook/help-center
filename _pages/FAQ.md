@@ -70,6 +70,7 @@ La lecture d'e-books en streaming ne donne pas lieu à un téléchargement ou un
     Un livre multi-format ou pack comporte plusieurs fois le même titre en différents formats. On peut ainsi acheter <em>Le Rouge et le noir</em> et obtenir à la fois un fichier PDF, un fichier ePub et un lien pour lire le livre en streaming. Les composants du pack sont indissociables, ils ne peuvent être vendus séparément.
 </p>
 
+{% include anchor.html id="protections-ebook" label="Quelles sont les protections présentes sur un e-book ?" %}
 ###Quelles sont les protections présentes sur un e-book ?
 **Contenu protégé**
 Il s'agit d'un livre protégé par une mesure technique de protection mise en place pour préserver les droits des œuvres numériques. Le fichier est crypté grâce à l'insertion d'informations codées.

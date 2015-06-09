@@ -1,3 +1,4 @@
+L'installation d'Adobe Digital Editions est nécessaire si vous souhaitez lire des livres au contenu protégé sur votre ordinateur, sans passer par le navigateur ou si vous souhaitez transférer des livres au contenu protégé sur certains supports.
 
 {% include anchor.html id="telecharger-adobe-digital-edition" label="Télécharger Adobe Digital Editions 4" %}
 ###Télécharger Adobe Digital Editions 4
@@ -11,15 +12,17 @@ Dans la section « Adobe Digital Editions  4.0.2 – Programmes d'installation
 
 ![](/images/support-ordinateur-3.png)
 
-Cliquez sur « Enregistrer le fichier », puis double-cliquez sur le fichier téléchargé « ADE_4.0_Installer.exe ». Autorisez le programme à apporter des modifications sur votre ordinateur si cela vous est demandé. 
+Cliquez sur « Enregistrer le fichier », puis double-cliquez sur le fichier téléchargé « ADE_4.0_Installer.exe » si vous êtes sur Windows ou sur le fichier « ADE_4.0_Installer.dmg » si vous êtes sur Mac OS. Autorisez le programme à apporter des modifications sur votre ordinateur si cela vous est demandé. 
 
 {% include anchor.html id="installer-adobe-digital-editions" label="Installer Adobe Digital Editions" %}
 ###Installer Adobe Digital Editions
+
+####Sur Windows
 Cliquez sur « Exécuter » afin de démarrer l’installation. 
 
 ![](/images/support-ordinateur-4.png)
 
-Cochez « J’accepte les termes de la licence » puis Cliquez sur « Suivant ». 
+Cochez « J’accepte les termes de la licence » puis cliquez sur « Suivant ». 
 
 ![](/images/support-ordinateur-5.png)
  
@@ -32,6 +35,29 @@ Laissez l’ensemble des cases cochées et cliquez sur « Suivant » puis sur 
 ![](/images/support-ordinateur-8.png)
 
 Adobe Digital Editions peut reconnaître une ancienne version d’Adobe sur votre ordinateur ou des fichiers d’e-books. Dans ce cas cliquez sur « Migrer les données ».
+
+####Sur Mac OS
+Cliquez sur « Digital Editions 4.0 Installer.pkg » afin de démarrer l’installation.
+
+![](/images/support-mac-3.png)
+
+Cliquez sur « Continuer » pour faire défiler les différentes étapes de l'installation.
+
+![](/images/support-mac-4.png)
+
+![](/images/support-mac-5.png)
+
+Cliquez sur « Accepter » pour valider le contrat de licence du logiciel.
+
+![](/images/support-mac-6.png)
+
+Puis cliquez sur « Installer » pour lancer l'installation du logiciel.
+
+![](/images/support-mac-7.png)
+
+![](/images/support-mac-8.png)
+
+![](/images/support-mac-9.png)
 
 {% include anchor.html id="autoriser-ordinateur-identifiant-adobe" label="Autoriser son ordinateur avec son identifiant Adobe" %}
 ###Autoriser son ordinateur avec son identifiant Adobe
