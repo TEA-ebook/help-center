@@ -16,8 +16,9 @@ title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook Basic 
 ##Télécharger son livre sur son ordinateur
 {% include telecharger-ordinateur.md %}
 
+{% include anchor.html id="premiers-pas" label="Faire ses premiers pas sur sa liseuse Pocketbook Basic 2" %}
 ##Faire ses premiers pas sur sa liseuse Pocketbook Basic 2
-La pocketbook Basic 2 ne possède pas d'écran tactile, la navigation dans la liseuse se fait donc à l'aide des boutons (pour plus d'information se référer au manuel de la liseuse). Lors du premier démarrage de la liseuse, acceptez le contrat de licence puis paramétrez la date et l'heure.
+La Pocketbook Basic 2 ne possède pas d'écran tactile, la navigation dans la liseuse se fait donc à l'aide des boutons (pour plus d'information se référer au manuel de la liseuse). Lors du premier démarrage de la liseuse, acceptez le contrat de licence puis paramétrez la date et l'heure.
 
 <p class="warningtip">Il est important de bien vérifier et régler la date et l’heure correctement pour garantir un bon fonctionnement de la liseuse.</p>
 
@@ -27,16 +28,22 @@ Vous arrivez alors sur la page d'accueil de votre liseuse qui vous permet d’ac
 
 Vous devez ensuite paramétrer votre compte Adobe.
 
-Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synchronisation » et enfin « Adobe DRM ». Rentrez ensuite l'identifiant et [le mot de passe que vous avez préalablement créé sur le site Adobe](http://0.0.0.0:4000/web-basic2/#creation-compte-Adobe).
+Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synchronisation » et enfin « Adobe DRM ». Rentrez ensuite l'identifiant et [le mot de passe que vous avez préalablement créé sur le site Adobe](/web-basic2/#creation-compte-Adobe).
 
 ![](/images/support-basic2-2.jpg)
 
-{% include anchor.html id="ouvrir-DRM-o" label="Ouvrir un livre sous DRM" %}
+{% include anchor.html id="ouvrir-DRM" label="Ouvrir un livre sous DRM" %}
 ##Ouvrir un livre sous DRM
 {% include ouvrir-drm.md %}
 
 {% include anchor.html id="tranferer-basic2" label="Transférer un livre sur votre liseuse Basic 2" %}
-##Transférer un livre sur votre liseuse Basic 2
+##Transférer un livre sur sa liseuse Basic 2
+
+<p class="protip">
+    Vous avez la possibilité de transférer le fichier de licence (.acsm) dans votre liseuse et d'ouvrir celui-ci directement depuis la bibliothèque de votre liseuse.<br />
+    Si vous êtes connecté en Wi-Fi le livre sera alors automatiquement télécharger à l'ouverture.
+</p>
+
 Le transfert d'un ebook depuis ordinateur vers une liseuse se fait grâce à un câble USB.
 
 Vous devez tout d’abord avoir vos e-books sur Adobe Digital Editions.
@@ -47,7 +54,10 @@ Vous devez tout d’abord avoir vos e-books sur Adobe Digital Editions.
 * Confirmez la connexion sur votre liseuse (cliquez sur connecter/accepter/Oui).
 * Lors de la première connexion, un programme d’installation peut être lancé.
 
-<p class="protip">Dans le cas des liseuses PocketBook, si vous branchez votre liseuse à votre ordinateur alors qu’elle est éteinte, celle-ci ne vous proposera pas de transférer des fichiers mais se mettra automatiquement à charger la batterie.<br>Il faut donc allumer votre liseuse, attendre l’apparition du menu principal, brancher la liseuse à votre ordinateur et sélectionner « Transférer des fichiers ».</p>
+<p class="warningtip">
+    Dans le cas des liseuses PocketBook, si vous branchez votre liseuse à votre ordinateur alors qu’elle est éteinte, celle-ci ne vous proposera pas de transférer des fichiers mais se mettra automatiquement à charger la batterie.<br />
+    Il faut donc allumer votre liseuse, attendre l’apparition du menu principal, brancher la liseuse à votre ordinateur et sélectionner « Transférer des fichiers ».
+</p>
 
 * Lancez Adobe Digital Editions s’il ne s’est pas lancé tout seul. 
 * Votre liseuse apparaît dans « Périphériques ». 
@@ -63,7 +73,8 @@ Cliquez sur l’e-book que vous voulez transférer et faites un glisser-déposer
 * Vous venez de transférer votre e-book. Félicitations ! 
 
 {% include anchor.html id="lire-basic2" label="Lire son livre sur votre liseuse Basic 2" %}
-##Lire son livre sur votre liseuse Basic 2
+##Lire son livre sur sa liseuse Basic 2
+Après son transfert vous pouvez retrouvez votre livre dans la bibliothèque de votre liseuse.
 
 {% include anchor.html id="bibliotheque-basic2" label="La bibliothèque numérique" %}
 ###La bibliothèque numérique
@@ -72,7 +83,7 @@ La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de 
 
 {% include anchor.html id="acces-bibliotheque-basic2" label="L'accès à la bibliothèque" %}
 ####L'accès à la bibliothèque
-Depuis la page d’accueil de votre PocketBook Basic 2, vous pouvez consulter vos e-books en cliquant sur « Bibliothèque » ou l’icône correspondante.
+Depuis la page d’accueil de votre PocketBook Basic 2, vous pouvez consulter vos e-books en vous rendant sur « Bibliothèque » ou l’icône correspondante.
 
 La bibliothèque de votre liseuse vous permet d'accéder aux livres présents sur votre liseuse, mais aussi de les ranger et de les organiser comme vous le souhaitez.
 
