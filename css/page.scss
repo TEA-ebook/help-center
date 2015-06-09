@@ -4,6 +4,7 @@
 
 body {
   color: #444;
+  font-size: 16px;
 }
 
 ul#anchor-menu {
@@ -50,10 +51,6 @@ article.page h4[id]::before,
 article.page h5[id]::before,
 article.page h6[id]::before*/ 
 article.page {
-
-  p, li {
-    font-size: 120%;
-  }
 
   a {
     text-decoration: underline;
