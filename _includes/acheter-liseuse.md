@@ -16,7 +16,7 @@ Vous pouvez ensuite soit continuer vos achats, soit accéder à votre panier en 
 
 ![](/images/acheter-liseuse-4.jpg)
 
-Une fois tous vos achats effectués, sélectionnez « Valider ma ».
+Une fois tous vos achats effectués, sélectionnez « Valider ma commande ».
 
 ![](/images/acheter-liseuse-5.jpg)
 
