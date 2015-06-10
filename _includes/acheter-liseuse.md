@@ -8,7 +8,7 @@ Sélectionnez votre e-book grâce aux différents accès de la page principale d
 
 ![](/images/acheter-liseuse-2.jpg)
 
-Sélectionnez « Acheter » pour ajouter un e-book à votre panier.
+Sélectionnez « Acheter » pour ajouter un e-book à votre panier. Vous avez aussi la possibilité de télécharger un extrait, s'il est disponible.
 
 ![](/images/acheter-liseuse-3.jpg)
 
@@ -16,7 +16,7 @@ Vous pouvez ensuite soit continuer vos achats, soit accéder à votre panier en 
 
 ![](/images/acheter-liseuse-4.jpg)
 
-Une fois tous vos achats effectués, sélectionnez « Valider mon panier ».
+Une fois tous vos achats effectués, sélectionnez « Valider ma ».
 
 ![](/images/acheter-liseuse-5.jpg)
 
@@ -26,9 +26,9 @@ Si vous avez déjà un compte client : identifiez-vous en saisissant votre adre
 
 ![](/images/acheter-liseuse-6.jpg)
 
-Si vous n’avez pas de compte client : créez un compte directement via votre liseuse TEA en sélectionnant « Créer mon compte » et en remplissant les champs demandés.
+Si vous n’avez pas de compte client : créez un compte directement via votre liseuse en sélectionnant « Je crée mon compte » et en remplissant les champs demandés.
 
-<p class="protip">Cliquez sur « Mémoriser mon compte » afin de ne plus avoir à entrer votre adresse e-mail.</p>
+<p class="protip">Cliquez sur « Mémoriser mon compte » afin de ne plus avoir à vous identifier.</p>
 
 {% include anchor.html id="paiement" label="Paiement" %}
 ###Paiement
@@ -40,13 +40,15 @@ Remplissez les champs suivants : le N° de la carte, la date d’expiration et 
 
 ![](/images/acheter-liseuse-8.jpg)
 
+<p class="protip">Cliquez sur « oui » pour enregister vos coordonées bancaire afin de ne plus avoir à les rentrer lors d'un futur achat.</p>
+
 {% include anchor.html id="telechargement" label="Téléchargement" %}
 ###Téléchargement
-Afin de télécharger votre e-book, cliquez sur « Télécharger ».
+Une fois votre commande terminée, vous accédez à un recapitulatif de vos achats. Vous pourrez alors télécharger votre e-book, en cliquant sur « Télécharger ».
 
 ![](/images/acheter-liseuse-9.jpg)
 
-Une fenêtre apparaît pour vous demander d’ouvrir le fichier de l’e-book. Si vous désirez lire votre e-book maintenant, sélectionnez « Oui », sinon sélectionnez « Non » et vous resterez sur la page « Mes commandes ». Vous pourrez alors retrouver l'e-book téléchargé dans la bibliothèque.  
+Une fenêtre apparaît pour vous demander d’ouvrir le fichier de l’e-book. Si vous désirez lire votre e-book immédiatement, sélectionnez « Oui ». En sélectionnant « Non », vous resterez sur la page « Mes commandes ». Vous pourrez ensuite retrouver l'e-book téléchargé dans la bibliothèque.  
 Bonne lecture !
 
-Si vous ne souhaitez pas télécharger le livre tout de suite, vous avez la possibilité de les télécharger ultérieurement depuis le store liseuse ou depuis la fonctionnalité « Mes achats » si elle est disponible.
+Si vous ne souhaitez pas télécharger le livre tout de suite, vous avez la possibilité de le télécharger ultérieurement depuis le store liseuse ou depuis la fonctionnalité « Mes achats » si elle est disponible.
