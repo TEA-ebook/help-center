@@ -12,7 +12,7 @@ Sélectionnez le wifi auquel vous voulez vous connecter.
 
 ![](/images/support-liseuse-3.jpg)
 
-Une fenêtre s’ouvre, vous pouvez dès lors renseigner le mot de passe associé au réseau wifi puis cliquer sur « OK ».
+Une fenêtre s’ouvre, vous pouvez dès lors renseigner le mot de passe associé à votre réseau wifi puis cliquer sur « OK ».
 
 ![](/images/support-liseuse-4.jpg)
 
