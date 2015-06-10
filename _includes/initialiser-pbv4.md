@@ -1,3 +1,5 @@
+<p class="protip">Afin de profiter des dernières fonctionnalités de votre liseuse, il est recommandé de maintenir sa liseuse à jour. <a href="/FAQ/#maj-pb">En savoir plus…</a></p>
+
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/zlI7RQfKAug" %}
 
 <p class="warningtip">Lorsque vous allumez votre liseuse PocketBook v4 pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse, notamment lors de vos futurs achats.</p>

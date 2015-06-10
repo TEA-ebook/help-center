@@ -65,12 +65,12 @@ Un moteur de recherche est disponible dans la bibliothèque pour retrouver vos l
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/QV7K4M7eqkU" %}
 
-Ci-dessous les actions principales en mode lecture. N’oubliez pas que vous pouvez également utiliser les boutons physiques pour naviguer sur votre liseuse.
+Ci-dessous les actions principales en mode lecture. Si elle en possède, n’oubliez pas que vous pouvez également utiliser les boutons physiques pour naviguer sur votre liseuse.
 Description des boutons de gauche à droite : Accueil | Précédent | Suivant | Menu.
 
 ![](/images/lire-liseuse-Pocketbook-F5-8.jpg)
 
-Afin d'accéder au menu des fonctionnalités de votre PocketBook v5, appuyez au centre de l’écran lorsque vous êtes en mode lecture ou sur le bouton physique en bas à droite de votre liseuse. Ensuite cliquez sur le menu en haut à droite de l’écran puis sur « Paramètre ». Vous accéderez à un menu vous permettant de nombreuses actions sur votre texte.
+Afin d'accéder au menu des fonctionnalités de votre PocketBook v5, appuyez au centre de l’écran lorsque vous êtes en mode lecture ou sur le bouton physique en bas à droite de votre liseuse. Ensuite cliquez sur le menu en haut à droite de l’écran puis sur « Paramètres ». Vous accéderez à un menu vous permettant de nombreuses actions sur votre texte.
 
 ####Les paramètres de lecture
 
@@ -84,13 +84,13 @@ Vous pouvez également mettre des annotations (signets, surlignages, notes, capt
 
 ####Activation de l'éclairage frontal :
 
-{% include youtube-embedded-video.html url="https://www.youtube.com/embed/9UO-n02Tdko" %}
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/cymDAUwfuPI" %}
 
 Par défaut, il suffit de maintenir longtemps le bouton physique « Menu » appuyé afin de déclencher l’éclairage. Sinon plusieurs méthodes s’offrent à vous :
 
-- Soit vous cliquez deux fois au centre de votre liseuse en mode lecture, une barre en bas de page apparaît. Cliquez sur l’icône en forme de soleil. Une fenêtre s’ouvre pour vous proposer d’activer l’éclairage et de régler l’intensité.
-- Soit vous cliquez deux fois sur le bouton physique « Menu » en mode lecture pour faire apparaître cette même barre.
-- Soit vous cliquez sur la flèche située en bas de votre écran, la barre apparaîtra.
+- Soit vous appuyez deux fois au centre de votre liseuse en mode lecture, une barre en bas de page apparaît. Cliquez sur l’icône en forme de soleil. Une fenêtre s’ouvre pour vous proposer d’activer l’éclairage et de régler l’intensité.
+- Soit vous appuyez deux fois sur le bouton physique « Menu » en mode lecture pour faire apparaître cette même barre.
+- Soit vous appuyez sur la flèche située en bas de votre écran, la barre apparaîtra.
 - Soit vous pouvez activer l’éclairage hors mode lecture car la barre en bas de page apparaît automatiquement.
 
 ![](/images/lire-liseuse-Pocketbook-F5-10.jpg)

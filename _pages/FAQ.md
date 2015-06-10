@@ -227,23 +227,21 @@ Les liseuses Cybook ou Pocketbook supportent une micro carte SD jusqu'à 32 Go. 
 ##Liseuses Pocketbook
 
 ###Comment puis-je connaître la version du logiciel de ma liseuse ?
-Paramètres > À propos de l'appareil > Logiciel > Version du logiciel
 
-Forme : T623.4.4.893
-La lettre T indique s'il s'agit d'un logiciel spécifique TEA.
-Si vous avez une autre lettre (W), il s'agit d'un logiciel générique Pocketbook.
+Dans votre liseuse, rendez-vous dans *Paramètres > À propos de l'appareil > Logiciel > Version du logiciel* ou bien dans *Paramètres > Logiciel > Version du logiciel*.
 
-Les trois premiers chiffres (623) indiquent le modèle de la liseuse.
+La version du logiciel apparaît sous la forme suivante : T623.4.4.893
 
-- 614 : Basic 2 ;
-- 623 : Touch Lux ;
-- 624 : Basic Touch ;
-- 626 : Touch Lux 2 ;
-- 630 : Sense ;
-- 640 : Aqua ;
-- 840 : InkPad.
-
-Les autres chiffres (4.4.893) indiquent la version du logiciel. S'ils commencent par 4, alors il s'agit d'un logiciel v4, et s'ils commencent par 5 alors il s'agit un logiciel v5.
+* La lettre T indique s'il s'agit d'un logiciel spécifique TEA. (Si vous avez une autre lettre (W), il s'agit d'un logiciel générique Pocketbook.)
+* Les trois premiers chiffres (623) indiquent le modèle de la liseuse.
+  - 614 : Basic 2 ;
+  - 623 : Touch Lux ;
+  - 624 : Basic Touch ;
+  - 626 : Touch Lux 2 ;
+  - 630 : Sense ;
+  - 640 : Aqua ;
+  - 840 : InkPad.
+* Les autres chiffres (4.4.893) indiquent la version du logiciel. S'ils commencent par 4, alors il s'agit d'un logiciel v4, et s'ils commencent par 5 alors il s'agit un logiciel v5.
 
 ###Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?
 
@@ -266,6 +264,7 @@ Pour supprimer une étagère, il faut choisir le mode "étagère", puis faire un
 
 Vous avez aussi la possibilité de choisir la disposition de votre clavier virtuel ou les dictionnaires disponibles.
 
+{% include anchor.html id="maj-pb" label="Comment mettre à jour ma liseuse Pocketbook ?" %}
 ###Comment mettre à jour ma liseuse Pocketbook ?
 
 - Aller dans Paramètres > À propos de l'appareil > Logiciel pour la version 4 ou dans Paramètres > Logiciel pour la version 5.
