@@ -37,3 +37,25 @@ body {
     color: darken(steelblue, 15%);
   }
 }
+
+.up {
+  text-align:right;
+}
+
+ul#anchor-menu {
+  list-style-type: none;
+  background-color: #EDECE8;
+  padding: 10px 15px;
+}
+ul.faq {
+  display: none;
+  margin-bottom: 0.5em;
+}
+
+p#anchor-menu-title{
+  background-color: #EDECE8;
+  margin-bottom: 0;
+  font-weight: bold;
+  font-size: 1.4em;
+  padding: 0.2em 0.5em;
+}

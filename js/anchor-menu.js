@@ -30,4 +30,11 @@ $(function onLoad() {
             return +$anchorElt.attr('data-level') || 6;
         }
     }
+    $( '#anchor-menu-title' ).click(function () {
+      if ( $( "#anchor-menu" ).is( ":hidden" ) ) {
+        $( "#anchor-menu" ).slideDown( "slow" );
+      } else {
+        $( "#anchor-menu" ).hide();
+      }
+    });
 });
