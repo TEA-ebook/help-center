@@ -40,11 +40,11 @@ Remplissez les champs suivants : le N° de la carte, la date d’expiration et 
 
 ![](/images/acheter-liseuse-8.jpg)
 
-<p class="protip">Cliquez sur « oui » pour enregister vos coordonées bancaire afin de ne plus avoir à les rentrer lors d'un futur achat.</p>
+<p class="protip">Cliquez sur « oui » pour enregistrer vos coordonnées bancaires afin de ne plus avoir à les saisir lors d'un futur achat.</p>
 
 {% include anchor.html id="telechargement" label="Téléchargement" %}
 ###Téléchargement
-Une fois votre commande terminée, vous accédez à un recapitulatif de vos achats. Vous pourrez alors télécharger votre e-book, en cliquant sur « Télécharger ».
+Une fois votre commande terminée, vous accédez à un récapitulatif de vos achats. Vous pourrez alors télécharger votre e-book, en cliquant sur « Télécharger ».
 
 ![](/images/acheter-liseuse-9.jpg)
 

@@ -177,7 +177,7 @@ Certaines applications permettent également de se connecter directement à la b
 ###Je n’arrive pas à ouvrir mon e-book.
 
 1. Vérifiez la compatibilité entre le format du livre que vous avez acheté et le support sur lequel vous essayez de l'ouvrir : [Quel format choisir pour acheter un e-book ?](#format-ebook)
-2. Vérifiez si l'application de lecture est adaptée à votre support, notamment si la version l'application est bien compatible avec la version du support.
+2. Vérifiez si l'application de lecture est adaptée à votre support, notamment si la version de l'application est bien compatible avec la version du support.
 3. Si votre livre est protégé :
 Vérifiez que l'application et/ou le support utilisé(e) est fourni(e) par votre librairie.
   * Si oui : Vérifiez que votre support est bien autorisé avec votre compte client ou votre compte Adobe.
@@ -306,7 +306,7 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 {% include anchor.html id="maj-pb" label="Comment mettre à jour ma liseuse Pocketbook ?" %}
 ###Comment mettre à jour ma liseuse Pocketbook ?
 
-- Version 4 aller dans Paramètres > À propos de l'appareil > Logiciel. Version 5 aller dans Paramètres > Logiciel.
+- Version 4 aller dans Paramètres > À propos de l'appareil > Logiciel ; Version 5 aller dans Paramètres > Logiciel.
 - Appuyer sur Mise à jour du logiciel.
 - Connectez votre liseuse au réseau Wi-Fi, tel que proposé.
 - Une fenêtre s'affiche, demandant de télécharger et d'installer la mise à jour.
@@ -364,7 +364,7 @@ Si vous souhaitez en supprimer un plus grand nombre, il est préférable de pass
 {% include anchor.html id="pocketbook-bloque" label="Ma liseuse Pocketbook est bloquée sur une page, que dois-je faire ?" %}
 ###Ma liseuse Pocketbook est bloquée sur une page, que dois-je faire ?
 Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.
-Mettez la en charge. S'il ne se passe toujours rien, contactez le service client.
+Mettez-la en charge. S'il ne se passe toujours rien, contactez le service client.
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
@@ -454,7 +454,7 @@ Vous pouvez également utiliser le bouton « reset » :
 ##Téléchargement
 
 {% include anchor.html id="recuperer-ebook" label="Après avoir acheté un e-book où puis-je le récupérer ?" %}
-###Après avoir acheté un e-book où puis-je le récupérer ?
+###Après avoir acheté un e-book, où puis-je le récupérer ?
 Les e-books que vous avez achetés sont disponibles en permanence dans votre compte, dans la rubrique « Mes e-books ».
 Cliquez ensuite sur le bouton « Télécharger » pour enregistrer vos e-books sur votre ordinateur.
 

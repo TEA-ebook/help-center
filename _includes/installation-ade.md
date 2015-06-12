@@ -1,4 +1,4 @@
-L'installation d'Adobe Digital Editions est nécessaire si vous souhaitez lire des livres au contenu protégé sur votre ordinateur, sans passer par le navigateur ou si vous souhaitez transférer des livres au contenu protégé sur certains supports.
+L'installation d'Adobe Digital Editions est nécessaire si vous souhaitez lire des livres au contenu protégé sur votre ordinateur sans passer par le navigateur, ou si vous souhaitez transférer des livres au contenu protégé sur certains supports.
 
 {% include anchor.html id="telecharger-adobe-digital-edition" label="Télécharger Adobe Digital Editions 4" %}
 ###Télécharger Adobe Digital Editions 4
@@ -66,7 +66,7 @@ Puis cliquez sur « Installer » pour lancer l'installation du logiciel.
 ####Création du compte Adobe
 {% include creation-compte-Adobe.md %}
 
-Dans le menu d'Adobe Digital Edition, allez dans Aide > Autorisation de l'ordinateur. 
+Dans le menu d'Adobe Digital Editions, allez dans Aide > Autorisation de l'ordinateur. 
 
 ![](/images/support-ordinateur-9.png)
 

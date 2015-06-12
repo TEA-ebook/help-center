@@ -14,16 +14,16 @@ Vous avez la possibilité de lire directement votre livre depuis le récapitulat
 
 ![](/images/telecharger-ordinateur-2.png)
 
-Cliquez sur le bouton "Lire" et votre livre s'ouvre dans votre navigateur grace à une liseuse web.
+Cliquez sur le bouton « Lire » et votre livre s'ouvre dans votre navigateur grâce à une liseuse web.
 
 {% include anchor.html id="fonctionnalite-liseuse" label="Fonctionnalités de la liseuse web" %}
 ###Fonctionnalités de la liseuse web
 
 ![](/images/lire-web-1.png)
 
-1. Boutons "Précédent" et "Suivant"
-2. Table des matières
-3. Grossissement/Réduction de la taille du texte
-4. Progression de la lecture
+1. Boutons « Précédent » et « Suivant » ;
+2. Table des matières ;
+3. Grossissement/Réduction de la taille du texte ;
+4. Progression de la lecture.
 
 ![](/images/lire-web-2.png)

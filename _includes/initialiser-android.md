@@ -25,13 +25,11 @@ Lisez le texte, cochez la case de validation puis cliquez sur « Me connecter 
 {% include anchor.html id="connexion-compte-client" label="Connexion au compte client" %}
 ###Connexion au compte client
 
-{% include youtube-embedded-video.html url="https://www.youtube.com/embed/MwtSOLta5h4" %}
-
 Afin de faciliter votre expérience d’achat, entrez vos identifiants de compte client dans la fenêtre « Mon Compte » qui s’est ouverte en haut à droite. Ensuite, cliquez sur « Connectez-vous ». Si vous n’avez pas de compte, vous pourrez en créer un lors de votre premier achat.
 
 ![](/images/support-tablette-2.png)
 
-<p class="warningtip">Le compte client que vous enregistrez doit être le même que celui utilisé sur le site, web ou liseuse, de votre libraire.</p>
+<p class="warningtip">Le compte client que vous enregistrez doit être le même que celui utilisé sur le site web de votre libraire ou la librairie de votre liseuse.</p>
 
 {% include anchor.html id="creation-compte-adobe" label="Création du compte Adobe" %}
 ###Création du compte Adobe
@@ -39,8 +37,6 @@ Afin de faciliter votre expérience d’achat, entrez vos identifiants de compte
 
 {% include anchor.html id="activation-compte-adobe" label="Activation du compte Adobe dans l'application Android v1" %}
 ###Activation du compte Adobe dans l'application Android v1
-
-{% include youtube-embedded-video.html url="https://www.youtube.com/embed/ks5gKmheahU" %}
 
 Toujours dans la fenêtre « Mon Compte » en haut à droite, vous trouverez en dessous du compte client, le compte Adobe ID. Cliquez sur « Connectez-vous ».
 

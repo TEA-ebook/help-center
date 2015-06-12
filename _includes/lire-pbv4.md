@@ -39,7 +39,7 @@ Vous pouvez modifier les paramètres d'affichage et de tri de la bibliothèque.
 - Date de création ;
 - Auteur.
 
-**4. Critères d'affichages :**
+**4. Critères d'affichage :**
 - Simple ;
 - Détaillé ;
 - Miniature.
@@ -75,7 +75,7 @@ Description des boutons de gauche à droite : Accueil | Précédent | Suivant |
 
 ![](/images/lire-liseuse-Pocketbook-F4-8.jpg)
 
-Afin d'accéder au menu des fonctionnalités de votre PocketBook v4, appuyez au centre de l’écran lorsque vous êtes en mode lecture ou sur le bouton physique en bas à droite de votre liseuse. Ensuite cliquez sur le menu en haut à droite de l’écran puis sur « Paramètre ». Vous accéderez à un menu vous permettant de nombreuses actions sur votre texte.
+Afin d'accéder au menu des fonctionnalités de votre PocketBook v4, appuyez au centre de l’écran lorsque vous êtes en mode lecture ou sur le bouton physique en bas à droite de votre liseuse. Ensuite cliquez sur le menu en haut à droite de l’écran puis sur « Paramètres ». Vous accéderez à un menu vous permettant de nombreuses actions sur votre texte.
 
 ####Les paramètres de lecture
 

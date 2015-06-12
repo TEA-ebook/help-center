@@ -26,11 +26,11 @@ N’oubliez pas de mettre sur « On » la connexion automatique, cela vous év
 {% include anchor.html id="compte-client" label="Compte client" %}
 ###Compte client
 Si vous possédez une Touch Lux 2 avec la fonctionnalité « Mes achats », il vous faudra renseigner votre compte client pour y accéder.
-Pour se faire, il faut cliquer sur « Paramètres » (situé sur la page d’accueil de la liseuse), puis « Comptes et synchronisation » et enfin « Mon compte client ».
+Pour ce faire, il faut cliquer sur « Paramètres » (situé sur la page d’accueil de la liseuse), puis « Comptes et synchronisation » et enfin « Mon compte client ».
 
 {% include anchor.html id="compte-adobe" label="Compte Adobe" %}
 ###Compte Adobe
-L'enregistrement du compte Adobe dans votre liseuse est nécessaire si vous souhaitez lire des livres au contenu protégé sur votre ordinateur, sans passer par le navigateur ou si vous souhaitez transférer des livres au contenu protégé sur certains supports.
+L'enregistrement du compte Adobe dans votre liseuse est nécessaire si vous souhaitez lire des livres au contenu protégé sur votre ordinateur sans passer par le navigateur, ou si vous souhaitez transférer des livres au contenu protégé sur certains supports.
 
 {% include creation-compte-Adobe.md %}
 

@@ -41,7 +41,7 @@ Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synch
 
 <p class="protip">
     Vous avez la possibilité de transférer le fichier de licence (.acsm) dans votre liseuse et d'ouvrir celui-ci directement depuis la bibliothèque de votre liseuse.<br />
-    Si vous êtes connecté en Wi-Fi le livre sera alors automatiquement télécharger à l'ouverture.
+    Si vous êtes connecté en Wi-Fi, le livre sera alors automatiquement téléchargé à l'ouverture.
 </p>
 
 Le transfert d'un ebook depuis ordinateur vers une liseuse se fait grâce à un câble USB.
@@ -74,7 +74,7 @@ Cliquez sur l’e-book que vous voulez transférer et faites un glisser-déposer
 
 {% include anchor.html id="lire-basic2" label="Lire son livre sur votre liseuse Basic 2" %}
 ##Lire son livre sur sa liseuse Basic 2
-Après son transfert vous pouvez retrouvez votre livre dans la bibliothèque de votre liseuse.
+Après son transfert, vous pouvez retrouver votre livre dans la bibliothèque de votre liseuse.
 
 {% include anchor.html id="bibliotheque-basic2" label="La bibliothèque numérique" %}
 ###La bibliothèque numérique
@@ -83,7 +83,7 @@ La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de 
 
 {% include anchor.html id="acces-bibliotheque-basic2" label="L'accès à la bibliothèque" %}
 ####L'accès à la bibliothèque
-Depuis la page d’accueil de votre PocketBook Basic 2, vous pouvez consulter vos e-books en vous rendant sur « Bibliothèque » ou l’icône correspondante.
+Depuis la page d’accueil de votre PocketBook Basic 2, vous pouvez consulter vos e-books en vous rendant sur « Bibliothèque ».
 
 La bibliothèque de votre liseuse vous permet d'accéder aux livres présents sur votre liseuse, mais aussi de les ranger et de les organiser comme vous le souhaitez.
 

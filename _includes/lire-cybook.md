@@ -37,7 +37,7 @@ Lorsque vous lisez un livre, vous pouvez choisir de changer la police de caract�
 Vous pouvez également mettre des annotations (signets, surlignages, notes,…) lors de votre lecture. Ceci vous permet de mettre des repères ou simplement de taper des informations supplémentaires sur les textes que vous lisez.
 
 **Dictionnaire embarqué :**
-Chaque Cybook a un dictionnaire *Le Nouveau Littré* embarqué, facile à consulter grâce à une simple pression qui vous permettra de sélectionner le mot qui vous voulez consulter.
+Chaque Cybook a un dictionnaire *Le Nouveau Littré* embarqué, facile à consulter grâce à une simple pression, qui vous permettra de sélectionner le mot qui vous voulez consulter.
 Pour plus d’information, vous pouvez [consulter les manuels Bookeen](http://www.bookeen.com/fr/support_download).
 
 Bonne lecture !

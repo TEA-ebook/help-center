@@ -28,7 +28,7 @@
 4. Accès rapide au sommaire de votre e-book.
 5. Carnet de notes : l’ensemble de vos notes sont réunies dans votre carnet. Vous pouvez notamment les exporter depuis cet onglet.
 6. Annotations : vous permet de prendre des notes sur le contenu de votre e-book. Une fonction de partage y est également associée.
-7. Marque page : cliquez dessus pour l’activer.
+7. Marque-page : cliquez dessus pour l’activer.
 8. Onglet d’aide : cliquez dessus pour l’activer.
 9. Paramètres : vous permet d’adapter vos préférences de réglages (luminosité, taille et le type de police de votre texte) pour un meilleur confort de lecture.
 10. Barre de navigation avec indication des chapitres.
