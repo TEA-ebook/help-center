@@ -136,7 +136,7 @@ Elles indiquent que le délai de rétractation de 7 jours prévu par l’article
 ###La remise de 5 % des libraires s’applique-t-elle sur les e-books ?
 Les e-books ne bénéficient pas de la remise de 5 %.
 
-<p class="up"><a href="#">Haut de la page</a></p>
+<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 {% include anchor.html id="compte-client" label="Compte client" %}
 ##Compte client
@@ -154,7 +154,7 @@ Les commandes que vous avez passées depuis notre site Internet sont visibles da
 Pour modifier les informations relatives à votre compte, vous devez vous connecter à notre site Internet.
 Cliquez sur Mon compte en haut à droite de la page d'accueil. Saisissez votre adresse mail et votre mot de passe. Vous pouvez ensuite modifier ou compléter vos informations personnelles en cliquant sur « Mes informations personnelles ».
 
-<p class="up"><a href="#">Haut de la page</a></p>
+<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 {% include anchor.html id="lecture" label="Lecture" %}
 ##Lecture
@@ -213,7 +213,7 @@ Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Re
 ###Puis-je lire mes livres sur une liseuse Kobo ?
 Il faut penser à éjecter « proprement » la liseuse KOBO avant de la déconnecter d'un ordinateur, et utiliser l'application Kobo desktop téléchargeable sur le [site de Kobo](http://www.kobosetup.fr/).
 
-<p class="up"><a href="#">Haut de la page</a></p>
+<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 {% include anchor.html id="liseuse" label="Liseuse" %}
 ##Liseuses généralités
@@ -256,6 +256,8 @@ Vous ne perdrez pas vos documents ou vos livres quand vous mettrez à jour votre
 {% include anchor.html id="carteSD-liseuse" label="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
 ###Quel type de carte SD dois-je utiliser avec ma liseuse ?
 Les liseuses Cybook ou Pocketbook supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
+
+<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 {% include anchor.html id="Pocketbook" label="Liseuses Pocketbook" %}
 ##Liseuses Pocketbook
@@ -364,6 +366,8 @@ Si vous souhaitez en supprimer un plus grand nombre, il est préférable de pass
 Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.
 Mettez la en charge. S'il ne se passe toujours rien, contactez le service client.
 
+<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
+
 {% include anchor.html id="liseuse-cybook" label="Liseuse Cybook" %}
 ##Liseuses Cybook
 
@@ -444,7 +448,7 @@ Vous pouvez également utiliser le bouton « reset » :
 - Peut-être que le format de votre livre n'est pas compatible avec la liseuse Cybook. En effet, si vous transférez un fichier dont le format n'est pas supporté par l'appareil, vous pourrez le voir depuis l'ordinateur mais pas depuis la liseuse Cybook.
 - Si vous avez transféré le livre dans un dossier que vous avez vous-même créé, vous devez sélectionner l'option « Affichage par dossier » pour pouvoir le retrouver. En effet, uniquement les livres se trouvant dans les dossiers « Books » et « Digital Editions » apparaissent dans la Bibliothèque.
 
-<p class="up"><a href="#">Haut de la page</a></p>
+<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 {% include anchor.html id="telechargement" label="Téléchargement" %}
 ##Téléchargement
@@ -470,7 +474,7 @@ Le bouton « Télécharger » est :
 - pas présent : la commande a été annulée et le livre n'est pas téléchargeable ;
 - présent : contacter le service client.
 
-<p class="up"><a href="#">Haut de la page</a></p>
+<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 {% include anchor.html id="autres" label="Autres" %}
 ##Autres
@@ -478,5 +482,3 @@ Le bouton « Télécharger » est :
 {% include anchor.html id="imprimer-copier-ebook" label="Malgré les protections, peut-on imprimer ou copier un e-book ?" %}
 ###Malgré les protections, peut-on imprimer ou copier un e-book ?
 Tout dépend des protections qui sont apposées sur vos e-books. La fiche technique de la fiche produit d’un e-book communique également ce type d’information. Vous devez regarder sur la fiche technique afin de savoir si l’e-book est imprimable ou copiable.
-
-<p class="up"><a href="#">Haut de la page</a></p>

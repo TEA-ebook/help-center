@@ -30,11 +30,27 @@ $(function onLoad() {
             return +$anchorElt.attr('data-level') || 6;
         }
     }
-    $( '#anchor-menu-title' ).click(function () {
-      if ( $( "#anchor-menu" ).is( ":hidden" ) ) {
-        $( "#anchor-menu" ).slideDown( "slow" );
+    $('#anchor-menu-title').click(function () {
+      if ($("#anchor-menu").is(":hidden")) {
+        $("#anchor-menu").slideDown("slow");
+        $('#anchor-menu-title').css("margin-bottom", "0");
+        $(".expand").css({
+            "border-left": "none",
+            "border-right": "10px solid",
+            "border-top": "7px solid transparent",
+            "border-bottom": "7px solid transparent"
+
+        });
       } else {
-        $( "#anchor-menu" ).hide();
+        $("#anchor-menu").hide();
+        $('#anchor-menu-title').css("margin-bottom", "0.5em");
+        $(".expand").css({
+            "border-top": "10px solid",
+            "border-right": "7px solid transparent",
+            "border-left": "7px solid transparent",
+            "border-bottom": "none"
+        });
       }
     });
+
 });

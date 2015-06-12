@@ -5,13 +5,13 @@
   h2 {
     color: white;
     background-color: #00AD85;
-    font-size: 2.4em;
+    font-size: 2em;
     padding: 5px 10px;
     font-weight: bold;
   }
   h3 {
     background-color: #EDECE8;
-    font-size: 1.8em;
+    font-size: 1.4em;
     padding: 5px 10px;
     font-weight: bold;
     color:  #00AD85;
@@ -20,23 +20,28 @@
     background: #00AD85;
     color: #fff;
     font-size: 24px;
-    padding: 2px 10px;
-    border-radius: 18px;
+    display: inline-block;
+    width: 1.4em;
+    height: 1.4em;
+    border-radius: 0.8em;
     font-weight: bold;
+    text-align: center;
   }
   #wrapper-info {
     display: none;
     position: relative;
     div {
-      border: 3px solid #00AD85;
-      background: #fff;
+      background: #EDECE8;
       position: absolute;
-      top: -15em;
-      left: 17em;
+      top: 1em;
+      left: 0em;
       z-index: 10;
       padding: 0.5em;
-      /*width: 40em;*/
-      h4 {
+      @media (min-width: 1200px) {
+        top: -12em;
+        left: 12em;
+      }
+     h4 {
         color: #00AD85;
         font-weight: bold;
         font-size: 120%;
@@ -53,7 +58,10 @@
 
 .img-home{
   margin-top: 20px;
-  text-align: right;
+  text-align: center;
+  @media (min-width: 1200px) {
+    text-align: right;
+  }
 }
 
 .btn-home{

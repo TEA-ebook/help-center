@@ -10,17 +10,20 @@ body {
 li {
   &.level-1 {
     font-weight: bold;
-    font-size: 1.4em;
+    font-size: 1.2em;
+    line-height: 1.3;
   }
   &.level-2 {
     font-weight: bold;
-    font-size: 1.2em;
+    line-height: 1.3;
   }
   &.level-3 {
     padding-left: 15px;
+    font-size: 0.8em;
   }
   &.level-4 {
     padding-left: 30px;
+    font-size: 0.8em;
     & a {
       color: #444;
 
@@ -61,8 +64,9 @@ article.page {
     color: #00AD85;
     font-weight: bold;
     font-variant: small-caps;
-    font-size: 3.6em;
+    font-size: 3em;
     margin: 0;
+    line-height: 1;
   }
 
   h2 {
@@ -70,7 +74,7 @@ article.page {
     margin-bottom: 20px;
     color: white;
     background-color: #00AD85;
-    font-size: 3em;
+    font-size: 2.4em;
     padding: 5px 10px;
     font-weight: bold;
   }
@@ -79,7 +83,7 @@ article.page {
     margin-top: 20px;
     margin-bottom: 10px;
     background-color: #EDECE8;
-    font-size: 2.4em;
+    font-size: 1.8em;
     padding: 5px 10px;
     font-weight: bold;
     color:  #00AD85;
@@ -90,22 +94,22 @@ article.page {
     margin-bottom: 10px;
     font-weight: bold;
     color:  #00AD85;
-    font-size: 1.8em;
+    font-size: 1.4em;
   }
 
   h5 {
     margin-top: 15px;
     margin-bottom: 5px;
     font-weight: bold;
-    font-size: 1.4em;
+    font-size: 1.2em;
   }
 
   p > img {
     display: block;
-    margin: auto;
     box-shadow: 0 0 20px -5px;
     border: 1px solid #E8E8E8;
     max-width: 100%;
+    margin: 1em auto;
   }
 
   .video {
@@ -114,7 +118,7 @@ article.page {
 
     iframe {
       display: block;
-      margin: auto;
+      margin: 1em auto;
       max-width: 100%;
       width: 560px;
       height: 315px;
@@ -123,7 +127,6 @@ article.page {
     }
   }
 }
-
 
 a {
     color: #00AD85;
