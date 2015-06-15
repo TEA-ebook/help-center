@@ -8,6 +8,8 @@ title: Acheter un ebook sur Internet et le lire sur sa liseuse Cybook
 ##Acheter un ebook sur Internet
 {% include acheter-ordinateur.md %}
 
+Vous pouvez maintenant télécharger vos livres directement sur votre liseuse. [Télécharger sur votre liseuse Cybook depuis le store liseuse](#telecharger-cybook)
+
 {% include anchor.html id="initialiser-cybook" label="Initialiser votre liseuse Cybook" %}
 ##Initialiser votre liseuse Cybook
 {% include initialiser-cybook.md %}

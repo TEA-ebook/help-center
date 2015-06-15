@@ -8,6 +8,8 @@ title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook v5
 ##Acheter un ebook sur Internet
 {% include acheter-ordinateur.md %}
 
+Vous pouvez maintenant télécharger vos livres directement sur votre liseuse. [Télécharger sur votre liseuse Pocketbook v5 depuis « Mes achats »](#telecharger-pbv5)
+
 {% include anchor.html id="initialiser-pbv5" label="Initialiser votre liseuse Pocketbook v5" %}
 ##Initialiser votre liseuse Pocketbook v5
 {% include initialiser-pbv5.md %}

@@ -1,4 +1,4 @@
-Une fois le fichier de licence (.acsm) téléchargé sur votre ordinateur, ouvrez le logiciel Adobe Digital Edition.
+Une fois le fichier de licence (.acsm) téléchargé sur votre ordinateur, ouvrez le logiciel Adobe Digital Editions que vous avez installé. ([En savoir plus sur les fichiers protégés](/faq/#protections-ebook))
 Cliquez ensuite sur « Fichier », puis sur « Ajouter à la bibliothèque ».
 
 ![](/images/lire-ordinateur-1.png)

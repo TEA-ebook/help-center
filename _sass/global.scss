@@ -37,3 +37,58 @@ body {
     color: darken(steelblue, 15%);
   }
 }
+
+.up {
+  text-align:right;
+}
+
+ul#anchor-menu {
+  list-style-type: none;
+  background-color: #EDECE8;
+  padding: 10px 15px;
+}
+ul.move {
+  position: fixed;
+  top: 80px;
+  display: none;
+  @media (min-width: 1200px) {
+    width: 292px;
+    display: block;
+  }
+}
+ul.faq {
+  display: none;
+  margin-bottom: 0.5em;
+}
+
+p#anchor-menu-title{
+  background-color: #EDECE8;
+  font-weight: bold;
+  font-size: 1.4em;
+  padding: 0.2em 0.5em;
+  span{
+    display: inline-block;
+    width: 0;
+    height: 0;
+    float: right;
+    margin-top: 0.5em;
+  }
+}
+
+.menu-close{
+  margin-bottom: 0.5em;
+  span{
+    border-top: 10px solid;
+    border-right: 7px solid transparent;
+    border-left: 7px solid transparent;
+  }
+}
+
+.menu-open{
+  margin-bottom: 0;
+  span{
+    border-right: 10px solid;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+  }
+}

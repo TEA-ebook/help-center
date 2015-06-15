@@ -2,5 +2,5 @@ Pour l'instant, la fonctionnalité « Mes achats » n'est disponible que sur l
 
 ![](/images/telecharger-liseuse-2.jpg)
 
-- Allumez votre liseuse TEA et allez sur « Mes achats ».
+- Allumez votre liseuse et allez sur « Mes achats ».
 - Il ne vous reste plus qu’à télécharger les e-books que vous avez achetés précédemment.

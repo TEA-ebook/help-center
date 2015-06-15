@@ -30,4 +30,14 @@ $(function onLoad() {
             return +$anchorElt.attr('data-level') || 6;
         }
     }
+    $('#anchor-menu-title').click(function () {
+      if ($("#anchor-menu").is(":hidden")) {
+        $("#anchor-menu").slideDown("slow");
+        $("#anchor-menu-title").removeClass("menu-close").addClass("menu-open");
+      } else {
+        $("#anchor-menu").hide();
+        $("#anchor-menu-title").removeClass("menu-close").addClass("menu-open");
+      }
+    });
+
 });

@@ -1,3 +1,5 @@
+<p class="protip">Afin de profiter des dernières fonctionnalités de votre liseuse, il est recommandé de maintenir sa liseuse à jour. <a href="/FAQ/#maj-pb">En savoir plus…</a></p>
+
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/zlI7RQfKAug" %}
 
 <p class="warningtip">Lorsque vous allumez votre liseuse PocketBook v4 pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse, notamment lors de vos futurs achats.</p>
@@ -21,8 +23,15 @@ N’oubliez pas de mettre sur « On » la connexion automatique, cela vous év
 
 <p class="protip">Lorsque vous vous connectez à un réseau, il est possible qu’une mise à jour vous soit demandée. Il est préférable de faire ces mises à jour, car elles vous permettent de bénéficier des dernières fonctionnalités du logiciel et de corriger d'éventuels problèmes.</p>
 
-{% include anchor.html id="creation-compte-adobe" label="Création du compte Adobe" %}
-###Création du compte Adobe
+{% include anchor.html id="compte-client" label="Compte client" %}
+###Compte client
+Si vous possédez une Touch Lux 2 avec la fonctionnalité « Mes achats », il vous faudra renseigner votre compte client pour y accéder.
+Pour ce faire, il faut cliquer sur « Paramètres » (situé sur la page d’accueil de la liseuse), puis « Comptes et synchronisation » et enfin « Mon compte client ».
+
+{% include anchor.html id="compte-adobe" label="Compte Adobe" %}
+###Compte Adobe
+L'enregistrement du compte Adobe dans votre liseuse est nécessaire si vous souhaitez lire des livres au contenu protégé sur votre ordinateur sans passer par le navigateur, ou si vous souhaitez transférer des livres au contenu protégé sur certains supports.
+
 {% include creation-compte-Adobe.md %}
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/yycYSESoz44" %}
@@ -37,14 +46,14 @@ Si vous achetez puis téléchargez pour la première fois un e-book avec Adobe D
 
 Si vous avez enregistré votre compte Adobe, il vous suffit de cliquer sur « Oui » pour débuter le téléchargement de votre e-book avec Adobe DRM.
 
-Dans le cas contraire vous devez entrez votre compte personnel ID Adobe ainsi que le mot de passe associé afin de débloquer la protection de l’e-book et commencer la lecture.
+Dans le cas contraire vous devez enregistrer votre compte personnel ID Adobe ainsi que le mot de passe associé afin de débloquer la protection de l’e-book et commencer la lecture.
 
 {% include anchor.html id="utiliser-pbv4" label="Utiliser votre liseuse Pocketbook v4" %}
 ##Utiliser votre liseuse Pocketbook v4
 
 {% include anchor.html id="fonctionnalites" label="Fonctionnalités de la liseuse Pocketbook v4" %}
 ###Fonctionnalités de la liseuse Pocketbook v4
-Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware (ces fonctionnalités peuvent différer d'un modèle à l'autre)&nbsp;:
+Diverses fonctionnalités sont accessibles depuis la page d'accueil du logiciel (ces fonctionnalités peuvent différer d'un modèle à l'autre)&nbsp;:
 
 - **Bibliothèque** : Retrouvez tous les livres présent sur votre liseuse.
 - **Librairie** : Achetez de nouveaux livres

@@ -1,3 +1,5 @@
+<p class="protip">Afin de profiter des dernières fonctionnalités de votre liseuse, il est recommandé de maintenir sa liseuse à jour. <a href="/FAQ/#maj-pb">En savoir plus…</a></p>
+
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/9UO-n02Tdko" %}
 
 ###Connexion au Wifi
@@ -10,7 +12,7 @@ Sélectionnez le wifi auquel vous voulez vous connecter.
 
 ![](/images/support-liseuse-3.jpg)
 
-Une fenêtre s’ouvre, vous pouvez dès lors renseigner le mot de passe associé au réseau wifi puis cliquer sur « OK ».
+Une fenêtre s’ouvre, vous pouvez dès lors renseigner le mot de passe associé à votre réseau wifi puis cliquer sur « OK ».
 
 ![](/images/support-liseuse-4.jpg)
 
@@ -46,7 +48,7 @@ Découvrez la sélection d’ebooks et extraits offerts présents dans la biblio
 
 {% include anchor.html id="fonctionnalites-5" label="Fonctionnalités" %}
 ###Fonctionnalités
-Diverses fonctionnalités sont accessibles depuis la page d'accueil du firmware (ces fonctionnalités peuvent différer d'un modèle à l'autre)&nbsp;:
+Diverses fonctionnalités sont accessibles depuis la page d'accueil du logiciel (ces fonctionnalités peuvent différer d'un modèle à l'autre)&nbsp;:
 
 ####Directement sur la page d'accueil :
 
