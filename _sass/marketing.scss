@@ -4,22 +4,21 @@
 .marketing {
   h2 {
     color: white;
-    background-color: tea-color('accent');
+    background-color: tea-color('dark');
+    border-radius: 4px;
     font-size: 2em;
     padding: 5px 10px;
     font-weight: bold;
   }
   h3 {
-    background-color: #EDECE8;
     font-size: 1.4em;
-    padding: 5px 10px;
     font-weight: bold;
-    color:  tea-color('accent');
+    color: tea-color('secondary');
   }
   .info {
-    background: tea-color('accent');
+    background: tea-color('secondary');
     color: #fff;
-    font-size: 24px;
+    font-size: 15px;
     display: inline-block;
     width: 1.4em;
     height: 1.4em;
