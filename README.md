@@ -8,7 +8,11 @@ TEA Help Center
 
 ## Tester en local
 
-1. Lancer Jekyll : `bundle exec jekyll serve`
+1. Lancer Jekyll : 
+```sh
+bundle exec jekyll serve
+```
+
 2. Copier/coller l'url générée (http://localhost:4000/) dans un navigateur web
 
 On supposera pour les actions ci-dessous que le projet git-hub "help-center" a été installé dans workspace/help-center. Ainsi, pour tous les points suivants, la ligne de commande est à lancer depuis ce dossier : `cd workspace/help-center`
