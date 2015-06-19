@@ -9,6 +9,7 @@ ul#anchor-menu {
 
 li {
   &.level-1 {
+    font-family: tea-fonts('title'), serif;
     font-weight: bold;
     font-size: 1.2em;
     line-height: 1.3;
