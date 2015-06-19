@@ -3,16 +3,32 @@ nav.navbar {
   border-color: #D4D4D4;
 }
 
-.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav > li > a {
-  color: tea-color('foreground');
+
+.navbar-inverse {
+  .navbar-brand, .navbar-nav > li > a {
+    color: tea-color('foreground');
+
+    &:hover, &:focus {
+      color: tea-color('accent');
+    }
+  }
+
+  .navbar-nav > .active > a, 
+  .navbar-nav > .open > a {
+    background-color: tea-color('accent');
+
+    &:hover, &:focus {
+      background-color: tea-color('accent');
+    }
+  }
 }
 
-.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-nav > li > a:focus {
-  color: tea-color('accent');
-}
-
-.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus, .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
+.dropdown-menu > .active > a {
   background-color: tea-color('accent');
+
+  &:hover, &:focus {
+    background-color: tea-color('accent');
+  }
 }
 
 
