@@ -4,7 +4,7 @@
 .marketing {
   h2 {
     color: white;
-    background-color: #00AD85;
+    background-color: tea-color('accent');
     font-size: 2em;
     padding: 5px 10px;
     font-weight: bold;
@@ -14,10 +14,10 @@
     font-size: 1.4em;
     padding: 5px 10px;
     font-weight: bold;
-    color:  #00AD85;
+    color:  tea-color('accent');
   }
   .info {
-    background: #00AD85;
+    background: tea-color('accent');
     color: #fff;
     font-size: 24px;
     display: inline-block;
@@ -42,7 +42,7 @@
         left: 12em;
       }
      h4 {
-        color: #00AD85;
+        color: tea-color('accent');
         font-weight: bold;
         font-size: 120%;
       }
