@@ -75,7 +75,7 @@ article.page {
     margin-top: 30px;
     margin-bottom: 20px;
     color: white;
-    background-color: tea-color('accent');
+    background-color: tea-color('dark');
     font-size: 2.4em;
     padding: 5px 10px;
     font-weight: bold;
@@ -84,11 +84,9 @@ article.page {
   h3 {
     margin-top: 20px;
     margin-bottom: 10px;
-    background-color: #EDECE8;
     font-size: 1.8em;
-    padding: 5px 10px;
     font-weight: bold;
-    color: tea-color('accent');
+    color: tea-color('secondary');
   }
 
   h4 {
