@@ -9,7 +9,8 @@ nav.navbar {
     color: tea-color('foreground');
 
     &:hover, &:focus {
-      color: tea-color('accent');
+      background-color: tea-color('dark');
+      color: white;
     }
   }
 
