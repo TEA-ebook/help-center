@@ -1,6 +1,11 @@
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
+#select_container {
+  background: tea-color('background');
+  min-height: 400px;
+}
+
 .marketing {
   h2 {
     font-family: tea-fonts('title'), serif;
@@ -55,9 +60,10 @@
   }
 }
 
-.img-home{
-  margin-top: 20px;
+.img-home {
   text-align: center;
+  background: #d8d5d2;
+  height: 400px;
   @media (min-width: 1200px) {
     text-align: right;
   }
