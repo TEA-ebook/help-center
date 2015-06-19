@@ -1,0 +1,11 @@
+$tea-colors: (
+  'primary': #00AD85, 
+  'accent': #547980,
+  'secondary': #9DE0AD,
+  'foreground': #444,
+  'background': #EDECE8
+);
+
+@function tea-color($key: 'primary') {
+  @return map-get($tea-colors, $key);
+}
