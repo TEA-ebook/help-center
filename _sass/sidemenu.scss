@@ -62,4 +62,11 @@ li {
       }
     }
   }
+  &.level-5 {
+    list-style-type: disc;
+    list-style-position: inside;
+    padding-left: 40px;
+    font-size: 0.6em;
+    & a { color: #444; }
+  }
 }
