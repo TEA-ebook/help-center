@@ -2,8 +2,12 @@
 # Main style file
 ---
 
+@import "colors";
+@import "fonts";
+
 @import "global";
 @import "navbar";
+@import "sidemenu";
 @import "marketing";
 
 /* Featurettes

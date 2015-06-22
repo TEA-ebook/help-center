@@ -1,25 +1,29 @@
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
+#select_container {
+  background: tea-color('background');
+  min-height: 400px;
+}
+
 .marketing {
   h2 {
-    color: white;
-    background-color: #00AD85;
+    font-family: tea-fonts('title'), serif;
+    color: tea-color('dark');
     font-size: 2em;
-    padding: 5px 10px;
+    padding: 5px 0;
     font-weight: bold;
   }
   h3 {
-    background-color: #EDECE8;
+    font-family: tea-fonts('title'), serif;
     font-size: 1.4em;
-    padding: 5px 10px;
     font-weight: bold;
-    color:  #00AD85;
+    color: tea-color('secondary');
   }
   .info {
-    background: #00AD85;
+    background: tea-color('secondary');
     color: #fff;
-    font-size: 24px;
+    font-size: 15px;
     display: inline-block;
     width: 1.4em;
     height: 1.4em;
@@ -42,7 +46,7 @@
         left: 12em;
       }
      h4 {
-        color: #00AD85;
+        color: tea-color('accent');
         font-weight: bold;
         font-size: 120%;
       }
@@ -56,9 +60,10 @@
   }
 }
 
-.img-home{
-  margin-top: 20px;
+.img-home {
   text-align: center;
+  background: #d8d5d2;
+  height: 400px;
   @media (min-width: 1200px) {
     text-align: right;
   }

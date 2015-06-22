@@ -1,0 +1,7 @@
+$tea-fonts: (
+  'title': "Slabo 27px"
+);
+
+@function tea-fonts($key) {
+  @return map-get($tea-fonts, $key);
+}
