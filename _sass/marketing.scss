@@ -8,14 +8,14 @@
 
 .marketing {
   h2 {
-    color: white;
-    background-color: tea-color('dark');
-    border-radius: 4px;
+    font-family: tea-fonts('title'), serif;
+    color: tea-color('dark');
     font-size: 2em;
-    padding: 5px 10px;
+    padding: 5px 0;
     font-weight: bold;
   }
   h3 {
+    font-family: tea-fonts('title'), serif;
     font-size: 1.4em;
     font-weight: bold;
     color: tea-color('secondary');
