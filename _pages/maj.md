@@ -1,7 +1,7 @@
 ---
 permalink: "/maj/"
 layout: page
-title: Mettre sa liseuse Pocketbook à jour
+title: Mettre à jour sa liseuse Pocketbook
 ---
 
 <p class="protip">
