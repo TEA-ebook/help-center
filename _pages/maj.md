@@ -6,16 +6,17 @@ title: Mettre sa liseuse Pocketbook à jour
 
 <p class="protip">
     <span class="title">Pourquoi mettre à jour régulièrement votre liseuse ?</span><br />
-    Pour disposer de la version logicielle la plus récente.<br />
-    Pour optimiser les performances et apporter de nouvelles fonctionnalités à votre liseuse.
+    Pour disposer en permanence de la version logicielle la plus récente, ce qui permet d’optimiser les performances et d’apporter de nouvelles fonctionnalités à votre liseuse.
 </p>
 
-{% include anchor.html id="version-logiciel" label="Définir la version de son logiciel" %}
-##Définir la version de son logiciel
+{% include anchor.html id="version-logiciel" label="Quelle est la version de mon logiciel ?" %}
+##Quelle est la version de mon logiciel ?
 
-Version 4 : | Version 5 :
------------ | -----------
-![](/images/index-info-3.jpg) | ![](/images/index-info-5.jpg)
+Pour savoir quelle est la version du logiciel installé sur votre liseuse, il vous suffit d'observer la page d'accueil.
+
+Version 4 : |   | Version 5 :
+----------- | - | -----------
+![](/images/index-info-3.jpg) |   | ![](/images/index-info-5.jpg)
 
 {% include anchor.html id="maj4" label="Mise à jour depuis la version 4" %}
 ##Mise à jour depuis la version 4
