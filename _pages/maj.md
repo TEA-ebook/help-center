@@ -14,9 +14,15 @@ title: Mettre à jour sa liseuse Pocketbook
 
 Pour savoir quelle est la version du logiciel installé sur votre liseuse, il vous suffit d'observer la page d'accueil.
 
-Version 4 : | Version 5 :
------------ | -----------
-![](/images/index-info-3.jpg) | ![](/images/index-info-5.jpg)
+<table class="table table-bordered">
+    <tr>
+        <th>Version 4 :</th>
+        <th>Version 5 :</th>
+    </tr>
+    <tr>
+        <td><img src="/images/index-info-3.jpg" alt=""></td>
+        <td><img src="/images/index-info-5.jpg" alt=""></td>    </tr>
+</table>
 
 {% include anchor.html id="maj4" label="Mise à jour depuis la version 4" %}
 ##Mise à jour depuis la version 4
