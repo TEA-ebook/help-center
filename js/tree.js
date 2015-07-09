@@ -21,7 +21,7 @@
         },
         'l\'application android v1' : {
             'l\'application android v1' : ['/androidv1-androidv1','Acheter un ebook et le lire sur sa tablette Android (app v1)']
-        }
+        },
         'l\'application android v2' : {
             'l\'application android v2' : ['/androidv2-androidv2','Acheter un ebook et le lire sur sa tablette Android (app v2)']
         }
