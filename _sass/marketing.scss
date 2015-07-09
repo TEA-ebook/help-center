@@ -35,18 +35,23 @@
     display: none;
     position: relative;
     div {
-      background: #EDECE8;
+      background: #fff;
       position: absolute;
       top: 1em;
       left: 0em;
       z-index: 10;
-      padding: 0.5em;
+      margin-top: 10px;
+      padding: 20px;
+      border: 1px solid #D4D4D4;
+      border-radius: 4px;
+      box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.3);
       @media (min-width: 1200px) {
         top: -12em;
         left: 12em;
       }
      h4 {
-        color: tea-color('accent');
+        font-family: tea-fonts('title'), serif;
+        color: tea-color('secondary');
         font-weight: bold;
         font-size: 120%;
       }
@@ -54,6 +59,7 @@
         padding: 5px;
         td {
           padding: 5px;
+          border: 3px solid #D4D4D4;
         }
       }
     }
