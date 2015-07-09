@@ -14,6 +14,21 @@ body {
     left:0;
 } 
 
+#search-form {
+  padding: 20px;
+  background: #EDECE8;
+  -moz-border-radius: 5px; /* FF1+ */
+  -webkit-border-radius: 5px; /* Saf3-4 */
+  border-radius: 5px; /* Opera 10.5, IE 9, Saf5, Chrome */
+
+  h4 {
+    font-family: "Slabo 27px",serif;
+    font-size: 1em;
+    font-weight: bold;
+    color: #547980;
+  }
+}
+
 td, th {
   padding: 5px 10px;
 }
