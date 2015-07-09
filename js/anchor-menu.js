@@ -40,4 +40,11 @@ $(function onLoad() {
       }
     });
 
+    $('#text-search').bind('keyup change', function(ev) {
+        $('body').removeHighlight();
+        var searchTerm = $(this).val();
+        if (searchTerm) {
+            $('body').highlight(searchTerm);
+        }
+    });
 });
