@@ -1,6 +1,7 @@
 (function enableJsNavigation($) {
     'use strict';
     var tree = {
+        '…' : {},
         'le web' : {
             'un navigateur' : ['/web-web','Acheter un ebook sur Internet et le lire dans son navigateur'],
             'un ordinateur' : ['/web-ordinateur','Acheter un ebook sur Internet et le lire sur son ordinateur'],
@@ -11,8 +12,8 @@
             'une liseuse Pocketbook logiciel v5' : ['/web-pbv5','Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook v5'],
             'l\'application android v1' : ['/web-androidv1','Acheter un ebook sur Internet et le lire sur sa tablette Android (app v1)'],
             'l\'application android v2' : ['/web-androidv2','Acheter un ebook sur Internet et le lire sur sa tablette Android (app v2)'],
-            'l\'application iOs v1' : ['/web-iosv1','Acheter un ebook sur Internet et le lire sur son iPad/iPhone (app v1)']
-            //'l\'application iOs v2' : '/web-iosv2'
+            'l\'application iOs v1' : ['/web-iosv1','Acheter un ebook sur Internet et le lire sur son iPad/iPhone (app v1)']/*,
+            'l\'application iOs v2' : ['/web-iosv2','Acheter un ebook sur Internet et le lire sur son iPad/iPhone (app v2)']*/
         },
         'une liseuse' : {
             'une liseuse cybook' : ['/liseuse-cybook','Acheter un ebook et le lire sur sa liseuse Cybook'],
@@ -49,7 +50,7 @@
         $('#select_lecture_wrapper').html($lecture);
         $lecture.change();
     }
-    $('#select_container').on('click', '#select_achat', updateLectureSelect);
+//    $('#select_container').on('click', '#select_achat', updateLectureSelect);
     $('#select_container').on('change', '#select_achat', updateLectureSelect);
 
     function updateSelectResult(e, t) {

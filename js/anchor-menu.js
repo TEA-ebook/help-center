@@ -36,7 +36,7 @@ $(function onLoad() {
         $("#anchor-menu-title").removeClass("menu-close").addClass("menu-open");
       } else {
         $("#anchor-menu").hide();
-        $("#anchor-menu-title").removeClass("menu-close").addClass("menu-open");
+        $("#anchor-menu-title").removeClass("menu-open").addClass("menu-close");
       }
     });
 
