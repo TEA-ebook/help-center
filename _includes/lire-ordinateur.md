@@ -1,8 +1,8 @@
-{% include anchor.html id="ouvrir-DRM-o" label="Ouvrir un livre sous DRM" %}
-###Ouvrir un livre sous DRM
-{% include ouvrir-drm.md %}
+{% include anchor.html id="ouvrir-livre" label="Ouvrir un livre" %}
+###Ouvrir un livre
+{% include ouvrir-livre.md %}
 
-{% include anchor.html id="fonctionnement-bibliotheque-o" label="Fonctionnement de la bibliothèque" %}
+{% include anchor.html id="fonctionnement-bibliotheque" label="Fonctionnement de la bibliothèque" %}
 
 ###Fonctionnement de la bibliothèque
 
@@ -13,7 +13,7 @@
 3. Trier par (auteur, titre, éditeur, derniers lus, derniers ajoutés, pages, statut)
 4. Affichage (couverture, détail)
 
-{% include anchor.html id="fonctionnalite-lecture-o" label="Les fonctionnalités de lecture" %}
+{% include anchor.html id="fonctionnalite-lecture" label="Les fonctionnalités de lecture" %}
 ###Les fonctionnalités de lecture
 
 ![](/images/lire-ordinateur-5.jpg)

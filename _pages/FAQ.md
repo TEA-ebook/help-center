@@ -53,9 +53,15 @@ La lecture d'e-books en streaming ne donne pas lieu à un téléchargement ou un
     <tr>
         <th>Streaming</th>
         <td class="warning">Compatible, nécessite une connexion internet</td>
-        <td class="warning">Compatible, nécessite une connexion internet</td>
+        <td class="warning">
+            Compatible Android, nécessite une connexion internet.<br />
+            Non compatible iOs.
+        </td>
         <td class="danger">Non Compatible</td>
-        <td class="warning">Compatible, nécessite une connexion internet</td>
+        <td class="warning">
+            Compatible Android, nécessite une connexion internet.<br />
+            Non compatible iOs.
+        </td>
     </tr>
     <tr>
         <th>Mobipocket(prc)</th>

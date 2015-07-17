@@ -32,17 +32,17 @@ Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synch
 
 ![](/images/support-basic2-2.jpg)
 
-{% include anchor.html id="ouvrir-DRM" label="Ouvrir un livre sous DRM" %}
-##Ouvrir un livre sous DRM
-{% include ouvrir-drm.md %}
-
 {% include anchor.html id="tranferer-basic2" label="Transférer un livre sur votre liseuse Basic 2" %}
 ##Transférer un livre sur sa liseuse Basic 2
 
 <p class="protip">
-    Vous avez la possibilité de transférer le fichier de licence (.acsm) dans votre liseuse et d'ouvrir celui-ci directement depuis la bibliothèque de votre liseuse.<br />
-    Si vous êtes connecté en Wi-Fi, le livre sera alors automatiquement téléchargé à l'ouverture.
+    Vous avez la possibilité de transférer votre livre directement de votre ordinateur à votre liseuse depuis l'explorateur de fichier de votre ordinateur.<br />
+    S'il s'agit d'un fichier de licence (.acsm), le livre sera alors automatiquement téléchargé lors de la première ouverture.
 </p>
+
+{% include anchor.html id="ouvrir-livre" label="Ouvrir un livre" %}
+###Ouvrir un livre
+{% include ouvrir-livre.md %}
 
 Le transfert d'un ebook depuis ordinateur vers une liseuse se fait grâce à un câble USB.
 
