@@ -40,11 +40,45 @@ $(function onLoad() {
       }
     });
 
+    function constructResults() {
+        var $article = $('article.page');
+        var $results = $('#results');
+        var resultContent = [];
+        $('span.highlight').each(function(i, element) {
+            var matchingElement = $(element).parent();
+            var tagname = matchingElement.prop('tagName');
+            if (tagname === 'h3') {
+                resultContent.push({
+                    'title' : matchingElement.text(),
+                    'content' : '',
+                    'anchor' : matchingElement.attr('id')
+                });
+            } else {
+                // find title just before matched element
+                var title = matchingElement.prevAll('h3[id]')[0];
+                if (!title) {
+                    return;
+                }
+                var $title = $(title);
+                // use title's content and anchor
+                // use matching element's content
+                resultContent.push({
+                    'title' : $title.text(),
+                    'content' : matchingElement.text(),
+                    'anchor' : $title.attr('id')
+                });
+            }
+        });
+        console.log(resultContent);
+    }
+
     $('#text-search').bind('keyup change', function(ev) {
         $('article.page').removeHighlight();
         var searchTerm = $(this).val();
         if (searchTerm) {
             $('article.page').highlight(searchTerm);
+            constructResults();
         }
     });
+
 });
