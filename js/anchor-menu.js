@@ -59,6 +59,7 @@ $(function onLoad() {
                     return;
                 }
                 var $title = $(title);
+                if (($title).find('.highlight').length) {return;}
                 // use title's content and anchor
                 // use matching element's content
                 resultContent.push({
