@@ -1,8 +1,10 @@
 $(function onLoad() {
     'use strict';
 
+    var $article = $('article.page');
+    var $results = $('#results');
+
     function constructResults() {
-        var $results = $('#results');
         var resultContent = [];
         var anchors = [];
         $('span.highlight').each(function(i, element) {
@@ -61,14 +63,15 @@ $(function onLoad() {
         $results.empty().append(results);
     }
 
-    $('#text-search').bind('keyup change', function(ev) {
-        $('article.page').removeHighlight();
+    function searchAndDisplay() {
+        $article.removeHighlight();
         var searchTerm = $(this).val();
         if (searchTerm) {
-            $('article.page').highlight(searchTerm);
+            $article.highlight(searchTerm);
             constructResults();
-            $('#results').highlight(searchTerm);
+            $results.highlight(searchTerm);
         }
-    });
+    }
+    $('#text-search').bind('keyup change', searchAndDisplay);
 
 });
