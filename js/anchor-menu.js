@@ -41,7 +41,6 @@ $(function onLoad() {
     });
 
     function constructResults() {
-        var $article = $('article.page');
         var $results = $('#results');
         var resultContent = [];
         $('span.highlight').each(function(i, element) {
@@ -69,7 +68,22 @@ $(function onLoad() {
                 });
             }
         });
+        var results = $('<div></div>');
+        var size = resultContent.length;
         console.log(resultContent);
+        if (size == 0) { return; }
+        for(var i =0; i < size; i++) {
+            var element = resultContent[i];
+            var link = $('<a></a>').text(element.title).attr('href', '#'+element.id);
+            var title = $('<h4></h4>').append(link);
+            var result = $('<div></div>').attr('class', 'result').append(title);
+            if (element.content) {
+                result.append($('<div></div>').attr('class', 'result-content').text(element.content));
+            }
+            results.append(result);
+        }
+
+        $results.empty().append(results);
     }
 
     $('#text-search').bind('keyup change', function(ev) {
