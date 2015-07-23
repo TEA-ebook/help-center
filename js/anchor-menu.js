@@ -43,11 +43,16 @@ $(function onLoad() {
     function constructResults() {
         var $results = $('#results');
         var resultContent = [];
+        var anchors = [];
         $('span.highlight').each(function(i, element) {
             var matchingElement = $(element).parent();
             var tagname = matchingElement.prop('tagName');
             if (tagname === 'H3') {
                 var anchor = matchingElement.prev().children('a').attr('id');
+                if (anchors.indexOf(anchor) > -1) {
+                    return;
+                }
+                anchors.push(anchor);
                 resultContent.push({
                     'title' : matchingElement.text(),
                     'content' : matchingElement.next().text(),
@@ -61,6 +66,10 @@ $(function onLoad() {
                 }
                 var $title = $(title);
                 var anchor = $title.prev().children('a').attr('id');
+                if (anchors.indexOf(anchor) > -1) {
+                    return;
+                }
+                anchors.push(anchor);
                 if (($title).find('.highlight').length) {return;}
                 // use title's content and anchor
                 // use matching element's content
