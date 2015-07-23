@@ -69,9 +69,9 @@ $(function onLoad() {
         if (searchTerm) {
             $article.highlight(searchTerm);
             constructResults();
-            $results.highlight(searchTerm);
+            $results.removeHighlight().highlight(searchTerm);
         }
     }
     $('#text-search').bind('keyup change', searchAndDisplay);
-
+    searchAndDisplay.call($('#text-search'));
 });
