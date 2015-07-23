@@ -41,10 +41,10 @@ $(function onLoad() {
     });
 
     $('#text-search').bind('keyup change', function(ev) {
-        $('body').removeHighlight();
+        $('article.page').removeHighlight();
         var searchTerm = $(this).val();
         if (searchTerm) {
-            $('body').highlight(searchTerm);
+            $('article.page').highlight(searchTerm);
         }
     });
 });
