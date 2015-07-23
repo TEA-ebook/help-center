@@ -47,10 +47,11 @@ $(function onLoad() {
             var matchingElement = $(element).parent();
             var tagname = matchingElement.prop('tagName');
             if (tagname === 'H3') {
+                var anchor = matchingElement.prev().children('a').attr('id');
                 resultContent.push({
                     'title' : matchingElement.text(),
                     'content' : matchingElement.next().text(),
-                    'anchor' : matchingElement.attr('id')
+                    'anchor' : anchor
                 });
             } else if (tagname !== 'H2') {
                 // find title just before matched element
@@ -59,22 +60,23 @@ $(function onLoad() {
                     return;
                 }
                 var $title = $(title);
+                var anchor = $title.prev().children('a').attr('id');
                 if (($title).find('.highlight').length) {return;}
                 // use title's content and anchor
                 // use matching element's content
                 resultContent.push({
                     'title' : $title.text(),
                     'content' : matchingElement.text(),
-                    'anchor' : $title.attr('id')
+                    'anchor' : anchor
                 });
             }
         });
         var results = $('<div></div>');
         var size = resultContent.length;
         if (size == 0) { return; }
-        for(var i =0; i < size; i++) {
+        for (var i = 0; i < size; i++) {
             var element = resultContent[i];
-            var link = $('<a></a>').text(element.title).attr('href', '#'+element.id);
+            var link = $('<a></a>').text(element.title).attr('href', '#'+element.anchor);
             var title = $('<h4></h4>').append(link);
             var result = $('<div></div>').attr('class', 'result').append(title);
             if (element.content) {
