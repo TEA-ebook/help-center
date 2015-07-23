@@ -73,7 +73,10 @@ $(function onLoad() {
         });
         var results = $('<div></div>');
         var size = resultContent.length;
-        if (size == 0) { return; }
+        if (size == 0) {
+            $results.empty().append($('<div></div>').text('Aucun résultat.').attr('class', 'no-results'));
+            return;
+        }
         for (var i = 0; i < size; i++) {
             var element = resultContent[i];
             var link = $('<a></a>').text(element.title).attr('href', '#'+element.anchor);
