@@ -10,38 +10,30 @@ $(function onLoad() {
         $('span.highlight').each(function(i, element) {
             var $matchingElement = $(element).closest('p, ul, table, ol, h3');
             var tagname = $matchingElement.prop('tagName');
+            var $title,content;
             if (tagname === 'H3') {
-                var anchor = $matchingElement.prev().children('a').attr('id');
-                if (anchors.indexOf(anchor) > -1) {
-                    return;
-                }
-                anchors.push(anchor);
-                resultContent.push({
-                    'title' : $matchingElement.text(),
-                    'content' : $matchingElement.next().text(),
-                    'anchor' : anchor
-                });
+                $title = $matchingElement;
+                content = $title.next().text();
             } else {
                 // find title just before matched element
                 var title = $matchingElement.prevAll('h3[id]')[0];
                 if (!title) {
                     return;
                 }
-                var $title = $(title);
-                var anchor = $title.prev().children('a').attr('id');
-                if (anchors.indexOf(anchor) > -1) {
-                    return;
-                }
-                anchors.push(anchor);
-                if (($title).find('.highlight').length) {return;}
-                // use title's content and anchor
-                // use matching element's content
-                resultContent.push({
-                    'title' : $title.text(),
-                    'content' : $matchingElement.text(),
-                    'anchor' : anchor
-                });
+                $title = $(title);
+                content = $matchingElement.text();
+
             }
+            var anchor = $title.prev().children('a').attr('id');
+            if (anchors.indexOf(anchor) > -1) {
+                return;
+            }
+            anchors.push(anchor);
+            resultContent.push({
+                'title' : $title.text(),
+                'content' : content,
+                'anchor' : anchor
+            });
         });
         var results = $('<div></div>');
         var size = resultContent.length;
