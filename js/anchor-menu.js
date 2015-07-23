@@ -46,10 +46,10 @@ $(function onLoad() {
         $('span.highlight').each(function(i, element) {
             var matchingElement = $(element).parent();
             var tagname = matchingElement.prop('tagName');
-            if (tagname === 'h3') {
+            if (tagname === 'H3') {
                 resultContent.push({
                     'title' : matchingElement.text(),
-                    'content' : '',
+                    'content' : matchingElement.next().text(),
                     'anchor' : matchingElement.attr('id')
                 });
             } else {
