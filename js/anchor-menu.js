@@ -94,6 +94,7 @@ $(function onLoad() {
         if (searchTerm) {
             $('article.page').highlight(searchTerm);
             constructResults();
+            $('#results').highlight(searchTerm);
         }
     });
 
