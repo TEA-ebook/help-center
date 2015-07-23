@@ -8,22 +8,22 @@ $(function onLoad() {
         var resultContent = [];
         var anchors = [];
         $('span.highlight').each(function(i, element) {
-            var matchingElement = $(element).closest('p, ul, table, ol, h3');
-            var tagname = matchingElement.prop('tagName');
+            var $matchingElement = $(element).closest('p, ul, table, ol, h3');
+            var tagname = $matchingElement.prop('tagName');
             if (tagname === 'H3') {
-                var anchor = matchingElement.prev().children('a').attr('id');
+                var anchor = $matchingElement.prev().children('a').attr('id');
                 if (anchors.indexOf(anchor) > -1) {
                     return;
                 }
                 anchors.push(anchor);
                 resultContent.push({
-                    'title' : matchingElement.text(),
-                    'content' : matchingElement.next().text(),
+                    'title' : $matchingElement.text(),
+                    'content' : $matchingElement.next().text(),
                     'anchor' : anchor
                 });
             } else {
                 // find title just before matched element
-                var title = matchingElement.prevAll('h3[id]')[0];
+                var title = $matchingElement.prevAll('h3[id]')[0];
                 if (!title) {
                     return;
                 }
@@ -38,7 +38,7 @@ $(function onLoad() {
                 // use matching element's content
                 resultContent.push({
                     'title' : $title.text(),
-                    'content' : matchingElement.text(),
+                    'content' : $matchingElement.text(),
                     'anchor' : anchor
                 });
             }
