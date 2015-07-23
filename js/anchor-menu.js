@@ -45,7 +45,7 @@ $(function onLoad() {
         var resultContent = [];
         var anchors = [];
         $('span.highlight').each(function(i, element) {
-            var matchingElement = $(element).parent();
+            var matchingElement = $(element).closest('p, ul, table, ol, h3');
             var tagname = matchingElement.prop('tagName');
             if (tagname === 'H3') {
                 var anchor = matchingElement.prev().children('a').attr('id');
@@ -58,7 +58,7 @@ $(function onLoad() {
                     'content' : matchingElement.next().text(),
                     'anchor' : anchor
                 });
-            } else if (tagname !== 'H2') {
+            } else {
                 // find title just before matched element
                 var title = matchingElement.prevAll('h3[id]')[0];
                 if (!title) {
