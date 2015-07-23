@@ -52,7 +52,7 @@ $(function onLoad() {
                     'content' : matchingElement.next().text(),
                     'anchor' : matchingElement.attr('id')
                 });
-            } else {
+            } else if (tagname !== 'H2') {
                 // find title just before matched element
                 var title = matchingElement.prevAll('h3[id]')[0];
                 if (!title) {
