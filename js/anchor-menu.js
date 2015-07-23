@@ -71,7 +71,6 @@ $(function onLoad() {
         });
         var results = $('<div></div>');
         var size = resultContent.length;
-        console.log(resultContent);
         if (size == 0) { return; }
         for(var i =0; i < size; i++) {
             var element = resultContent[i];
