@@ -13,7 +13,7 @@ $(function onLoad() {
         var resultContent = [];
         var anchors = [];
         $('span.highlight').each(function (i, element) {
-            var $matchingElement = $(element).closest('p, ul, table, ol, h3');
+            var $matchingElement = $(element).closest('.entry > p, .entry > ul, .entry > table, .entry > ol, .entry > h3');
             var tagname = $matchingElement.prop('tagName');
             var $title, content;
             if (tagname === 'H3') {
