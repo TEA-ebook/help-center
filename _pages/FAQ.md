@@ -82,7 +82,7 @@ La lecture d'e-books en streaming ne donne pas lieu à un téléchargement ou un
 **Contenu protégé**
 Il s'agit d'un livre protégé par une mesure technique de protection mise en place pour préserver les droits des œuvres numériques. Le fichier est crypté grâce à l'insertion d'informations codées.
 Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse Pocketbook, application Android et iOs), ce cryptage reste totalement invisible.
-Par contre, si vous souhaitez sortir de cet environnment, le livre vous sera fourni sous DRM (Digital Right Management) ACS4 (Adobe Content Server 4) dite DRM Adobe.
+Par contre, si vous souhaitez sortir de cet environnment, le livre vous sera fourni sous DRM (Digital Right Management) ACS4 (Adobe Content Server 4) dite DRM Adobe ou Adobe DRM.
 
 **Tatouage numérique / Watermarking / Marquage**
 Le tatouage numérique est une mesure dissuasive à l'égard des utilisateurs. Il ne verrouille pas le fichier mais en permet la traçabilité grâce à l'insertion d'un marquage (visible ou invisible pour le lecteur) dans les pages de l'e-book.
@@ -159,6 +159,16 @@ Les commandes que vous avez passées depuis notre site Internet sont visibles da
 ###Je veux modifier mon adresse mail ou mon mot de passe dans mon compte. Comment faire ?
 Pour modifier les informations relatives à votre compte, vous devez vous connecter à notre site Internet.
 Cliquez sur Mon compte en haut à droite de la page d'accueil. Saisissez votre adresse mail et votre mot de passe. Vous pouvez ensuite modifier ou compléter vos informations personnelles en cliquant sur « Mes informations personnelles ».
+
+{% include anchor.html id="compte-adobe" label="Qu'est-ce que mon compte Adobe, ou Adobe ID ?" %}
+###Qu'est-ce que mon compte Adobe, ou Adobe ID ?
+Il s'agit d'un identifiant distinct de votre compte client, qu'il faut créer sur le site web de la société Adobe.
+
+L'enregistrement du compte Adobe dans votre liseuse est nécessaire si vous souhaitez lire des livres au contenu protégé sur votre ordinateur sans passer par le navigateur, ou si vous souhaitez transférer des livres au contenu protégé sur certains supports.
+
+Pour créer votre compte Adobe, rendez-vous sur le lien suivant avec un navigateur web : [Mon compte Adobe](https://adobeid-na1.services.adobe.com/renga-idprovider/pages/create_account?client_id=adobedotcom2&callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fadobedotcom2%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526client_id%253Dadobedotcom2%2526scope%253Dcreative_cloud%25252CAdobeID%25252Copenid%25252Cgnav%25252Cread_organizations%25252Cadditional_info.projectedProductContext%2526api%253Dauthorize%26scope%3Dcreative_cloud%252CAdobeID%252Copenid%252Cgnav%252Cread_organizations%252Cadditional_info.projectedProductContext&client_redirect=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fredirect%2Fadobedotcom2%3Fclient_redirect%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526client_id%253Dadobedotcom2%2526scope%253Dcreative_cloud%25252CAdobeID%25252Copenid%25252Cgnav%25252Cread_organizations%25252Cadditional_info.projectedProductContext%2526api%253Dauthorize&denied_callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fdenied%2Fadobedotcom2%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526client_id%253Dadobedotcom2%2526scope%253Dcreative_cloud%25252CAdobeID%25252Copenid%25252Cgnav%25252Cread_organizations%25252Cadditional_info.projectedProductContext%2526api%253Dauthorize%26response_type%3Dtoken%26scope%3Dcreative_cloud%252CAdobeID%252Copenid%252Cgnav%252Cread_organizations%252Cadditional_info.projectedProductContext&display=web_v2&locale=fr_FR&relay=ec6a5920-3bc1-4fb4-9fe6-aa7f306bb2bf&flow=true&flow_type=token&dc=false&idp_flow_type=login)
+
+Pensez à bien conserver vos identifiant et mot de passe, vous devrez les saisir sur le(s) support(s) de lecture de votre choix afin de pouvoir lire vos e-books protégés par Adobe DRM.
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
@@ -471,7 +481,7 @@ Sur la liseuse, ils sont également disponibles dans votre compte, rubrique « 
 **La fenêtre de téléchargement de mon navigateur est apparue :**
 - vérifier que le livre n'est pas dans le dossier « (My) Downloads » ou « (Mes) téléchargements », ou dans un autre dossier de téléchargement par défaut.
 - vérifier que vous n'avez pas cliqué sur « Ouvrir » au lieu de « Oui »"Télécharger" et que le fichier ne se trouve pas dans un dossier temporaire.
-- vérifier que le livre n'est pas au sous DRM, auquel cas, vous devez avoir téléchargé un fichier de licence en .acsm, qui vous permettra d'accéder à votre livre, une fois ouvert dans Adobe Digital Editions.
+- vérifier que le livre n'est pas au sous DRM, auquel cas, vous devez avoir téléchargé un fichier de licence en .acsm, qui vous permettra d'accéder à votre livre, une fois ouvert dans Adobe Digital Editions. Pensez bien à créer et activer votre compte Adobe au préalable.
 Si vous ne trouvez toujours pas votre livre ou bien qu'un message d'erreur est apparu, contactez le service client.
 
 **La fenêtre de téléchargement de mon navigateur n'est pas apparue :**
