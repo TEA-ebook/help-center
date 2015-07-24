@@ -480,7 +480,7 @@ Sur la liseuse, ils sont également disponibles dans votre compte, rubrique « 
 ###Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?
 **La fenêtre de téléchargement de mon navigateur est apparue :**
 - vérifier que le livre n'est pas dans le dossier « (My) Downloads » ou « (Mes) téléchargements », ou dans un autre dossier de téléchargement par défaut.
-- vérifier que vous n'avez pas cliqué sur « Ouvrir » au lieu de « Oui »"Télécharger" et que le fichier ne se trouve pas dans un dossier temporaire.
+- vérifier que vous n'avez pas cliqué sur « Ouvrir » au lieu de « Télécharger » et que le fichier ne se trouve pas dans un dossier temporaire.
 - vérifier que le livre n'est pas au sous DRM, auquel cas, vous devez avoir téléchargé un fichier de licence en .acsm, qui vous permettra d'accéder à votre livre, une fois ouvert dans Adobe Digital Editions. Pensez bien à créer et activer votre compte Adobe au préalable.
 Si vous ne trouvez toujours pas votre livre ou bien qu'un message d'erreur est apparu, contactez le service client.
 
