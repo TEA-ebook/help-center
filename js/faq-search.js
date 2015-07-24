@@ -3,6 +3,11 @@ $(function onLoad() {
 
     var $article = $('article.page');
     var $results = $('#results');
+    var initialText = $results.find('.no-results').text();
+
+    function displayResultText(text) {
+        $results.empty().append($('<p></p>').text(text).attr('class', 'no-results'));
+    }
 
     function constructResults() {
         var resultContent = [];
@@ -38,7 +43,7 @@ $(function onLoad() {
         var results = $('<div></div>');
         var size = resultContent.length;
         if (size == 0) {
-            $results.empty().append($('<div></div>').text('Aucun résultat.').attr('class', 'no-results'));
+            displayResultText('Aucun résultat.');
             return;
         }
         for (var i = 0; i < size; i++) {
@@ -62,6 +67,8 @@ $(function onLoad() {
             $article.highlight(searchTerm);
             constructResults();
             $results.removeHighlight().highlight(searchTerm);
+        } else {
+            displayResultText(initialText)
         }
     }
     $('#text-search').bind('keyup change', searchAndDisplay);
