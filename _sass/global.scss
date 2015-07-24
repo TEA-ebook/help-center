@@ -12,7 +12,7 @@ body {
     position:absolute;
     top:0;
     left:0;
-} 
+}
 
 #search-form {
   padding: 20px;
@@ -20,6 +20,10 @@ body {
   -moz-border-radius: 5px; /* FF1+ */
   -webkit-border-radius: 5px; /* Saf3-4 */
   border-radius: 5px; /* Opera 10.5, IE 9, Saf5, Chrome */
+
+  .no-results {
+    padding-top: 10px;
+  }
 
   h4 {
     font-family: "Slabo 27px",serif;
