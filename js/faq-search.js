@@ -6,7 +6,7 @@ $(function onLoad() {
     var initialText = $results.find('.no-results').text();
 
     function displayResultText(text) {
-        $results.empty().append($('<p></p>').text(text).attr('class', 'no-results'));
+        $results.empty().append($('<p>').text(text).addClass('no-results'));
     }
 
     function constructResults() {
@@ -40,7 +40,7 @@ $(function onLoad() {
                 'anchor': anchor
             });
         });
-        var results = $('<div></div>');
+        var results = $('<div>');
         var size = resultContent.length;
         if (size == 0) {
             displayResultText('Aucun résultat.');
@@ -48,11 +48,11 @@ $(function onLoad() {
         }
         for (var i = 0; i < size; i++) {
             var element = resultContent[i];
-            var link = $('<a></a>').text(element.title).attr('href', '#' + element.anchor);
-            var title = $('<h4></h4>').append(link);
-            var result = $('<div></div>').attr('class', 'result').append(title);
+            var link = $('<a>').text(element.title).attr('href', '#' + element.anchor);
+            var title = $('<h4>').append(link);
+            var result = $('<div>').addClass('result').append(title);
             if (element.content) {
-                result.append($('<div></div>').attr('class', 'result-content').text(element.content));
+                result.append($('<div>').addClass('result-content').text(element.content));
             }
             results.append(result);
         }
