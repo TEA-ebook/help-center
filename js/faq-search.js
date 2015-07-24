@@ -71,6 +71,11 @@ $(function onLoad() {
             displayResultText(initialText)
         }
     }
+
+    $('#search-form').find('form').bind('submit', function(event) {
+        event.preventDefault();
+    });
+
     $('#text-search').bind('keyup change', searchAndDisplay);
     searchAndDisplay.call($('#text-search'));
 });
