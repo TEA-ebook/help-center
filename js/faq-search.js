@@ -12,10 +12,10 @@ $(function onLoad() {
     function constructResults() {
         var resultContent = [];
         var anchors = [];
-        $('span.highlight').each(function(i, element) {
+        $('span.highlight').each(function (i, element) {
             var $matchingElement = $(element).closest('p, ul, table, ol, h3');
             var tagname = $matchingElement.prop('tagName');
-            var $title,content;
+            var $title, content;
             if (tagname === 'H3') {
                 $title = $matchingElement;
                 content = $title.next().text();
@@ -35,9 +35,9 @@ $(function onLoad() {
             }
             anchors.push(anchor);
             resultContent.push({
-                'title' : $title.text(),
-                'content' : content,
-                'anchor' : anchor
+                'title': $title.text(),
+                'content': content,
+                'anchor': anchor
             });
         });
         var results = $('<div></div>');
@@ -48,7 +48,7 @@ $(function onLoad() {
         }
         for (var i = 0; i < size; i++) {
             var element = resultContent[i];
-            var link = $('<a></a>').text(element.title).attr('href', '#'+element.anchor);
+            var link = $('<a></a>').text(element.title).attr('href', '#' + element.anchor);
             var title = $('<h4></h4>').append(link);
             var result = $('<div></div>').attr('class', 'result').append(title);
             if (element.content) {
@@ -72,7 +72,7 @@ $(function onLoad() {
         }
     }
 
-    $('#search-form').find('form').bind('submit', function(event) {
+    $('#search-form').find('form').bind('submit', function (event) {
         event.preventDefault();
     });
 
