@@ -63,7 +63,7 @@ $(function onLoad() {
     function searchAndDisplay() {
         $article.removeHighlight();
         var searchTerm = $(this).val();
-        if (searchTerm) {
+        if (searchTerm && searchTerm.length > 2) {
             $article.highlight(searchTerm);
             constructResults();
             $results.removeHighlight().highlight(searchTerm);
