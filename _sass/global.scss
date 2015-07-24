@@ -25,6 +25,15 @@ body {
     padding-top: 10px;
   }
 
+  .see-more {
+    margin-left: .5em;
+    &::after {
+      display: inline-block;
+      content: "→";
+      padding-left: .5em;
+    }
+  }
+
   h4 {
     font-family: "Slabo 27px",serif;
     font-size: 1em;
