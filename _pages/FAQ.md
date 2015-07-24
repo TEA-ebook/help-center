@@ -487,7 +487,7 @@ Si vous ne trouvez toujours pas votre livre ou bien qu'un message d'erreur est a
 **La fenêtre de téléchargement de mon navigateur n'est pas apparue :**
 Le bouton « Télécharger » est :
 
-- pas présent : la commande a été annulée et le livre n'est pas téléchargeable ;
+- absent : la commande a été annulée et le livre n'est pas téléchargeable ;
 - présent : contacter le service client.
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
