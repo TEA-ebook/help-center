@@ -65,18 +65,31 @@ $(function onLoad() {
         $article.removeHighlight();
         var searchTerm = $(this).val();
         if (searchTerm.length > 2) {
+            trackEventInGa('faq-search', 'search-term', 'faq-search|search-term|' + searchTerm);
             $article.highlight(searchTerm);
             constructResults();
             $results.removeHighlight().highlight(searchTerm);
         } else {
+            if (searchTerm) {
+                trackEventInGa('faq-search', 'search-term', 'faq-search|search-term|' + searchTerm);
+            }
             displayResultText(initialText)
         }
     }
 
     $('#search-form').find('form').bind('submit', function (event) {
+        trackEventInGa('faq-search', 'submit-form', 'faq-search|submit-form');
         event.preventDefault();
     });
 
     $('#text-search').bind('keyup change', searchAndDisplay);
     searchAndDisplay.call($('#text-search'));
+
+    $results.on('click', '.see-more', function() {
+        trackEventInGa('faq-search', 'click-result', 'faq-search|click-result|link|' + $(this).attr('href'));
+    });
+
+    $results.on('click', 'h4 a', function() {
+        trackEventInGa('faq-search', 'click-result', 'faq-search|click-result|title|' + $(this).attr('href'));
+    });
 });
