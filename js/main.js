@@ -14,3 +14,23 @@
         }
     });
 }());
+
+function trackEventInGa(category, action, label, value, nonInteraction)
+{
+    'use strict';
+    var ga_params;
+    if (typeof(ga) !== 'undefined') {
+        value = value || 1;
+        ga_params = {
+            hitType: 'event',
+            eventCategory: category,
+            eventAction: action,
+            eventLabel: label,
+            eventValue: value
+        };
+        if (nonInteraction !== undefined) {
+            ga_params.nonInteraction = nonInteraction;
+        }
+        ga('send', ga_params);
+    }
+}

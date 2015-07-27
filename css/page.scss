@@ -105,7 +105,7 @@ a {
 }
 
 a:hover, a:focus {
-    color: tea-color('accent');
+    color: darken(tea-color('accent'), 15%);
     text-decoration: underline;
 }
 

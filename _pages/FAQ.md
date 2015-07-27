@@ -4,6 +4,8 @@ layout: faq
 title: Foire Aux Questions
 ---
 
+{% include search_inpage.html %}
+
 {% include anchor.html id="achat" label="Achat" %}
 ##Achat
 
