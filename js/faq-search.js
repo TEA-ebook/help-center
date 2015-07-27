@@ -13,7 +13,7 @@ $(function onLoad() {
         var resultContent = [];
         var anchors = [];
         $('span.highlight').each(function (i, element) {
-            var $matchingElement = $(element).closest('p, ul, table, ol, h3');
+            var $matchingElement = $(element).closest('.entry > p, .entry > ul, .entry > table, .entry > ol, .entry > h3');
             var tagname = $matchingElement.prop('tagName');
             var $title, content;
             if (tagname === 'H3') {
@@ -52,7 +52,8 @@ $(function onLoad() {
             var title = $('<h4>').append(link);
             var result = $('<div>').addClass('result').append(title);
             if (element.content) {
-                result.append($('<div>').addClass('result-content').text(element.content));
+                var secondLink = $('<a>').text('Voir la réponse complète').attr('href', '#' + element.anchor).addClass('see-more');
+                result.append($('<p>').addClass('result-content').text(element.content).append(secondLink));
             }
             results.append(result);
         }
@@ -64,18 +65,31 @@ $(function onLoad() {
         $article.removeHighlight();
         var searchTerm = $(this).val();
         if (searchTerm.length > 2) {
+            trackEventInGa('faq-search', 'search-term', 'faq-search|search-term|' + searchTerm);
             $article.highlight(searchTerm);
             constructResults();
             $results.removeHighlight().highlight(searchTerm);
         } else {
+            if (searchTerm) {
+                trackEventInGa('faq-search', 'search-term', 'faq-search|search-term|' + searchTerm);
+            }
             displayResultText(initialText)
         }
     }
 
     $('#search-form').find('form').bind('submit', function (event) {
+        trackEventInGa('faq-search', 'submit-form', 'faq-search|submit-form');
         event.preventDefault();
     });
 
     $('#text-search').bind('keyup change', searchAndDisplay);
     searchAndDisplay.call($('#text-search'));
+
+    $results.on('click', '.see-more', function() {
+        trackEventInGa('faq-search', 'click-result', 'faq-search|click-result|link|' + $(this).attr('href'));
+    });
+
+    $results.on('click', 'h4 a', function() {
+        trackEventInGa('faq-search', 'click-result', 'faq-search|click-result|title|' + $(this).attr('href'));
+    });
 });
