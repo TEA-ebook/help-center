@@ -5,6 +5,21 @@ layout: default
 <div class="row">
   <div class="col-md-12" role="main">
     <article class="page col-lg-9">
+      <div class="googlesearch">
+        <script>
+  (function() {
+    var cx = '009432820896978244847:a4aaumzki1y';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+        </script>
+        <gcse:search></gcse:search>
+      </div>
       <header>
         <h1>{{ page.title }}</h1>
       </header>

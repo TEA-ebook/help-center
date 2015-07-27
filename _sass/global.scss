@@ -146,3 +146,16 @@ p#anchor-menu-title{
     border-bottom: 7px solid transparent;
   }
 }
+
+.googlesearch { // google search adjustments
+  * {
+    box-sizing: content-box;
+  }
+  table {
+    border-collapse: separate;
+  }
+  td, th {
+    padding: 0;
+    vertical-align: middle;
+  }
+}
