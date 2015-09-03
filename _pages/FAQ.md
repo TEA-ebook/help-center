@@ -203,6 +203,15 @@ Vérifiez que l'application et/ou le support utilisé(e) est fourni(e) par votre
 
 Si rien ne fonctionne, contactez votre service client.
 
+{% include anchor.html id="ouvrir-acsm" label="Mon livre est un fichier au format acsm" %}
+###Mon livre est un fichier au format acsm
+Les fichiers acsm sont des fichiers de licence qui permettent à un utilisateur de télécharger son ebook, lorsque celui-ci est protégé par Adobe DRM.
+
+* [Ouvrir un fichier acsm sur ordinateur](/web-ordinateur/#lire-ordinateur)
+* [Ouvrir un fichier acsm sur liseuse](/web-basic2/#tranferer-basic2)
+
+<p class="warningtip">Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2, faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
+
 {% include anchor.html id="ebook-incomplet" label="L’e-book est incomplet. Il manque des pages ou des chapitres." %}
 ###L’e-book est incomplet. Il manque des pages ou des chapitres.
 Certains livres sont vendus soit au chapitre, soit en version intégrale.
