@@ -229,7 +229,10 @@ Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Re
 
 {% include anchor.html id="lire-kobo" label="Puis-je lire mes livres sur une liseuse Kobo ?" %}
 ###Puis-je lire mes livres sur une liseuse Kobo ?
-Il faut penser à éjecter « proprement » la liseuse KOBO avant de la déconnecter d'un ordinateur, et utiliser l'application Kobo desktop téléchargeable sur le [site de Kobo](http://www.kobosetup.fr/).
+Il est possible de lire ses livres sur une liseuse Kobo.
+Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
+
+**/!\ Il faut penser à éjecter « proprement » la liseuse KOBO avant de la déconnecter d'un ordinateur.**
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
