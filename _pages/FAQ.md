@@ -494,6 +494,180 @@ Le bouton « Télécharger » est :
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
+{% include anchor.html id="messages-erreurs" label="Les messages d'erreurs les plus courants" %}
+##Les messages d'erreurs les plus courants
+
+{% include anchor.html id="fulfilled-another" label="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
+###E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER
+**/!\ Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2 ou une application Android (Decitre ou Cultura), faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.**
+
+Cette erreur indique que le livre a déjà été ouvert avec un identifiant Adobe différent ou bien sans identifiant sur Adobe Digital Editions.
+Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sur un ordinateur sans identifiant.
+
+* Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
+* Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
+
+**Pour vérifier avec quel identifiant Adobe le support a été autorisé :**
+
+1. Sur Adobe Digital Editions :
+    * Dans le menu allez dans « Aide ».
+    * Puis dans « Infos sur l'autorisation ».
+    * Vérifiez ensuite quel e-mail a été utilisé ou bien si l'ordinateur a été autorisé sans identifiant.
+2. Sur les liseuses Pocketbook :
+    * Allez dans « Paramètres » (sur la page d'accueil pour le logiciel v4 ou dans le menu du haut pour le logiciel v5).
+    * Puis dans « Comptes et synchronisation » et « Adobe DRM ».
+    * Vérifiez ensuite quel e-mail a été utilisé.
+3. Sur les liseuses Bookeen :
+    * Depuis le menu de la page d'accueil, allez dans « Réglage ».
+    * Puis dans « À propos de ».
+    * Enfin dans la fenêtre qui s'est ouverte, cherchez la partie « AdobeID » et le mail correspondant.
+4. Sur les applications Android :
+    * Version 1 :
+        * Appuyez sur « Mon compte » en haut à droite.
+        * Vérifiez ensuite quel e-mail a été utilisé.
+    * Version 2 :
+        * Allez dans le menu.
+        * Puis dans « Adobe DRM ».
+        * Vérifiez ensuite quel e-mail a été utilisé.
+5. Sur l'application iOs :
+    * Appuyez sur l’icône « Engrenage » en haut à droite.
+    * Une fois sur la page « Mon compte », vérifiez quel e-mail a été utilisé.
+
+Pour savoir quel est la version de l'application Android ou du logiciel de la liseuse, rendez-vous la page d'accueil de "l'aide en ligne":http://aide.tea-ebook.com.
+
+{% include anchor.html id="request-expired" label="E_ADEPT_REQUEST_EXPIRED" %}
+###E\_ADEPT\_REQUEST\_EXPIRED
+Cette erreur indique que le fichier .acsm téléchargé est trop vieux. Les fichiers de licences .acsm ont une durée de validité limitée (entre 3 et 5 jours). Ils doivent donc être ouvert dans ce laps de temps.
+
+Pour résoudre ce problème, il suffit de supprimer le fichier .acsm et d'en télécharger un nouveau depuis son compte client. Il suffit ensuite d'ouvrir le fichier pour télécharger le livre.
+
+Si le problème persiste il faut s'assurer avec le client que la date, l'heure et le fuseau horaire de son support sont correctement paramétrés. Pour cela il suffit de taper l'adresse http://time.is dans le navigateur du support.
+
+Pour modifier les paramètres Date/heure :
+
+* Sur une liseuse Pocketbook :
+    * Aller dans « Paramètres ».
+    * Puis dans « Date et heure ».
+    * Vérifier que le fuseau horaire est bien celui de Paris.
+    * Appuyer ensuite sur « Synchroniser l'heure ».
+    * Activer aussi la « Synchronisation automatique de l'heure », en appuyant sur le bouton On/Off
+
+{% include anchor.html id="livre-abime-protege" label="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
+###Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)
+**/!\ Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2, faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.**
+
+Cette erreur apparaît quand un livre protégé est ouvert avec le mauvais ou sans identifiant Adobe.
+Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sur un ordinateur sans identifiant.
+
+* Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
+* Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
+
+Pour vérifier avec quel identifiant Adobe le support a été autorisé :
+
+1. Sur Adobe Digital Editions :
+    * Dans le menu allez dans « Aide ».
+    * Puis dans « Infos sur l'autorisation ».
+    * Vérifiez ensuite quel e-mail a été utilisé ou bien si l'ordinateur a été autorisé sans identifiant.
+2. Sur les liseuses Pocketbook :
+    * Allez dans « Paramètres » (sur la page d'accueil pour le logiciel v4 ou dans le menu du haut pour le logiciel v5).
+    * Puis dans « Comptes et synchronisation » et « Adobe DRM ».
+    * Vérifiez ensuite quel e-mail a été utilisé.
+
+Pour savoir quel est la version du logiciel de la liseuse, rendez-vous sur la page d'accueil de l'aide en ligne.
+
+{% include anchor.html id="protege-adobe-DRM" label="Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil..." %}
+###Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil...
+**/!\ Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2 ou une application Android (Decitre ou Cultura), faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.**
+
+Il s'agit d'un message d'avertissement qui apparaît lors du premier téléchargement ou de la première ouverture d'un livre protégé, si vous n'avez pas autorisé votre appareil avec votre identifiant Adobe.
+
+* Il faut d'abord créer un compte Adobe sur le [site d'Adobe](https://adobeid-na1.services.adobe.com/renga-idprovider/pages/create_account?client_id=adobedotcom2&callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fadobedotcom2%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526api%253Dauthorize%26scope%3Dcreative_cloud%252CAdobeID%252Copenid%252Cgnav%252Cread_organizations%252Cadditional_info.projectedProductContext%252Csao.ACOM_CLOUD_STORAGE%252Csao.stock%252Csao.cce_private&client_redirect=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fredirect%2Fadobedotcom2%3Fclient_redirect%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526api%253Dauthorize&denied_callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fdenied%2Fadobedotcom2%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526api%253Dauthorize%26response_type%3Dtoken%26scope%3Dcreative_cloud%252CAdobeID%252Copenid%252Cgnav%252Cread_organizations%252Cadditional_info.projectedProductContext%252Csao.ACOM_CLOUD_STORAGE%252Csao.stock%252Csao.cce_private&display=web_v2&locale=fr_FR&relay=26c0f864-18d4-422c-8048-1f1d5fe0039b&flow=true&flow_type=token&dc=false&eu=false&idp_flow_type=login) depuis un ordinateur (ou une tablette).
+* Suivre les instructions à l'ouverture du livre :
+    * Connecter le wifi
+    * Entrer le compte Adobe
+    * Activer l'appareil
+
+{% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
+###Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse
+
+1. Supprimer les cookies dans le navigateur :
+    * Ouvrez le navigateur depuis le menu du bas.
+    * Appuyez sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse.
+    * Appuyez ensuite sur Paramètres, puis sur Effacer les cookies.
+    * Essayez alors de vous connecter à votre librairie. Si tout fonctionne bien, vous pouvez vous arrêtez là.
+2. Si vous atterrissez toujours sur une page « 400 Bad Request », testez la méthode suivante : Déconnecter - reconnecter son compte client
+    * Allez dans Paramètres > Comptes et synchronisation > Mon compte client.
+    * Appuyer sur Se déconnecter, puis sur Oui dans la fenêtre de confirmation.
+    * Laissez la liseuse se connecter au wifi si besoin.
+    * Un message de confirmation s'affiche.
+    * Une fois votre compte déconnecté, appuyez sur Connexion.
+    * Remplissez le formulaire et appuyez sur Se connecter.
+    * Essayez alors de vous connecter à votre librairie.
+
+{% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
+###E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY
+
+Cette erreur indique que vous ne pouvez pas changer l'autorisation ADE de votre PC, même après une autorisation SANS ID.
+
+Il faut donc retirer manuellement l'autorisation de l'ordinateur.
+
+* Mac :
+    1. Dans le finder : Dans l'onglet "Aller", sélectionner "Aller au dossier"
+    2. Taper : ~/Library/Application Support/Adobe/Digital Editions et déplacer le fichier activation.dat dans la corbeille.
+    3. Ré-autoriser Adobe Digital Editions avec son identifiant Adobe.
+* Windows :
+    1. Cliquer sur Démarrer > Exécuter. (Dans windows 7 ou 8, il faut utiliser la fonction recherche et taper "executer" ou "run")
+    2. Taper "regedit" dans la boite de dialogue et taper sur Entrée.
+    3. Localiser la clé suivante "HKEY_CURRENT_USER>Software>Adobe>Digital Editions" et supprimer le dossier complet (faire un clic droit dessus et cliquer sur Supprimer).
+    4. Localiser aussi HKEY_CURRENT_USER>Software>Adobe>Adept et supprimer le dossier complet.
+
+{% include anchor.html id="error-check-activation" label="Error check activation" %}
+###Error check activation
+Cette erreur indique que l'autorisation de l'ordinateur est invalide ou corrompue.
+
+####Solution 1 :
+1. Supprimez l'autorisation de l'ordinateur (ctrl + Maj + D sous windows) ou (cmd + Maj + D sous Mac).
+2. Désinstallez ADE (dans Panneau de configuration > Programmes)
+3. Installez la dernière version d'ADE http://www.adobe.com/fr/solutions/ebook/digital-editions/download.html
+4. Autorisez l'ordinateur
+
+####Solution 2 :
+1. Autorisez le logiciel dans le pare-feu.
+    * Pour le pare-feu de Windows :
+        1. Ouvrez le pare-feu Windows
+        2. Cliquez sur Démarrer > Panneau de configuration > Firewall
+        3. Sélectionnez l'onglet Exceptions
+        4. Ajoutez une exception pour Adobe Digital Editions
+        5. Cliquez sur Ajouter un programme
+        6. Double-cliquez sur Adobe Digital Editions dans la liste
+        7. Cliquez sur OK
+
+####Solution 3 :
+Les versions 4.0.0 et 4.0.1 d'Adobe Digitale Editions génèrent régulièrement cette erreur. Il est donc conseillé de les mettre à jour avec la version 4.0.3
+
+####Solution 4
+* Windows :
+    1. Ouvrez Adobe Digital Editions.
+    2. Appuyez sur Ctrl+Shift+D sur le clavier et supprimer l'autorisation de Digital Editions.
+    3. Désinstallez Adobe Digital Editions de l'ordinateur.
+        * Cliquez sur Démarrer > Panneau de configuration > Programmes > Programmes et fonctionnalités.
+        * Séléctionnez Adobe Digital Editions dans la liste et supprimez.
+    4. Supprimez aussi les fichiers suivant.
+        * Cliquez sur Démarrer > Exécuter. (Dans windows 7 ou 8, il faut utiliser la fonction recherche et taper "executer" ou "run")
+        * Tapez "regedit" dans la boite de dialogue et taper sur Entrée.
+        * Localisez la clé suivante "HKEY\_CURRENT\_USER>Software>Adobe>Digital Editions"
+        * Supprimez le dossier complet (faire un clic droit dessus et cliquer sur Supprimer).
+        * Localisez aussi HKEY\_CURRENT\_USER>Software>Adobe>Adept
+        * Supprimez le dossier complet.
+    5. Téléchargez et installez Adobe Digital Editions depuis le lien suivant : http://www.adobe.com/products/digitaleditions/.
+    6. Qu'il est demander d'autoriser l'ordinateur, utilisez le même Adobe ID et mot de passe que précédemment.
+    7. Ouvrez un livre.
+* Mac :
+    1. Dans le finder : Dans l'onglet "Aller", sélectionnez "Aller au dossier"
+    2. Tapez : ~/Library/Application Support/Adobe/Digital Editions et déplacez le fichier activation.dat dans la corbeille.
+    3. Ré-autorisez Adobe Digital Editions avec votre identifiant Adobe.
+
+
 {% include anchor.html id="autres" label="Autres" %}
 ##Autres
 
