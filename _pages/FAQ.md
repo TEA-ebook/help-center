@@ -232,7 +232,7 @@ Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Re
 Il est possible de lire ses livres sur une liseuse Kobo.
 Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
 
-**/!\ Il faut penser à éjecter « proprement » la liseuse KOBO avant de la déconnecter d'un ordinateur.**
+<p class="warningtip">Il faut penser à éjecter « proprement » la liseuse KOBO avant de la déconnecter d'un ordinateur.</p>
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
@@ -503,7 +503,8 @@ Le bouton « Télécharger » est :
 
 {% include anchor.html id="fulfilled-another" label="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
 ###E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER
-**/!\ Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2 ou une application Android (Decitre ou Cultura), faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.**
+
+<p class="warningtip">Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2 ou une application Android (Decitre ou Cultura), faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
 
 Cette erreur indique que le livre a déjà été ouvert avec un identifiant Adobe différent ou bien sans identifiant sur Adobe Digital Editions.
 Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sur un ordinateur sans identifiant.
@@ -541,6 +542,9 @@ Pour savoir quel est la version de l'application Android ou du logiciel de la li
 
 {% include anchor.html id="request-expired" label="E_ADEPT_REQUEST_EXPIRED" %}
 ###E\_ADEPT\_REQUEST\_EXPIRED
+
+<p class="warningtip">Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2 ou une application Android (Decitre ou Cultura), faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
+
 Cette erreur indique que le fichier .acsm téléchargé est trop vieux. Les fichiers de licences .acsm ont une durée de validité limitée (entre 3 et 5 jours). Ils doivent donc être ouvert dans ce laps de temps.
 
 Pour résoudre ce problème, il suffit de supprimer le fichier .acsm et d'en télécharger un nouveau depuis son compte client. Il suffit ensuite d'ouvrir le fichier pour télécharger le livre.
@@ -558,7 +562,8 @@ Pour modifier les paramètres Date/heure :
 
 {% include anchor.html id="livre-abime-protege" label="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
 ###Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)
-**/!\ Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2, faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.**
+
+<p class="warningtip">Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2, faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
 
 Cette erreur apparaît quand un livre protégé est ouvert avec le mauvais ou sans identifiant Adobe.
 Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sur un ordinateur sans identifiant.
@@ -581,7 +586,8 @@ Pour savoir quel est la version du logiciel de la liseuse, rendez-vous sur la pa
 
 {% include anchor.html id="protege-adobe-DRM" label="Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil..." %}
 ###Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil...
-**/!\ Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2 ou une application Android (Decitre ou Cultura), faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.**
+
+<p class="warningtip">Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2 ou une application Android (Decitre ou Cultura), faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
 
 Il s'agit d'un message d'avertissement qui apparaît lors du premier téléchargement ou de la première ouverture d'un livre protégé, si vous n'avez pas autorisé votre appareil avec votre identifiant Adobe.
 
