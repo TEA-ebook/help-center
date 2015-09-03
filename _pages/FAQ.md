@@ -444,6 +444,7 @@ Non, des logiciels ou des programmes supplémentaires ne peuvent pas être insta
 ###Ma liseuse Cybook est bloquée sur une page, que dois-je faire ?
 Nous vous invitons à utiliser le bouton "reset". Puis utilisez le bouton marche, l'appareil doit s'allumer normalement.
 Il est également possible que la batterie soit vide. En effet, avec la technologie de l'encre électronique, lorsque la batterie se vide pendant la lecture la dernière page affichée reste à l'écran. Quand le Cybook est bloqué, connectez-le à votre ordinateur ou bien votre chargeur USB pour le charger.
+Si rien de tout cela ne fonctionne, faites une demande d’aide sur le site de Bookeen : <https://service.bookeen.com/>
 
 {% include anchor.html id="reset-cybook" label="Comment faire un « reset » avec la liseuse Cybook ?" %}
 ###Comment faire un « reset » avec la liseuse Cybook ?
