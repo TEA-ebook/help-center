@@ -41,3 +41,15 @@ header {
         border: 1px solid #999;
     }
 }
+.header-link {
+    color: #000;
+    display: inline-block;
+    float: right;
+    padding: .5em;
+    position: relative;
+    text-decoration: none;
+    top: -.5em;
+}
+#back {
+    float: left;
+}

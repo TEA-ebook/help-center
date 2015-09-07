@@ -27,5 +27,15 @@
       {% include ereader/footer.html %}
 
     </div>
+    <script>
+    (function enableCloseButton() {
+        if (!document.getElementById('close')) { return; }
+        var closebtn = document.getElementById('close');
+        var href = closebtn.href;
+        closebtn.href = '#';
+        closebtn.addEventListener('click', function() {
+            window.open(href);
+        });
+    })();</script>
   </body>
 </html>
