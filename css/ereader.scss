@@ -1,0 +1,43 @@
+---
+# Style file dedicated to ereader
+---
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+header {
+    display: block;
+    text-align: center;
+    border-bottom: 2px solid #000;
+    background: #ccc;
+    h1 {
+        margin: 0;
+        padding: .5em;
+        font-size: 1.2em;
+    }
+}
+.container {
+    padding: 1em .5em;
+}
+.protip {
+    border: 1px solid #000;
+    background: #ccc;
+    padding: .5em;
+    .title {
+        font-weight: bold;
+    }
+    &:first-child {
+        margin-top: 0;
+    }
+}
+.table {
+    width: 100%;
+}
+.table-bordered {
+    a {
+        display: inline-block;
+        border: 1px solid #999;
+    }
+}
