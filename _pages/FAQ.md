@@ -199,7 +199,10 @@ Pensez à bien conserver vos identifiant et mot de passe, vous devrez les saisir
     1. Appuyez sur l’icône « Paramètres » (symbolisé par un engrenage) en haut à droite.
     2. Une fois sur la page « Mon compte », vérifiez quel e-mail a été utilisé.
 
-Pour savoir quel est la version de l'application Android ou du logiciel de la liseuse, rendez-vous sur [la page d'accueil](http://aide.tea-ebook.com).
+
+
+
+{% include popine-info.html %}
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
