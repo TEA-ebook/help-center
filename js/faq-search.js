@@ -6,7 +6,7 @@ $(function onLoad() {
     var initialText = $results.find('.no-results').text();
 
     function displayResultText(text) {
-        $results.empty().append($('<p>').text(text).addClass('no-results'));
+        $results.html($('<p>').text(text).addClass('no-results'));
     }
 
     function constructResults() {
@@ -58,7 +58,7 @@ $(function onLoad() {
             results.append(result);
         }
 
-        $results.empty().append(results);
+        $results.html(results);
     }
 
     function searchAndDisplay() {
@@ -82,7 +82,7 @@ $(function onLoad() {
         event.preventDefault();
     });
 
-    $('#text-search').bind('keyup change', searchAndDisplay);
+    $('#text-search').bind('keyup', searchAndDisplay);
     searchAndDisplay.call($('#text-search'));
 
     $results.on('click', '.see-more', function() {
