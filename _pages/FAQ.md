@@ -172,6 +172,35 @@ Pour créer votre compte Adobe, rendez-vous sur le lien suivant avec un navigate
 
 Pensez à bien conserver vos identifiant et mot de passe, vous devrez les saisir sur le(s) support(s) de lecture de votre choix afin de pouvoir lire vos e-books protégés par Adobe DRM.
 
+{% include anchor.html id="identifiant-adobe" label="Comment vérifier avec quel identifiant Adobe le support a été autorisé ?" %}
+###Comment vérifier avec quel identifiant Adobe le support a été autorisé ?
+
+* Sur Adobe Digital Editions :
+    1. Dans le menu allez dans « Aide ».
+    2. Puis dans « Infos sur l'autorisation ».
+    3. Vérifiez ensuite quel e-mail a été utilisé ou bien si l'ordinateur a été autorisé sans identifiant.
+* Sur les liseuses Pocketbook :
+    1. Allez dans « Paramètres » (sur la page d'accueil pour le logiciel v4 ou dans le menu du haut pour le logiciel v5).
+    2. Puis dans « Comptes et synchronisation » et « Adobe DRM ».
+    3. Vérifiez ensuite quel e-mail a été utilisé.
+* Sur les liseuses Bookeen :
+    1. Depuis le menu de la page d'accueil, allez dans « Réglage ».
+    2. Puis dans « À propos de ».
+    3. Enfin dans la fenêtre qui s'est ouverte, vérifier l'e-mail utilisé dans la section « AdobeID ».
+* Sur les applications Android :
+    * Version 1 :
+        1. Appuyez sur « Mon compte » en haut à droite.
+        2. Vérifiez ensuite quel e-mail a été utilisé.
+    * Version 2 :
+        1. Allez dans le menu.
+        2. Puis dans « Adobe DRM ».
+        3. Vérifiez ensuite quel e-mail a été utilisé.
+* Sur l'application iOs :
+    1. Appuyez sur l’icône « Paramètres » (symbolisé par un engrenage) en haut à droite.
+    2. Une fois sur la page « Mon compte », vérifiez quel e-mail a été utilisé.
+
+Pour savoir quel est la version de l'application Android ou du logiciel de la liseuse, rendez-vous sur [la page d'accueil](http://aide.tea-ebook.com).
+
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 {% include anchor.html id="lecture" label="Lecture" %}
@@ -204,13 +233,13 @@ Vérifiez que l'application et/ou le support utilisé(e) est fourni(e) par votre
 Si rien ne fonctionne, contactez votre service client.
 
 {% include anchor.html id="ouvrir-acsm" label="Mon livre est un fichier au format acsm" %}
-###Mon livre est un fichier au format acsm
-Les fichiers acsm sont des fichiers de licence qui permettent à un utilisateur de télécharger son ebook, lorsque celui-ci est protégé par Adobe DRM.
+###Mon livre est un fichier au format `acsm`
+Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateur de télécharger son ebook, lorsque celui-ci est protégé par Adobe DRM.
 
-* [Ouvrir un fichier acsm sur ordinateur](/web-ordinateur/#lire-ordinateur)
-* [Ouvrir un fichier acsm sur liseuse](/web-basic2/#tranferer-basic2)
+* [Ouvrir un fichier `acsm` sur ordinateur](/web-ordinateur/#lire-ordinateur)
+* [Ouvrir un fichier `acsm` sur liseuse](/web-basic2/#tranferer-basic2)
 
-<p class="warningtip">Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2, faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
+<p class="warningtip">Si vous possédez une liseuse Pocketbook Sense ou TouchLux 2, faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
 
 {% include anchor.html id="ebook-incomplet" label="L’e-book est incomplet. Il manque des pages ou des chapitres." %}
 ###L’e-book est incomplet. Il manque des pages ou des chapitres.
@@ -241,7 +270,7 @@ Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Re
 Il est possible de lire ses livres sur une liseuse Kobo.
 Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
 
-<p class="warningtip">Il faut penser à éjecter « proprement » la liseuse KOBO avant de la déconnecter d'un ordinateur.</p>
+<p class="warningtip">Il faut penser à éjecter « proprement » la liseuse Kobo avant de la déconnecter d'un ordinateur.</p>
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
@@ -456,7 +485,8 @@ Non, des logiciels ou des programmes supplémentaires ne peuvent pas être insta
 ###Ma liseuse Cybook est bloquée sur une page, que dois-je faire ?
 Nous vous invitons à utiliser le bouton "reset". Puis utilisez le bouton marche, l'appareil doit s'allumer normalement.
 Il est également possible que la batterie soit vide. En effet, avec la technologie de l'encre électronique, lorsque la batterie se vide pendant la lecture la dernière page affichée reste à l'écran. Quand le Cybook est bloqué, connectez-le à votre ordinateur ou bien votre chargeur USB pour le charger.
-Si rien de tout cela ne fonctionne, faites une demande d’aide sur le site de Bookeen : <https://service.bookeen.com/>
+
+Si rien de tout cela ne fonctionne, contactez le service client Bookeen : <https://service.bookeen.com/>
 
 {% include anchor.html id="reset-cybook" label="Comment faire un « reset » avec la liseuse Cybook ?" %}
 ###Comment faire un « reset » avec la liseuse Cybook ?
@@ -472,6 +502,8 @@ Vous pouvez également utiliser le bouton « reset » :
 
 - Appuyez sur le bouton marche/arrêt et maintenez-le appuyé pendant 10 secondes.
 - Ensuite vous devrez ensuite à nouveau appuyer sur le bouton marche pour rallumer l'appareil.
+
+Si rien de tout cela ne fonctionne, contactez le service client Bookeen : <https://service.bookeen.com/>
 
 {% include anchor.html id="pas-voir-fichier" label="Je ne peux pas voir un fichier que je viens de transférer." %}
 ###Je ne peux pas voir un fichier que je viens de transférer.
@@ -494,6 +526,7 @@ Sur la liseuse, ils sont également disponibles dans votre compte, rubrique « 
 {% include anchor.html id="pas-telecharger-ebook" label="Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?" %}
 ###Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?
 **La fenêtre de téléchargement de mon navigateur est apparue :**
+
 - vérifier que le livre n'est pas dans le dossier « (My) Downloads » ou « (Mes) téléchargements », ou dans un autre dossier de téléchargement par défaut.
 - vérifier que vous n'avez pas cliqué sur « Ouvrir » au lieu de « Télécharger » et que le fichier ne se trouve pas dans un dossier temporaire.
 - vérifier que le livre n'est pas protégé par DRM, auquel cas, vous devez avoir téléchargé un fichier de licence en .acsm, qui vous permettra d'accéder à votre livre, une fois ouvert dans Adobe Digital Editions. Pensez bien à créer et activer votre compte Adobe au préalable.
@@ -521,33 +554,7 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 * Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 * Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 
-**Pour vérifier avec quel identifiant Adobe le support a été autorisé :**
-
-1. Sur Adobe Digital Editions :
-    * Dans le menu allez dans « Aide ».
-    * Puis dans « Infos sur l'autorisation ».
-    * Vérifiez ensuite quel e-mail a été utilisé ou bien si l'ordinateur a été autorisé sans identifiant.
-2. Sur les liseuses Pocketbook :
-    * Allez dans « Paramètres » (sur la page d'accueil pour le logiciel v4 ou dans le menu du haut pour le logiciel v5).
-    * Puis dans « Comptes et synchronisation » et « Adobe DRM ».
-    * Vérifiez ensuite quel e-mail a été utilisé.
-3. Sur les liseuses Bookeen :
-    * Depuis le menu de la page d'accueil, allez dans « Réglage ».
-    * Puis dans « À propos de ».
-    * Enfin dans la fenêtre qui s'est ouverte, cherchez la partie « AdobeID » et le mail correspondant.
-4. Sur les applications Android :
-    * Version 1 :
-        * Appuyez sur « Mon compte » en haut à droite.
-        * Vérifiez ensuite quel e-mail a été utilisé.
-    * Version 2 :
-        * Allez dans le menu.
-        * Puis dans « Adobe DRM ».
-        * Vérifiez ensuite quel e-mail a été utilisé.
-5. Sur l'application iOs :
-    * Appuyez sur l’icône « Engrenage » en haut à droite.
-    * Une fois sur la page « Mon compte », vérifiez quel e-mail a été utilisé.
-
-Pour savoir quel est la version de l'application Android ou du logiciel de la liseuse, rendez-vous la page d'accueil de "l'aide en ligne":http://aide.tea-ebook.com.
+[Vérifier avec quel identifiant Adobe le support a été autorisé.](#identifiant-adobe)
 
 {% include anchor.html id="request-expired" label="E_ADEPT_REQUEST_EXPIRED" %}
 ###E\_ADEPT\_REQUEST\_EXPIRED
@@ -556,9 +563,10 @@ Pour savoir quel est la version de l'application Android ou du logiciel de la li
 
 Cette erreur indique que le fichier .acsm téléchargé est trop vieux. Les fichiers de licences .acsm ont une durée de validité limitée (entre 3 et 5 jours). Ils doivent donc être ouvert dans ce laps de temps.
 
-Pour résoudre ce problème, il suffit de supprimer le fichier .acsm et d'en télécharger un nouveau depuis son compte client. Il suffit ensuite d'ouvrir le fichier pour télécharger le livre.
+Pour résoudre ce problème, supprimez le fichier `acsm` et d'en télécharger un nouveau depuis votre compte client. Puis ouvrez ensuite le fichier pour télécharger le livre.
 
-Si le problème persiste il faut s'assurer avec le client que la date, l'heure et le fuseau horaire de son support sont correctement paramétrés. Pour cela il suffit de taper l'adresse http://time.is dans le navigateur du support.
+Si le problème persiste il faut vous assurez que la date, l'heure et le fuseau horaire de votre support sont correctement paramétrés.
+Vous pouvez le vérifier simplement en tapant l'adresse <http://time.is> dans le navigateur du support.
 
 Pour modifier les paramètres Date/heure :
 
@@ -580,18 +588,7 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 * Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 * Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 
-Pour vérifier avec quel identifiant Adobe le support a été autorisé :
-
-1. Sur Adobe Digital Editions :
-    * Dans le menu allez dans « Aide ».
-    * Puis dans « Infos sur l'autorisation ».
-    * Vérifiez ensuite quel e-mail a été utilisé ou bien si l'ordinateur a été autorisé sans identifiant.
-2. Sur les liseuses Pocketbook :
-    * Allez dans « Paramètres » (sur la page d'accueil pour le logiciel v4 ou dans le menu du haut pour le logiciel v5).
-    * Puis dans « Comptes et synchronisation » et « Adobe DRM ».
-    * Vérifiez ensuite quel e-mail a été utilisé.
-
-Pour savoir quel est la version du logiciel de la liseuse, rendez-vous sur la page d'accueil de l'aide en ligne.
+[Vérifier avec quel identifiant Adobe le support a été autorisé.](#identifiant-adobe)
 
 {% include anchor.html id="protege-adobe-DRM" label="Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil..." %}
 ###Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil...
@@ -645,13 +642,13 @@ Il faut donc retirer manuellement l'autorisation de l'ordinateur.
 Cette erreur indique que l'autorisation de l'ordinateur est invalide ou corrompue.
 
 ####Solution 1 :
-1. Supprimez l'autorisation de l'ordinateur (ctrl + Maj + D sous windows) ou (cmd + Maj + D sous Mac).
-2. Désinstallez ADE (dans Panneau de configuration > Programmes)
-3. Installez la dernière version d'ADE http://www.adobe.com/fr/solutions/ebook/digital-editions/download.html
+1. Supprimez l'autorisation de l'ordinateur dans Adobe Digital Editions (ctrl + Maj + D sous windows) ou (cmd + Maj + D sous Mac).
+2. Désinstallez Adobe Digital Editions (dans Panneau de configuration > Programmes)
+3. Installez la dernière version d'Adobe Digital Editions http://www.adobe.com/fr/solutions/ebook/digital-editions/download.html
 4. Autorisez l'ordinateur
 
 ####Solution 2 :
-1. Autorisez le logiciel dans le pare-feu.
+* Autorisez le logiciel dans le pare-feu.
     * Pour le pare-feu de Windows :
         1. Ouvrez le pare-feu Windows
         2. Cliquez sur Démarrer > Panneau de configuration > Firewall
@@ -662,10 +659,10 @@ Cette erreur indique que l'autorisation de l'ordinateur est invalide ou corrompu
         7. Cliquez sur OK
 
 ####Solution 3 :
-Les versions 4.0.0 et 4.0.1 d'Adobe Digitale Editions génèrent régulièrement cette erreur. Il est donc conseillé de les mettre à jour avec la version 4.0.3
+Les versions 4.0.0 et 4.0.1 d'Adobe Digital Editions génèrent régulièrement cette erreur. Il est donc conseillé de les mettre à jour avec la version 4.0.3
 
 ####Solution 4
-* Windows :
+* **Windows :**
     1. Ouvrez Adobe Digital Editions.
     2. Appuyez sur Ctrl+Shift+D sur le clavier et supprimer l'autorisation de Digital Editions.
     3. Désinstallez Adobe Digital Editions de l'ordinateur.
@@ -681,7 +678,7 @@ Les versions 4.0.0 et 4.0.1 d'Adobe Digitale Editions génèrent régulièrement
     5. Téléchargez et installez Adobe Digital Editions depuis le lien suivant : http://www.adobe.com/products/digitaleditions/.
     6. Qu'il est demander d'autoriser l'ordinateur, utilisez le même Adobe ID et mot de passe que précédemment.
     7. Ouvrez un livre.
-* Mac :
+* **Mac :**
     1. Dans le finder : Dans l'onglet "Aller", sélectionnez "Aller au dossier"
     2. Tapez : ~/Library/Application Support/Adobe/Digital Editions et déplacez le fichier activation.dat dans la corbeille.
     3. Ré-autorisez Adobe Digital Editions avec votre identifiant Adobe.
