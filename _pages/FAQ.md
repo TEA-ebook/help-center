@@ -16,20 +16,20 @@ title: Foire Aux Questions
 Il existe différents formats d'e-books qui possèdent chacun leurs caractéristiques :
 
 **ePub : Electronic publication**
-Le format ePub est un format standardisé ouvert et est conçu pour faciliter la mise en page du contenu, le texte affiché étant ajusté pour le type d'appareil de lecture (taille de l'écran). Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac. Il est également compatible avec les liseuses à encre électronique (qui acceptent le format ePub) et particulièrement adapté à ce type d'écran.
+Le format ePub est un format standardisé ouvert et aconçu pour faciliter la mise en page du contenu, le texte affiché étant ajusté pour le type d'appareil de lecture (taille de l'écran). Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac. Il est également compatible avec les liseuses à encre électronique (qui acceptent le format ePub) et particulièrement adapté à ce type d'écran.
 
 **PDF : Portable Document Format**
 Le format PDF conserve la mise en forme initiale de l'ouvrage indépendamment des logiciels ou supports qui en permettent la lecture. Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac.
-Il est également compatibles avec les liseuses à encre électronique mais la lisibilité est assez mauvaise. La lecture d'un PDF sur une liseuse est donc à déconseiller.
+Il est également compatible avec les liseuses à encre électronique mais la lisibilité est assez mauvaise. La lecture d'un PDF sur une liseuse est donc déconseillé.
 
 **Mobipocket/PRC**
-Le format Mobipocket est destiné essentiellement aux PDA et nécessite l'installation de l'application Mobipocket Reader. On peut également ouvrir ceux qui n'ont pas de DRM sur une liseuse Kindle ou avec l'application Kindle pour PC ou tablette.
+Le format Mobipocket est destiné essentiellement aux PDA et nécessite l'installation de l'application Mobipocket Reader. On peut également ouvrir les e-books au format Mobipocket qui n'ont pas de DRM sur une liseuse Kindle ou avec l'application Kindle pour PC ou tablette.
 
 **Streaming**
-La lecture d'e-books en streaming ne donne pas lieu à un téléchargement ou un enregistrement du fichier, mais elle se fait en ligne via le navigateur Internet et nécessite donc une connexion internet.
+La lecture d'e-books en streaming ne donne pas lieu à un téléchargement ou un enregistrement du fichier, mais elle se fait en ligne via le navigateur Internet et nécessite donc une connexion Internet.
 
 **Chaque format possède des avantages et s'adapte différemment aux différents supports :**
-
+e
 <table class="table table-bordered">
     <tr>
         <th></th>
@@ -101,7 +101,7 @@ Chaque e-book possède ses propres caractéristiques dont on peut retrouver le d
 Est libre de droit ou appartient au domaine public un ouvrage dont l'auteur est décédé depuis 70 ans et un jour. Les e-books libres de droit sont souvent gratuits.
 
 **Impression**
-Le taux d'impression est exprimé en pourcentage ou en nombre de pages. Il dépend des protections appliquées au e-book et indique dans quelle mesure il peut être imprimé.
+Le taux d'impression est exprimé en pourcentage ou en nombre de pages. Il dépend des protections appliquées à l'e-book et indique dans quelle mesure il peut être imprimé.
 
 **Copier-coller**
 Le taux de « copier-coller » est exprimé en pourcentage ou en nombre de pages. Il dépend des protections appliquées à l'e-book et indique dans quelle mesure il sera possible de le dupliquer.
@@ -119,7 +119,7 @@ Dans un même panier, vous ne pouvez pas acheter :
 
 {% include anchor.html id="limitation-nombre-ebook" label="Y a-t-il une limitation du nombre de livres par commande sur la liseuse ?" %}
 ###Y a-t-il une limitation du nombre de livres par commande sur la liseuse ?
-Nous vous conseillons de ne pas sélectionner plus de 30 ebooks par commande.
+Nous vous conseillons de ne pas sélectionner plus de 30 e-books par commande.
 
 {% include anchor.html id="payer-ebook" label="Comment puis-je payer mes e-books ?" %}
 ###Comment puis-je payer mes e-books ?
@@ -184,7 +184,7 @@ Pensez à bien conserver vos identifiant et mot de passe, vous devrez les saisir
     2. Puis dans « Comptes et synchronisation » et « Adobe DRM ».
     3. Vérifiez ensuite quel e-mail a été utilisé.
 * Sur les liseuses Bookeen :
-    1. Depuis le menu de la page d'accueil, allez dans « Réglage ».
+    1. Depuis le menu de la page d'accueil, allez dans « Réglages ».
     2. Puis dans « À propos de ».
     3. Enfin dans la fenêtre qui s'est ouverte, vérifier l'e-mail utilisé dans la section « AdobeID ».
 * Sur les applications Android :
@@ -223,9 +223,9 @@ Certaines applications permettent également de se connecter directement à la b
 {% include anchor.html id="pas-ouvrir-ebook" label="Je n’arrive pas à ouvrir mon e-book." %}
 ###Je n’arrive pas à ouvrir mon e-book.
 
-1. Vérifiez la compatibilité entre le format du livre que vous avez acheté et le support sur lequel vous essayez de l'ouvrir : [Quel format choisir pour acheter un e-book ?](#format-ebook)
+1. Vérifiez la compatibilité entre le format du e-book que vous avez acheté et le support sur lequel vous essayez de l'ouvrir : [Quel format choisir pour acheter un e-book ?](#format-ebook)
 2. Vérifiez si l'application de lecture est adaptée à votre support, notamment si la version de l'application est bien compatible avec la version du support.
-3. Si votre livre est protégé :
+3. Si votre e-book est protégé :
 Vérifiez que l'application et/ou le support utilisé(e) est fourni(e) par votre librairie.
   * Si oui : Vérifiez que votre support est bien autorisé avec votre compte client ou votre compte Adobe.
   * Si non : vérifiez que le support/application utilisé(e) est bien compatible avec Adobe DRM et le cas échéant, que l'identifiant Adobe est bien renseigné.
@@ -233,8 +233,8 @@ Vérifiez que l'application et/ou le support utilisé(e) est fourni(e) par votre
 Si rien ne fonctionne, contactez votre service client.
 
 {% include anchor.html id="ouvrir-acsm" label="Mon livre est un fichier au format acsm" %}
-###Mon livre est un fichier au format `acsm`
-Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateur de télécharger son ebook, lorsque celui-ci est protégé par Adobe DRM.
+###Mon e-book est un fichier au format `acsm`
+Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateur de télécharger son e-book, lorsque celui-ci est protégé par Adobe DRM.
 
 * [Ouvrir un fichier `acsm` sur ordinateur](/web-ordinateur/#lire-ordinateur)
 * [Ouvrir un fichier `acsm` sur liseuse](/web-basic2/#tranferer-basic2)
@@ -252,22 +252,22 @@ S'il s'agit bien du livre complet, contactez votre service client.
 Les e-books au format epub et PDF sont lisibles sur iPad, à condition d'avoir téléchargé une application de lecture telle que Bluefire Reader.
 
 {% include anchor.html id="lire-kindle" label="Puis-je lire mes livres sur une liseuse Kindle ?" %}
-###Puis-je lire mes livres sur une liseuse Kindle ?
+###Puis-je lire mes e-books sur une liseuse Kindle ?
 Nos e-books sont proposés au format EPUB ou PDF (excepté pour la BD où il s'agit le plus souvent de streaming).
 La liseuse Kindle ne supporte pas les fichiers EPUB.
 Vous pouvez lire un PDF sur une liseuse Kindle à condition que celui-ci n'ait pas de DRM.
 Certains livres multi-format proposent un format mobipocket, compatible avec la liseuse Kindle.
 
 {% include anchor.html id="lire-sony" label="Puis-je lire mes livres sur Reader de Sony ?" %}
-###Puis-je lire mes livres sur Reader de Sony ?
-Un logiciel complémentaire doit être installé pour transférer vos e-books. Vous devrez installer le Reader for PC & Mac.
+###Puis-je lire mes e-books sur Reader de Sony ?
+Un logiciel complémentaire doit être installé pour transférer vos e-books : le Reader for PC & Mac.
 Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Reader de chez Sony, téléchargeable gratuitement sur leur site.
 [pour Windows](http://www.sony.fr/support/fr/content/cnt-dwnl/prd-ebo/sony-reader-software-update-ver2400_05230-win/)
 [pour Mac](http://www.sony.fr/support/fr/content/cnt-dwnl/prd-ebo/sony-reader-software-update-ver2400_05230-mac/)
 
 {% include anchor.html id="lire-kobo" label="Puis-je lire mes livres sur une liseuse Kobo ?" %}
-###Puis-je lire mes livres sur une liseuse Kobo ?
-Il est possible de lire ses livres sur une liseuse Kobo.
+###Puis-je lire mes e-books sur une liseuse Kobo ?
+Il est possible de lire ses e-books sur une liseuse Kobo.
 Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
 
 <p class="warningtip">Il faut penser à éjecter « proprement » la liseuse Kobo avant de la déconnecter d'un ordinateur.</p>
@@ -308,13 +308,13 @@ Pour les liseuses Cybook, la capacité interne est de 2 Go, ce qui représente 
 Pour les liseuses Pocketbook, la capacité interne est de 4 Go, soit environ 4 000 livres.
 Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 Go en insérant une carte mémoire dans la fente prévue à cet effet.
 
-{% include anchor.html id="perdre-livres-maj" label="Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?" %}
-###Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?
-Vous ne perdrez pas vos documents ou vos livres quand vous mettrez à jour votre liseuse. C’est seulement l’opportunité pour votre appareil de gagner de nouvelles fonctionnalités.
-
 {% include anchor.html id="carteSD-liseuse" label="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
 ###Quel type de carte SD dois-je utiliser avec ma liseuse ?
 Les liseuses Cybook ou Pocketbook supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
+
+{% include anchor.html id="perdre-livres-maj" label="Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?" %}
+###Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?
+Vous ne perdrez pas vos documents ou vos livres quand vous mettrez à jour votre liseuse. C’est seulement l’opportunité pour votre appareil de gagner de nouvelles fonctionnalités.
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
@@ -354,28 +354,6 @@ Pour supprimer un livre d'une étagère, il faut choisir le mode « étagère 
 
 Pour supprimer une étagère, il faut choisir le mode « étagère », puis faire un appui long sur l'étagère que vous souhaitez supprimer. Appuyer ensuite sur « Supprimer ». Supprimer une étagère ne supprime pas les livres qu'elle contient.
 
-{% include anchor.html id="langue-menu" label="Comment régler la langue du menu ?" %}
-###Comment régler la langue du menu ?
-
-- Allez dans Paramètres > Langues/Languages > Langue/Languages.
-- Appuyez sur la langue de votre choix.
-
-Vous avez aussi la possibilité de choisir la disposition de votre clavier virtuel ou les dictionnaires disponibles.
-
-{% include anchor.html id="maj-pb" label="Comment mettre à jour ma liseuse Pocketbook ?" %}
-###Comment mettre à jour ma liseuse Pocketbook ?
-
-- Version 4 aller dans Paramètres > À propos de l'appareil > Logiciel ; Version 5 aller dans Paramètres > Logiciel.
-- Appuyer sur Mise à jour du logiciel.
-- Connectez votre liseuse au réseau Wi-Fi, tel que proposé.
-- Une fenêtre s'affiche, demandant de télécharger et d'installer la mise à jour.
-- Appuyez sur « Oui ».
-- Le téléchargement de la nouvelle version commence. (Le temps de téléchargement peut-être relativement long (~20 minutes) suivant le type de mise à jour. Laissez le téléchargement se poursuivre jusqu'au bout. En cas d'interruption, recommencez la démarche, le téléchargement reprendra où il s'est arrêté.)
-- La mise à jour est ensuite appliquée. Elle peut durer plusieurs minutes, ne l'interrompez pas.
-- La liseuse redémarre ensuite, pour finaliser la mise à jour.
-
-Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/Off correspondant à « Mise à jour automatique ». La liseuse recherchera automatiquement s'il y a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
-
 {% include anchor.html id="supprimer-livres-liseuses" label="Comment supprimer des livres de la liseuse ?" %}
 ###Comment supprimer des livres de la liseuse ?
 
@@ -388,11 +366,33 @@ Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/
 Cette manipulation est adaptée pour la suppression d'un ou quelques livres.
 Si vous souhaitez en supprimer un plus grand nombre, il est préférable de passer par le PC en connectant la liseuse et en utilisant ADE ou l'explorateur de fichiers.
 
+{% include anchor.html id="langue-menu" label="Comment régler la langue du menu ?" %}
+###Comment régler la langue du menu ?
+
+- Allez dans Paramètres > Langues/Langages > Langue/Langages.
+- Appuyez sur la langue de votre choix.
+
+Vous avez aussi la possibilité de choisir la disposition de votre clavier virtuel ou les dictionnaires disponibles.
+
+{% include anchor.html id="maj-pb" label="Comment mettre à jour ma liseuse Pocketbook ?" %}
+###Comment mettre à jour ma liseuse Pocketbook ?
+
+- Version 4 : aller dans Paramètres > À propos de l'appareil > Logiciel
+- Version 5 : aller dans Paramètres > Logiciel.
+- Appuyer sur "Mise à jour du logiciel".
+- Connectez votre liseuse au réseau Wi-Fi, tel que proposé.
+- Une fenêtre s'affiche, demandant de télécharger et d'installer la mise à jour.
+- Appuyez sur « Oui ».
+- Le téléchargement de la nouvelle version commence. (Le temps de téléchargement peut-être relativement long (~20 minutes) suivant le type de mise à jour. Laissez le téléchargement se poursuivre jusqu'au bout. En cas d'interruption, recommencez la démarche, le téléchargement reprendra où il s'est arrêté.)
+- La mise à jour est ensuite appliquée. Elle peut durer plusieurs minutes, ne l'interrompez pas.
+- La liseuse redémarre ensuite, pour finaliser la mise à jour.
+
+Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/Off correspondant à « Mise à jour automatique ». La liseuse recherchera automatiquement s'il y a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
+
 {% include anchor.html id="affichage-mode-lecture" label="Comment afficher l'heure ou le niveau de batterie en mode lecture ?" %}
 ###Comment afficher l'heure ou le niveau de batterie en mode lecture ?
 
 ####Version 4
-
 - Allez dans Paramètres > Paramètres supplémentaires > Configuration de l'écran en mode Lecture.
 - Appuyez ensuite sur les boutons On/Off des éléments que vous souhaitez ou non afficher dans la barre d'état en bas :
   - Page en cours
@@ -412,7 +412,6 @@ Si vous souhaitez en supprimer un plus grand nombre, il est préférable de pass
 ###Est-ce que je peux personnaliser mon écran de démarrage ou de mise hors tension ?
 
 ####Version 4
-
 - Allez dans Applications > Photo.
 - Ouvrez l'image.
 - Appuyez au centre de l'image, une barre apparait en haut.
@@ -462,7 +461,7 @@ Sur la liseuse Cybook, lorsque l'appareil est en activité, la LED s'allume en b
 
 {% include anchor.html id="diode-clignote" label="La diode clignote lorsque j'allume ma liseuse Cybook." %}
 ###La diode clignote lorsque j'allume ma liseuse Cybook.
-Cela signifie que la liseuse Cybook n'a plus de batterie. Vous devez donc le recharger.
+Cela signifie que la liseuse Cybook n'a plus de batterie. Vous devez donc la recharger.
 
 {% include anchor.html id="personnaliser-economiseurs-ecran" label="Est-ce que je peux personnaliser mes économiseurs d’écran ?" %}
 ###Est-ce que je peux personnaliser mes économiseurs d’écran ?
@@ -501,7 +500,7 @@ Veuillez vérifier que la batterie est bien chargée et bien connectée. Lorsque
 Vous pouvez également utiliser le bouton « reset » :
 
 - Appuyez sur le bouton marche/arrêt et maintenez-le appuyé pendant 10 secondes.
-- Ensuite vous devrez ensuite à nouveau appuyer sur le bouton marche pour rallumer l'appareil.
+- Ensuite vous devrez à nouveau appuyer sur le bouton marche pour rallumer l'appareil.
 
 Si rien de tout cela ne fonctionne, contactez le service client Bookeen : <https://service.bookeen.com/>
 
@@ -549,7 +548,7 @@ Le bouton « Télécharger » est :
 <p class="warningtip">Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2 ou une application Android (Decitre ou Cultura), faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
 
 Cette erreur indique que le livre a déjà été ouvert avec un identifiant Adobe différent ou bien sans identifiant sur Adobe Digital Editions.
-Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sur un ordinateur sans identifiant.
+Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sans identifiant sur un ordinateur.
 
 * Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 * Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
@@ -563,7 +562,7 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 
 Cette erreur indique que le fichier `acsm` téléchargé est trop vieux. Les fichiers de licences `acsm` ont une durée de validité limitée (entre 3 et 5 jours). Ils doivent donc être ouvert dans ce laps de temps.
 
-Pour résoudre ce problème, supprimez le fichier `acsm` et d'en télécharger un nouveau depuis votre compte client. Puis ouvrez ensuite le fichier pour télécharger le livre.
+Pour résoudre ce problème, supprimez le fichier `acsm` et téléchargez-en un nouveau depuis votre compte client. Puis ouvrez  le fichier pour télécharger le livre.
 
 Si le problème persiste il faut vous assurez que la date, l'heure et le fuseau horaire de votre support sont correctement paramétrés.
 Vous pouvez le vérifier simplement en tapant l'adresse <http://time.is> dans le navigateur du support.
@@ -580,10 +579,10 @@ Pour modifier les paramètres Date/heure :
 {% include anchor.html id="livre-abime-protege" label="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
 ###Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)
 
-<p class="warningtip">Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2, faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
+<p class="warningtip">Si vous possédez une liseuse Pocketbook Sense ou TouchLux 2, faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
 
 Cette erreur apparaît quand un livre protégé est ouvert avec le mauvais ou sans identifiant Adobe.
-Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sur un ordinateur sans identifiant.
+Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sans identifiant sur un ordinateur.
 
 * Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 * Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
@@ -607,24 +606,24 @@ Il s'agit d'un message d'avertissement qui apparaît lors du premier télécharg
 ###Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse
 
 1. Supprimer les cookies dans le navigateur :
-    * Ouvrez le navigateur depuis le menu du bas.
-    * Appuyez sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse.
-    * Appuyez ensuite sur Paramètres, puis sur Effacer les cookies.
-    * Essayez alors de vous connecter à votre librairie. Si tout fonctionne bien, vous pouvez vous arrêtez là.
+    * Ouvrir le menu du bas depuis l'accueil de votre liseuse
+    * Sélectionner le navigateur.
+    * Appuyer sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse.
+    * Appuyer ensuite sur "Paramètres", puis sur "Effacer les cookies".
+    * Essayer alors de vous connecter à votre librairie. Si tout fonctionne bien, vous pouvez vous arrêtez là.
 2. Si vous atterrissez toujours sur une page « 400 Bad Request », testez la méthode suivante : Déconnecter - reconnecter son compte client
-    * Allez dans Paramètres > Comptes et synchronisation > Mon compte client.
-    * Appuyer sur Se déconnecter, puis sur Oui dans la fenêtre de confirmation.
-    * Laissez la liseuse se connecter au wifi si besoin.
+    * Aller dans Paramètres > Comptes et synchronisation > Mon compte client.
+    * Appuyer sur "Se déconnecter", puis sur "Oui" dans la fenêtre de confirmation.
+    * Laisser la liseuse se connecter au wifi si besoin.
     * Un message de confirmation s'affiche.
-    * Une fois votre compte déconnecté, appuyez sur Connexion.
-    * Remplissez le formulaire et appuyez sur Se connecter.
-    * Essayez alors de vous connecter à votre librairie.
+    * Une fois votre compte déconnecté, appuyer sur Connexion.
+    * Remplir le formulaire et appuyer sur Se connecter.
+    * Essayer alors de vous connecter à votre librairie.
 
 {% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
 ###E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY
 
 Cette erreur indique que vous ne pouvez pas changer l'autorisation ADE de votre PC, même après une autorisation SANS ID.
-
 Il faut donc retirer manuellement l'autorisation de l'ordinateur.
 
 * Mac :
@@ -634,7 +633,7 @@ Il faut donc retirer manuellement l'autorisation de l'ordinateur.
 * Windows :
     1. Cliquer sur Démarrer > Exécuter. (Dans windows 7 ou 8, il faut utiliser la fonction recherche et taper "executer" ou "run")
     2. Taper "regedit" dans la boite de dialogue et taper sur Entrée.
-    3. Localiser la clé suivante "HKEY_CURRENT_USER>Software>Adobe>Digital Editions" et supprimer le dossier complet (faire un clic droit dessus et cliquer sur Supprimer).
+    3. Localiser la clé suivante "HKEY_CURRENT_USER>Software>Adobe>Digital Editions" et supprimer le dossier complet (faire un clic droit dessus et cliquer sur "Supprimer").
     4. Localiser aussi HKEY_CURRENT_USER>Software>Adobe>Adept et supprimer le dossier complet.
 
 {% include anchor.html id="error-check-activation" label="Error check activation" %}
@@ -642,46 +641,46 @@ Il faut donc retirer manuellement l'autorisation de l'ordinateur.
 Cette erreur indique que l'autorisation de l'ordinateur est invalide ou corrompue.
 
 ####Solution 1 :
-1. Supprimez l'autorisation de l'ordinateur dans Adobe Digital Editions (ctrl + Maj + D sous windows) ou (cmd + Maj + D sous Mac).
-2. Désinstallez Adobe Digital Editions (dans Panneau de configuration > Programmes)
-3. Installez la dernière version d'Adobe Digital Editions http://www.adobe.com/fr/solutions/ebook/digital-editions/download.html
-4. Autorisez l'ordinateur
+1. Supprimer l'autorisation de l'ordinateur dans Adobe Digital Editions (ctrl + Maj + D sous windows) ou (cmd + Maj + D sous Mac).
+2. Désinstaller Adobe Digital Editions (dans Panneau de configuration > Programmes)
+3. Installer la dernière version d'Adobe Digital Editions http://www.adobe.com/fr/solutions/ebook/digital-editions/download.html
+4. Autoriser l'ordinateur
 
 ####Solution 2 :
-* Autorisez le logiciel dans le pare-feu.
+* Autoriser le logiciel dans le pare-feu.
     * Pour le pare-feu de Windows :
-        1. Ouvrez le pare-feu Windows
-        2. Cliquez sur Démarrer > Panneau de configuration > Firewall
-        3. Sélectionnez l'onglet Exceptions
-        4. Ajoutez une exception pour Adobe Digital Editions
-        5. Cliquez sur Ajouter un programme
-        6. Double-cliquez sur Adobe Digital Editions dans la liste
-        7. Cliquez sur OK
+        1. Ouvrir le pare-feu Windows
+        2. Cliquer sur Démarrer > Panneau de configuration > Firewall
+        3. Sélectionner l'onglet Exceptions
+        4. Ajouter une exception pour Adobe Digital Editions
+        5. Cliquer sur "Ajouter un programme"
+        6. Double-cliquer sur Adobe Digital Editions dans la liste
+        7. Cliquer sur OK
 
 ####Solution 3 :
 Les versions 4.0.0 et 4.0.1 d'Adobe Digital Editions génèrent régulièrement cette erreur. Il est donc conseillé de les mettre à jour avec la version 4.0.3
 
 ####Solution 4
 * **Windows :**
-    1. Ouvrez Adobe Digital Editions.
-    2. Appuyez sur Ctrl+Shift+D sur le clavier et supprimer l'autorisation de Digital Editions.
-    3. Désinstallez Adobe Digital Editions de l'ordinateur.
-        * Cliquez sur Démarrer > Panneau de configuration > Programmes > Programmes et fonctionnalités.
-        * Séléctionnez Adobe Digital Editions dans la liste et supprimez.
-    4. Supprimez aussi les fichiers suivant.
-        * Cliquez sur Démarrer > Exécuter. (Dans windows 7 ou 8, il faut utiliser la fonction recherche et taper "executer" ou "run")
-        * Tapez "regedit" dans la boite de dialogue et taper sur Entrée.
-        * Localisez la clé suivante "HKEY\_CURRENT\_USER>Software>Adobe>Digital Editions"
-        * Supprimez le dossier complet (faire un clic droit dessus et cliquer sur Supprimer).
-        * Localisez aussi HKEY\_CURRENT\_USER>Software>Adobe>Adept
-        * Supprimez le dossier complet.
-    5. Téléchargez et installez Adobe Digital Editions depuis le lien suivant : http://www.adobe.com/products/digitaleditions/.
-    6. Qu'il est demander d'autoriser l'ordinateur, utilisez le même Adobe ID et mot de passe que précédemment.
-    7. Ouvrez un livre.
+    1. Ouvrir Adobe Digital Editions.
+    2. Appuyer sur Ctrl+Shift+D sur le clavier et supprimer l'autorisation de Digital Editions.
+    3. Désinstaller Adobe Digital Editions de l'ordinateur.
+        * Cliquer sur Démarrer > Panneau de configuration > Programmes > Programmes et fonctionnalités.
+        * Séléctionner Adobe Digital Editions dans la liste et supprimer.
+    4. Supprimer aussi les fichiers suivant.
+        * Cliquer sur Démarrer > Exécuter. (Dans windows 7 ou 8, il faut utiliser la fonction recherche et taper "executer" ou "run")
+        * Taper "regedit" dans la boite de dialogue et taper sur Entrée.
+        * Localiser la clé suivante "HKEY\_CURRENT\_USER>Software>Adobe>Digital Editions"
+        * Supprimer le dossier complet (faire un clic droit dessus et cliquer sur Supprimer).
+        * Localiser aussi HKEY\_CURRENT\_USER>Software>Adobe>Adept
+        * Supprimer le dossier complet.
+    5. Télécharger et installer Adobe Digital Editions depuis le lien suivant : http://www.adobe.com/products/digitaleditions/.
+    6. Pour autoriser l'ordinateur, utiliser le même Adobe ID et mot de passe que précédemment.
+    7. Ouvrir un livre.
 * **Mac :**
-    1. Dans le finder : Dans l'onglet "Aller", sélectionnez "Aller au dossier"
-    2. Tapez : ~/Library/Application Support/Adobe/Digital Editions et déplacez le fichier activation.dat dans la corbeille.
-    3. Ré-autorisez Adobe Digital Editions avec votre identifiant Adobe.
+    1. Dans le finder : Dans l'onglet "Aller", sélectionner "Aller au dossier"
+    2. Taper : ~/Library/Application Support/Adobe/Digital Editions et déplacer le fichier activation.dat dans la corbeille.
+    3. Ré-autoriser Adobe Digital Editions avec votre identifiant Adobe.
 
 
 {% include anchor.html id="autres" label="Autres" %}
