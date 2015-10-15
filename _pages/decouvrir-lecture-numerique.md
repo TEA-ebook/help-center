@@ -37,13 +37,15 @@ Il existe plusieurs formats de livres numériques :
 
 - L'**ePub** : format ouvert standardisé pour les livres numériques, conservant la mise en forme initiale de l’ouvrage tout en adaptant cette mise en forme et le texte affiché à l’appareil de lecture et à la taille de l’écran.
 
+- L'**ePub Fixed Layout** : format apportant un meilleur confort de lecture sur les livres graphiques. Nous vous conseillons de le lire en ligne depuis l'espace Mes Ebooks de votre compte client, ou en utilisant le logiciel Adobe Digital Editions. Les liseuses et applications ne gèrent pas encore ce format.
+
 - Le **PDF** : format conservant la mise en forme initiale de l'ouvrage indépendamment des logiciels ou supports de lecture.
 
 - Le **multi-format** : pack comportant plusieurs fois le même titre en différents formats (formats PDF, ePub, streaming).
 
 - Le **streaming** : format ne donnant pas lieu à un téléchargement / enregistrement du fichier. La lecture se fait en ligne *via* le navigateur Internet. Il vous faut donc une connexion Internet.
 
-Sur notre librairie numérique, nous commercialisons les e-books tels qu'ils sont fournis par l’éditeur : au format ePub, PDF, streaming ou multiformat.
+Sur notre librairie numérique, nous commercialisons les e-books tels qu'ils sont fournis par l’éditeur : au format ePub, ePub Fixed Layout, PDF, streaming ou multiformat.
 
 <p class="warningtip"><span class="title">Format propriétaire : </span>Certains formats sont dits propriétaires, c’est-à-dire que les fichiers ont un format spécifique ne pouvant être lus que sur un seul type de support. C’est par exemple le cas des formats .azw pour Amazon qui ne peuvent être lus que sur des Kindle. **Nous garantissons des formats ouverts et non propriétaires pour assurer l'intéropérabilité.**
 </p>
@@ -73,6 +75,13 @@ Pour une lecture optimale, nous vous recommandons d’acheter vos e-books en for
         <td class="success"><strong>Recommandé</strong></td>
         <td class="success">Compatible</td>
     </tr>
++   <tr>
++        <th scope="row">ePub Fixed Layout</th>
++        <td class="success"><strong>Recommandé</strong></td>
++        <td class="warning">Compatible depuis la liseuse en ligne dans Mes Ebooks</td>
++        <td class="danger">Non compatible</td>
++        <td class="warning">Compatible depuis la liseuse en ligne dans Mes Ebooks</td>
++   </tr>
     <tr>
         <th scope="row">PDF</th>
         <td class="success">Compatible</td>
