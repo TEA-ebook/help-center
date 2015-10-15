@@ -28,8 +28,10 @@ Le format Mobipocket est destiné essentiellement aux PDA et nécessite l'instal
 **Streaming**
 La lecture d'e-books en streaming ne donne pas lieu à un téléchargement ou un enregistrement du fichier, mais elle se fait en ligne via le navigateur Internet et nécessite donc une connexion Internet.
 
+**ePub Fixed Layout**
+Le format ePub Fixed Layout est un nouveau format apportant un meilleur confort de lecture sur les livres graphiques. Nous vous conseillons de le lire en ligne depuis l'espace Mes Ebooks de votre compte client, ou en utilisant le logiciel Adobe Digital Editions. Les liseuses et applications ne gèrent pas encore ce format.
+
 **Chaque format possède des avantages et s'adapte différemment aux différents supports :**
-e
 <table class="table table-bordered">
     <tr>
         <th></th>
@@ -71,6 +73,13 @@ e
         <td class="warning">Compatible avec une application spécifique</td>
         <td class="success">Compatible</td>
         <td class="warning">Compatible avec une application spécifique</td>
+    </tr>
+        <tr>
+        <th>ePub Fixed Layout</th>
+        <td class="danger"><strong>Recommandé</strong></td>
+        <td class="warning">Compatible depuis la liseuse en ligne dans Mes Ebooks</td>
+        <td class="success">Non compatible</td>
+        <td class="warning">Compatible depuis la liseuse en ligne dans Mes Ebooks</td>
     </tr>
 </table>
 
