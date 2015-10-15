@@ -16,7 +16,7 @@ title: Foire Aux Questions
 Il existe différents formats d'e-books qui possèdent chacun leurs caractéristiques :
 
 **ePub : Electronic publication**
-Le format ePub est un format standardisé ouvert et aconçu pour faciliter la mise en page du contenu, le texte affiché étant ajusté pour le type d'appareil de lecture (taille de l'écran). Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac. Il est également compatible avec les liseuses à encre électronique (qui acceptent le format ePub) et particulièrement adapté à ce type d'écran.
+Le format ePub est un format standardisé ouvert et conçu pour faciliter la mise en page du contenu, le texte affiché étant ajusté pour le type d'appareil de lecture (taille de l'écran). Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac. Il est également compatible avec les liseuses à encre électronique (qui acceptent le format ePub) et particulièrement adapté à ce type d'écran.
 
 **PDF : Portable Document Format**
 Le format PDF conserve la mise en forme initiale de l'ouvrage indépendamment des logiciels ou supports qui en permettent la lecture. Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac.
@@ -76,9 +76,9 @@ Le format ePub Fixed Layout est un nouveau format apportant un meilleur confort 
     </tr>
         <tr>
         <th>ePub Fixed Layout</th>
-        <td class="danger"><strong>Recommandé</strong></td>
+        <td class="success" ><strong>Recommandé</strong></td>
         <td class="warning">Compatible depuis la liseuse en ligne dans Mes Ebooks</td>
-        <td class="success">Non compatible</td>
+        <td class="danger">Non compatible</td>
         <td class="warning">Compatible depuis la liseuse en ligne dans Mes Ebooks</td>
     </tr>
 </table>
