@@ -75,13 +75,13 @@ Pour une lecture optimale, nous vous recommandons d’acheter vos e-books en for
         <td class="success"><strong>Recommandé</strong></td>
         <td class="success">Compatible</td>
     </tr>
-+   <tr>
-+        <th scope="row">ePub Fixed Layout</th>
-+        <td class="success"><strong>Recommandé</strong></td>
-+        <td class="warning">Compatible depuis la liseuse en ligne dans Mes Ebooks</td>
-+        <td class="danger">Non compatible</td>
-+        <td class="warning">Compatible depuis la liseuse en ligne dans Mes Ebooks</td>
-+   </tr>
+    <tr>
+         <th scope="row">ePub Fixed Layout</th>
+         <td class="success"><strong>Recommandé</strong></td>
+         <td class="warning">Compatible depuis la liseuse en ligne dans Mes Ebooks</td>
+         <td class="danger">Non compatible</td>
+         <td class="warning">Compatible depuis la liseuse en ligne dans Mes Ebooks</td>
+    </tr>
     <tr>
         <th scope="row">PDF</th>
         <td class="success">Compatible</td>
