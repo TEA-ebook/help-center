@@ -46,11 +46,11 @@ title: Foire Aux Questions
 
 ####[Sur quels supports puis-je lire un e-book ?](/faq-lecture/#support-ebook)
 
-####[Je n’arrive pas à ouvrir mon e-book.](/faq-lecture/#pas-ouvrir-ebook)
+####[Je n’arrive pas à ouvrir mon e-book. Que puis-je faire ?](/faq-lecture/#pas-ouvrir-ebook)
 
-####[Mon e-book est un fichier au format `acsm`](/faq-lecture/#ouvrir-acsm)
+####[Mon e-book est un fichier au format acsm. Comment puis-je l'ouvrir ?](/faq-lecture/#ouvrir-acsm)
 
-####[L’e-book est incomplet. Il manque des pages ou des chapitres.](/faq-lecture/#ebook-incomplet)
+####[L’e-book est incomplet. Il manque des pages ou des chapitres. Que puis-je faire ?](/faq-lecture/#ebook-incomplet)
 
 ####[Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?](/faq-lecture/#lire-ipad)
 
@@ -107,7 +107,7 @@ title: Foire Aux Questions
 
 ####[Quelle doit-être la couleur de la diode ?](/faq-liseuse/#couleur-diode)
 
-####[La diode clignote lorsque j'allume ma liseuse Cybook.](/faq-liseuse/#diode-clignote)
+####[La diode clignote lorsque j'allume ma liseuse Cybook. Que dois-je faire ?](/faq-liseuse/#diode-clignote)
 
 ####[Est-ce que je peux personnaliser mes économiseurs d’écran ?](/faq-liseuse/#personnaliser-economiseurs-ecran)
 
@@ -121,7 +121,7 @@ title: Foire Aux Questions
 
 ####[Comment faire un « reset » avec la liseuse Cybook ?](/faq-liseuse/#reset-cybook)
 
-####[Ma liseuse Cybook ne s'allume pas.](/faq-liseuse/#cybook-allume-pas)
+####[Ma liseuse Cybook ne s'allume pas. Que dois-je faire ?](/faq-liseuse/#cybook-allume-pas)
 
 ####[Je ne peux pas voir un fichier que je viens de transférer.](/faq-liseuse/#pas-voir-fichier)
 

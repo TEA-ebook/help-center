@@ -21,7 +21,7 @@ Pour lire des livres numériques sur une tablette, il faut installer au préalab
 Certaines applications permettent également de se connecter directement à la boutique en ligne pour acheter des livres numériques.
 
 {% include anchor.html id="pas-ouvrir-ebook" label="Je n’arrive pas à ouvrir mon e-book." %}
-###Je n’arrive pas à ouvrir mon e-book.
+###Je n’arrive pas à ouvrir mon e-book. Que puis-je faire ?
 
 1. Vérifiez la compatibilité entre le format du e-book que vous avez acheté et le support sur lequel vous essayez de l'ouvrir : [Quel format choisir pour acheter un e-book ?](/faq-achat/#format-ebook)
 2. Vérifiez si l'application de lecture est adaptée à votre support, notamment si la version de l'application est bien compatible avec la version du support.
@@ -33,7 +33,7 @@ Vérifiez que l'application et/ou le support utilisé(e) est fourni(e) par votre
 Si rien ne fonctionne, contactez votre service client.
 
 {% include anchor.html id="ouvrir-acsm" label="Mon livre est un fichier au format acsm" %}
-###Mon e-book est un fichier au format `acsm`
+###Mon e-book est un fichier au format acsm. Comment puis-je l'ouvrir ?
 Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateur de télécharger son e-book, lorsque celui-ci est protégé par Adobe DRM.
 
 * [Ouvrir un fichier `acsm` sur ordinateur](/web-ordinateur/#lire-ordinateur)
@@ -42,7 +42,7 @@ Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateu
 <p class="warningtip">Si vous possédez une liseuse Pocketbook Sense ou TouchLux 2, faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
 
 {% include anchor.html id="ebook-incomplet" label="L’e-book est incomplet. Il manque des pages ou des chapitres." %}
-###L’e-book est incomplet. Il manque des pages ou des chapitres.
+###L’e-book est incomplet. Il manque des pages ou des chapitres. Que puis-je faire ?
 Certains livres sont vendus soit au chapitre, soit en version intégrale.
 Vérifiez sur la fiche produit du livre que vous avez acheté qu'il s'agit bien du livre complet et non d'un chapitre ou d'un extrait.
 S'il s'agit bien du livre complet, contactez votre service client.

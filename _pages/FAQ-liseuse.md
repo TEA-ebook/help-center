@@ -192,7 +192,7 @@ Si vous souhaitez en supprimer plusieurs, il est préférable de passer par le P
 Sur la liseuse Cybook, lorsque l'appareil est en activité, la LED s'allume en bleu. Et lorsque la batterie est en charge via l'USB, la LED s'allume en orange. Quand la batterie est chargée, la LED passe au vert.
 
 {% include anchor.html id="diode-clignote" label="La diode clignote lorsque j'allume ma liseuse Cybook." %}
-###La diode clignote lorsque j'allume ma liseuse Cybook.
+###La diode clignote lorsque j'allume ma liseuse Cybook. Que dois-je faire ?
 Cela signifie que la liseuse Cybook n'a plus de batterie. Vous devez donc la recharger.
 
 {% include anchor.html id="personnaliser-economiseurs-ecran" label="Est-ce que je peux personnaliser mes économiseurs d’écran ?" %}
@@ -226,7 +226,7 @@ Appuyez sur le bouton marche/arrêt et tenez-le pendant 10 secondes. Quand la li
 Le bouton « reset » force la liseuse Cybook à s'éteindre sans en reformater la mémoire. Après le reset il est nécessaire de rallumer l'appareil pour le faire redémarrer. Vous ne perdrez aucun livre ou information mais seulement les derniers paramètres sélectionnés (comme la dernière page lue par exemple).
 
 {% include anchor.html id="cybook-allume-pas" label="Ma liseuse Cybook ne s'allume pas." %}
-###Ma liseuse Cybook ne s'allume pas.
+###Ma liseuse Cybook ne s'allume pas. Que dois-je faire ?
 Veuillez vérifier que la batterie est bien chargée et bien connectée. Lorsque vous branchez l'appareil à un ordinateur ou à un chargeur USB la diode doit s'allumer orange sur la liseuse Cybook.
 
 Vous pouvez également utiliser le bouton « reset » :
