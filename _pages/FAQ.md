@@ -26,8 +26,6 @@ title: Foire Aux Questions
 
 ####[La remise de 5 % des libraires s’applique-t-elle sur les e-books ?](/faq-achat/#remise-libraires)
 
-<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
-
 ##[Compte client](/faq-comptes/)
 
 ####[Mes identifiants de compte client du site du libraire sont-ils valables sur le store de la liseuse ?](/faq-comptes/#identifiants)
@@ -39,8 +37,6 @@ title: Foire Aux Questions
 ####[Qu'est-ce que mon compte Adobe, ou Adobe ID ?](/faq-comptes/#compte-adobe)
 
 ####[Comment vérifier avec quel identifiant Adobe le support a été autorisé ?](/faq-comptes/#identifiant-adobe)
-
-<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 ##[Lecture](/faq-lecture/)
 
@@ -59,8 +55,6 @@ title: Foire Aux Questions
 ####[Puis-je lire mes e-books sur Reader de Sony ?](/faq-lecture/#lire-sony)
 
 ####[Puis-je lire mes e-books sur une liseuse Kobo ?](/faq-lecture/#lire-kobo)
-
-<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 {% include anchor.html id="liseuse" label="Liseuse" %}
 ##[Liseuses](/faq-liseuse/)
@@ -125,15 +119,11 @@ title: Foire Aux Questions
 
 ####[Je ne peux pas voir un fichier que je viens de transférer.](/faq-liseuse/#pas-voir-fichier)
 
-<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
-
 ##[Téléchargement](/faq-telechargement/)
 
 ####[Après avoir acheté un e-book, où puis-je le récupérer ?](/faq-telechargement/#recuperer-ebook)
 
 ####[Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?](/faq-telechargement/#pas-telecharger-ebook)
-
-<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 ##[Les messages d'erreurs les plus courants](/faq-erreurs/)
 
@@ -150,8 +140,6 @@ title: Foire Aux Questions
 ####[E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY](/faq-erreurs/#not-ready)
 
 ####[Error check activation](/faq-erreurs/#error-check-activation)
-
-<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 ##[Autres](/faq-autre/)
 
