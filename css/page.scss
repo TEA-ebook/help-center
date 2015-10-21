@@ -99,6 +99,47 @@ article.page {
   }
 }
 
+article.page .faq{
+  h2{
+    padding: 0.5em 0 0.2em;
+    margin: 0;
+    a{
+      color: tea-color('dark');
+      text-decoration: none;
+    }
+    a:hover{
+      background-color: tea-color('background');
+    }
+  }
+  h3{
+    padding: 0.2em 0 0.1em 1em;
+    margin: 0;
+    a{
+      color: tea-color('secondary');
+      text-decoration: none;
+    }
+    a:hover{
+      background-color: tea-color('background');
+    }
+  }
+  h4{
+    padding: 0.1em 0 0.1em 2em;
+    margin: 0;
+    a{
+      color: tea-color('accent');
+      text-decoration: none;
+    }
+    a::before{
+      content: ">";
+      font-size: 0.8em;
+      margin-right: 0.3em;
+    }
+    a:hover{
+      background-color: tea-color('background');
+    }
+  }
+}
+
 a {
     color: tea-color('accent');
     text-decoration: none;
