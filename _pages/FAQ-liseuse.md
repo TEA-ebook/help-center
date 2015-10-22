@@ -2,6 +2,7 @@
 permalink: "/faq-liseuse/"
 layout: page
 title: Foire Aux Questions - Liseuses
+type: faq
 ---
 
 {% include search_inpage.html %}

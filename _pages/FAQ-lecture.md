@@ -2,6 +2,7 @@
 permalink: "/faq-lecture/"
 layout: page
 title: Foire Aux Questions - Lecture
+type: faq
 ---
 
 {% include search_inpage.html %}

@@ -1,7 +1,8 @@
 ---
 permalink: "/faq-erreurs/"
-layout: faq
+layout: page
 title: Foire Aux Questions - Erreurs courantes
+type: faq
 ---
 
 {% include search_inpage.html %}

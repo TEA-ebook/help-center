@@ -162,4 +162,15 @@ a:hover, a:focus {
   }
 }
 
-
+.back-to-faq{
+  text-align: right;
+  a.btn-default{
+    text-decoration: none;
+  }
+}
+.faq-title{
+  display: flex;
+  h1{
+    flex-grow: 1;
+  }
+}

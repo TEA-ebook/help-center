@@ -2,6 +2,7 @@
 permalink: "/faq-autre/"
 layout: faq
 title: Foire Aux Questions - Autres
+type: faq
 ---
 
 {% include search_inpage.html %}

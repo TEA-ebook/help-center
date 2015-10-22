@@ -2,6 +2,7 @@
 permalink: "/faq-comptes/"
 layout: page
 title: Foire Aux Questions - Comptes client
+type: faq
 ---
 
 {% include search_inpage.html %}

@@ -2,6 +2,7 @@
 permalink: "/faq-telechargement/"
 layout: faq
 title: Foire Aux Questions - Téléchargement
+type: faq
 ---
 
 {% include search_inpage.html %}

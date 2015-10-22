@@ -2,6 +2,7 @@
 permalink: "/faq-achat/"
 layout: page
 title: Foire Aux Questions - Achat
+type: faq
 ---
 
 {% include search_inpage.html %}
