@@ -101,7 +101,7 @@ article.page {
 
 article.page .faq{
   h2{
-    padding: 0.5em 0 0.2em;
+    padding: 1em 0 0.3em;
     margin: 0;
     a{
       color: tea-color('dark');
@@ -112,7 +112,7 @@ article.page .faq{
     }
   }
   h3{
-    padding: 0.2em 0 0.1em 1em;
+    padding: 0.4em 0 0.2em 1em;
     margin: 0;
     a{
       color: tea-color('secondary');
@@ -123,11 +123,12 @@ article.page .faq{
     }
   }
   h4{
-    padding: 0.1em 0 0.1em 2em;
+    padding: 0.2em 0 0.1em 2em;
     margin: 0;
     a{
-      color: tea-color('accent');
+      color: tea-color('foreground');
       text-decoration: none;
+      font-weight: normal;
     }
     a::before{
       content: "–";
