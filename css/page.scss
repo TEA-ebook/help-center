@@ -130,8 +130,7 @@ article.page .faq{
       text-decoration: none;
     }
     a::before{
-      content: ">";
-      font-size: 0.8em;
+      content: "–";
       margin-right: 0.3em;
     }
     a:hover{
