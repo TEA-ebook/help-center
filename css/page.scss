@@ -99,6 +99,47 @@ article.page {
   }
 }
 
+article.page .faq{
+  h2{
+    padding: 1em 0 0.3em;
+    margin: 0;
+    a{
+      color: tea-color('dark');
+      text-decoration: none;
+    }
+    a:hover{
+      background-color: tea-color('background');
+    }
+  }
+  h3{
+    padding: 0.4em 0 0.2em 1em;
+    margin: 0;
+    a{
+      color: tea-color('secondary');
+      text-decoration: none;
+    }
+    a:hover{
+      background-color: tea-color('background');
+    }
+  }
+  h4{
+    padding: 0.2em 0 0.1em 2em;
+    margin: 0;
+    a{
+      color: tea-color('foreground');
+      text-decoration: none;
+      font-weight: normal;
+    }
+    a::before{
+      content: "–";
+      margin-right: 0.3em;
+    }
+    a:hover{
+      background-color: tea-color('background');
+    }
+  }
+}
+
 a {
     color: tea-color('accent');
     text-decoration: none;
@@ -121,4 +162,15 @@ a:hover, a:focus {
   }
 }
 
-
+.back-to-faq{
+  text-align: right;
+  a.btn-default{
+    text-decoration: none;
+  }
+}
+.faq-title{
+  display: flex;
+  h1{
+    flex-grow: 1;
+  }
+}
