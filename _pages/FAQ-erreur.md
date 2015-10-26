@@ -71,6 +71,7 @@ Il s'agit d'un message d'avertissement qui apparaît lors du premier télécharg
 ###Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse
 
 Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de votre liseuse, en suivant les étapes suivantes :
+
     * Depuis la page d'accueil de votre liseuse, ouvrir le menu du bas en appuyant sur les deux traits horizontaux.
     * Sélectionner le navigateur.
     * Appuyer sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse
