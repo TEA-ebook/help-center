@@ -72,12 +72,12 @@ Il s'agit d'un message d'avertissement qui apparaît lors du premier télécharg
 
 Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de votre liseuse, en suivant les étapes suivantes :
 
-    * Depuis la page d'accueil de votre liseuse, ouvrir le menu du bas en appuyant sur les deux traits horizontaux.
-    * Sélectionner le navigateur.
-    * Appuyer sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse
-    * Appuyer ensuite sur "Paramètres", puis sur "Effacer les cookies"
-    * Fermer le navigateur pour revenir à la page d'accueil de votre liseuse.
-    * Ré-essayer alors de vous connecter à votre librairie.
+ * Depuis la page d'accueil de votre liseuse, ouvrir le menu du bas en appuyant sur les deux traits horizontaux.
+ * Sélectionner le navigateur.
+ * Appuyer sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse
+ * Appuyer ensuite sur "Paramètres", puis sur "Effacer les cookies"
+ * Fermer le navigateur pour revenir à la page d'accueil de votre liseuse.
+ * Ré-essayer alors de vous connecter à votre librairie.
 
 {% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
 ###E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY
