@@ -70,20 +70,14 @@ Il s'agit d'un message d'avertissement qui apparaît lors du premier télécharg
 {% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
 ###Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse
 
-1. Supprimer les cookies dans le navigateur :
-    * Ouvrir le menu du bas depuis l'accueil de votre liseuse
-    * Sélectionner le navigateur.
-    * Appuyer sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse.
-    * Appuyer ensuite sur "Paramètres", puis sur "Effacer les cookies".
-    * Essayer alors de vous connecter à votre librairie. Si tout fonctionne bien, vous pouvez vous arrêtez là.
-2. Si vous atterrissez toujours sur une page « 400 Bad Request », testez la méthode suivante : Déconnecter - reconnecter son compte client
-    * Aller dans Paramètres > Comptes et synchronisation > Mon compte client.
-    * Appuyer sur "Se déconnecter", puis sur "Oui" dans la fenêtre de confirmation.
-    * Laisser la liseuse se connecter au wifi si besoin.
-    * Un message de confirmation s'affiche.
-    * Une fois votre compte déconnecté, appuyer sur Connexion.
-    * Remplir le formulaire et appuyer sur Se connecter.
-    * Essayer alors de vous connecter à votre librairie.
+Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de votre liseuse, en suivant les étapes suivantes :
+
+ * Depuis la page d'accueil de votre liseuse, ouvrir le menu du bas en appuyant sur les deux traits horizontaux.
+ * Sélectionner le navigateur.
+ * Appuyer sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse
+ * Appuyer ensuite sur "Paramètres", puis sur "Effacer les cookies"
+ * Fermer le navigateur pour revenir à la page d'accueil de votre liseuse.
+ * Ré-essayer alors de vous connecter à votre librairie.
 
 {% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
 ###E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY
