@@ -1,6 +1,6 @@
 ---
 permalink: "/faq-telechargement/"
-layout: faq
+layout: page
 title: Foire Aux Questions - Téléchargement
 type: faq
 ---
@@ -9,10 +9,27 @@ type: faq
 
 {% include anchor.html id="recuperer-ebook" label="Après avoir acheté un e-book où puis-je le récupérer ?" %}
 ###Après avoir acheté un e-book, où puis-je le récupérer ?
-Les e-books que vous avez achetés sont disponibles en permanence dans votre compte, dans la rubrique « Mes e-books ».
-Cliquez ensuite sur le bouton « Télécharger » pour enregistrer vos e-books sur votre ordinateur.
+**Sur ordinateur**
 
-Sur la liseuse, ils sont également disponibles dans votre compte, rubrique « Mes commandes » ou bien via la fonctionnalité « Mes achats ».
+* [Télécharger son livre sur son ordinateur](/web-ordinateur/#telecharger-ordinateur)
+* [Lire un ebook dans son navigateur](/web-web/#lire-internet)
+
+**Sur la liseuse**
+
+* [Transférer un livre sur sa liseuse Basic 2](/web-basic2/#tranferer-basic2)
+* [Télécharger sur votre liseuse Pocketbook v4 depuis le store liseuse](/web-pbv4/#telecharger-pbv4)
+* [Télécharger sur votre liseuse Pocketbook v5 depuis « mes achats »](/web-pbv5/#telecharger-pbv5)
+
+**Sur tablette/smartphone Android**
+
+* [Télécharger sur son application Android v1](/androidv1-androidv1/#telecharger-android)
+* [Télécharger sur son application Android v2](/androidv2-androidv2/#telecharger-android)
+
+**Sur iPad/iPhone**
+
+* [Télécharger sur l'application iOs](/web-iosv1/#telecharger-ios)
+
+{% include popine-info.html %}
 
 {% include anchor.html id="pas-telecharger-ebook" label="Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?" %}
 ###Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?
@@ -29,6 +46,10 @@ Le bouton « Télécharger » est :
 - absent : la commande a été annulée et le livre n'est pas téléchargeable ;
 - présent : contacter le service client.
 
-<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
+{% include anchor.html id="pas-telecharger-ebook-liseuse" label="Je n’arrive pas à télécharger mon e-book sur ma liseuse ?" %}
+###Je n’arrive pas à télécharger mon e-book sur ma liseuse ?
+**Si vous possèdez une liseuse Pocketbook Touch Lux 2/3, Sense ou Ultra :**
 
-
+* Vérifiez que votre liseuse est bien à jour et effectuez une mise à jour si besoin : [Comment mettre à jour ma liseuse Pocketbook ?](/faq-liseuse/#maj-pb)
+* Assurez-vous que votre compte client est bien enregistré dans la liseuse :
+[Comment vérifier quel compte client est enregistré sur ma liseuse ?](/faq-comptes/#compte-liseuse)

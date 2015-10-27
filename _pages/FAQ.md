@@ -127,6 +127,8 @@ title: Foire Aux Questions
 
 ####[Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?](/faq-telechargement/#pas-telecharger-ebook)
 
+####[Je n’arrive pas à télécharger mon e-book sur ma liseuse ?](/faq-telechargement/#pas-telecharger-ebook-liseuse)
+
 ##[Les messages d'erreurs les plus courants](/faq-erreurs/)
 
 ####[E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER](/faq-erreurs/#fulfilled-another)
