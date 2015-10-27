@@ -29,6 +29,9 @@ Le bouton « Télécharger » est :
 - absent : la commande a été annulée et le livre n'est pas téléchargeable ;
 - présent : contacter le service client.
 
-<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
-
-
+{% include anchor.html id="pas-telecharger-ebook-liseuse" label="Je n’arrive pas à télécharger mon e-book sur ma liseuse ?" %}
+###Je n’arrive pas à télécharger mon e-book sur ma liseuse ?
+**Si vous possèdez une liseuse Pocketbook Touch Lux 2/3, Sense ou Ultra :**
+* Vérifiez que votre liseuse est bien à jour et effectuez une mise à jour si besoin : [Comment mettre à jour ma liseuse Pocketbook ?](/faq-liseuse/#maj-pb)
+* Assurez-vous que votre compte client est bien enregistré dans la liseuse :
+[Comment vérifier quel compte client est enregistré sur ma liseuse ?](/faq-comptes/#compte-liseuse)
