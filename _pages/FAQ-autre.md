@@ -1,6 +1,6 @@
 ---
 permalink: "/faq-autre/"
-layout: faq
+layout: page
 title: Foire Aux Questions - Autres
 type: faq
 ---

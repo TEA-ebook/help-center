@@ -1,6 +1,6 @@
 ---
 permalink: "/faq-telechargement/"
-layout: faq
+layout: page
 title: Foire Aux Questions - Téléchargement
 type: faq
 ---
