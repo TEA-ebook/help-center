@@ -34,6 +34,8 @@ title: Foire Aux Questions
 
 ####[Je veux modifier mon adresse mail ou mon mot de passe dans mon compte. Comment faire ?](/faq-comptes/#modifier-mail)
 
+####[Comment vérifier quel compte client est enregistré sur ma liseuse ?](/faq-comptes/#compte-liseuse)
+
 ####[Qu'est-ce que mon compte Adobe, ou Adobe ID ?](/faq-comptes/#compte-adobe)
 
 ####[Comment vérifier avec quel identifiant Adobe le support a été autorisé ?](/faq-comptes/#identifiant-adobe)

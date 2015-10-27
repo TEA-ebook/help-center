@@ -20,6 +20,16 @@ Les commandes que vous avez passées depuis notre site Internet sont visibles da
 Pour modifier les informations relatives à votre compte, vous devez vous connecter à notre site Internet.
 Cliquez sur Mon compte en haut à droite de la page d'accueil. Saisissez votre adresse mail et votre mot de passe. Vous pouvez ensuite modifier ou compléter vos informations personnelles en cliquant sur « Mes informations personnelles ».
 
+{% include anchor.html id="compte-liseuse" label="Comment vérifier quel compte client est entré sur ma liseuse ?" %}
+###Comment vérifier quel compte client est enregistré sur ma liseuse ?
+
+Sur une liseuse Pocketbook : 
+- Aller dans « Paramètres »
+- Puis dans « Comptes et synchronisation »
+- Et enfin dans « Mon compte client »
+- Si vous êtes connecté, vous voyez apparaître le mail du compte client avec lequel vous êtes enregistré, ainsi que la mention « Se déconnecter »
+- Si vous n'êtes pas connecté, vous voyez apparaître une icône de cadenat ouvert ainsi que la mention « Connexion ». Appuyez sur « Connexion » pour enregistrer votre compte client.
+
 {% include anchor.html id="compte-adobe" label="Qu'est-ce que mon compte Adobe, ou Adobe ID ?" %}
 ###Qu'est-ce que mon compte Adobe, ou Adobe ID ?
 Il s'agit d'un identifiant distinct de votre compte client, qu'il faut créer sur le site web de la société Adobe.
