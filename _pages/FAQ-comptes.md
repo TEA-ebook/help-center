@@ -28,7 +28,7 @@ Sur une liseuse Pocketbook :
 - Puis dans « Comptes et synchronisation »
 - Et enfin dans « Mon compte client »
 - Si vous êtes connecté, vous voyez apparaître le mail du compte client avec lequel vous êtes enregistré, ainsi que la mention « Se déconnecter »
-- Si vous n'êtes pas connecté, vous voyez apparaître une icône de cadenat ouvert ainsi que la mention « Connexion ». Appuyez sur « Connexion » pour enregistrer votre compte client.
+- Si vous n'êtes pas connecté, vous voyez apparaître une icône de cadenas ouvert ainsi que la mention « Connexion ». Appuyez sur « Connexion » pour enregistrer votre compte client.
 
 {% include anchor.html id="compte-adobe" label="Qu'est-ce que mon compte Adobe, ou Adobe ID ?" %}
 ###Qu'est-ce que mon compte Adobe, ou Adobe ID ?
