@@ -40,7 +40,7 @@ Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateu
 * [Ouvrir un fichier `acsm` sur ordinateur](/web-ordinateur/#lire-ordinateur)
 * [Ouvrir un fichier `acsm` sur liseuse](/web-basic2/#tranferer-basic2)
 
-<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre ou Cultura), procédez une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
+<p class="warningtip">Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
 {% include anchor.html id="ebook-incomplet" label="L’e-book est incomplet. Il manque des pages ou des chapitres." %}
 ###L’e-book est incomplet. Il manque des pages ou des chapitres. Que puis-je faire ?
