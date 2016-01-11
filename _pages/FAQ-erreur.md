@@ -10,7 +10,7 @@ type: faq
 {% include anchor.html id="fulfilled-another" label="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
 ###E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER
 
-<p class="warningtip">Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2 ou une application Android (Decitre ou Cultura), faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
+<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre ou Cultura), procédez une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
 Cette erreur indique que le livre a déjà été ouvert avec un identifiant Adobe différent ou bien sans identifiant sur Adobe Digital Editions.
 Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sans identifiant sur un ordinateur.
@@ -23,7 +23,7 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 {% include anchor.html id="request-expired" label="E_ADEPT_REQUEST_EXPIRED" %}
 ###E\_ADEPT\_REQUEST\_EXPIRED
 
-<p class="warningtip">Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2 ou une application Android (Decitre ou Cultura), faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
+<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre ou Cultura), procédez une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
 Cette erreur indique que le fichier `acsm` téléchargé est trop vieux. Les fichiers de licences `acsm` ont une durée de validité limitée (entre 3 et 5 jours). Ils doivent donc être ouvert dans ce laps de temps.
 
@@ -34,7 +34,7 @@ Vous pouvez le vérifier simplement en tapant l'adresse <http://time.is> dans le
 
 Pour modifier les paramètres Date/heure :
 
-* Sur une liseuse Pocketbook :
+* Sur une liseuse TEA (ou Pocketbook) :
     * Aller dans « Paramètres ».
     * Puis dans « Date et heure ».
     * Vérifier que le fuseau horaire est bien celui de Paris.
@@ -44,9 +44,9 @@ Pour modifier les paramètres Date/heure :
 {% include anchor.html id="livre-abime-protege" label="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
 ###Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)
 
-<p class="warningtip">Si vous possédez une liseuse Pocketbook Sense ou TouchLux 2, faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
+<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre ou Cultura), procédez une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
-Cette erreur apparaît quand un livre protégé est ouvert avec le mauvais ou sans identifiant Adobe.
+Cette erreur apparaît quand un livre protégé est ouvert avec un mauvais ou sans identifiant Adobe.
 Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sans identifiant sur un ordinateur.
 
 * Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
@@ -57,18 +57,18 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 {% include anchor.html id="protege-adobe-DRM" label="Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil..." %}
 ###Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil...
 
-<p class="warningtip">Si vous possèdez une liseuse Pocketbook Sense ou TouchLux 2 ou une application Android (Decitre ou Cultura), faites une mise à jour afin de ne plus avoir à utiliser le compte Adobe.</p>
+<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre ou Cultura), procédez une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
 Il s'agit d'un message d'avertissement qui apparaît lors du premier téléchargement ou de la première ouverture d'un livre protégé, si vous n'avez pas autorisé votre appareil avec votre identifiant Adobe.
 
 * Il faut d'abord créer un compte Adobe sur le [site d'Adobe](https://adobeid-na1.services.adobe.com/renga-idprovider/pages/create_account?client_id=adobedotcom2&callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fadobedotcom2%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526api%253Dauthorize%26scope%3Dcreative_cloud%252CAdobeID%252Copenid%252Cgnav%252Cread_organizations%252Cadditional_info.projectedProductContext%252Csao.ACOM_CLOUD_STORAGE%252Csao.stock%252Csao.cce_private&client_redirect=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fredirect%2Fadobedotcom2%3Fclient_redirect%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526api%253Dauthorize&denied_callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fdenied%2Fadobedotcom2%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526api%253Dauthorize%26response_type%3Dtoken%26scope%3Dcreative_cloud%252CAdobeID%252Copenid%252Cgnav%252Cread_organizations%252Cadditional_info.projectedProductContext%252Csao.ACOM_CLOUD_STORAGE%252Csao.stock%252Csao.cce_private&display=web_v2&locale=fr_FR&relay=26c0f864-18d4-422c-8048-1f1d5fe0039b&flow=true&flow_type=token&dc=false&eu=false&idp_flow_type=login) depuis un ordinateur (ou une tablette).
 * Suivre les instructions à l'ouverture du livre :
     * Connecter le wifi
-    * Entrer le compte Adobe
+    * Renseigner le compte Adobe
     * Activer l'appareil
 
 {% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
-###Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse
+###Erreur : « 400 Bad Request » à l'ouverture de la Librairie ou de Mes Achats sur liseuse
 
 Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de votre liseuse, en suivant les étapes suivantes :
 
@@ -82,7 +82,7 @@ Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de 
 {% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
 ###E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY
 
-Cette erreur indique que vous ne pouvez pas changer l'autorisation ADE de votre PC, même après une autorisation SANS ID.
+Cette erreur indique que vous ne pouvez pas changer l'autorisation Adobe de votre PC, même après une autorisation SANS ID.
 Il faut donc retirer manuellement l'autorisation de l'ordinateur.
 
 * Mac :
@@ -94,6 +94,8 @@ Il faut donc retirer manuellement l'autorisation de l'ordinateur.
     2. Taper "regedit" dans la boite de dialogue et taper sur Entrée.
     3. Localiser la clé suivante "HKEY_CURRENT_USER>Software>Adobe>Digital Editions" et supprimer le dossier complet (faire un clic droit dessus et cliquer sur "Supprimer").
     4. Localiser aussi HKEY_CURRENT_USER>Software>Adobe>Adept et supprimer le dossier complet.
+
+<p class="warningtip">Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>   
 
 {% include anchor.html id="error-check-activation" label="Error check activation" %}
 ###Error check activation
@@ -140,3 +142,5 @@ Les versions 4.0.0 et 4.0.1 d'Adobe Digital Editions génèrent régulièrement 
     1. Dans le finder : Dans l'onglet "Aller", sélectionner "Aller au dossier"
     2. Taper : ~/Library/Application Support/Adobe/Digital Editions et déplacer le fichier activation.dat dans la corbeille.
     3. Ré-autoriser Adobe Digital Editions avec votre identifiant Adobe.
+
+<p class="warningtip">Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>   
