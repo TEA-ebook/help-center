@@ -10,7 +10,7 @@ type: faq
 {% include anchor.html id="fulfilled-another" label="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
 ###E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER
 
-<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre ou Cultura), procédez une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
+<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
 Cette erreur indique que le livre a déjà été ouvert avec un identifiant Adobe différent ou bien sans identifiant sur Adobe Digital Editions.
 Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sans identifiant sur un ordinateur.
@@ -23,7 +23,7 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 {% include anchor.html id="request-expired" label="E_ADEPT_REQUEST_EXPIRED" %}
 ###E\_ADEPT\_REQUEST\_EXPIRED
 
-<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre ou Cultura), procédez une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
+<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
 Cette erreur indique que le fichier `acsm` téléchargé est trop vieux. Les fichiers de licences `acsm` ont une durée de validité limitée (entre 3 et 5 jours). Ils doivent donc être ouvert dans ce laps de temps.
 
@@ -44,7 +44,7 @@ Pour modifier les paramètres Date/heure :
 {% include anchor.html id="livre-abime-protege" label="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
 ###Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)
 
-<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre ou Cultura), procédez une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
+<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
 Cette erreur apparaît quand un livre protégé est ouvert avec un mauvais ou sans identifiant Adobe.
 Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sans identifiant sur un ordinateur.
@@ -57,7 +57,7 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 {% include anchor.html id="protege-adobe-DRM" label="Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil..." %}
 ###Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil...
 
-<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre ou Cultura), procédez une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
+<p class="warningtip">Si vous possédez une liseuse Pocketbook TouchLux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
 Il s'agit d'un message d'avertissement qui apparaît lors du premier téléchargement ou de la première ouverture d'un livre protégé, si vous n'avez pas autorisé votre appareil avec votre identifiant Adobe.
 
