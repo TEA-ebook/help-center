@@ -19,7 +19,7 @@ Elles intègrent aussi le plus souvent un navigateur Internet (accès en Wifi).
 **Tablette / Tablette multimédia / Tablette tactile (Android et iOS)**
 Les tablettes tactiles permettent d'acheter et de lire des livres numériques, mais elles ont d'autres fonctionnalités que la seule lecture d'e-book.
 Pour lire des livres numériques sur une tablette, il faut installer au préalable une application de lecture qui permet d'ouvrir un livre, de prendre des notes et d'organiser sa bibliothèque.
-Certaines applications permettent également de se connecter directement à la Librairie en ligne pour acheter des livres numériques.
+Certaines applications permettent également de se connecter directement à une librairie en ligne pour acheter des livres numériques.
 
 {% include anchor.html id="pas-ouvrir-ebook" label="Je n’arrive pas à ouvrir mon e-book." %}
 ###Je n’arrive pas à ouvrir mon e-book. Que puis-je faire ?
