@@ -37,13 +37,12 @@ Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inf�
 
 {% include anchor.html id="combien-livres-stocker" label="Combien de livres puis-je stocker ?" %}
 ###Combien de livres puis-je stocker ?
-Pour les liseuses Cybook, la capacité interne est de 2 Go, ce qui représente environ 2 000 livres de taille standard.
-Pour les liseuses Pocketbook, la capacité interne est de 4 Go, soit environ 4 000 livres.
+Pour les liseuses TEA (ou Pocketbook), la capacité interne est de 4 Go, soit environ 4 000 livres.
 Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 Go en insérant une carte mémoire dans la fente prévue à cet effet.
 
 {% include anchor.html id="carteSD-liseuse" label="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
 ###Quel type de carte SD dois-je utiliser avec ma liseuse ?
-Les liseuses Cybook ou Pocketbook supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
+Les liseuses TEA (ou Pocketbook) supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
 
 {% include anchor.html id="perdre-livres-maj" label="Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?" %}
 ###Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?
@@ -62,15 +61,16 @@ Dans votre liseuse, rendez-vous dans *Paramètres > À propos de l'appareil > Lo
 La version du logiciel apparaît sous la forme suivante : T623.4.4.893
 
 * La lettre T indique s'il s'agit d'un logiciel spécifique TEA. (Si vous avez une autre lettre (W), il s'agit d'un logiciel générique Pocketbook.)
-* Les trois premiers chiffres (623) indiquent le modèle de la liseuse.
+* Les trois premiers chiffres indiquent le modèle de la liseuse.
+  - 626 : Touch Lux 2 ou Touch Lux 3 ;
+  - 650 : Ultra ;
   - 614 : Basic 2 ;
   - 623 : Touch Lux ;
   - 624 : Basic Touch ;
-  - 626 : Touch Lux 2 ;
   - 630 : Sense ;
   - 640 : Aqua ;
   - 840 : InkPad.
-* Les autres chiffres (4.4.893) indiquent la version du logiciel. S'ils commencent par 4, alors il s'agit d'un logiciel v4, et s'ils commencent par 5 alors il s'agit un logiciel v5.
+* Les autres chiffres indiquent la version du logiciel. S'ils commencent par 4, alors il s'agit d'un logiciel v4, et s'ils commencent par 5 alors il s'agit un logiciel v5.
 
 {% include anchor.html id="etageres-favoris" label="Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?" %}
 ###Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?
@@ -97,7 +97,7 @@ Pour supprimer une étagère, il faut choisir le mode « étagère », puis fa
 - Une fenêtre de confirmation apparait. Appuyez sur « Oui ».
 
 Cette manipulation est adaptée pour la suppression d'un ou quelques livres.
-Si vous souhaitez en supprimer un plus grand nombre, il est préférable de passer par le PC en connectant la liseuse et en utilisant ADE ou l'explorateur de fichiers.
+Si vous souhaitez en supprimer un plus grand nombre, il est préférable de passer par le PC en connectant la liseuse et en utilisant l'explorateur de fichiers.
 
 {% include anchor.html id="langue-menu" label="Comment régler la langue du menu ?" %}
 ###Comment régler la langue du menu ?
@@ -108,7 +108,7 @@ Si vous souhaitez en supprimer un plus grand nombre, il est préférable de pass
 Vous avez aussi la possibilité de choisir la disposition de votre clavier virtuel ou les dictionnaires disponibles.
 
 {% include anchor.html id="maj-pb" label="Comment mettre à jour ma liseuse Pocketbook ?" %}
-###Comment mettre à jour ma liseuse Pocketbook ?
+###Comment mettre à jour ma liseuse TEA (ou Pocketbook) ?
 
 - Version 4 : aller dans Paramètres > À propos de l'appareil > Logiciel
 - Version 5 : aller dans Paramètres > Logiciel.
@@ -153,7 +153,7 @@ Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/
   - Logo pour la mise hors tension de l'appareil 
 
 {% include anchor.html id="pocketbook-bloque" label="Ma liseuse Pocketbook est bloquée sur une page, que dois-je faire ?" %}
-###Ma liseuse Pocketbook est bloquée sur une page, que dois-je faire ?
+###Ma liseuse TEA (ou Pocketbook) est bloquée sur une page, que dois-je faire ?
 Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.
 Mettez-la en charge. S'il ne se passe toujours rien, contactez le service client.
 
