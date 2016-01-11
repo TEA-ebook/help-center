@@ -91,7 +91,7 @@ Le format ePub Fixed Layout est un nouveau format apportant un meilleur confort 
 ###Quelles sont les protections présentes sur un e-book ?
 **Contenu protégé**
 Il s'agit d'un livre protégé par une mesure technique de protection mise en place pour préserver les droits des œuvres numériques. Le fichier est crypté grâce à l'insertion d'informations codées.
-Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse Pocketbook, application Android et iOs), ce cryptage reste totalement invisible.
+Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse TEA ou liseuse Pocketbook compatible, application Android et iOs), ce cryptage reste totalement invisible.
 Par contre, si vous souhaitez sortir de cet environnment, le livre vous sera fourni sous DRM (Digital Right Management) ACS4 (Adobe Content Server 4) dite DRM Adobe ou Adobe DRM.
 
 **Tatouage numérique / Watermarking / Marquage**
