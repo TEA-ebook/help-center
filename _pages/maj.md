@@ -1,28 +1,30 @@
 ---
 permalink: "/maj/"
 layout: page
-title: Mettre à jour sa liseuse Pocketbook
+title: Mettre à jour ma liseuse TEA/Pocketbook
 ---
 
 <p class="protip">
-    <span class="title">Pourquoi mettre à jour régulièrement votre liseuse ?</span><br />
-    Pour disposer en permanence de la version logicielle la plus récente, ce qui permet d’optimiser les performances et d’apporter de nouvelles fonctionnalités à votre liseuse.
+    <span class="title">Pourquoi mettre à jour régulièrement ma liseuse ?</span><br />
+    Pour disposer en permanence de la version logicielle la plus récente, ce qui permet d’optimiser les performances et d’apporter de nouvelles fonctionnalités à mon appareil.
 </p>
 
-{% include anchor.html id="version-logiciel" label="Quelle est la version de mon logiciel ?" %}
-##Quelle est la version de mon logiciel ?
+{% include anchor.html id="version-logiciel" label="Quelle est la version du logiciel installé sur ma liseuse ?" %}
+##Quelle est la version du logiciel installé sur ma liseuse ?
 
-Pour savoir quelle est la version du logiciel installé sur votre liseuse, il vous suffit d'observer la page d'accueil.
+La page d'accueil de la liseuse permet de voir quel logiciel est installé.
 
 <table class="table table-bordered" style="text-align:center">
     <tr>
-        <th>Version 4 :</th>
-        <th>Version 5 :</th>
+        <th><a href="#maj4">Version 4 :</a></th>
+        <th><a href="#maj5">Version 5 :</a></th>
     </tr>
     <tr>
-        <td><img src="/images/index-info-3.jpg" alt=""></td>
-        <td><img src="/images/index-info-5.jpg" alt=""></td>    </tr>
+        <td><a href="#maj4"><img src="/images/index-info-3.jpg" alt=""></a></td>
+        <td><a href="#maj5"><img src="/images/index-info-5.jpg" alt=""></a></td>    </tr>
 </table>
+
+L'information précise se trouve dans Paramètres > À propos de l'appareil > Logiciel > Version du logiciel ou Paramètres > Logiciel > Version du logiciel.
 
 {% include anchor.html id="maj4" label="Mise à jour depuis la version 4" %}
 ##Mise à jour depuis la version 4
@@ -38,7 +40,7 @@ Pour savoir quelle est la version du logiciel installé sur votre liseuse, il vo
 - La mise à jour est ensuite appliquée. Elle peut durer plusieurs minutes, ne l'interrompez pas.
 - La liseuse redémarre ensuite, pour finaliser la mise à jour.
 
-Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/Off correspondant à « Mise à jour automatique ». La liseuse recherchera automatiquement s'il y a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
+Nous vous conseillons d'activer les mises à jour automatiques en appuyant sur le bouton On/Off correspondant à « Mise à jour automatique ». La liseuse recherchera automatiquement s'il y a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
 
 {% include anchor.html id="maj5" label="Mise à jour depuis la version 5" %}
 ##Mise à jour depuis la version 5
@@ -60,7 +62,7 @@ Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/
 
 - La mise à jour est ensuite appliquée. Elle peut durer plusieurs minutes, ne l'interrompez pas.
 
-![](/images/majv5-4.jpg)
+![](/images/majv5-5.jpg)
 
 - La liseuse redémarre ensuite, pour finaliser la mise à jour.
 
