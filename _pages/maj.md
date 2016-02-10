@@ -106,7 +106,7 @@ Touch Lux 2 PocketBook, Sense PocketBook, Touch Lux 3 TEA & Ultra TEA.
 - **Correction sur la gestion des prises de notes dans le mode lecture**
 - **Correction sur la gestion du zoom en mode lecture** : Évite les changements de page fréquents
 
-###Amélioration de l'expérience d'utilisation
+###Amélioration de l'expérience d'utilisation
 - **Amélioration de la gestion des PDF en mode lecture** : Les PDF avec de nombreuses images sont ouverts plus rapidement.
 - **Mise à disposition d'un nouveau guide d'utilisation numérique pour les Touch Lux 2, Touch Lux 3 TEA et Ultra TEA**
 - **Nouvelles traductions** : de nombreuses traductions ont été réalisées ou modifiées pour permettre une meilleure compréhension des fonctionnalités par l'utilisateur.
@@ -126,7 +126,7 @@ Touch Lux 2 PocketBook, Sense PocketBook, Touch Lux 3 TEA & Ultra TEA.
 - **Augmentation de la vitesse par 2 des indexations de fichiers dans la bibliothèque**
 - **Interprétation des couvertures plus efficace dans la bibliothèque** : Rend plus confortable la navigation dans l'application.
 
-###Autres améliorations
+###Autres améliorations
 - **Amélioration de la connexion aux réseaux WPA­2 Entreprise**
 - **Amélioration de la réactivité des pages web**
 - **Amélioration des performances du navigateur web**
