@@ -122,4 +122,4 @@ Vous pouvez trouver cette information sur la fiche technique de la fiche produit
 
 ![Fiche technique : protection](/images/decouvrir-lecture-numerique-2.jpg)
 
-<p class="warningtip">Vous pourrez également remarquer au moment du téléchargement qu’un fichier e-book non protégé a l’extension « .pdf » ou « .epub » selon son format, alors qu’<strong>un fichier protégé par Adobe DRM a l’extension « .acsm »>/strong>. Pour le lire vous devez disposer d'<a href="/web-ordinateur/#installer-adobe-digital-edition">un compte personnel ID Adobe</a>.</p>
+<p class="warningtip">Vous pourrez également remarquer au moment du téléchargement qu’un fichier e-book non protégé a l’extension « .pdf » ou « .epub » selon son format, alors qu’<strong>un fichier protégé par Adobe DRM a l’extension « .acsm »</strong>. Pour le lire vous devez disposer d'<a href="/web-ordinateur/#installer-adobe-digital-edition">un compte personnel ID Adobe</a>.</p>
