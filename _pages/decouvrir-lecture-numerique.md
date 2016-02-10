@@ -50,7 +50,7 @@ Sur notre librairie numérique, nous commercialisons les e-books tels qu'ils son
 <p class="warningtip"><span class="title">Format propriétaire : </span>Certains formats sont dits propriétaires, c’est-à-dire que les fichiers ont un format spécifique ne pouvant être lus que sur un seul type de support. C’est par exemple le cas des formats .azw pour Amazon qui ne peuvent être lus que sur des Kindle. **Nous garantissons des formats ouverts et non propriétaires pour assurer l'intéropérabilité.**
 </p>
 
-<p class="warningtip"><span class="title">"Format" .acsm : </span>Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. Il s'agit d'un ichier de licence qui vous permettra de télécharger votre livre.L’installation d’Adobe Digital Editions est obligatoire pour les lire et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions](/usage-lire/#sur-un-ordinateur)
+<p class="warningtip"><span class="title">"Format" .acsm : </span>Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. Il s'agit d'un ichier de licence qui vous permettra de télécharger votre livre. L’installation d’Adobe Digital Editions est obligatoire pour les lire et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions](/web-ordinateur/#installer-adobe-digital-edition)
 </p>
 
 {% include anchor.html id="choisir-format-ebook" label="Quel format choisir entre le PDF et l’ePub ?" %}
@@ -112,7 +112,7 @@ Lorsque vous achetez un livre numérique, vous achetez un droit de lecture. Vous
 Afin de protéger ces droits d’auteur, dans certains cas les éditeurs utilisent des protections.
 Il existe deux types de protections : les DRM et le watermarking (ou « tatouage numérique »).
 
-**DRM** est l'acronyme de *Digital Rights Management* (« Gestion des Droits Numériques » en français). La DRM la plus répandue pour les e-books est la protection Adobe DRM. C’est celle qui est apposée sur certains fichiers numériques que nous commercialisons. Ces DRM sont apposées *via* un chiffrement du fichier ePub ou PDF (appelé .acsm, lisible et transférable par [Adobe Digital Editions](/usage-lire/#sur-un-ordinateur)) *via* un compte personnel ID Adobe. Elles constituent une protection qui vous empêche de transmettre l’e-book à d’autres utilisateurs mais également de transférer votre e-book sur plus de 6 supports de lecture différents.
+**DRM** est l'acronyme de *Digital Rights Management* (« Gestion des Droits Numériques » en français). La DRM la plus répandue pour les e-books est la protection Adobe DRM. C’est celle qui est apposée sur certains fichiers numériques que nous commercialisons. Ces DRM sont apposées *via* un chiffrement du fichier ePub ou PDF (appelé .acsm, lisible et transférable par [Adobe Digital Editions](web-ordinateur/#installer-adobe-digital-edition) *via* un compte personnel ID Adobe. Elles constituent une protection qui vous empêche de transmettre l’e-book à d’autres utilisateurs mais également de transférer votre e-book sur plus de 6 supports de lecture différents.
 
 Le **watermarking**, contrairement aux DRM, ne limite pas techniquement l’utilisateur. C’est un tatouage numérique mis en place par les éditeurs sur certains titres afin de vérifier la traçabilité de l’e-book en y enregistrant les coordonnées de l’acheteur.
 
@@ -122,4 +122,4 @@ Vous pouvez trouver cette information sur la fiche technique de la fiche produit
 
 ![Fiche technique : protection](/images/decouvrir-lecture-numerique-2.jpg)
 
-<p class="warningtip">Vous pourrez également remarquer au moment du téléchargement qu’un fichier e-book non protégé a l’extension « .pdf » ou « .epub » selon son format, alors qu’**un fichier protégé par Adobe DRM a l’extension « .acsm »**. Pour le lire vous devez disposer d'[un compte personnel ID Adobe](/usage-lire/#sur-un-ordinateur).</p>
+<p class="warningtip">Vous pourrez également remarquer au moment du téléchargement qu’un fichier e-book non protégé a l’extension « .pdf » ou « .epub » selon son format, alors qu’**un fichier protégé par Adobe DRM a l’extension « .acsm »**. Pour le lire vous devez disposer d'[un compte personnel ID Adobe](/web-ordinateur/#installer-adobe-digital-edition).</p>
