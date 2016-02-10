@@ -50,7 +50,7 @@ Sur notre librairie numérique, nous commercialisons les e-books tels qu'ils son
 <p class="warningtip"><span class="title">Format propriétaire : </span>Certains formats sont dits propriétaires, c’est-à-dire que les fichiers ont un format spécifique ne pouvant être lus que sur un seul type de support. C’est par exemple le cas des formats .azw pour Amazon qui ne peuvent être lus que sur des Kindle. **Nous garantissons des formats ouverts et non propriétaires pour assurer l'intéropérabilité.**
 </p>
 
-<p class="warningtip"><span class="title">"Format" .acsm : </span>Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. Il s'agit d'un ichier de licence qui vous permettra de télécharger votre livre. L’installation d’Adobe Digital Editions est obligatoire pour les lire et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant : [Adobe Digital Editions](/web-ordinateur/#installer-adobe-digital-edition)
+<p class="warningtip"><span class="title">"Format" .acsm : </span>Vous téléchargez un fichier .acsm, lorsque les ePub et PDF sont protégés par Adobe DRM. Il s'agit d'un ichier de licence qui vous permettra de télécharger votre livre. L’installation d’Adobe Digital Editions est obligatoire pour les lire et les transférer. Pour savoir comment installer et utiliser Adobe Digital Editions, cliquez sur le lien suivant :<a href="/web-ordinateur/#installer-adobe-digital-edition"> Adobe Digital Editions </a>
 </p>
 
 {% include anchor.html id="choisir-format-ebook" label="Quel format choisir entre le PDF et l’ePub ?" %}
