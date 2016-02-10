@@ -76,7 +76,7 @@ Touch Lux 2 PocketBook, Sense PocketBook, Touch Lux 3 TEA & Ultra TEA.
 
 ###Nouveautés
 
-- **Connexion depuis la phase d'initialisation** : Lorsque vous connectez votre compte client lors de la phase d'initialisation de la liseuse, ou sur "Mes Achats", votre compte est directement enregistré dans votre librairie intégré. Plus besoin de le saisir à deux reprises.
+- **Connexion depuis la phase d'initialisation** : Lorsque vous connectez votre compte client lors de la phase d'initialisation de la liseuse, ou sur "Mes Achats", votre compte est directement enregistré dans votre librairie intégrée. Plus besoin de le saisir à deux reprises.
 - **Police pour dyslexiques** : La police Open Dyslexic est disponible et permet une meilleure lisibilité des textes pour les personnes souffrant de dyslexie.
 
 <table class="table table-bordered" style="text-align:center">
@@ -103,7 +103,7 @@ Touch Lux 2 PocketBook, Sense PocketBook, Touch Lux 3 TEA & Ultra TEA.
 
 - **Correction réalisée sur la duplication des réseaux WiFi**
 - **Correction sur les modes de tri "Tous" de la bibliothèque pour les titres d'ebooks commençant avec une lettre accentuée**
-- **Correction sur la gestion des prises de note dans le mode lecture**
+- **Correction sur la gestion des prises de notes dans le mode lecture**
 - **Correction sur la gestion du zoom en mode lecture** : Évite les changements de page fréquents
 
 ###Améliorations de l'expérience d'utilisation
