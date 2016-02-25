@@ -29,6 +29,10 @@ L'information précise se trouve dans Paramètres > À propos de l'appareil > Lo
 {% include anchor.html id="maj4" label="Mise à jour depuis la version 4" %}
 ##Mise à jour depuis la version 4
 
+<p class="protip">
+    <span class="title">Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour</span>
+</p>
+
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/jNXMBA56iw8" %}
 
 - Aller dans Paramètres > À propos de l'appareil > Logiciel.
@@ -44,6 +48,10 @@ Nous vous conseillons d'activer les mises à jour automatiques en appuyant sur l
 
 {% include anchor.html id="maj5" label="Mise à jour depuis la version 5" %}
 ##Mise à jour depuis la version 5
+
+<p class="protip">
+    <span class="title">Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour</span>
+</p>
 
 - Aller dans Paramètres > Logiciel.
 - Appuyer sur Mise à jour du logiciel.
