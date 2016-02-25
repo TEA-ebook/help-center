@@ -30,7 +30,7 @@ L'information précise se trouve dans Paramètres > À propos de l'appareil > Lo
 ##Mise à jour depuis la version 4
 
 <p class="protip">
-    <span class="title">Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour</span>
+    <span class="title">Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</span>
 </p>
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/jNXMBA56iw8" %}
@@ -50,7 +50,7 @@ Nous vous conseillons d'activer les mises à jour automatiques en appuyant sur l
 ##Mise à jour depuis la version 5
 
 <p class="protip">
-    <span class="title">Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour</span>
+    <span class="title">Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</span>
 </p>
 
 - Aller dans Paramètres > Logiciel.
