@@ -69,31 +69,35 @@ title: Foire Aux Questions
 
 ####[Où peut-on voir le niveau de la batterie ?](/faq-liseuse/#niveau-batterie)
 
-####[Quels sont les formats supportés par ma liseuse ?](/faq-liseuse/#format-supporte)
+
+
+###[Liseuses TEA (ou Pocketbook)](/faq-liseuse/#Pocketbook)
 
 ####[Combien de livres puis-je stocker ?](/faq-liseuse/#combien-livres-stocker)
 
 ####[Quel type de carte SD dois-je utiliser avec ma liseuse ?](/faq-liseuse/#carteSD-liseuse)
 
-####[Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?](/faq-liseuse/#perdre-livres-maj)
+####[Quels sont les formats supportés par ma liseuse TEA (ou Pocketbook) ?](/faq-liseuse/#format-supporte)
 
-###[Liseuses Pocketbook](/faq-liseuse/#Pocketbook)
+####[Comment mettre à jour ma liseuse TEA (ou Pocketbook) ?](/faq-liseuse/#maj-pb)
+
+####[Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?](/faq-liseuse/#maj-liseuse-freeze)
+
+####[Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?](/faq-liseuse/#perdre-livres-maj)
 
 ####[Comment puis-je connaître la version du logiciel de ma liseuse ?](/faq-liseuse/#version-logiciel-liseuse)
 
-####[Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?](/faq-liseuse/#etageres-favoris)
+####[Comment gérer mes étagères et mettre un livre en favori dans le logiciel v5 ?](/faq-liseuse/#etageres-favoris)
 
 ####[Comment supprimer des livres de la liseuse ?](/faq-liseuse/#supprimer-livres-liseuses)
 
 ####[Comment régler la langue du menu ?](/faq-liseuse/#langue-menu)
 
-####[Comment mettre à jour ma liseuse Pocketbook ?](/faq-liseuse/#maj-pb)
-
 ####[Comment afficher l'heure ou le niveau de batterie en mode lecture ?](/faq-liseuse/#affichage-mode-lecture)
 
 ####[Est-ce que je peux personnaliser mon écran de démarrage ou de mise hors tension ?](/faq-liseuse/#ecran-hors-tension)
 
-####[Ma liseuse Pocketbook est bloquée sur une page, que dois-je faire ?](/faq-liseuse/#pocketbook-bloque)
+####[Ma liseuse TEA (ou Pocketbook) est bloquée sur une page, que dois-je faire ?](/faq-liseuse/#pocketbook-bloque)
 
 ###[Liseuses Cybook](/faq-liseuse/#liseuse-cybook)
 
