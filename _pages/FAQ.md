@@ -79,7 +79,7 @@ title: Foire Aux Questions
 
 ####[Quels sont les formats supportés par ma liseuse TEA (ou Pocketbook) ?](/faq-liseuse/#format-supporte)
 
-####[Comment mettre à jour ma liseuse TEA (ou Pocketbook) ?](/faq-liseuse/#maj-pb)
+####[Comment mettre à jour ma liseuse TEA (ou Pocketbook) ?](/faq-liseuse/#maj-liseuse)
 
 ####[Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?](/faq-liseuse/#maj-liseuse-freeze)
 
