@@ -27,13 +27,10 @@ Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la cart
 ###Où peut-on voir le niveau de la batterie ?
 Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inférieur ou supérieur droit de l'écran de votre liseuse.
 
-{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse ?" %}
-###Quels sont les formats supportés par ma liseuse ?
+<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
-- Formats d’ebooks supportés :
-  - Pour les Cybook et les Pocketbook : ePub, PDF, Adobe® DRM, HTML, TXT, FB2.
-  - Pour les Pocketbook uniquement : FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
-- Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
+{% include anchor.html id="Pocketbook" label="Liseuses Pocketbook" %}
+##Liseuses TEA (ou Pocketbook)
 
 {% include anchor.html id="combien-livres-stocker" label="Combien de livres puis-je stocker ?" %}
 ###Combien de livres puis-je stocker ?
@@ -44,14 +41,24 @@ Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 G
 ###Quel type de carte SD dois-je utiliser avec ma liseuse ?
 Les liseuses TEA (ou Pocketbook) supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
 
+{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse ?" %}
+###Quels sont les formats supportés par ma liseuse TEA (ou Pocketbook)?
+
+- Formats d’ebooks supportés par les liseuses TEA (ou Pocketbook) : ePub, PDF, Adobe® DRM, HTML, TXT, FB2, FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
+- Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
+
+{% include anchor.html id="maj-liseuse" label="Comment mettre à jour ma liseuse ?" %}
+###Comment mettre à jour ma liseuse ?
+Pour en savoir plus sur les mises à jours disponibles sur votre liseuse TEA (ou Pocketbook), consultez <a href="http://aide.tea-ebook.com/maj/#maj5">la page dédiée</a>.
+
+{% include anchor.html id="maj-liseuse-freeze" label="Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?" %}
+###Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?
+Ce type de problème peut arriver lorsque la liseuse n’était pas assez chargée au moment du lancement de la mise à jour.
+Essayez de laisser la batterie de la liseuse se charger pendant toute une nuit, et appuyer sur le bouton ON/OFF pendant quelques secondes le lendemain matin pour redémarrer votre liseuse.
+
 {% include anchor.html id="perdre-livres-maj" label="Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?" %}
 ###Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?
 Vous ne perdrez pas vos documents ou vos livres quand vous mettrez à jour votre liseuse. C’est seulement l’opportunité pour votre appareil de gagner de nouvelles fonctionnalités.
-
-<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
-
-{% include anchor.html id="Pocketbook" label="Liseuses Pocketbook" %}
-##Liseuses Pocketbook
 
 {% include anchor.html id="version-logiciel-liseuse" label="Comment puis-je connaître la version du logiciel de ma liseuse ?" %}
 ###Comment puis-je connaître la version du logiciel de ma liseuse ?
@@ -106,21 +113,6 @@ Si vous souhaitez en supprimer un plus grand nombre, il est préférable de pass
 - Appuyez sur la langue de votre choix.
 
 Vous avez aussi la possibilité de choisir la disposition de votre clavier virtuel ou les dictionnaires disponibles.
-
-{% include anchor.html id="maj-pb" label="Comment mettre à jour ma liseuse Pocketbook ?" %}
-###Comment mettre à jour ma liseuse TEA (ou Pocketbook) ?
-
-- Version 4 : aller dans Paramètres > À propos de l'appareil > Logiciel
-- Version 5 : aller dans Paramètres > Logiciel.
-- Appuyer sur "Mise à jour du logiciel".
-- Connectez votre liseuse au réseau Wi-Fi, tel que proposé.
-- Une fenêtre s'affiche, demandant de télécharger et d'installer la mise à jour.
-- Appuyez sur « Oui ».
-- Le téléchargement de la nouvelle version commence. (Le temps de téléchargement peut-être relativement long (~20 minutes) suivant le type de mise à jour. Laissez le téléchargement se poursuivre jusqu'au bout. En cas d'interruption, recommencez la démarche, le téléchargement reprendra où il s'est arrêté.)
-- La mise à jour est ensuite appliquée. Elle peut durer plusieurs minutes, ne l'interrompez pas.
-- La liseuse redémarre ensuite, pour finaliser la mise à jour.
-
-Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/Off correspondant à « Mise à jour automatique ». La liseuse recherchera automatiquement s'il y a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
 
 {% include anchor.html id="affichage-mode-lecture" label="Comment afficher l'heure ou le niveau de batterie en mode lecture ?" %}
 ###Comment afficher l'heure ou le niveau de batterie en mode lecture ?
