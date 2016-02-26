@@ -27,8 +27,6 @@ Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la cart
 ###Où peut-on voir le niveau de la batterie ?
 Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inférieur ou supérieur droit de l'écran de votre liseuse.
 
-<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
-
 {% include anchor.html id="Pocketbook" label="Liseuses Pocketbook" %}
 ##Liseuses TEA (ou Pocketbook)
 
@@ -105,6 +103,8 @@ Pour supprimer une étagère, il faut choisir le mode « étagère », puis fa
 
 Cette manipulation est adaptée pour la suppression d'un ou quelques livres.
 Si vous souhaitez en supprimer un plus grand nombre, il est préférable de passer par le PC en connectant la liseuse et en utilisant l'explorateur de fichiers.
+
+<p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 {% include anchor.html id="langue-menu" label="Comment régler la langue du menu ?" %}
 ###Comment régler la langue du menu ?
