@@ -1,4 +1,4 @@
-<p class="protip">Afin de profiter des dernières fonctionnalités de votre liseuse, il est recommandé de maintenir sa liseuse à jour. <a href="/FAQ/#maj-pb">En savoir plus…</a></p>
+<p class="protip">Afin de profiter des dernières fonctionnalités de votre liseuse, il est recommandé de maintenir sa liseuse à jour. <a href="/maj">En savoir plus…</a></p>
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/9UO-n02Tdko" %}
 
@@ -42,7 +42,7 @@ Renseignez votre Adobe ID (ou identifiant adobe / adresse mail ) ainsi que votre
 
 L’activation de votre liseuse est à présent terminée. Félicitations !
 
-##Utiliser votre liseuse Pocketbook v5
+##Utiliser votre liseuse TEA (ou Pocketbook) v5
 
 Découvrez la sélection d’ebooks et extraits offerts présents dans la bibliothèque.
 
