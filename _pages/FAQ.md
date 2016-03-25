@@ -99,32 +99,6 @@ title: Foire Aux Questions
 
 ####[Ma liseuse TEA (ou Pocketbook) est bloquée sur une page, que dois-je faire ?](/faq-liseuse/#pocketbook-bloque)
 
-###[Liseuses Cybook](/faq-liseuse/#liseuse-cybook)
-
-####[Comment régler la langue du menu ?](/faq-liseuse/#langue-menu-cybook)
-
-####[Comment supprimer des livres de ma liseuse Cybook ?](/faq-liseuse/#supprimer-livres-cybook)
-
-####[Quelle doit-être la couleur de la diode ?](/faq-liseuse/#couleur-diode)
-
-####[La diode clignote lorsque j'allume ma liseuse Cybook. Que dois-je faire ?](/faq-liseuse/#diode-clignote)
-
-####[Est-ce que je peux personnaliser mes économiseurs d’écran ?](/faq-liseuse/#personnaliser-economiseurs-ecran)
-
-####[Où trouver sur ma liseuse Cybook la mise à jour en vigueur ?](/faq-liseuse/#maj-cybook)
-
-####[Qu'est-ce que « Boo Reader » ?](/faq-liseuse/#boo-reader)
-
-####[Est-ce que des logiciels ou des programmes supplémentaires peuvent être installés sur ma liseuse Cybook ?](/faq-liseuse/#programmes-supplementaires)
-
-####[Ma liseuse Cybook est bloquée sur une page, que dois-je faire ?](/faq-liseuse/#cybook-bloque)
-
-####[Comment faire un « reset » avec la liseuse Cybook ?](/faq-liseuse/#reset-cybook)
-
-####[Ma liseuse Cybook ne s'allume pas. Que dois-je faire ?](/faq-liseuse/#cybook-allume-pas)
-
-####[Je ne peux pas voir un fichier que je viens de transférer.](/faq-liseuse/#pas-voir-fichier)
-
 ##[Téléchargement](/faq-telechargement/)
 
 ####[Après avoir acheté un e-book, où puis-je le récupérer ?](/faq-telechargement/#recuperer-ebook)
