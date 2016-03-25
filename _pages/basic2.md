@@ -1,12 +1,8 @@
 ---
-permalink: "/web-basic2/"
+permalink: "/basic2/"
 layout: page
 title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook Basic 2
 ---
-
-{% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
-##Acheter un ebook sur Internet
-{% include acheter-ordinateur.md %}
 
 {% include anchor.html id="installer-adobe-digital-edition" label="Installer Adobe Digital Éditions" %}
 ##Installer Adobe Digital Éditions

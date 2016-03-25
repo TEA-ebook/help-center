@@ -28,21 +28,9 @@ Connectez-vous en cliquant dans les champs proposés et en renseignant l’adres
 
 Si vous n’avez pas de compte chez nous, cliquez sur « Créer un compte » puis renseignez votre adresse mail ainsi qu’un mot de passe. Nous vous demandons de confirmer votre mot de passe. Pour ne pas vous tromper, vous pouvez vérifier votre mot de passe en cliquant sur l’œil à droite des champs « Mot de passe ». Cliquez ensuite sur « Créer un compte ».
 
-###Compte Adobe
-
-{% include creation-compte-Adobe.md %}
-
-{% include youtube-embedded-video.html url="https://www.youtube.com/embed/7xzUpRbXn40" %}
-
-La connexion au compte Adobe vous permet de lire les ebooks protégés par Adobe DRM. S’identifier directement lors de l’initialisation vous permettra de limiter les risques de blocage lors de vos futurs achats.
-
-Renseignez votre Adobe ID (ou identifiant adobe / adresse mail ) ainsi que votre mot de passe et cliquez sur « Activez ».
-
-![](/images/support-liseuse-6.jpg)
-
 L’activation de votre liseuse est à présent terminée. Félicitations !
 
-##Utiliser votre liseuse TEA (ou Pocketbook) v5
+##Utiliser votre liseuse TEA
 
 Découvrez la sélection d’ebooks et extraits offerts présents dans la bibliothèque.
 

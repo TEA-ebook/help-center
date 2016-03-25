@@ -1,12 +1,8 @@
 ---
-permalink: "/web-ordinateur/"
+permalink: "/ordinateur/"
 layout: page
-title: Acheter un ebook sur Internet et le lire sur son ordinateur
+title: Télécharger et lire un ebook sur son ordinateur
 ---
-
-{% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
-##Acheter un ebook sur Internet
-{% include acheter-ordinateur.md %}
 
 {% include anchor.html id="installer-adobe-digital-edition" label="Installer Adobe Digital Éditions" %}
 ##Installer Adobe Digital Éditions
