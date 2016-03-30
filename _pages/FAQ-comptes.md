@@ -40,6 +40,47 @@ Pour créer votre compte Adobe, rendez-vous sur le lien suivant avec un navigate
 
 Pensez à bien conserver vos identifiant et mot de passe, vous devrez les saisir sur le(s) support(s) de lecture de votre choix afin de les autoriser et d'ainsi pouvoir lire vos e-books protégés par Adobe DRM.
 
+{% include anchor.html id="identifiant-adobe" label="Comment enregistrer un identifiant Adobe sur mon support ?" %}
+###Compte Adobe
+
+{% include creation-compte-Adobe.md %}
+
+####Sur un ordinateur
+Dans le menu d'Adobe Digital Editions, allez dans Aide > Autorisation de l'ordinateur. 
+
+![](/images/support-ordinateur-9.png)
+
+Dans le champ « Fournisseur d'eBook », choisissez « Adobe ID ». Puis tapez l'email et le mot de passe de votre compte Adobe et cliquez sur « Autorisez ».
+
+![](/images/support-ordinateur-10.png)
+
+![](/images/support-ordinateur-11.png)
+
+Une fois l'ordinateur autorisé, cliquez sur « OK ».
+
+<p class="warningtip">Dans les deux cas, vous <strong>ne devez pas</strong> cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</p>
+
+####Sur une liseuse TEA
+{% include youtube-embedded-video.html url="https://www.youtube.com/embed/7xzUpRbXn40" %}
+
+La connexion au compte Adobe vous permet de lire les ebooks protégés par Adobe DRM. S’identifier directement lors de l’initialisation vous permettra de limiter les risques de blocage lors de vos futurs achats.
+
+Renseignez votre Adobe ID (ou identifiant adobe / adresse mail ) ainsi que votre mot de passe et cliquez sur « Activez ».
+
+![](/images/support-liseuse-6.jpg)
+
+###Sur l'application Android v2
+
+Pour activer votre compte Adobe, vous devez vous rendre dans le menu en appuyant sur l'icône « hamburger » en haut à gauche. Puis appuyez sur « Adobe DRM ».
+
+![](/images/support-tablette2-4.png)
+
+Renseignez ensuite les identifiants Adobe que vous avez créé précédemment.
+
+![](/images/support-tablette2-5.png)
+
+![](/images/support-tablette2-6.png)
+
 {% include anchor.html id="identifiant-adobe" label="Comment vérifier avec quel identifiant Adobe le support a été autorisé ?" %}
 ###Comment vérifier avec quel identifiant Adobe le support a été autorisé ?
 

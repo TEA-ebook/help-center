@@ -26,21 +26,3 @@ Pour vous connecter à votre compte client, il vous suffit d'appuyer sur l'icôn
 ![](/images/support-tablette2-3.png)
 
 <p class="warningtip">Le compte client que vous enregistrez doit être le même que celui utilisé sur le site web de votre libraire ou la librairie de votre liseuse.</p>
-
-{% include anchor.html id="creation-compte-adobe" label="Création du compte Adobe" %}
-###Création du compte Adobe
-{% include creation-compte-Adobe.md %}
-
-{% include anchor.html id="activation-compte-adobe" label="Activation du compte Adobe dans l'application Android v1" %}
-###Activation du compte Adobe dans l'application Android v1
-
-Pour activer votre compte Adobe, vous devez vous rendre dans le menu en appuyant sur l'icône « hamburger » en haut à gauche. Puis appuyez sur « Adobe DRM ».
-
-![](/images/support-tablette2-4.png)
-
-Renseignez ensuite les identifiants Adobe que vous avez créé précédemment.
-
-![](/images/support-tablette2-5.png)
-
-![](/images/support-tablette2-6.png)
-

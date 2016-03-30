@@ -27,3 +27,5 @@ Cliquez sur le bouton « Lire » et votre livre s'ouvre dans votre navigateur 
 4. Progression de la lecture.
 
 ![](/images/lire-web-2.png)
+
+Si vous souhaitez tout de même télécharger votre livre pour le lire sur votre ordinateur, rendez-vous à la [page suivante](/ordinateur/)
