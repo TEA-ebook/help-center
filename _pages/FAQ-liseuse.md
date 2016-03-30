@@ -27,7 +27,7 @@ Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la cart
 ###Où peut-on voir le niveau de la batterie ?
 Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inférieur ou supérieur droit de l'écran de votre liseuse.
 
-{% include anchor.html id="Pocketbook" label="Liseuses Pocketbook" %}
+{% include anchor.html id="Pocketbook" label="Liseuses TEA (ou Pocketbook)" %}
 ##Liseuses TEA (ou Pocketbook)
 
 {% include anchor.html id="combien-livres-stocker" label="Combien de livres puis-je stocker ?" %}
@@ -39,8 +39,8 @@ Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 G
 ###Quel type de carte SD dois-je utiliser avec ma liseuse ?
 Les liseuses TEA (ou Pocketbook) supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
 
-{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse ?" %}
-###Quels sont les formats supportés par ma liseuse TEA (ou Pocketbook)?
+{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse  TEA (ou Pocketbook) ?" %}
+###Quels sont les formats supportés par ma liseuse TEA (ou Pocketbook) ?
 
 - Formats d’ebooks supportés par les liseuses TEA (ou Pocketbook) : ePub, PDF, Adobe® DRM, HTML, TXT, FB2, FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
 - Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.

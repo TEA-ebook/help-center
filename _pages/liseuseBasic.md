@@ -1,5 +1,5 @@
 ---
-permalink: "/basic2/"
+permalink: "/liseuseBasic/"
 layout: page
 title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook Basic 2
 ---

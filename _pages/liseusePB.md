@@ -1,7 +1,7 @@
 ---
 permalink: "/liseusePB/"
 layout: page
-title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook v4
+title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook
 ---
 
 {% include anchor.html id="initialiser-liseusePB" label="Initialiser votre liseuse Pocketbook" %}

@@ -11,14 +11,14 @@ type: faq
 ###Après avoir acheté un e-book, où puis-je le récupérer ?
 **Sur ordinateur**
 
-* [Télécharger son livre sur son ordinateur](/web-ordinateur/#telecharger-ordinateur)
+* [Télécharger son livre sur son ordinateur](/ordinateur/#telecharger-ordinateur)
 * [Lire un ebook dans son navigateur](/web-web/#lire-internet)
 
 **Sur la liseuse**
 
-* [Transférer un livre sur sa liseuse Basic 2](/web-basic2/#tranferer-basic2)
-* [Télécharger sur votre liseuse Pocketbook v4 depuis le store liseuse](/web-pbv4/#telecharger-pbv4)
-* [Télécharger sur votre liseuse Pocketbook v5 depuis « mes achats »](/web-pbv5/#telecharger-pbv5)
+* [Transférer un livre sur sa liseuse Basic 2](/liseuseBasic/#tranferer-basic2)
+* [Télécharger sur votre liseuse Pocketbook depuis le store liseuse](/liseusePB/#telecharger-store-liseuse)
+* [Télécharger sur votre liseuse TEA depuis « mes achats »](/web-liseuseTEA/#telecharger-liseuseTEA
 
 **Sur tablette/smartphone Android**
 
