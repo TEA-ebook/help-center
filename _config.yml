@@ -2,7 +2,7 @@
 # Jekyll Settings
 #
 include: ['_pages']
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions:
     - tables
