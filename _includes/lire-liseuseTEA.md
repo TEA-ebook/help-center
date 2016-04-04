@@ -1,4 +1,5 @@
 {% include anchor.html id="bibliotheque-numerique-5" label="La bibliothèque numérique" %}
+
 ###La bibliothèque numérique
 
 La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de titres disponibles hors connexion après leur téléchargement.
@@ -55,6 +56,7 @@ Un moteur de recherche est disponible dans la bibliothèque pour retrouver vos l
 ![](/images/lire-liseuse-Pocketbook-F5-7.jpg)
 
 {% include anchor.html id="lecture-liseuse-5" label="La lecture sur liseuse" %}
+
 ###La lecture sur liseuse
 
 ####Les fonctionnalités de lecture
@@ -96,6 +98,7 @@ Par défaut, il suffit de maintenir longtemps le bouton physique « Menu » ap
 ![](/images/lire-liseuse-Pocketbook-F5-10.jpg)
 
 {% include anchor.html id="dictionnaire-embarque-5" label="Dictionnaire embarqué" %}
+
 ###Dictionnaire embarqué :
 
 Chaque liseuse TEA (ou PocketBook) v5 a un dictionnaire embarqué. Pour l’activer il vous suffit d’ouvrir le menu en mode lecture, de cliquer sur « Dictionnaire » puis de cliquer sur la partie du texte que vous recherchez. Une définition apparaîtra dans une fenêtre en bas de page.

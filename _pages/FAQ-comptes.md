@@ -8,22 +8,30 @@ type: faq
 {% include search_inpage.html %}
 
 {% include anchor.html id="identifiants" label="Mes identifiants de compte client du site du libraire sont-ils valables sur le store de la liseuse ?" %}
+
 ###Mes identifiants de compte client du site du libraire sont-ils valables dans la Librairie de la liseuse ?
+
 Oui, vos identifiants sont les mêmes que sur notre site internet. Il vous suffit de saisir votre adresse mail et votre mot de passe pour vous connecter depuis la liseuse.
 
 {% include anchor.html id="commandes-visible" label="Mes commandes passées depuis votre site internet sont-elles visibles dans mon compte depuis la boutique de la liseuse ?" %}
+
 ###Mes commandes passées depuis votre site internet sont-elles visibles dans mon compte depuis la Librairie de la liseuse ?
+
 Les commandes que vous avez passées depuis notre site Internet sont visibles dans votre compte de la liseuse et inversemment.
 
 {% include anchor.html id="modifier-mail" label="Je veux modifier mon adresse mail ou mon mot de passe dans mon compte. Comment faire ?" %}
+
 ###Je veux modifier mon adresse mail ou mon mot de passe dans mon compte. Comment faire ?
-Pour modifier les informations relatives à votre compte, vous devez vous connecter à notre site Internet.
+
+Pour modifier les informations relatives à votre compte, vous devez vous connecter à notre site Internet.  
 Cliquez sur Mon compte en haut à droite de la page d'accueil. Saisissez votre adresse mail et votre mot de passe. Vous pouvez ensuite modifier ou compléter vos informations personnelles en cliquant sur « Mes informations personnelles ».
 
 {% include anchor.html id="compte-liseuse" label="Comment vérifier quel compte client est entré sur ma liseuse ?" %}
+
 ###Comment vérifier quel compte client est enregistré sur ma liseuse ?
 
-Sur une liseuse TEA (ou Pocketbook) : 
+Sur une liseuse TEA (ou Pocketbook) :
+
 - Aller dans « Paramètres »
 - Puis dans « Comptes et synchronisation »
 - Et enfin dans « Mon compte client »
@@ -31,7 +39,9 @@ Sur une liseuse TEA (ou Pocketbook) :
 - Si vous n'êtes pas connecté, vous voyez apparaître une icône de cadenas ouvert ainsi que la mention « Connexion ». Appuyez sur « Connexion » pour enregistrer votre compte client.
 
 {% include anchor.html id="compte-adobe" label="Qu'est-ce que mon compte Adobe, ou Adobe ID ?" %}
+
 ###Qu'est-ce que mon compte Adobe, ou Adobe ID ?
+
 Il s'agit d'un identifiant distinct de votre compte client, qu'il faut créer gratuitement sur le site web de la société Adobe.
 
 L'enregistrement du compte Adobe sur votre ordinateur est nécessaire si vous souhaitez lire des livres protégés par la DRM Adobe sur votre ordinateur, ou si vous souhaitez transférer des livres au contenu protégé sur certains supports.
@@ -41,11 +51,13 @@ Pour créer votre compte Adobe, rendez-vous sur le lien suivant avec un navigate
 Pensez à bien conserver vos identifiant et mot de passe, vous devrez les saisir sur le(s) support(s) de lecture de votre choix afin de les autoriser et d'ainsi pouvoir lire vos e-books protégés par Adobe DRM.
 
 {% include anchor.html id="identifiant-adobe" label="Comment enregistrer un identifiant Adobe sur mon support ?" %}
+
 ###Compte Adobe
 
 {% include creation-compte-Adobe.md %}
 
 ####Sur un ordinateur
+
 Dans le menu d'Adobe Digital Editions, allez dans Aide > Autorisation de l'ordinateur. 
 
 ![](/images/support-ordinateur-9.png)
@@ -61,6 +73,7 @@ Une fois l'ordinateur autorisé, cliquez sur « OK ».
 <p class="warningtip">Dans les deux cas, vous <strong>ne devez pas</strong> cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</p>
 
 ####Sur une liseuse TEA
+
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/7xzUpRbXn40" %}
 
 La connexion au compte Adobe vous permet de lire les ebooks protégés par Adobe DRM. S’identifier directement lors de l’initialisation vous permettra de limiter les risques de blocage lors de vos futurs achats.
@@ -82,6 +95,7 @@ Renseignez ensuite les identifiants Adobe que vous avez créé précédemment.
 ![](/images/support-tablette2-6.png)
 
 {% include anchor.html id="identifiant-adobe" label="Comment vérifier avec quel identifiant Adobe le support a été autorisé ?" %}
+
 ###Comment vérifier avec quel identifiant Adobe le support a été autorisé ?
 
 * Sur Adobe Digital Editions :

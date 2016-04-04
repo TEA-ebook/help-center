@@ -5,5 +5,5 @@ Remplissez l’ensemble des champs proposés puis cliquez sur « S'inscrire »
 
 ![](/images/creation-compte-Adobe-1.png)
 
-Vous venez de créer votre compte personnel Adobe.
+Vous venez de créer votre compte personnel Adobe.  
 Pensez à bien conserver vos identifiant et mot de passe, vous aurez à les saisir sur le(s) support(s) de lecture de votre choix afin de pouvoir lire vos e-books protégés par Adobe DRM.

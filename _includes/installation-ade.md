@@ -1,6 +1,7 @@
 L'installation d'Adobe Digital Editions est nécessaire si vous souhaitez lire des livres au contenu protégé sur votre ordinateur sans passer par le navigateur, ou si vous souhaitez transférer des livres au contenu protégé sur certains supports.
 
 {% include anchor.html id="telecharger-adobe-digital-edition" label="Télécharger Adobe Digital Editions 4" %}
+
 ###Télécharger Adobe Digital Editions 4
 
 Rendez-vous sur la page [Adobe Digital Editions du site Adobe](http://www.adobe.com/fr/solutions/ebook/digital-editions.html)
@@ -15,6 +16,7 @@ Dans la section « Adobe Digital Editions  4.0.2 – Programmes d'installation
 Cliquez sur « Enregistrer le fichier », puis double-cliquez sur le fichier téléchargé « ADE_4.0_Installer.exe » si vous êtes sur Windows ou sur le fichier « ADE_4.0_Installer.dmg » si vous êtes sur Mac OS. Autorisez le programme à apporter des modifications sur votre ordinateur si cela vous est demandé. 
 
 {% include anchor.html id="installer-adobe-digital-editions" label="Installer Adobe Digital Editions" %}
+
 ###Installer Adobe Digital Editions
 
 ####Sur Windows
@@ -37,6 +39,7 @@ Laissez l’ensemble des cases cochées et cliquez sur « Suivant » puis sur 
 Adobe Digital Editions peut reconnaître une ancienne version d’Adobe sur votre ordinateur ou des fichiers d’e-books. Dans ce cas cliquez sur « Migrer les données ».
 
 ####Sur Mac OS
+
 Cliquez sur « Digital Editions 4.0 Installer.pkg » afin de démarrer l’installation.
 
 ![](/images/support-mac-3.png)
@@ -60,10 +63,11 @@ Puis cliquez sur « Installer » pour lancer l'installation du logiciel.
 ![](/images/support-mac-9.png)
 
 {% include anchor.html id="autoriser-ordinateur-identifiant-adobe" label="Autoriser son ordinateur avec son identifiant Adobe" %}
+
 ###Autoriser son ordinateur avec son identifiant Adobe
 
-{% include anchor.html id="creation-compte-Adobe" label="Création du compte Adobe" %}
 ####Création du compte Adobe
+
 {% include creation-compte-Adobe.md %}
 
 Dans le menu d'Adobe Digital Editions, allez dans Aide > Autorisation de l'ordinateur. 
