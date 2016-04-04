@@ -1,10 +1,10 @@
 {% include anchor.html id="bibliotheque-numerique-4" label="La bibliothèque numérique" %}
 
-###La bibliothèque numérique
+### La bibliothèque numérique
 
 La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de titres disponibles hors connexion après leur téléchargement.
 
-####L'accès à la bibliothèque
+#### L'accès à la bibliothèque
 
 Depuis la page d’accueil de votre PocketBook v4, vous pouvez consulter vos e-books en cliquant sur « Bibliothèque » ou l’icône correspondante.
 
@@ -16,7 +16,7 @@ La bibliothèque de votre liseuse vous permet de d'accèder aux livres présents
 
 Si c’est votre première utilisation de la liseuse PocketBook v4, vous remarquerez qu’une bibliothèque de 10 titres vous est offerte afin que vous commenciez à découvrir votre liseuse et les possibilités de la lecture numérique.
 
-####Les paramètres de la bibliothèque
+#### Les paramètres de la bibliothèque
 
 Vous pouvez modifier les paramètres d'affichage et de tri de la bibliothèque.
 
@@ -50,7 +50,7 @@ Vous pouvez modifier les paramètres d'affichage et de tri de la bibliothèque.
 - Internet ;
 - Carte mémoire.
 
-####Le menu contextuel
+#### Le menu contextuel
 
 Si vous effectuez un toucher long sur l'un des éléments de la bibliothèque, un menu contextuel apparaît.
 
@@ -58,7 +58,7 @@ Si vous effectuez un toucher long sur l'un des éléments de la bibliothèque, u
 
 ![](/images/lire-liseuse-Pocketbook-F4-6.jpg)
 
-####La recherche
+#### La recherche
 
 Un moteur de recherche est disponible dans la bibliothèque pour retrouver vos livres plus rapidement.
 
@@ -66,9 +66,9 @@ Un moteur de recherche est disponible dans la bibliothèque pour retrouver vos l
 
 {% include anchor.html id="lecture-liseuse-4" label="La lecture sur liseuse" %}
 
-###La lecture sur liseuse
+### La lecture sur liseuse
 
-####Les fonctionnalités de lecture
+#### Les fonctionnalités de lecture
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/k9r1v_liSaE" %}
 
@@ -79,7 +79,7 @@ Description des boutons de gauche à droite : Accueil | Précédent | Suivant |
 
 Afin d'accéder au menu des fonctionnalités de votre PocketBook v4, appuyez au centre de l’écran lorsque vous êtes en mode lecture ou sur le bouton physique en bas à droite de votre liseuse. Ensuite cliquez sur le menu en haut à droite de l’écran puis sur « Paramètres ». Vous accéderez à un menu vous permettant de nombreuses actions sur votre texte.
 
-####Les paramètres de lecture
+#### Les paramètres de lecture
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/yH5QLkEZhjY" %}
 
@@ -91,7 +91,7 @@ Afin d’optimiser votre confort de lecture, vous pouvez notamment modifier la p
 
 Vous pouvez également mettre des annotations (signets, surlignages, notes, captures d’écrans…) lors de votre lecture. Pour annoter il vous suffit d’activer le menu puis cliquez sur « Note ». Ceci vous permet de mettre des repères ou simplement de taper des informations supplémentaires sur les textes que vous lisez.
 
-####Activation de l'éclairage frontal :
+#### Activation de l'éclairage frontal :
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/d5XTEk3pWkc" %}
 
@@ -106,7 +106,7 @@ Par défaut, il suffit de maintenir longtemps le bouton physique « Menu » ap
 
 {% include anchor.html id="dictionnaire-embarque-4" label="Dictionnaire embarqué" %}
 
-###Dictionnaire embarqué :
+### Dictionnaire embarqué :
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/g9WEq1k-dSU" %}
 

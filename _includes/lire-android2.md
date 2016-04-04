@@ -1,6 +1,6 @@
 {% include anchor.html id="fonctionnement-bibliotheque" label="Fonctionnement de la bibliothèque" %}
 
-###Fonctionnement de la bibliothèque
+### Fonctionnement de la bibliothèque
 
 ![](/images/lire-tablette2-1.png)
 
@@ -16,7 +16,7 @@
 
 {% include anchor.html id="fonctionnalites-lecture" label="Les fonctionnalités de lecture" %}
 
-###Les fonctionnalités de lecture
+### Les fonctionnalités de lecture
 
 ![](/images/lire-tablette2-2.png)
 

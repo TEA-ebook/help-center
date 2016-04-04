@@ -9,7 +9,7 @@ type: faq
 
 {% include anchor.html id="format-ebook" label="Quel format choisir pour acheter un e-book ?" %}
 
-###Quel format choisir pour acheter un e-book ?
+### Quel format choisir pour acheter un e-book ?
 
 <p class="protip">Pour une lecture optimale, nous vous recommandons d’acheter vos e-books en format ePub. Ce format est en effet le plus adapté à la lecture numérique car il s’adapte aux différents supports de lecture et vous permet de modifier la forme de vos textes avec beaucoup de facilité.</p>
 
@@ -91,7 +91,7 @@ Le format ePub Fixed Layout est un nouveau format apportant un meilleur confort 
 
 {% include anchor.html id="protections-ebook" label="Quelles sont les protections présentes sur un e-book ?" %}
 
-###Quelles sont les protections présentes sur un e-book ?
+### Quelles sont les protections présentes sur un e-book ?
 
 **Contenu protégé**  
 Il s'agit d'un livre protégé par une mesure technique de protection mise en place pour préserver les droits des œuvres numériques. Le fichier est crypté grâce à l'insertion d'informations codées.  
@@ -106,7 +106,7 @@ Un e-book sans protection n'est soumis à aucune limite d'utilisation.
 
 {% include anchor.html id="caracteristique-ebook" label="Quelles sont les caractéristiques de l'e-book que j'achète ?" %}
 
-###Quelles sont les caractéristiques de l'e-book que j'achète ?
+### Quelles sont les caractéristiques de l'e-book que j'achète ?
 
 Chaque e-book possède ses propres caractéristiques dont on peut retrouver le détail dans la fiche technique :
 
@@ -121,7 +121,7 @@ Le taux de « copier-coller » est exprimé en pourcentage ou en nombre de pag
 
 {% include anchor.html id="plusieurs-ebooks" label="Puis-je acheter plusieurs e-books en même temps ?" %}
 
-###Puis-je acheter plusieurs e-books en même temps ?
+### Puis-je acheter plusieurs e-books en même temps ?
 
 Dans un même panier, vous pouvez acheter :
 
@@ -138,32 +138,32 @@ Dans un même panier, vous ne pouvez pas acheter :
 
 {% include anchor.html id="limitation-nombre-ebook" label="Y a-t-il une limitation du nombre de livres par commande sur la liseuse ?" %}
 
-###Y a-t-il une limitation du nombre de livres par commande sur la liseuse ?
+### Y a-t-il une limitation du nombre de livres par commande sur la liseuse ?
 
 Nous vous conseillons de ne pas sélectionner plus de 30 e-books par commande.
 
 {% include anchor.html id="payer-ebook" label="Comment puis-je payer mes e-books ?" %}
 
-###Comment puis-je payer mes e-books ?
+### Comment puis-je payer mes e-books ?
 
 Vous pouvez payer vos e-books par carte bancaire ou e-carte bleue.
 
 {% include anchor.html id="frais-supplementaires" label="Y a-t-il des frais de dossier supplémentaires au prix de l’e-book ?" %}
 
-###Y a-t-il des frais de dossier supplémentaires au prix de l’e-book ?
+### Y a-t-il des frais de dossier supplémentaires au prix de l’e-book ?
 
 Non, lorsque vous achetez un e-book, vous ne payez que le prix de l’e-book. Il n'y a pas de frais de port ou d'autres frais supplémentaires.
 
 {% include anchor.html id="offrir-ebook" label="Puis-je offrir un e-book ?" %}
 
-###Puis-je offrir un e-book ?
+### Puis-je offrir un e-book ?
 
 Pour le moment, il n'est pas possible d'offrir un e-book. 
 Les e-books sont uniquement téléchargeables depuis votre compte client.
 
 {% include anchor.html id="delai-retractation" label="Ai-je un droit / délai de rétractation ?" %}
 
-###Ai-je un droit / délai de rétractation ?
+### Ai-je un droit / délai de rétractation ?
 
 Le remboursement ou l’échange ne sont pas possibles pour une commande de livres numériques.  
 Vous avez accepté les conditions générales de vente en validant votre commande.
@@ -171,6 +171,6 @@ Elles indiquent que le délai de rétractation de 7 jours prévu par l’article
 
 {% include anchor.html id="remise-libraires" label="La remise de 5 % des libraires s’applique-t-elle sur les e-books ?" %}
 
-###La remise de 5 % des libraires s’applique-t-elle sur les e-books ?
+### La remise de 5 % des libraires s’applique-t-elle sur les e-books ?
 
 Les e-books ne bénéficient pas de la remise de 5 %.

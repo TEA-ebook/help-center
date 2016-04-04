@@ -2,7 +2,7 @@
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/9UO-n02Tdko" %}
 
-###Connexion au Wifi
+### Connexion au Wifi
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/UUMT9dvKrG0" %}
 
@@ -18,7 +18,7 @@ Une fenêtre s’ouvre, vous pouvez dès lors renseigner le mot de passe associ�
 
 Lisez et acceptez le contrat de licence.
 
-###Compte client
+### Compte client
 
 La connexion au compte client vous permettra de retrouver, en un clic via la fonctionnalité « Mes achats », l’ensemble des ebooks que vous avez achetés sur notre site et/ou nos applications mobiles.
 
@@ -30,23 +30,23 @@ Si vous n’avez pas de compte chez nous, cliquez sur « Créer un compte » p
 
 L’activation de votre liseuse est à présent terminée. Félicitations !
 
-##Utiliser votre liseuse TEA
+## Utiliser votre liseuse TEA
 
 Découvrez la sélection d’ebooks et extraits offerts présents dans la bibliothèque.
 
 {% include anchor.html id="fonctionnalites-5" label="Fonctionnalités" %}
 
-###Fonctionnalités
+### Fonctionnalités
 
 Diverses fonctionnalités sont accessibles depuis la page d'accueil du logiciel (ces fonctionnalités peuvent différer d'un modèle à l'autre)&nbsp;:
 
-####Directement sur la page d'accueil :
+#### Directement sur la page d'accueil :
 
 - **Bibliothèque** : Retrouvez tous les livres présents sur votre liseuse.
 - **Librairie** : Achetez de nouveaux livres.
 - **Mes achats** : Téléchargez facilement tous vos livres sur votre liseuse.
 
-####Menu du haut :
+#### Menu du haut :
 
 - **wi-Fi** : Connectez-vous à votre réseau Wi-Fi.
 - **Synchroniser** : Synchronisez les différents services de synchronisation (ex : Dropbox).
@@ -55,7 +55,7 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du logiciel 
 - **Rechercher**
 - Réglez la luminosité
 
-####Menu du bas :
+#### Menu du bas :
 
 - **Calculatrice**
 - **Dictionnaire**
@@ -72,7 +72,7 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du logiciel 
 
 {% include anchor.html id="livres-recents-5" label="Les « Livres récents »" %}
 
-###Les « Livres récents »
+### Les « Livres récents »
 
 Un accès rapide à vos dernières lectures vous est proposé *via* les « Livres récents » situés sur la page d’accueil qui remonte les trois derniers livres ouverts.
 En dessous sont recensées vos dernières actions sur la liseuse.

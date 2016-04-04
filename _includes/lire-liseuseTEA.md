@@ -1,10 +1,10 @@
 {% include anchor.html id="bibliotheque-numerique-5" label="La bibliothèque numérique" %}
 
-###La bibliothèque numérique
+### La bibliothèque numérique
 
 La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de titres disponibles hors connexion après leur téléchargement.
 
-####L'accès à la bibliothèque
+#### L'accès à la bibliothèque
 
 Depuis la page d’accueil de votre liseuse TEA (ou PocketBook) v5, vous pouvez consulter vos e-books en cliquant sur « Bibliothèque » ou l’icône correspondante.
 
@@ -16,7 +16,7 @@ La bibliothèque de votre liseuse vous permet d'accéder aux livres présents su
 
 Si c’est votre première utilisation de la liseuse TEA (ou PocketBook) v5, vous remarquerez qu’une bibliothèque de quelques titres vous est offerte afin que vous commenciez à découvrir votre liseuse et les possibilités de la lecture numérique.
 
-####Les paramètres de la bibliothèque
+#### Les paramètres de la bibliothèque
 
 Vous pouvez modifier les paramètres d'affichage et de tri de la bibliothèque.
 
@@ -41,7 +41,7 @@ Vous pouvez aussi effectuer une recherche par mot-clé.
 - Détaillée ;
 - Miniature.
 
-####Le menu contextuel
+#### Le menu contextuel
 
 Si vous effectuez un toucher long sur l'un des éléments de la bibliothèque, un menu contextuel apparaît.
 
@@ -49,7 +49,7 @@ Si vous effectuez un toucher long sur l'un des éléments de la bibliothèque, u
 
 ![](/images/lire-liseuse-Pocketbook-F5-6.jpg)
 
-####La recherche
+#### La recherche
 
 Un moteur de recherche est disponible dans la bibliothèque pour retrouver vos livres plus rapidement.
 
@@ -57,9 +57,9 @@ Un moteur de recherche est disponible dans la bibliothèque pour retrouver vos l
 
 {% include anchor.html id="lecture-liseuse-5" label="La lecture sur liseuse" %}
 
-###La lecture sur liseuse
+### La lecture sur liseuse
 
-####Les fonctionnalités de lecture
+#### Les fonctionnalités de lecture
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/LxRKVw2zJUI" %}
 
@@ -74,7 +74,7 @@ Description des boutons de gauche à droite : Accueil | Précédent | Suivant |
 
 Afin d'accéder au menu des fonctionnalités de votre liseuse TEA (ou PocketBook) v5, appuyez au centre de l’écran lorsque vous êtes en mode lecture ou sur le bouton physique en bas à droite de votre liseuse. Ensuite cliquez sur le menu en haut à droite de l’écran puis sur « Paramètres ». Vous accéderez à un menu vous permettant de nombreuses actions sur votre texte.
 
-####Les paramètres de lecture
+#### Les paramètres de lecture
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/ZMXO3dIqCgM" %}
 
@@ -84,7 +84,7 @@ Afin d’optimiser votre confort de lecture, vous pouvez notamment modifier la p
 
 Vous pouvez également mettre des annotations (signets, surlignages, notes, captures d’écrans…) lors de votre lecture. Pour annoter il vous suffit d’activer le menu puis cliquez sur « Note ». Ceci vous permet de mettre des repères ou simplement de taper des informations supplémentaires sur les textes que vous lisez.
 
-####Activation de l'éclairage frontal :
+#### Activation de l'éclairage frontal :
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/cymDAUwfuPI" %}
 
@@ -99,6 +99,6 @@ Par défaut, il suffit de maintenir longtemps le bouton physique « Menu » ap
 
 {% include anchor.html id="dictionnaire-embarque-5" label="Dictionnaire embarqué" %}
 
-###Dictionnaire embarqué :
+### Dictionnaire embarqué :
 
 Chaque liseuse TEA (ou PocketBook) v5 a un dictionnaire embarqué. Pour l’activer il vous suffit d’ouvrir le menu en mode lecture, de cliquer sur « Dictionnaire » puis de cliquer sur la partie du texte que vous recherchez. Une définition apparaîtra dans une fenêtre en bas de page.

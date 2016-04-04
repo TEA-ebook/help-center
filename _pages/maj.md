@@ -11,7 +11,7 @@ title: Mettre à jour ma liseuse TEA/Pocketbook
 
 {% include anchor.html id="version-logiciel" label="Quelle est la version du logiciel installé sur ma liseuse ?" %}
 
-##Quelle est la version du logiciel installé sur ma liseuse ?
+## Quelle est la version du logiciel installé sur ma liseuse ?
 
 La page d'accueil de la liseuse permet de voir quel logiciel est installé.
 
@@ -29,7 +29,7 @@ L'information précise se trouve dans Paramètres > À propos de l'appareil > Lo
 
 {% include anchor.html id="maj4" label="Mise à jour depuis la version 4" %}
 
-##Mise à jour depuis la version 4
+## Mise à jour depuis la version 4
 
 <p class="protip">
     <span class="title">Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</span>
@@ -50,7 +50,7 @@ Nous vous conseillons d'activer les mises à jour automatiques en appuyant sur l
 
 {% include anchor.html id="maj5" label="Mise à jour depuis la version 5" %}
 
-##Mise à jour depuis la version 5
+## Mise à jour depuis la version 5
 
 <p class="protip">
     <span class="title">Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</span>
@@ -81,13 +81,13 @@ Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/
 
 {% include anchor.html id="logiciel5.9" label="Détails du logiciel 5.9" %}
 
-##Détails du logiciel 5.9
+## Détails du logiciel 5.9
 
-###Liseuses compatibles
+## #Liseuses compatibles
 
 Touch Lux 2 PocketBook, Sense PocketBook, Touch Lux 3 TEA & Ultra TEA.
 
-###Nouveautés
+## #Nouveautés
 
 - **Connexion depuis la phase d'initialisation** : Lorsque vous connectez votre compte client lors de la phase d'initialisation de la liseuse, ou sur "Mes Achats", votre compte est directement enregistré dans votre librairie intégrée. Plus besoin de le saisir à deux reprises.
 - **Police pour dyslexiques** : La police Open Dyslexic est disponible et permet une meilleure lisibilité des textes pour les personnes souffrant de dyslexie.
@@ -100,7 +100,7 @@ Touch Lux 2 PocketBook, Sense PocketBook, Touch Lux 3 TEA & Ultra TEA.
 
 - **Nouvelle gestion de la connexion WiFi** : Il n'est plus nécessaire d'éteindre le Wifi pour économiser de l'énergie. Le module Wifi se met automatiquement en mode économie d'énergie lorsqu'aucune information ne circule via ce réseau.
 
-###Corrections des bugs et des messages d'erreur
+## #Corrections des bugs et des messages d'erreur
 
 - **Stabilisation de l'écran web en fond lorsque l'on active le clavier tactile**
 
@@ -119,7 +119,7 @@ Touch Lux 2 PocketBook, Sense PocketBook, Touch Lux 3 TEA & Ultra TEA.
 - **Correction sur la gestion des prises de notes dans le mode lecture**
 - **Correction sur la gestion du zoom en mode lecture** : Évite les changements de page fréquents
 
-###Amélioration de l'expérience d'utilisation
+## #Amélioration de l'expérience d'utilisation
 
 - **Amélioration de la gestion des PDF en mode lecture** : Les PDF avec de nombreuses images sont ouverts plus rapidement.
 - **Mise à disposition d'un nouveau guide d'utilisation numérique pour les Touch Lux 2, Touch Lux 3 TEA et Ultra TEA**
@@ -140,7 +140,7 @@ Touch Lux 2 PocketBook, Sense PocketBook, Touch Lux 3 TEA & Ultra TEA.
 - **Augmentation de la vitesse par 2 des indexations de fichiers dans la bibliothèque**
 - **Interprétation des couvertures plus efficace dans la bibliothèque** : Rend plus confortable la navigation dans l'application.
 
-###Autres améliorations
+## #Autres améliorations
 
 - **Amélioration de la connexion aux réseaux WPA­2 Entreprise**
 - **Amélioration de la réactivité des pages web**

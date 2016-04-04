@@ -1,6 +1,6 @@
 {% include anchor.html id="validation-panier" label="Validation du panier" %}
 
-###Validation du panier
+### Validation du panier
 
 Accédez à la librairie.
 
@@ -24,7 +24,7 @@ Une fois tous vos achats effectués, sélectionnez « Valider ma commande ».
 
 {% include anchor.html id="identification" label="Identification" %}
 
-###Identification
+### Identification
 
 Si vous avez déjà un compte client : identifiez-vous en saisissant votre adresse e-mail et votre mot de passe.
 
@@ -36,7 +36,7 @@ Si vous n’avez pas de compte client : créez un compte directement via votre 
 
 {% include anchor.html id="paiement" label="Paiement" %}
 
-###Paiement
+### Paiement
 
 Cliquez ensuite sur « J'accepte les CGV* et j'accède au paiement sécurisé » (*CGV : Conditions Générales de Vente).
 
@@ -50,7 +50,7 @@ Remplissez les champs suivants : le N° de la carte, la date d’expiration et 
 
 {% include anchor.html id="telechargement" label="Téléchargement" %}
 
-###Téléchargement
+### Téléchargement
 
 Une fois votre commande terminée, vous accédez à un récapitulatif de vos achats. Vous pourrez alors télécharger votre e-book, en cliquant sur « Télécharger ».
 

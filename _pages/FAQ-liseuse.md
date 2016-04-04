@@ -9,11 +9,11 @@ type: faq
 
 {% include anchor.html id="generalites" label="Généralités" %}
 
-##Généralités
+## Généralités
 
 {% include anchor.html id="recharger-liseuse" label="Comment puis-je recharger ma liseuse ?" %}
 
-###Comment puis-je recharger ma liseuse ?
+### Comment puis-je recharger ma liseuse ?
 
 Pour charger votre liseuse vous devez la connecter à un ordinateur en utilisant le câble fourni avec l'appareil (micro-USB).  
 Vous pouvez également utiliser un chargeur USB. Celui-ci doit avoir les caractéristiques suivantes :
@@ -24,62 +24,62 @@ Vous pouvez également utiliser un chargeur USB. Celui-ci doit avoir les caract�
 
 {% include anchor.html id="batterie-vide" label="Que se passe-t-il si la batterie de ma liseuse se vide complètement ?" %}
 
-###Que se passe-t-il si la batterie de ma liseuse se vide complètement ?
+### Que se passe-t-il si la batterie de ma liseuse se vide complètement ?
 
 Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la carte SD. Vous ne pouvez juste plus utiliser votre liseuse et vous devez donc la mettre en charge. En revanche, vous pouvez parfaitement continuer d’avoir une image ou un texte à l’écran même si l’appareil est déchargé.
 
 {% include anchor.html id="niveau-batterie" label="Où peut-on voir le niveau de la batterie ?" %}
 
-###Où peut-on voir le niveau de la batterie ?
+### Où peut-on voir le niveau de la batterie ?
 
 Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inférieur ou supérieur droit de l'écran de votre liseuse.
 
 {% include anchor.html id="Pocketbook" label="Liseuses TEA (ou Pocketbook)" %}
 
-##Liseuses TEA (ou Pocketbook)
+## Liseuses TEA (ou Pocketbook)
 
 {% include anchor.html id="combien-livres-stocker" label="Combien de livres puis-je stocker ?" %}
 
-###Combien de livres puis-je stocker ?
+### Combien de livres puis-je stocker ?
 
 Pour les liseuses TEA (ou Pocketbook), la capacité interne est de 4 Go, soit environ 4 000 livres.  
 Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 Go en insérant une carte mémoire dans la fente prévue à cet effet.
 
 {% include anchor.html id="carteSD-liseuse" label="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
 
-###Quel type de carte SD dois-je utiliser avec ma liseuse ?
+### Quel type de carte SD dois-je utiliser avec ma liseuse ?
 
 Les liseuses TEA (ou Pocketbook) supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
 
 {% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse  TEA (ou Pocketbook) ?" %}
 
-###Quels sont les formats supportés par ma liseuse TEA (ou Pocketbook) ?
+### Quels sont les formats supportés par ma liseuse TEA (ou Pocketbook) ?
 
 - Formats d’ebooks supportés par les liseuses TEA (ou Pocketbook) : ePub, PDF, Adobe® DRM, HTML, TXT, FB2, FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
 - Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
 
 {% include anchor.html id="maj-liseuse" label="Comment mettre à jour ma liseuse ?" %}
 
-###Comment mettre à jour ma liseuse ?
+### Comment mettre à jour ma liseuse ?
 
 Pour en savoir plus sur les mises à jours disponibles sur votre liseuse TEA (ou Pocketbook), consultez <a href="http://aide.tea-ebook.com/maj/#maj5">la page dédiée</a>.
 
 {% include anchor.html id="maj-liseuse-freeze" label="Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?" %}
 
-###Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?
+### Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?
 
 Ce type de problème peut arriver lorsque la liseuse n’était pas assez chargée au moment du lancement de la mise à jour.  
 Essayez de laisser la batterie de la liseuse se charger pendant toute une nuit, et appuyer sur le bouton ON/OFF pendant quelques secondes le lendemain matin pour redémarrer votre liseuse.
 
 {% include anchor.html id="perdre-livres-maj" label="Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?" %}
 
-###Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?
+### Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?
 
 Vous ne perdrez pas vos documents ou vos livres quand vous mettrez à jour votre liseuse. C’est seulement l’opportunité pour votre appareil de gagner de nouvelles fonctionnalités.
 
 {% include anchor.html id="version-logiciel-liseuse" label="Comment puis-je connaître la version du logiciel de ma liseuse ?" %}
 
-###Comment puis-je connaître la version du logiciel de ma liseuse ?
+### Comment puis-je connaître la version du logiciel de ma liseuse ?
 
 Dans votre liseuse, rendez-vous dans *Paramètres > À propos de l'appareil > Logiciel > Version du logiciel* ou bien dans *Paramètres > Logiciel > Version du logiciel*.
 
@@ -99,7 +99,7 @@ La version du logiciel apparaît sous la forme suivante : T623.4.4.893
 
 {% include anchor.html id="etageres-favoris" label="Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?" %}
 
-###Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?
+### Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?
 
 La version 5 du logiciel de la liseuse introduit un nouveau concept, celui d'étagère, qui permet de trier ses livres.  
 L'étagère « Favoris » est présente par défaut.
@@ -115,7 +115,7 @@ Pour supprimer une étagère, il faut choisir le mode « étagère », puis fa
 
 {% include anchor.html id="supprimer-livres-liseuses" label="Comment supprimer des livres de la liseuse ?" %}
 
-###Comment supprimer des livres de la liseuse ?
+### Comment supprimer des livres de la liseuse ?
 
 - Allez dans bibliothèque.
 - Faites un appui long sur le livre à supprimer.
@@ -130,7 +130,7 @@ Si vous souhaitez en supprimer un plus grand nombre, il est préférable de pass
 
 {% include anchor.html id="langue-menu" label="Comment régler la langue du menu ?" %}
 
-###Comment régler la langue du menu ?
+### Comment régler la langue du menu ?
 
 - Allez dans Paramètres > Langues/Langages > Langue/Langages.
 - Appuyez sur la langue de votre choix.
@@ -139,9 +139,9 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 
 {% include anchor.html id="affichage-mode-lecture" label="Comment afficher l'heure ou le niveau de batterie en mode lecture ?" %}
 
-###Comment afficher l'heure ou le niveau de batterie en mode lecture ?
+### Comment afficher l'heure ou le niveau de batterie en mode lecture ?
 
-####Version 4
+#### Version 4
 
 - Allez dans Paramètres > Paramètres supplémentaires > Configuration de l'écran en mode Lecture.
 - Appuyez ensuite sur les boutons On/Off des éléments que vous souhaitez ou non afficher dans la barre d'état en bas :
@@ -154,16 +154,16 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 
 <p class="warningtip">Vous n'avez la possibilité de n'afficher que 3 ou 4 éléments à la fois dans la barre d'état.</p>
 
-####Version 5
+#### Version 5
 
 - Allez dans Paramètres > Personnalisation
 - Appuyez ensuite sur le bouton On/Off correspondant à Affichage en mode lecture, afin d'afficher ou non la barre d'état en haut.
 
 {% include anchor.html id="ecran-hors-tension" label="Est-ce que je peux personnaliser mon écran de démarrage ou de mise hors tension ?" %}
 
-###Est-ce que je peux personnaliser mon écran de démarrage ou de mise hors tension ?
+### Est-ce que je peux personnaliser mon écran de démarrage ou de mise hors tension ?
 
-####Version 4
+#### Version 4
 
 - Allez dans Applications > Photo.
 - Ouvrez l'image.
@@ -174,11 +174,11 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 
 {% include anchor.html id="pocketbook-bloque" label="Ma liseuse Pocketbook est bloquée sur une page, que dois-je faire ?" %}
 
-###Ma liseuse TEA (ou Pocketbook) est bloquée sur une page, que dois-je faire ?
+### Ma liseuse TEA (ou Pocketbook) est bloquée sur une page, que dois-je faire ?
 
 Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.  
 Mettez-la en charge. S'il ne se passe toujours rien, contactez le service client.
 
-##Liseuse Bookeen
+## Liseuse Bookeen
 
 Si vous possèdez une liseuse Bookeen, vous pouvez vous référer à [l'aide en ligne de Bookeen](https://service.bookeen.com/fr/Knowledgebase/List).

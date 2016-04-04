@@ -9,7 +9,7 @@ type: faq
 
 {% include anchor.html id="support-ebook" label="Sur quels supports puis-je lire un e-book ?" %}
 
-###Sur quels supports puis-je lire un e-book ?
+### Sur quels supports puis-je lire un e-book ?
 
 Les supports / terminaux de lecture désignent de manière générale l'outil grâce auquel on peut lire un e-book.  
 Outre les ordinateurs et les smartphones, il existe :
@@ -25,7 +25,7 @@ Certaines applications permettent également de se connecter directement à une 
 
 {% include anchor.html id="pas-ouvrir-ebook" label="Je n’arrive pas à ouvrir mon e-book." %}
 
-###Je n’arrive pas à ouvrir mon e-book. Que puis-je faire ?
+### Je n’arrive pas à ouvrir mon e-book. Que puis-je faire ?
 
 1. Vérifiez la compatibilité entre le format du e-book que vous avez acheté et le support sur lequel vous essayez de l'ouvrir : [Quel format choisir pour acheter un e-book ?](/faq-achat/#format-ebook)
 2. Vérifiez si l'application de lecture est adaptée à votre support, notamment si la version de l'application est bien compatible avec la version du support.
@@ -38,7 +38,7 @@ Si rien ne fonctionne, contactez votre service client.
 
 {% include anchor.html id="ouvrir-acsm" label="Mon livre est un fichier au format acsm" %}
 
-###Mon e-book est un fichier au format acsm. Comment puis-je l'ouvrir ?
+### Mon e-book est un fichier au format acsm. Comment puis-je l'ouvrir ?
 
 Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateur de télécharger son e-book, lorsque celui-ci est protégé par Adobe DRM.
 
@@ -49,7 +49,7 @@ Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateu
 
 {% include anchor.html id="ebook-incomplet" label="L’e-book est incomplet. Il manque des pages ou des chapitres." %}
 
-###L’e-book est incomplet. Il manque des pages ou des chapitres. Que puis-je faire ?
+### L’e-book est incomplet. Il manque des pages ou des chapitres. Que puis-je faire ?
 
 Certains livres sont vendus soit au chapitre, soit en version intégrale.
 Vérifiez sur la fiche produit du livre que vous avez acheté qu'il s'agit bien du livre complet et non d'un chapitre ou d'un extrait.  
@@ -57,13 +57,13 @@ S'il s'agit bien du livre complet, contactez votre service client.
 
 {% include anchor.html id="lire-ipad" label="Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?" %}
 
-###Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?
+### Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?
 
 Les e-books au format epub et PDF sont lisibles sur iPad, à condition d'avoir téléchargé une application de lecture telle que Bluefire Reader.
 
 {% include anchor.html id="lire-kindle" label="Puis-je lire mes livres sur une liseuse Kindle ?" %}
 
-###Puis-je lire mes e-books sur une liseuse Kindle ?
+### Puis-je lire mes e-books sur une liseuse Kindle ?
 
 Nos e-books sont proposés au format EPUB ou PDF (excepté pour la BD où il s'agit le plus souvent de streaming).  
 La liseuse Kindle ne supporte pas les fichiers EPUB.  
@@ -72,7 +72,7 @@ Certains livres multi-format proposent un format mobipocket, compatible avec la 
 
 {% include anchor.html id="lire-sony" label="Puis-je lire mes livres sur Reader de Sony ?" %}
 
-###Puis-je lire mes e-books sur la liseuse Reader de SONY ?
+### Puis-je lire mes e-books sur la liseuse Reader de SONY ?
 
 Un logiciel complémentaire doit être installé pour transférer vos e-books : le Reader for PC & Mac.  
 Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Reader SONY, téléchargeable gratuitement sur leur site.  
@@ -81,7 +81,7 @@ Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Re
 
 {% include anchor.html id="lire-kobo" label="Puis-je lire mes livres sur une liseuse Kobo ?" %}
 
-###Puis-je lire mes e-books sur une liseuse Kobo ?
+### Puis-je lire mes e-books sur une liseuse Kobo ?
 
 Il est possible de lire ses e-books sur une liseuse Kobo.  
 Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.

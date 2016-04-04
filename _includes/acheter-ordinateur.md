@@ -1,6 +1,6 @@
 {% include anchor.html id="fiche-produit-o" label="Fiche produit" %}
 
-###Fiche produit
+### Fiche produit
 
 Elle vous permet d'accéder à toutes les informations liées au livre, notamment le format (de manière générale, il est conseillé d'acheter ses ebooks au format ePub) et la protection.
 
@@ -8,7 +8,7 @@ Elle vous permet d'accéder à toutes les informations liées au livre, notammen
 
 {% include anchor.html id="validation-panier-o" label="Validation du panier" %}
 
-###Validation du panier
+### Validation du panier
 
 Trouvez l’e-book que vous désirez en vous servant du moteur de recherche ou en cliquant sur l’une des catégories proposées et cliquez sur « Télécharger ». Cliquez ensuite sur « Voir mon panier ».
 
@@ -20,7 +20,7 @@ Pour finir cliquez sur « Valider mon panier ».
 
 {% include anchor.html id="identification-o" label="Identification" %}
 
-###Identification
+### Identification
 
 Identifiez-vous si « Vous avez déjà un compte client ». Sinon créez-vous un compte en enregistrant une adresse e-mail et un mot de passe dans la partie « Vous êtes un nouveau client ? ». Vous devrez par la suite compléter les champs proposés afin de finaliser la création de votre compte client.
 
@@ -30,7 +30,7 @@ Identifiez-vous si « Vous avez déjà un compte client ». Sinon créez-vous 
 
 {% include anchor.html id="paiement-o" label="Paiement" %}
 
-###Paiement
+### Paiement
 
 Cochez les Conditions Générales de Vente en bas à gauche, puis validez votre commande.
 
@@ -42,7 +42,7 @@ Entrez le numéro de votre carte, la date d’expiration de votre carte ainsi qu
 
 {% include anchor.html id="inalisation-commande-o" label="Finalisation de la commande" %}
 
-###Finalisation de la commande
+### Finalisation de la commande
 
 Une fois la commande terminée, vous pouvez retrouver un récapitulatif de votre commande vous permettant de télécharger vos livres et un mail vous est automatiquement envoyé.
 

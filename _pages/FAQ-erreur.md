@@ -9,7 +9,7 @@ type: faq
 
 {% include anchor.html id="fulfilled-another" label="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
 
-###E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER
+### E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER
 
 <p class="warningtip">Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
@@ -23,7 +23,7 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 
 {% include anchor.html id="request-expired" label="E_ADEPT_REQUEST_EXPIRED" %}
 
-###E\_ADEPT\_REQUEST\_EXPIRED
+### E\_ADEPT\_REQUEST\_EXPIRED
 
 <p class="warningtip">Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
@@ -45,7 +45,7 @@ Pour modifier les paramètres Date/heure :
 
 {% include anchor.html id="livre-abime-protege" label="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
 
-###Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)
+### Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)
 
 <p class="warningtip">Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
@@ -59,7 +59,7 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 
 {% include anchor.html id="protege-adobe-DRM" label="Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil..." %}
 
-###Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil...
+### Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil...
 
 <p class="warningtip">Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
@@ -73,7 +73,7 @@ Il s'agit d'un message d'avertissement qui apparaît lors du premier télécharg
 
 {% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
 
-###Erreur : « 400 Bad Request » à l'ouverture de la Librairie ou de Mes Achats sur liseuse
+### Erreur : « 400 Bad Request » à l'ouverture de la Librairie ou de Mes Achats sur liseuse
 
 Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de votre liseuse, en suivant les étapes suivantes :
 
@@ -86,7 +86,7 @@ Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de 
 
 {% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
 
-###E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY
+### E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY
 
 Cette erreur indique que vous ne pouvez pas changer l'autorisation Adobe de votre PC, même après une autorisation SANS ID.  
 Il faut donc retirer manuellement l'autorisation de l'ordinateur.
@@ -105,18 +105,18 @@ Il faut donc retirer manuellement l'autorisation de l'ordinateur.
 
 {% include anchor.html id="error-check-activation" label="Error check activation" %}
 
-###Error check activation
+### Error check activation
 
 Cette erreur indique que l'autorisation de l'ordinateur est invalide ou corrompue.
 
-####Solution 1 :
+#### Solution 1 :
 
 1. Supprimer l'autorisation de l'ordinateur dans Adobe Digital Editions (ctrl + Maj + D sous windows) ou (cmd + Maj + D sous Mac).
 2. Désinstaller Adobe Digital Editions (dans Panneau de configuration > Programmes)
 3. Installer la dernière version d'[Adobe Digital Editions](http://www.adobe.com/fr/solutions/ebook/digital-editions/download.html)
 4. Autoriser l'ordinateur
 
-####Solution 2 :
+#### Solution 2 :
 
 * Autoriser le logiciel dans le pare-feu.
     * Pour le pare-feu de Windows :
@@ -128,11 +128,11 @@ Cette erreur indique que l'autorisation de l'ordinateur est invalide ou corrompu
         6. Double-cliquer sur Adobe Digital Editions dans la liste
         7. Cliquer sur OK
 
-####Solution 3 :
+#### Solution 3 :
 
 Les versions 4.0.0 et 4.0.1 d'Adobe Digital Editions génèrent régulièrement cette erreur. Il est donc conseillé de les mettre à jour avec la version 4.0.3
 
-####Solution 4
+#### Solution 4
 
 * **Windows :**
     1. Ouvrir Adobe Digital Editions.

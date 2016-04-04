@@ -2,7 +2,7 @@ L'installation d'Adobe Digital Editions est nécessaire si vous souhaitez lire d
 
 {% include anchor.html id="telecharger-adobe-digital-edition" label="Télécharger Adobe Digital Editions 4" %}
 
-###Télécharger Adobe Digital Editions 4
+### Télécharger Adobe Digital Editions 4
 
 Rendez-vous sur la page [Adobe Digital Editions du site Adobe](http://www.adobe.com/fr/solutions/ebook/digital-editions.html)
 Puis cliquez sur l'onglet « Télécharger ».
@@ -17,9 +17,9 @@ Cliquez sur « Enregistrer le fichier », puis double-cliquez sur le fichier t
 
 {% include anchor.html id="installer-adobe-digital-editions" label="Installer Adobe Digital Editions" %}
 
-###Installer Adobe Digital Editions
+### Installer Adobe Digital Editions
 
-####Sur Windows
+#### Sur Windows
 Cliquez sur « Exécuter » afin de démarrer l’installation. 
 
 ![](/images/support-ordinateur-4.png)
@@ -38,7 +38,7 @@ Laissez l’ensemble des cases cochées et cliquez sur « Suivant » puis sur 
 
 Adobe Digital Editions peut reconnaître une ancienne version d’Adobe sur votre ordinateur ou des fichiers d’e-books. Dans ce cas cliquez sur « Migrer les données ».
 
-####Sur Mac OS
+#### Sur Mac OS
 
 Cliquez sur « Digital Editions 4.0 Installer.pkg » afin de démarrer l’installation.
 
@@ -64,9 +64,9 @@ Puis cliquez sur « Installer » pour lancer l'installation du logiciel.
 
 {% include anchor.html id="autoriser-ordinateur-identifiant-adobe" label="Autoriser son ordinateur avec son identifiant Adobe" %}
 
-###Autoriser son ordinateur avec son identifiant Adobe
+### Autoriser son ordinateur avec son identifiant Adobe
 
-####Création du compte Adobe
+#### Création du compte Adobe
 
 {% include creation-compte-Adobe.md %}
 

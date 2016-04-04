@@ -9,7 +9,7 @@ type: faq
 
 {% include anchor.html id="recuperer-ebook" label="Après avoir acheté un e-book où puis-je le récupérer ?" %}
 
-###Après avoir acheté un e-book, où puis-je le récupérer ?
+### Après avoir acheté un e-book, où puis-je le récupérer ?
 
 **Sur ordinateur**
 
@@ -35,7 +35,7 @@ type: faq
 
 {% include anchor.html id="pas-telecharger-ebook" label="Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?" %}
 
-###Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?
+### Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?
 
 **La fenêtre de téléchargement de mon navigateur est apparue :**
 
@@ -53,7 +53,7 @@ Le bouton « Télécharger » est :
 
 {% include anchor.html id="pas-telecharger-ebook-liseuse" label="Je n’arrive pas à télécharger mon e-book sur ma liseuse ?" %}
 
-###Je n’arrive pas à télécharger mon e-book sur ma liseuse ?
+### Je n’arrive pas à télécharger mon e-book sur ma liseuse ?
 
 **Si vous possèdez une liseuse Pocketbook Touch Lux 2/3, Sense ou Ultra :**
 
