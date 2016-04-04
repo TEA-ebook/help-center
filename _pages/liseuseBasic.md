@@ -5,15 +5,21 @@ title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook Basic 
 ---
 
 {% include anchor.html id="installer-adobe-digital-edition" label="Installer Adobe Digital Éditions" %}
+
 ##Installer Adobe Digital Éditions
+
 {% include installation-ade.md %}
 
 {% include anchor.html id="telecharger-ordinateur" label="Télécharger son livre sur son ordinateur" %}
+
 ##Télécharger son livre sur son ordinateur
+
 {% include telecharger-ordinateur.md %}
 
 {% include anchor.html id="premiers-pas" label="Faire ses premiers pas sur sa liseuse Pocketbook Basic 2" %}
+
 ##Faire ses premiers pas sur sa liseuse Pocketbook Basic 2
+
 La Pocketbook Basic 2 ne possède pas d'écran tactile, la navigation dans la liseuse se fait donc à l'aide des boutons (pour plus d'information se référer au manuel de la liseuse). Lors du premier démarrage de la liseuse, acceptez le contrat de licence puis paramétrez la date et l'heure.
 
 <p class="warningtip">Il est important de bien vérifier et régler la date et l’heure correctement pour garantir un bon fonctionnement de la liseuse.</p>
@@ -29,6 +35,7 @@ Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synch
 ![](/images/support-basic2-2.jpg)
 
 {% include anchor.html id="tranferer-basic2" label="Transférer un livre sur votre liseuse Basic 2" %}
+
 ##Transférer un livre sur sa liseuse Basic 2
 
 <p class="protip">
@@ -37,7 +44,9 @@ Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synch
 </p>
 
 {% include anchor.html id="ouvrir-livre" label="Ouvrir un livre" %}
+
 ###Ouvrir un livre
+
 {% include ouvrir-livre.md %}
 
 Le transfert d'un ebook depuis ordinateur vers une liseuse se fait grâce à un câble USB.
@@ -69,16 +78,21 @@ Cliquez sur l’e-book que vous voulez transférer et faites un glisser-déposer
 * Vous venez de transférer votre e-book. Félicitations ! 
 
 {% include anchor.html id="lire-basic2" label="Lire son livre sur votre liseuse Basic 2" %}
+
 ##Lire son livre sur sa liseuse Basic 2
+
 Après son transfert, vous pouvez retrouver votre livre dans la bibliothèque de votre liseuse.
 
 {% include anchor.html id="bibliotheque-basic2" label="La bibliothèque numérique" %}
+
 ###La bibliothèque numérique
 
 La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de titres disponibles hors connexion après leur téléchargement.
 
 {% include anchor.html id="acces-bibliotheque-basic2" label="L'accès à la bibliothèque" %}
+
 ####L'accès à la bibliothèque
+
 Depuis la page d’accueil de votre PocketBook Basic 2, vous pouvez consulter vos e-books en vous rendant sur « Bibliothèque ».
 
 La bibliothèque de votre liseuse vous permet d'accéder aux livres présents sur votre liseuse, mais aussi de les ranger et de les organiser comme vous le souhaitez.
@@ -86,6 +100,7 @@ La bibliothèque de votre liseuse vous permet d'accéder aux livres présents su
 ![](/images/support-basic2-3.jpg)
 
 {% include anchor.html id="menu-bibliotheque-basic2" label="Le menu contextuel" %}
+
 ####Le menu contextuel
 
 ![](/images/support-basic2-4.jpg)
@@ -104,7 +119,9 @@ Le menu contextuel, qui apparaît suite à une pression continue sur OK, permet 
 * Rechercher.
 
 {% include anchor.html id="lecture-basic2" label="Fonctionnalités de lecture" %}
+
 ###Fonctionnalités de lecture
+
 Pour ouvrir un livre, appuyez sur OK sur son titre dans la section _Événements récents_ ou dans la Bibliothèque. Si vous avez ouvert un livre auparavant, il sera ouvert à la page à laquelle vous vous êtes arrêté de lire.
 
 Utilisez les touches Précédent/Suivant ou Gauche/droite pour tourner les pages. Une pression continue sur les touches Précédent/Suivant permet de tourner 10 pages à la fois.

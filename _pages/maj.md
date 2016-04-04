@@ -10,6 +10,7 @@ title: Mettre à jour ma liseuse TEA/Pocketbook
 </p>
 
 {% include anchor.html id="version-logiciel" label="Quelle est la version du logiciel installé sur ma liseuse ?" %}
+
 ##Quelle est la version du logiciel installé sur ma liseuse ?
 
 La page d'accueil de la liseuse permet de voir quel logiciel est installé.
@@ -27,6 +28,7 @@ La page d'accueil de la liseuse permet de voir quel logiciel est installé.
 L'information précise se trouve dans Paramètres > À propos de l'appareil > Logiciel > Version du logiciel ou Paramètres > Logiciel > Version du logiciel.
 
 {% include anchor.html id="maj4" label="Mise à jour depuis la version 4" %}
+
 ##Mise à jour depuis la version 4
 
 <p class="protip">
@@ -47,6 +49,7 @@ L'information précise se trouve dans Paramètres > À propos de l'appareil > Lo
 Nous vous conseillons d'activer les mises à jour automatiques en appuyant sur le bouton On/Off correspondant à « Mise à jour automatique ». La liseuse recherchera automatiquement s'il y a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
 
 {% include anchor.html id="maj5" label="Mise à jour depuis la version 5" %}
+
 ##Mise à jour depuis la version 5
 
 <p class="protip">
@@ -77,9 +80,11 @@ Nous vous conseillons d'activer les mises à jour automatiques en appuyant sur l
 Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/Off correspondant à « Mise à jour automatique ». La liseuse recherchera automatiquement s'il y a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
 
 {% include anchor.html id="logiciel5.9" label="Détails du logiciel 5.9" %}
+
 ##Détails du logiciel 5.9
 
 ###Liseuses compatibles
+
 Touch Lux 2 PocketBook, Sense PocketBook, Touch Lux 3 TEA & Ultra TEA.
 
 ###Nouveautés
@@ -115,6 +120,7 @@ Touch Lux 2 PocketBook, Sense PocketBook, Touch Lux 3 TEA & Ultra TEA.
 - **Correction sur la gestion du zoom en mode lecture** : Évite les changements de page fréquents
 
 ###Amélioration de l'expérience d'utilisation
+
 - **Amélioration de la gestion des PDF en mode lecture** : Les PDF avec de nombreuses images sont ouverts plus rapidement.
 - **Mise à disposition d'un nouveau guide d'utilisation numérique pour les Touch Lux 2, Touch Lux 3 TEA et Ultra TEA**
 - **Nouvelles traductions** : de nombreuses traductions ont été réalisées ou modifiées pour permettre une meilleure compréhension des fonctionnalités par l'utilisateur.
@@ -135,6 +141,7 @@ Touch Lux 2 PocketBook, Sense PocketBook, Touch Lux 3 TEA & Ultra TEA.
 - **Interprétation des couvertures plus efficace dans la bibliothèque** : Rend plus confortable la navigation dans l'application.
 
 ###Autres améliorations
+
 - **Amélioration de la connexion aux réseaux WPA­2 Entreprise**
 - **Amélioration de la réactivité des pages web**
 - **Amélioration des performances du navigateur web**

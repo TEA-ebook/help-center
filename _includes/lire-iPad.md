@@ -1,4 +1,5 @@
 {% include anchor.html id="fontionnement-bibliotheque-i" label="Fonctionnement de la bibliothèque" %}
+
 ###Fonctionnement de la bibliothèque
 
 ![](/images/lire-iPad-1.png)
@@ -12,6 +13,7 @@
 7. Recherche
 
 {% include anchor.html id="fonctionnalites-lecture-i" label="Les fonctionnalités de lecture" %}
+
 ###Les fonctionnalités de lecture
 
 ![](/images/lire-iPad-2.png)
@@ -25,17 +27,23 @@
 7. Pagination
 
 {% include anchor.html id="changer-theme-lecture" label="Changer le thème de lecture (confort de lecture)" %}
+
 ####Changer le thème de lecture (confort de lecture)
+
 A quoi ça sert?
 Trois thèmes de lecture différents sont proposés : 
+
 1. Fond blanc, texte noir, 
 2. Fond noir, texte blanc, 
 3. Fond sépia, texte noir 
+
 Vous pouvez choisir un thème suivant l'environnement de lecture en cours. 
 Exemple : pour une lecture confortable en environnement très lumineux, choisissez le thème fond blanc. A l'inverse, pour une lecture en environnement très peu lumineux, choisissez le thème fond noir.
 
 {% include anchor.html id="comment-changer-theme" label="Comment changer le thème" %}
+
 #####Comment changer le thème
+
 Depuis la lecture d'un livre numérique, accédez aux paramètres de lecture :
 
 ![](/images/lire-iPad-3.png)

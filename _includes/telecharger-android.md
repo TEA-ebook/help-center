@@ -1,4 +1,5 @@
 {% include anchor.html id="synchronisation-compte-client-a" label="Synchronisation depuis le compte client" %}
+
 ###Synchronisation depuis le compte client
 
 Votre compte client vous permet de synchroniser vos achats depuis un support vers un autre sans câble.

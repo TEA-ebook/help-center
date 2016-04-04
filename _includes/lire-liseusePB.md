@@ -1,4 +1,5 @@
 {% include anchor.html id="bibliotheque-numerique-4" label="La bibliothèque numérique" %}
+
 ###La bibliothèque numérique
 
 La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de titres disponibles hors connexion après leur téléchargement.
@@ -64,6 +65,7 @@ Un moteur de recherche est disponible dans la bibliothèque pour retrouver vos l
 ![](/images/lire-liseuse-Pocketbook-F4-7.jpg)
 
 {% include anchor.html id="lecture-liseuse-4" label="La lecture sur liseuse" %}
+
 ###La lecture sur liseuse
 
 ####Les fonctionnalités de lecture
@@ -103,6 +105,7 @@ Par défaut, il suffit de maintenir longtemps le bouton physique « Menu » ap
 ![](/images/lire-liseuse-Pocketbook-F4-10.jpg)
 
 {% include anchor.html id="dictionnaire-embarque-4" label="Dictionnaire embarqué" %}
+
 ###Dictionnaire embarqué :
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/g9WEq1k-dSU" %}

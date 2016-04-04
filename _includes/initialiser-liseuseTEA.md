@@ -35,7 +35,9 @@ L’activation de votre liseuse est à présent terminée. Félicitations !
 Découvrez la sélection d’ebooks et extraits offerts présents dans la bibliothèque.
 
 {% include anchor.html id="fonctionnalites-5" label="Fonctionnalités" %}
+
 ###Fonctionnalités
+
 Diverses fonctionnalités sont accessibles depuis la page d'accueil du logiciel (ces fonctionnalités peuvent différer d'un modèle à l'autre)&nbsp;:
 
 ####Directement sur la page d'accueil :
@@ -69,6 +71,7 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du logiciel 
 - **Échecs**
 
 {% include anchor.html id="livres-recents-5" label="Les « Livres récents »" %}
+
 ###Les « Livres récents »
 
 Un accès rapide à vos dernières lectures vous est proposé *via* les « Livres récents » situés sur la page d’accueil qui remonte les trois derniers livres ouverts.

@@ -1,5 +1,7 @@
 {% include anchor.html id="ouvrir-livre" label="Ouvrir un livre" %}
+
 ###Ouvrir un livre
+
 {% include ouvrir-livre.md %}
 
 {% include anchor.html id="fonctionnement-bibliotheque" label="Fonctionnement de la bibliothèque" %}
@@ -14,6 +16,7 @@
 4. Affichage (couverture, détail)
 
 {% include anchor.html id="fonctionnalite-lecture" label="Les fonctionnalités de lecture" %}
+
 ###Les fonctionnalités de lecture
 
 ![](/images/lire-ordinateur-5.jpg)

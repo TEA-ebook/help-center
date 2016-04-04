@@ -8,7 +8,9 @@ type: faq
 {% include search_inpage.html %}
 
 {% include anchor.html id="recuperer-ebook" label="Après avoir acheté un e-book où puis-je le récupérer ?" %}
+
 ###Après avoir acheté un e-book, où puis-je le récupérer ?
+
 **Sur ordinateur**
 
 * [Télécharger son livre sur son ordinateur](/ordinateur/#telecharger-ordinateur)
@@ -32,7 +34,9 @@ type: faq
 {% include popine-info.html %}
 
 {% include anchor.html id="pas-telecharger-ebook" label="Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?" %}
+
 ###Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?
+
 **La fenêtre de téléchargement de mon navigateur est apparue :**
 
 - vérifier que le livre n'est pas dans le dossier « (My) Downloads » ou « (Mes) téléchargements », ou dans un autre dossier de téléchargement par défaut.
@@ -41,13 +45,16 @@ type: faq
 Si vous ne trouvez toujours pas votre livre ou bien qu'un message d'erreur est apparu, contactez le service client.
 
 **La fenêtre de téléchargement de mon navigateur n'est pas apparue :**
+
 Le bouton « Télécharger » est :
 
 - absent : la commande a été annulée et le livre n'est pas téléchargeable ;
 - présent : contacter le service client.
 
 {% include anchor.html id="pas-telecharger-ebook-liseuse" label="Je n’arrive pas à télécharger mon e-book sur ma liseuse ?" %}
+
 ###Je n’arrive pas à télécharger mon e-book sur ma liseuse ?
+
 **Si vous possèdez une liseuse Pocketbook Touch Lux 2/3, Sense ou Ultra :**
 
 * Vérifiez que votre liseuse est bien à jour et effectuez une mise à jour si besoin : [Comment mettre à jour ma liseuse Pocketbook ?](/faq-liseuse/#maj-pb)
