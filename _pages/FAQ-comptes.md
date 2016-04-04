@@ -9,26 +9,26 @@ type: faq
 
 {% include anchor.html id="identifiants" label="Mes identifiants de compte client du site du libraire sont-ils valables sur le store de la liseuse ?" %}
 
-###Mes identifiants de compte client du site du libraire sont-ils valables dans la Librairie de la liseuse ?
+### Mes identifiants de compte client du site du libraire sont-ils valables dans la Librairie de la liseuse ?
 
 Oui, vos identifiants sont les mêmes que sur notre site internet. Il vous suffit de saisir votre adresse mail et votre mot de passe pour vous connecter depuis la liseuse.
 
 {% include anchor.html id="commandes-visible" label="Mes commandes passées depuis votre site internet sont-elles visibles dans mon compte depuis la boutique de la liseuse ?" %}
 
-###Mes commandes passées depuis votre site internet sont-elles visibles dans mon compte depuis la Librairie de la liseuse ?
+### Mes commandes passées depuis votre site internet sont-elles visibles dans mon compte depuis la Librairie de la liseuse ?
 
 Les commandes que vous avez passées depuis notre site Internet sont visibles dans votre compte de la liseuse et inversemment.
 
 {% include anchor.html id="modifier-mail" label="Je veux modifier mon adresse mail ou mon mot de passe dans mon compte. Comment faire ?" %}
 
-###Je veux modifier mon adresse mail ou mon mot de passe dans mon compte. Comment faire ?
+### Je veux modifier mon adresse mail ou mon mot de passe dans mon compte. Comment faire ?
 
 Pour modifier les informations relatives à votre compte, vous devez vous connecter à notre site Internet.  
 Cliquez sur Mon compte en haut à droite de la page d'accueil. Saisissez votre adresse mail et votre mot de passe. Vous pouvez ensuite modifier ou compléter vos informations personnelles en cliquant sur « Mes informations personnelles ».
 
 {% include anchor.html id="compte-liseuse" label="Comment vérifier quel compte client est entré sur ma liseuse ?" %}
 
-###Comment vérifier quel compte client est enregistré sur ma liseuse ?
+### Comment vérifier quel compte client est enregistré sur ma liseuse ?
 
 Sur une liseuse TEA (ou Pocketbook) :
 
@@ -40,7 +40,7 @@ Sur une liseuse TEA (ou Pocketbook) :
 
 {% include anchor.html id="compte-adobe" label="Qu'est-ce que mon compte Adobe, ou Adobe ID ?" %}
 
-###Qu'est-ce que mon compte Adobe, ou Adobe ID ?
+### Qu'est-ce que mon compte Adobe, ou Adobe ID ?
 
 Il s'agit d'un identifiant distinct de votre compte client, qu'il faut créer gratuitement sur le site web de la société Adobe.
 
@@ -52,11 +52,11 @@ Pensez à bien conserver vos identifiant et mot de passe, vous devrez les saisir
 
 {% include anchor.html id="identifiant-adobe" label="Comment enregistrer un identifiant Adobe sur mon support ?" %}
 
-###Compte Adobe
+### Compte Adobe
 
 {% include creation-compte-Adobe.md %}
 
-####Sur un ordinateur
+#### Sur un ordinateur
 
 Dans le menu d'Adobe Digital Editions, allez dans Aide > Autorisation de l'ordinateur. 
 
@@ -72,7 +72,7 @@ Une fois l'ordinateur autorisé, cliquez sur « OK ».
 
 <p class="warningtip">Dans les deux cas, vous <strong>ne devez pas</strong> cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</p>
 
-####Sur une liseuse TEA
+#### Sur une liseuse TEA
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/7xzUpRbXn40" %}
 
@@ -82,7 +82,7 @@ Renseignez votre Adobe ID (ou identifiant adobe / adresse mail ) ainsi que votre
 
 ![](/images/support-liseuse-6.jpg)
 
-###Sur l'application Android v2
+### Sur l'application Android v2
 
 Pour activer votre compte Adobe, vous devez vous rendre dans le menu en appuyant sur l'icône « hamburger » en haut à gauche. Puis appuyez sur « Adobe DRM ».
 
@@ -96,7 +96,7 @@ Renseignez ensuite les identifiants Adobe que vous avez créé précédemment.
 
 {% include anchor.html id="identifiant-adobe" label="Comment vérifier avec quel identifiant Adobe le support a été autorisé ?" %}
 
-###Comment vérifier avec quel identifiant Adobe le support a été autorisé ?
+### Comment vérifier avec quel identifiant Adobe le support a été autorisé ?
 
 * Sur Adobe Digital Editions :
     1. Dans le menu allez dans « Aide ».

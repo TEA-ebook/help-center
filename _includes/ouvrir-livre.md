@@ -1,4 +1,4 @@
-#### Avec une protection numérique
+####  Avec une protection numérique
 
 Une fois le fichier de licence (.acsm) téléchargé sur votre ordinateur, ouvrez le logiciel Adobe Digital Editions que vous avez installé. (En savoir plus [sur les fichiers protégés](/faq/#protections-ebook), [sur l'installation d'Abode Digital Editions](/web-ordinateur/#installer-adobe-digital-edition).)
 Cliquez ensuite sur « Fichier », puis sur « Ajouter à la bibliothèque ».
@@ -15,7 +15,7 @@ Adobe Digital Editions va alors télécharger votre livre.
 
 Une fois le téléchargement terminé, le livre va s'ouvrir automatiquement et vous pourrez ensuite le retrouver dans votre bibliothèque.
 
-#### Avec un tatouage ou sans protection
+####  Avec un tatouage ou sans protection
 
 Une fois le fichier (.epub ou .pdf suivant le format) téléchargé sur votre ordinateur, ouvrez le logiciel Adobe Digital Editions que vous avez installé.
 Cliquez ensuite sur « Fichier », puis sur « Ajouter à la bibliothèque ».

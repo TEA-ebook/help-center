@@ -6,7 +6,7 @@
 
 {% include anchor.html id="connexion-wifi" label="Connexion au WiFi" %}
 
-###Connexion à un réseau Wi-Fi
+### Connexion à un réseau Wi-Fi
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/ufR3HeqZFsQ" %}
 
@@ -26,14 +26,14 @@ N’oubliez pas de mettre sur « On » la connexion automatique, cela vous év
 
 {% include anchor.html id="compte-client" label="Compte client" %}
 
-###Compte client
+### Compte client
 
 Si vous possédez une Touch Lux 2 avec la fonctionnalité « Mes achats », il vous faudra renseigner votre compte client pour y accéder.
 Pour ce faire, il faut cliquer sur « Paramètres » (situé sur la page d’accueil de la liseuse), puis « Comptes et synchronisation » et enfin « Mon compte client ».
 
 {% include anchor.html id="compte-adobe" label="Compte Adobe" %}
 
-###Compte Adobe
+### Compte Adobe
 
 L'enregistrement du compte Adobe dans votre liseuse est nécessaire si vous souhaitez lire des livres au contenu protégé sur votre ordinateur sans passer par le navigateur, ou si vous souhaitez transférer des livres au contenu protégé sur certains supports.
 
@@ -45,7 +45,7 @@ Pour se connecter à votre compte personnel ID Adobe, il faut cliquer sur « Pa
 
 {% include anchor.html id="activation-compte-adobe" label="Activation du compte Adobe dans la liseuse Pocketbook v4" %}
 
-###Activation du compte Adobe dans la liseuse Pocketbook v4
+### Activation du compte Adobe dans la liseuse Pocketbook v4
 
 Si vous achetez puis téléchargez pour la première fois un e-book avec Adobe DRM sur votre liseuse, une demande d’activation de votre compte personnel ID Adobe vous sera demandée lors de l’ouverture du fichier.
 
@@ -57,11 +57,11 @@ Dans le cas contraire vous devez enregistrer votre compte personnel ID Adobe ain
 
 {% include anchor.html id="utiliser-pbv4" label="Utiliser votre liseuse Pocketbook v4" %}
 
-##Utiliser votre liseuse Pocketbook v4
+## Utiliser votre liseuse Pocketbook v4
 
 {% include anchor.html id="fonctionnalites" label="Fonctionnalités de la liseuse Pocketbook v4" %}
 
-###Fonctionnalités de la liseuse Pocketbook v4
+### Fonctionnalités de la liseuse Pocketbook v4
 
 Diverses fonctionnalités sont accessibles depuis la page d'accueil du logiciel (ces fonctionnalités peuvent différer d'un modèle à l'autre)&nbsp;:
 
@@ -80,7 +80,7 @@ Diverses fonctionnalités sont accessibles depuis la page d'accueil du logiciel 
 
 {% include anchor.html id="evenements-recents-4" label="Les « Évènements récents »" %}
 
-###Les « Évènements récents »
+### Les « Évènements récents »
 
 Un accès rapide à vos dernières lectures vous est proposé *via* les « Évènements récents » situés sur la page d’accueil et qui recensent vos dernières actions sur la liseuse.
 

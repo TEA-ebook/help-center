@@ -10,7 +10,7 @@ title: Mettre à jour sa liseuse Pocketbook
 </p>
 
 {% include anchor.html id="version-logiciel" label="Quelle est la version de mon logiciel ?" %}
-##Quelle est la version de mon logiciel ?
+## Quelle est la version de mon logiciel ?
 
 Pour savoir quelle est la version du logiciel installé sur votre liseuse, il vous suffit d'observer la page d'accueil. Sélectionnez l'image correspondant à votre logiciel.
 

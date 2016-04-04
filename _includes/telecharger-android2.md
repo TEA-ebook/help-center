@@ -1,6 +1,6 @@
 {% include anchor.html id="téléchargement-compte-client" label="Téléchargement depuis le compte client" %}
 
-###Téléchargement depuis le compte client
+### Téléchargement depuis le compte client
 
 Vous pouvez télécharger vos livres depuis l'histoirique des achats dans la librairie de l'application.
 

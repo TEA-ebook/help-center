@@ -6,7 +6,7 @@ title: Acheter un ebook sur Internet et le lire sur son iPad/iPhone (app v1)
 
 {% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
 
-##Acheter un ebook sur Internet
+## Acheter un ebook sur Internet
 
 {% include acheter-ordinateur.md %}
 
@@ -15,7 +15,7 @@ Pour accéder à vos e-books achetés depuis le web sur votre tablette iPad/iPho
 
 {% include anchor.html id="installer-application" label="Installer l'application" %}
 
-##Installer l'application
+## Installer l'application
 
 Le téléchargement de l'application de votre libraire se fait depuis l'App Store. Cliquez sur la loupe de recherche en haut à droite de votre écran et tapez le nom de votre libraire. Lancez la recherche et cliquez sur l’icône « Obtenir » de l'application de votre libraire.
 
@@ -27,7 +27,7 @@ Vous retrouverez ensuite facilement l’application sur votre iPad/iPhone : l�
 
 {% include anchor.html id="Initialisation-application" label="Initialisation de l'application" %}
 
-##Initialisation de l'application
+## Initialisation de l'application
 
 Afin de pouvoir utiliser toutes les fonctionnalités de l'application, il faut paramétrer son compte client et son compte Adobe.
 En haut à droite, appuyez sur le bouton représentant un engrenage.
@@ -36,7 +36,7 @@ En haut à droite, appuyez sur le bouton représentant un engrenage.
 
 {% include anchor.html id="connexion-compte-client" label="Connexion au compte client" %}
 
-###Connexion au compte client
+## #Connexion au compte client
 
 Arrivé sur la page « Mon compte », appuyez sur le bouton « Me connecter ».
 
@@ -46,13 +46,13 @@ Entrez le login et le mot de passe de votre compte client et appuyez sur suivant
 
 {% include anchor.html id="creation-compte-adobe" label="Création du compte Adobe" %}
 
-###Création du compte Adobe
+## #Création du compte Adobe
 
 {% include creation-compte-Adobe.md %}
 
 {% include anchor.html id="activation-compte-adobe" label="Activation du compte Adobe dans l'application iOs v1" %}
 
-###Activation du compte Adobe dans l'application iOs v1
+## #Activation du compte Adobe dans l'application iOs v1
 
 ![](/images/support-iPad-4.png)
 
@@ -60,7 +60,7 @@ Entrez ensuite le login et le mot de passe de votre compte Adobe et appuyez sur 
 
 {% include anchor.html id="telecharger-ios" label="Télécharger sur l'application iOs" %}
 
-##Télécharger sur l'application iOs
+## Télécharger sur l'application iOs
 
 L'application synchronise automatiquement la bibliothèque « Mes livres » de l'application avec votre compte client.
 
@@ -74,11 +74,11 @@ Il est possible de forcer synchronisation en « tirant » sur la page « Mes 
 
 {% include anchor.html id="lire-ios" label="Lire sur l'application iOs" %}
 
-##Lire sur l'application iOs
+## Lire sur l'application iOs
 
 {% include anchor.html id="fontionnement-bibliotheque" label="Fonctionnement de la bibliothèque" %}
 
-###Fonctionnement de la bibliothèque
+## #Fonctionnement de la bibliothèque
 
 ![](/images/lire-iPad-1.png)
 
@@ -92,7 +92,7 @@ Il est possible de forcer synchronisation en « tirant » sur la page « Mes 
 
 {% include anchor.html id="fonctionnalites-lecture" label="Les fonctionnalités de lecture" %}
 
-###Les fonctionnalités de lecture
+## #Les fonctionnalités de lecture
 
 ![](/images/lire-iPad-2.png)
 
@@ -106,7 +106,7 @@ Il est possible de forcer synchronisation en « tirant » sur la page « Mes 
 
 {% include anchor.html id="changer-theme-lecture" label="Changer le thème de lecture (confort de lecture)" %}
 
-####Changer le thème de lecture (confort de lecture)
+## ## Changer le thème de lecture (confort de lecture)
 
 A quoi ça sert?  
 Trois thèmes de lecture différents sont proposés : 
@@ -120,7 +120,7 @@ Exemple : pour une lecture confortable en environnement très lumineux, choisiss
 
 {% include anchor.html id="comment-changer-theme" label="Comment changer le thème" %}
 
-#####Comment changer le thème
+## ## #Comment changer le thème
 
 Depuis la lecture d'un livre numérique, accédez aux paramètres de lecture :
 
