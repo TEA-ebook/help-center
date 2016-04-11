@@ -3,7 +3,7 @@
     var tree = {
         '…' : {},
         'le web' : {
-            'un navigateur' : ['/web-web','Acheter un ebook sur Internet et le lire dans son navigateur'],
+            'un ordinateur' : ['/web-web','Acheter un ebook sur Internet et le lire sur son ordinateur'],
             'une liseuse TEA TouchLux 2 ou 3 ou Ultra' : ['/web-liseuseTEA','Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook v5'],
             'l\'application android v1' : ['/web-androidv1','Acheter un ebook sur Internet et le lire sur sa tablette Android (app v1)'],
             'l\'application android v2' : ['/web-androidv2','Acheter un ebook sur Internet et le lire sur sa tablette Android (app v2)'],
