@@ -22,7 +22,7 @@ Cliquez sur le bouton « Lire » et votre livre s'ouvre dans votre navigateur 
 
 {% include anchor.html id="fonctionnalite-liseuse" label="Fonctionnalités de la liseuse web" %}
 
-## #Fonctionnalités de la liseuse web
+### Fonctionnalités de la liseuse web
 
 ![](/images/lire-web-1.png)
 
@@ -34,3 +34,21 @@ Cliquez sur le bouton « Lire » et votre livre s'ouvre dans votre navigateur 
 ![](/images/lire-web-2.png)
 
 Si vous souhaitez tout de même télécharger votre livre pour le lire sur votre ordinateur, rendez-vous à la [page suivante](/ordinateur/)
+
+{% include anchor.html id="installer-adobe-digital-edition" label="Installer Adobe Digital Éditions" %}
+
+## Installer Adobe Digital Éditions
+
+{% include installation-ade.md %}
+
+{% include anchor.html id="telecharger-ordinateur" label="Télécharger son livre sur son ordinateur" %}
+
+## Télécharger un ebook sur son ordinateur
+
+{% include telecharger-ordinateur.md %}
+
+{% include anchor.html id="lire-ordinateur" label="Lire son livre sur son ordinateur" %}
+
+## Lire un ebook avec Adobe Digital Editions
+
+{% include lire-ordinateur.md %}

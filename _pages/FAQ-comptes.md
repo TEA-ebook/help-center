@@ -82,7 +82,7 @@ Renseignez votre Adobe ID (ou identifiant adobe / adresse mail ) ainsi que votre
 
 ![](/images/support-liseuse-6.jpg)
 
-### Sur l'application Android v2
+#### Sur l'application Android v2
 
 Pour activer votre compte Adobe, vous devez vous rendre dans le menu en appuyant sur l'icône « hamburger » en haut à gauche. Puis appuyez sur « Adobe DRM ».
 
