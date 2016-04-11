@@ -36,7 +36,7 @@ En haut à droite, appuyez sur le bouton représentant un engrenage.
 
 {% include anchor.html id="connexion-compte-client" label="Connexion au compte client" %}
 
-## #Connexion au compte client
+### Connexion au compte client
 
 Arrivé sur la page « Mon compte », appuyez sur le bouton « Me connecter ».
 
@@ -46,13 +46,13 @@ Entrez le login et le mot de passe de votre compte client et appuyez sur suivant
 
 {% include anchor.html id="creation-compte-adobe" label="Création du compte Adobe" %}
 
-## #Création du compte Adobe
+### Création du compte Adobe
 
 {% include creation-compte-Adobe.md %}
 
 {% include anchor.html id="activation-compte-adobe" label="Activation du compte Adobe dans l'application iOs v1" %}
 
-## #Activation du compte Adobe dans l'application iOs v1
+### Activation du compte Adobe dans l'application iOs v1
 
 ![](/images/support-iPad-4.png)
 
@@ -78,7 +78,7 @@ Il est possible de forcer synchronisation en « tirant » sur la page « Mes 
 
 {% include anchor.html id="fontionnement-bibliotheque" label="Fonctionnement de la bibliothèque" %}
 
-## #Fonctionnement de la bibliothèque
+### Fonctionnement de la bibliothèque
 
 ![](/images/lire-iPad-1.png)
 
@@ -92,7 +92,7 @@ Il est possible de forcer synchronisation en « tirant » sur la page « Mes 
 
 {% include anchor.html id="fonctionnalites-lecture" label="Les fonctionnalités de lecture" %}
 
-## #Les fonctionnalités de lecture
+### Les fonctionnalités de lecture
 
 ![](/images/lire-iPad-2.png)
 
@@ -106,7 +106,7 @@ Il est possible de forcer synchronisation en « tirant » sur la page « Mes 
 
 {% include anchor.html id="changer-theme-lecture" label="Changer le thème de lecture (confort de lecture)" %}
 
-## ## Changer le thème de lecture (confort de lecture)
+#### Changer le thème de lecture (confort de lecture)
 
 A quoi ça sert?  
 Trois thèmes de lecture différents sont proposés : 
@@ -118,9 +118,7 @@ Trois thèmes de lecture différents sont proposés :
 Vous pouvez choisir un thème suivant l'environnement de lecture en cours. 
 Exemple : pour une lecture confortable en environnement très lumineux, choisissez le thème fond blanc. A l'inverse, pour une lecture en environnement très peu lumineux, choisissez le thème fond noir.
 
-{% include anchor.html id="comment-changer-theme" label="Comment changer le thème" %}
-
-## ## #Comment changer le thème
+##### Comment changer le thème
 
 Depuis la lecture d'un livre numérique, accédez aux paramètres de lecture :
 

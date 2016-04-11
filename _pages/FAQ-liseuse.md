@@ -179,6 +179,8 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.  
 Mettez-la en charge. S'il ne se passe toujours rien, contactez le service client.
 
-## Liseuse Bookeen
+{% include anchor.html id="bookeen" label="Liseuses Bookeen" %}
+
+## Liseuses Bookeen
 
 Si vous possèdez une liseuse Bookeen, vous pouvez vous référer à [l'aide en ligne de Bookeen](https://service.bookeen.com/fr/Knowledgebase/List).

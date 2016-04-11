@@ -45,7 +45,7 @@ Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synch
 
 {% include anchor.html id="ouvrir-livre" label="Ouvrir un livre" %}
 
-## #Ouvrir un livre
+### Ouvrir un livre
 
 {% include ouvrir-livre.md %}
 
@@ -85,13 +85,11 @@ Après son transfert, vous pouvez retrouver votre livre dans la bibliothèque de
 
 {% include anchor.html id="bibliotheque-basic2" label="La bibliothèque numérique" %}
 
-## #La bibliothèque numérique
+### La bibliothèque numérique
 
 La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de titres disponibles hors connexion après leur téléchargement.
 
-{% include anchor.html id="acces-bibliotheque-basic2" label="L'accès à la bibliothèque" %}
-
-## ## L'accès à la bibliothèque
+#### L'accès à la bibliothèque
 
 Depuis la page d’accueil de votre PocketBook Basic 2, vous pouvez consulter vos e-books en vous rendant sur « Bibliothèque ».
 
@@ -99,9 +97,7 @@ La bibliothèque de votre liseuse vous permet d'accéder aux livres présents su
 
 ![](/images/support-basic2-3.jpg)
 
-{% include anchor.html id="menu-bibliotheque-basic2" label="Le menu contextuel" %}
-
-## ## Le menu contextuel
+#### Le menu contextuel
 
 ![](/images/support-basic2-4.jpg)
 
@@ -120,7 +116,7 @@ Le menu contextuel, qui apparaît suite à une pression continue sur OK, permet 
 
 {% include anchor.html id="lecture-basic2" label="Fonctionnalités de lecture" %}
 
-## #Fonctionnalités de lecture
+### Fonctionnalités de lecture
 
 Pour ouvrir un livre, appuyez sur OK sur son titre dans la section _Événements récents_ ou dans la Bibliothèque. Si vous avez ouvert un livre auparavant, il sera ouvert à la page à laquelle vous vous êtes arrêté de lire.
 
