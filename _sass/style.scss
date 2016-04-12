@@ -1,0 +1,94 @@
+// ----- BASE -----
+body {
+  color: $textColor;
+  font-family: $globalFont;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: $titleFont;
+}
+a {
+  color: $linkColor;
+}
+
+// ----- HOME -----
+// Tabs device home
+.ui-tabs {
+  .ui-tabs-nav {
+    li {
+      border: $borderTab solid 1px;
+      background-color: $backgroundTab;
+      border-collapse: collapse;
+      padding: 1em;
+      font-family: $titleFont;
+      font-size: 1.4em;
+      font-weight: bold;
+      border-top-left-radius: 0.5em;
+      border-top-right-radius: 0.5em;
+
+      .ui-tabs-anchor {
+        color:$textTab;
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+
+        svg {
+          height: 2em;
+          margin-right: 0.5em;
+
+          path {
+            fill:$textTab;
+          }
+        }
+      }
+      &.ui-tabs-active {
+        border-bottom: none;
+        background-color: $backgroundTabActive;
+
+        .ui-tabs-anchor {
+          color: $textTabActive;
+
+          svg {
+            path {
+              fill: $textTabActive;
+            }
+          }
+        }
+      }
+    }
+  }
+  .ui-tabs-panel {
+    border: $borderTab solid 1px;
+    border-top: none;
+    padding: 1em;
+    border-bottom-left-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+
+    .content-tab:not(:last-of-type) {
+      margin-right: 1em;
+      border-right: $borderTab solid 2px;
+      padding-right: 1em;
+    }
+  }
+  .content-tab {
+    h1 {
+      text-align: center;
+      color: $blue;
+    }
+    ul {
+      padding-left: 1.2em;
+      li {
+        font-size: 1.2em;
+        margin-bottom: 0.5em;
+
+        a {
+          text-decoration: none;
+
+          &::after {
+            content: ">";
+            margin-left: 0.5em;
+          }
+        }
+      }
+    }
+  }
+}

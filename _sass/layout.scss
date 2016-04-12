@@ -1,0 +1,40 @@
+// ----- BASE -----
+* {
+  box-sizing:border-box;
+}
+
+#content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+// ----- HOME -----
+// Tabs device home
+.ui-tabs {
+  .ui-tabs-nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+  
+    li {
+      list-style:none;
+      flex-grow: 1;
+    }
+  }
+  .ui-tabs-panel {
+    display: flex;
+  }
+  .content-tab {
+    display: flex;
+    align-items: center;
+
+    img {
+      flex-shrink: 0;
+      margin-right: 0.5em;
+    }
+    & > div {
+      flex-grow: 1;
+    }
+  }
+}
