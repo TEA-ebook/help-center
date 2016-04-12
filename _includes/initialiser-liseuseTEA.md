@@ -2,6 +2,8 @@
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/9UO-n02Tdko" %}
 
+{% include anchor.html id="connexion-wifi" label="Connexion au WiFi" %}
+
 ### Connexion au Wifi
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/UUMT9dvKrG0" %}
@@ -18,6 +20,8 @@ Une fenêtre s’ouvre, vous pouvez dès lors renseigner le mot de passe associ�
 
 Lisez et acceptez le contrat de licence.
 
+{% include anchor.html id="compte-client" label="Compte client" %}
+
 ### Compte client
 
 La connexion au compte client vous permettra de retrouver, en un clic via la fonctionnalité « Mes achats », l’ensemble des ebooks que vous avez achetés sur notre site et/ou nos applications mobiles.
@@ -29,6 +33,8 @@ Connectez-vous en cliquant dans les champs proposés et en renseignant l’adres
 Si vous n’avez pas de compte chez nous, cliquez sur « Créer un compte » puis renseignez votre adresse mail ainsi qu’un mot de passe. Nous vous demandons de confirmer votre mot de passe. Pour ne pas vous tromper, vous pouvez vérifier votre mot de passe en cliquant sur l’œil à droite des champs « Mot de passe ». Cliquez ensuite sur « Créer un compte ».
 
 L’activation de votre liseuse est à présent terminée. Félicitations !
+
+{% include anchor.html id="utiliser-liseuse" label="Utiliser votre liseuse TEA" %}
 
 ## Utiliser votre liseuse TEA
 
