@@ -64,7 +64,9 @@ a {
     border-bottom-right-radius: 0.5em;
 
     .content-tab:not(:last-of-type) {
-      margin-right: 0.5em;
+      margin-right: 1em;
+      border-right: $borderTab solid 2px;
+      padding-right: 1em;
     }
   }
   .content-tab {
