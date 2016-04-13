@@ -10,6 +10,71 @@ a {
   color: $linkColor;
 }
 
+// Top menu
+header {
+  nav {
+    & > ul {
+      list-style: none;
+
+      & > li {
+        & > a {
+          color: $menuLink;
+          font-size: 1.2em;
+          text-decoration: none;
+          display: inline-block;
+          padding: 1em;
+          background-color: $backgroundMenu;
+
+          &:hover, &.active {
+            background-color: $backgroundMenuHover;
+          }
+        }
+        &.dropdown{
+          & > a::after {
+            content: "⌵";
+            font-weight: bold;
+            margin-left: 0.5em;
+            vertical-align: top;
+          }
+        }
+        .dropdown-menu {
+          background-color: $backgroundMenuHover;
+          list-style: none;
+          margin: 0;
+          padding: 0.5em 0;
+
+          .title {
+            padding: 0.5em 1em;
+            font-weight: bold;
+          }
+          li {
+            a {
+              color: $menuLink;
+              padding: 0.5em 1em;
+              text-decoration: none;
+              display: inline-block;
+              width: 100%;
+
+              &:hover {
+                background-color: $backgroundMenu;
+              }
+            } 
+            &.sub-link {
+              a {
+                padding-left: 3em;
+              }
+            }
+            &.divider {
+              border-bottom: 1px solid;
+              padding: 0.5em 0;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
 // ----- HOME -----
 // Tabs device home
 .ui-tabs {
