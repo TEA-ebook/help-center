@@ -4,7 +4,7 @@ layout: faq
 title: Mentions légales
 ---
 
-## Editeur du site
+## Éditeur du site
 
 **Société :** TEA, The Ebook Alternative  
 **Adresse du siège social :** 14 rue Rhin et Danube, 69009 Lyon  
