@@ -10,6 +10,15 @@ a {
   color: $linkColor;
 }
 
+// Footer
+footer {
+  text-align: center;
+
+  a {
+    text-decoration: none;
+  }
+}
+
 // ----- HOME -----
 // Tabs device home
 .ui-tabs {
