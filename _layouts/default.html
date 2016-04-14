@@ -24,8 +24,9 @@
 
     </script>
 
-    <a class="header-github" href="https://github.com/TEA-ebook/help-center">Je souhaite participer</a>
-    {% include header.html %}
+    <header>
+      {% include header.html %}
+    </header>
 
     <div class="container marketing" id="content">
 
@@ -35,8 +36,7 @@
 
     </div>
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/js/polyfills.js"></script>
     <script src="/js/hightlight.js"></script>
@@ -48,6 +48,20 @@
     <script src="/js/jquery-ui.js"></script>
     <script>
       $( "#tabs" ).tabs();
+      $(".navbar ul.dropdown-menu").hide();
+      $(".navbar li.dropdown > a").click( function () {
+        if ($(this).next("ul.dropdown-menu:visible").length != 0) {
+          $(this).next("ul.dropdown-menu").slideUp("normal");
+          $(this).removeClass("active");
+        }
+        else {
+          $(".navbar ul.dropdown-menu").slideUp("normal");
+          $(".navbar li.dropdown > a").removeClass("active");
+          $(this).next("ul.dropdown-menu").slideDown("normal");
+          $(this).addClass("active");
+        }
+        return false;
+    }); 
     </script>
   </body>
 </html>
