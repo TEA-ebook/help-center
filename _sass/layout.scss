@@ -3,6 +3,34 @@
   box-sizing:border-box;
 }
 
+// Top menu
+header {
+  display: flex;
+  justify-content: space-between;
+  nav {
+    padding: 0.5em 1em;
+
+    & > ul {
+      display: flex;
+      margin: 0;
+      padding: 0;
+
+      & > li {
+        position: relative;
+
+        & > a {
+          position:relative;
+        }
+        .dropdown-menu {
+          position: absolute;
+          width: 22em;
+        }
+      }
+    }
+  }
+}
+
+// Pages
 #content {
   max-width: 1200px;
   margin: 0 auto;
