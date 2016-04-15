@@ -163,6 +163,42 @@ header {
       margin: 1em auto;
     }
   }
+  nav {
+    background-color: $backgroundNav;
+    align-self: flex-start;
+
+    #anchor-menu {
+      margin: 0;
+      padding: 0.6em 0;
+      list-style: none;
+
+      .anchor-menu-item {
+        &.level-1 {
+          font-size: 1.4em;
+          color: $level1Color;
+          padding: 0.2em 0.8em;
+        }
+        a {
+          display: block;
+          text-decoration: none;
+          padding: 0.2em 0.8em;
+
+          &:hover {
+            background-color: white;
+          }
+        }
+        &.level-2 a {
+          font-size: 1.2em;
+          color: $level2Color;
+          margin-top: 0.4em;
+        }
+        &.level-3 a {
+          color: $level3Color;
+          padding-left: 1.8em;
+        }
+      }
+    }
+  }
 }
 
 // Footer
