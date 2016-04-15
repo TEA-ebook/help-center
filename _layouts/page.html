@@ -2,28 +2,24 @@
 layout: default
 ---
 
-<div class="row">
-  <div class="col-md-12" role="main">
-    <article class="page col-lg-9">
-      <header>
-      {% if page.type == 'faq' %}
-        <div class="faq-title">
-      {% endif %}
-          <h1>{{ page.title }}</h1>
-        {% if page.type == 'faq' %}
-          {% include btn-back-to-faq.html %}
-        </div>
-        {% endif %}
-      </header>
-      <div class="entry">{{ content }}</div>
-      {% if page.type == 'faq' %}
-        {% include btn-back-to-faq.html %}
-      {% endif %}
-    </article>
-    <div class="col-lg-3">
-      <ul id="anchor-menu" class="move">
-        <li class="anchor-menu-item level-1">{{ page.title }}</li>
-      </ul>
+<article>
+  <header>
+  {% if page.type == 'faq' %}
+    <div class="faq-title">
+  {% endif %}
+      <h1>{{ page.title }}</h1>
+    {% if page.type == 'faq' %}
+      {% include btn-back-to-faq.html %}
     </div>
-  </div>
-</div>
+    {% endif %}
+  </header>
+  <div class="entry">{{ content }}</div>
+  {% if page.type == 'faq' %}
+    {% include btn-back-to-faq.html %}
+  {% endif %}
+</article>
+<nav>
+  <ul id="anchor-menu" class="move">
+    <li class="anchor-menu-item level-1">{{ page.title }}</li>
+  </ul>
+</nav>
