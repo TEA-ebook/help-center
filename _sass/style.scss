@@ -9,6 +9,22 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: $linkColor;
 }
+h1 {
+  font-size: 2.4em;
+  color: $h1Color;
+}
+h2 {
+  font-size: 2em;
+  color: $h2Color;
+}
+h3 {
+  font-size: 1.6em;
+  color: $h3Color;
+}
+h4 {
+  font-size: 1.2em;
+  color: $h4Color;
+}
 
 // Top menu
 header {
@@ -72,6 +88,19 @@ header {
         }
       }
     }
+  }
+}
+
+// Pages
+#content {
+  article {
+    p > img {
+      display: block;
+      box-shadow: 0 0 20px -5px;
+      margin: 1em auto;
+    }
+  }
+}
 
 // Footer
 footer {
