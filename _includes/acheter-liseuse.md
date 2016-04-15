@@ -32,7 +32,7 @@ Si vous avez déjà un compte client : identifiez-vous en saisissant votre adre
 
 Si vous n’avez pas de compte client : créez un compte directement via votre liseuse en sélectionnant « Je crée mon compte » et en remplissant les champs demandés.
 
-<p class="protip">Cliquez sur « Mémoriser mon compte » afin de ne plus avoir à vous identifier.</p>
+<div class="protip"><p>Cliquez sur « Mémoriser mon compte » afin de ne plus avoir à vous identifier.</p></div>
 
 {% include anchor.html id="paiement" label="Paiement" %}
 
@@ -46,7 +46,7 @@ Remplissez les champs suivants : le N° de la carte, la date d’expiration et 
 
 ![](/images/acheter-liseuse-8.jpg)
 
-<p class="protip">Cliquez sur « oui » pour enregistrer vos coordonnées bancaires afin de ne plus avoir à les saisir lors d'un futur achat.</p>
+<div class="protip"><p>Cliquez sur « oui » pour enregistrer vos coordonnées bancaires afin de ne plus avoir à les saisir lors d'un futur achat.</p></div>
 
 {% include anchor.html id="telechargement" label="Téléchargement" %}
 

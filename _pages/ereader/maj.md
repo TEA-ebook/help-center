@@ -4,10 +4,10 @@ layout: ereader
 title: Mettre à jour sa liseuse Pocketbook
 ---
 
-<p class="protip">
-    <span class="title">Pourquoi mettre à jour régulièrement votre liseuse ?</span><br />
-    Pour disposer en permanence de la version logicielle la plus récente, ce qui permet d’optimiser les performances et d’apporter de nouvelles fonctionnalités à votre liseuse.
-</p>
+<div class="protip">
+    <h5>Pourquoi mettre à jour régulièrement votre liseuse ?</h5>
+    <p>Pour disposer en permanence de la version logicielle la plus récente, ce qui permet d’optimiser les performances et d’apporter de nouvelles fonctionnalités à votre liseuse.</p>
+</div>
 
 {% include anchor.html id="version-logiciel" label="Quelle est la version de mon logiciel ?" %}
 ## Quelle est la version de mon logiciel ?

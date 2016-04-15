@@ -26,6 +26,69 @@ h4 {
   color: $h4Color;
 }
 
+// class utile
+.tip {
+  padding: 0.8em 0.4em 0.8em 0em;
+  margin: 1em 0;
+
+  &::before {
+    font-family: $iconFont;
+    font-size: 2em;
+    width: 8%;
+    float: left;
+    text-align: center;
+  }
+  h5 {
+    margin: 0 0 0.4em;
+    width: 92%;
+    font-size: 1em;
+    float: right;
+  }
+  p {
+    width: 92%;
+    margin: 0 0 0.4em;
+    float: right;
+
+    &:last-of-type {
+      margin: 0;
+    }
+  }
+  &::after {
+    display: block;
+    content:' ';
+    clear: both;
+    height: 0;
+  }
+}
+.warningtip {
+  @extend .tip;
+
+  border-left: solid 4px $warningtipColor;
+  background-color: $warningtipBackground;
+  
+  &::before {
+    content: '\e808';
+    color: $warningtipColor;
+  }
+  h5 {
+    color: $warningtipColor;
+  }
+}
+.protip {
+  @extend .tip;
+
+  border-left: solid 4px $protipColor;
+  background-color: $protipBackground;
+
+  &::before {
+    content: '\e809';
+    color: $protipColor;
+  }
+  h5 {
+    color: $protipColor;
+  }
+}
+
 // Top menu
 header {
   nav {
