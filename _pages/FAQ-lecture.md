@@ -42,8 +42,8 @@ Si rien ne fonctionne, contactez votre service client.
 
 Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateur de télécharger son e-book, lorsque celui-ci est protégé par Adobe DRM.
 
-* [Ouvrir un fichier `acsm` sur ordinateur](/web-ordinateur/#lire-ordinateur)
-* [Ouvrir un fichier `acsm` sur liseuse](/web-basic2/#tranferer-basic2)
+* [Ouvrir un fichier `acsm` sur ordinateur](/web-web/#lire-ordinateur)
+* [Ouvrir un fichier `acsm` sur liseuse](/liseuseBasic/#tranferer-basic2)
 
 <p class="warningtip">Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
 
