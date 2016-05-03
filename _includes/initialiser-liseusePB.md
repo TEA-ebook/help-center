@@ -1,4 +1,4 @@
-<p class="protip">Afin de profiter des dernières fonctionnalités de votre liseuse, il est recommandé de maintenir sa liseuse à jour. <a href="/FAQ/#maj">En savoir plus…</a></p>
+<p class="protip">Afin de profiter des dernières fonctionnalités de votre liseuse, il est recommandé de maintenir sa liseuse à jour. <a href="/maj/">En savoir plus…</a></p>
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/zlI7RQfKAug" %}
 
