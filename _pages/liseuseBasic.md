@@ -30,7 +30,7 @@ Vous arrivez alors sur la page d'accueil de votre liseuse qui vous permet d’ac
 
 Vous devez ensuite paramétrer votre compte Adobe.
 
-Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synchronisation » et enfin « Adobe DRM ». Rentrez ensuite l'identifiant et [le mot de passe que vous avez préalablement créé sur le site Adobe](/web-basic2/#creation-compte-Adobe).
+Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synchronisation » et enfin « Adobe DRM ». Rentrez ensuite l'identifiant et [le mot de passe que vous avez préalablement créé sur le site Adobe](#autoriser-ordinateur-identifiant-adobe).
 
 ![](/images/support-basic2-2.jpg)
 
