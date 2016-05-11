@@ -5,8 +5,6 @@ title: Foire Aux Questions - Erreurs courantes
 type: faq
 ---
 
-{% include search_inpage.html %}
-
 {% include anchor.html id="fulfilled-another" label="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
 
 ### E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER

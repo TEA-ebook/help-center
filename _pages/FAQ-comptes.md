@@ -5,8 +5,6 @@ title: Foire Aux Questions - Comptes client
 type: faq
 ---
 
-{% include search_inpage.html %}
-
 {% include anchor.html id="identifiants" label="Mes identifiants de compte client du site du libraire sont-ils valables sur le store de la liseuse ?" %}
 
 ### Mes identifiants de compte client du site du libraire sont-ils valables dans la Librairie de la liseuse ?

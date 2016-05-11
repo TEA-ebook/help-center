@@ -5,8 +5,6 @@ title: Foire Aux Questions - Lecture
 type: faq
 ---
 
-{% include search_inpage.html %}
-
 {% include anchor.html id="support-ebook" label="Sur quels supports puis-je lire un e-book ?" %}
 
 ### Sur quels supports puis-je lire un e-book ?

@@ -162,6 +162,55 @@ header {
       box-shadow: 0 0 20px -5px;
       margin: 1em auto;
     }
+    table {
+      border: solid 1px $tableBorder;
+      border-collapse: collapse;
+
+      td, th {
+        padding: 0.5em;
+        border: solid 1px $tableBorder;
+
+        &.warning {
+          background-color: $warningColor;
+        }
+        &.success {
+          background-color: $successColor;
+        }
+        &.danger {
+          background-color: $dangerColor;
+        }
+      }
+    }
+    #search-form {
+      background-color: $searchFormBackground;
+      padding: 0.5em 1em;
+
+      .form-inline {
+        border: solid 2px $inputBorder;
+        background-color: $buttonBackground;
+        display: flex;
+        align-items: center;
+
+        svg {
+          height: 1.1em;
+          margin: 0 0.4em;
+
+          path {
+            fill: $buttonColor;
+          }
+        }
+        input {
+          border: none;
+          font-size: 1em;
+          padding: 0.2em 0.4em;
+          flex-grow: 1;
+        }
+      }
+    }
+    .highlight {
+      color: $hightlightColor;
+      background-color: $hightlightBackground;
+    }
   }
   nav {
     background-color: $backgroundNav;

@@ -2,18 +2,19 @@
 layout: default
 ---
 
-<article>
+<article class="page">
   <header>
-  {% if page.type == 'faq' %}
-    <div class="faq-title">
-  {% endif %}
-      <h1>{{ page.title }}</h1>
-    {% if page.type == 'faq' %}
-      {% include btn-back-to-faq.html %}
-    </div>
-    {% endif %}
+    <h1>{{ page.title }}</h1>
   </header>
-  <div class="entry">{{ content }}</div>
+  {% if page.type == 'faq' %}
+    {% include btn-back-to-faq.html %}
+  {% endif %}
+  <div class="entry">
+  {% if page.type == 'faq' %}
+    {% include search_inpage.html %}
+  {% endif %}
+    {{ content }}
+  </div>
   {% if page.type == 'faq' %}
     {% include btn-back-to-faq.html %}
   {% endif %}

@@ -5,8 +5,6 @@ title: Foire Aux Questions - Achat
 type: faq
 ---
 
-{% include search_inpage.html %}
-
 {% include anchor.html id="format-ebook" label="Quel format choisir pour acheter un e-book ?" %}
 
 ### Quel format choisir pour acheter un e-book ?

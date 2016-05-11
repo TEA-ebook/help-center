@@ -5,8 +5,6 @@ title: Foire Aux Questions - Téléchargement
 type: faq
 ---
 
-{% include search_inpage.html %}
-
 {% include anchor.html id="recuperer-ebook" label="Après avoir acheté un e-book où puis-je le récupérer ?" %}
 
 ### Après avoir acheté un e-book, où puis-je le récupérer ?
@@ -31,7 +29,6 @@ type: faq
 
 * [Télécharger sur l'application iOs](/web-iosv1/#telecharger-ios)
 
-{% include popine-info.html %}
 
 {% include anchor.html id="pas-telecharger-ebook" label="Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?" %}
 
