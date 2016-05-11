@@ -2,28 +2,41 @@
 body {
   color: $textColor;
   font-family: $globalFont;
+  font-size: 18px;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: $titleFont;
+
+  a {
+    text-decoration: none;
+  }
 }
 a {
   color: $linkColor;
 }
 h1 {
-  font-size: 2.4em;
-  color: $h1Color;
+  font-size: 2.2em;
+  &, a {
+    color: $h1Color;
+  }
 }
 h2 {
   font-size: 2em;
-  color: $h2Color;
+  &, a {
+    color: $h2Color;
+  }
 }
 h3 {
   font-size: 1.6em;
-  color: $h3Color;
+  &, a {
+    color: $h3Color;
+  }
 }
 h4 {
   font-size: 1.2em;
-  color: $h4Color;
+  &, a {
+    color: $h4Color;
+  }
 }
 
 // class utile
@@ -157,10 +170,10 @@ header {
 // Pages
 #content {
   article {
+    padding: 1em;
+
     p > img {
-      display: block;
-      box-shadow: 0 0 20px -5px;
-      margin: 1em auto;
+      border: double 6px $imageBorder;
     }
     table {
       border: solid 1px $tableBorder;
@@ -233,7 +246,7 @@ header {
           padding: 0.2em 0.8em;
 
           &:hover {
-            background-color: white;
+            background-color: $backgroundNavHover;
           }
         }
         &.level-2 a {

@@ -24,18 +24,22 @@ $h1Color: $blue;
 $h2Color: $green;
 $h3Color: $orange;
 $h4Color: $blue;
+$imageBorder: $taupe;
+$tableBorder: $taupe;
 
 // class utile
 $warningtipColor: $orange;
 $warningtipBackground: lighten($orange, 40%);
 $protipColor: $green;
 $protipBackground: lighten($green, 40%);
+$warningColor: wheat;
+$successColor: lighten($green, 30%);
+$dangerColor: lighten($orange, 30%);
 
 //Top menu
 $backgroundMenuHover: $beige;
 $backgroundMenu: white;
 $menuLink: $taupe;
-$menuShadows: $taupe;
 
 // ----- HOME -----
 // Tabs device home
@@ -51,6 +55,7 @@ $insertBackground: $beige;
 // ----- PAGES -----
 // Menu right
 $backgroundNav: $beige;
+$backgroundNavHover: white;
 $level1Color: $blue;
 $level2Color: $green;
 $level3Color: $orange;
