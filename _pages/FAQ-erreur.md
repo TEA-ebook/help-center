@@ -23,7 +23,7 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 
 ### E\_ADEPT\_REQUEST\_EXPIRED
 
-<div class="warningtip"><p>Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
+<div class="warningtip"><p>Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>
 
 Cette erreur indique que le fichier `acsm` téléchargé est trop vieux. Les fichiers de licences `acsm` ont une durée de validité limitée (entre 3 et 5 jours). Ils doivent donc être ouvert dans ce laps de temps.
 
