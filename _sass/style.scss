@@ -248,31 +248,49 @@ header {
       }
     }
   }
+  .back-to-faq {
+    text-align: right;
+    font-weight: bold;
+  }
 }
 
 // Footer
 footer {
   text-align: center;
+  margin-top: 1em;
+  padding: 1em;
 
+  p {
+    margin: 0;
+  }
   a {
     text-decoration: none;
   }
 }
 
 // ----- HOME -----
+#intro {
+  padding: 1em;
+  margin-bottom: 1em;
+
+  h1 {
+    font-size: 2em;
+    margin: 0.5em 0;
+  }
+}
+
 // Tabs device home
 .ui-tabs {
+  border: $borderTab solid 1px;
+
   .ui-tabs-nav {
     li {
-      border: $borderTab solid 1px;
       background-color: $backgroundTab;
       border-collapse: collapse;
       padding: 1em;
       font-family: $titleFont;
       font-size: 1.4em;
       font-weight: bold;
-      border-top-left-radius: 0.5em;
-      border-top-right-radius: 0.5em;
 
       .ui-tabs-anchor {
         color:$textTab;
@@ -289,8 +307,11 @@ footer {
           }
         }
       }
+      &:not(:last-of-type) {
+        border-right: $borderTab solid 1px;
+      }
       &.ui-tabs-active {
-        border-bottom: none;
+        border: none;
         background-color: $backgroundTabActive;
 
         .ui-tabs-anchor {
@@ -306,11 +327,8 @@ footer {
     }
   }
   .ui-tabs-panel {
-    border: $borderTab solid 1px;
     border-top: none;
     padding: 1em;
-    border-bottom-left-radius: 0.5em;
-    border-bottom-right-radius: 0.5em;
 
     .content-tab:not(:last-of-type) {
       margin-right: 1em;
@@ -321,7 +339,9 @@ footer {
   .content-tab {
     h1 {
       text-align: center;
-      color: $blue;
+      color: $h1Color;
+      font-size: 2em;
+      margin: 0.5em 0;
     }
     ul {
       padding-left: 1.2em;
@@ -338,6 +358,47 @@ footer {
           }
         }
       }
+    }
+  }
+}
+#sav {
+  h1 {
+    font-size: 2em;
+    margin: 0.2em 0;
+  }
+  #faq-sav {
+    padding: 1em;
+    margin-right: 1em;
+
+    ul {
+      padding-left: 1.2em;
+      li {
+        font-size: 1.2em;
+        margin-bottom: 0.5em;
+
+        a {
+          text-decoration: none;
+
+          &::after {
+            content: ">";
+            margin-left: 0.5em;
+          }
+        }
+      }
+    }
+  }
+  #choice-sav {
+    background-color: $insertBackground;
+    padding: 1em;
+
+    h2 {
+      font-size: 1.6em;
+      margin: 0.7em 0 0.2em;
+    }
+    select {
+      border: solid 1px $inputBorder;
+      background-color: $inputBackground;
+      font-size: 1em;
     }
   }
 }

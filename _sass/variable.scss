@@ -41,9 +41,12 @@ $menuShadows: $taupe;
 // Tabs device home
 $textTab: $taupe;
 $textTabActive: $green;
-$borderTab: $taupe;
+$borderTab: lighten($taupe, 40%);
 $backgroundTab: $beige;
 $backgroundTabActive: white;
+
+// Inserts sav
+$insertBackground: $beige;
 
 // ----- PAGES -----
 // Menu right

@@ -26,7 +26,7 @@
 
     {% include header.html %}
 
-    <div class="container marketing" id="content">
+    <div id="content" {% if page.url == "/index.html" %}class="home"{% endif %}>
       {{ content }}
     </div>
 
@@ -52,14 +52,21 @@
         if ($this.next("ul.dropdown-menu:visible").length !== 0) {
           $this.next("ul.dropdown-menu").slideUp("normal");
           $this.removeClass("active");
-        }         else {
+        } else {
           $(".navbar ul.dropdown-menu").slideUp("normal");
           $(".navbar li.dropdown > a").removeClass("active");
           $this.next("ul.dropdown-menu").slideDown("normal");
           $this.addClass("active");
         }
         return false;
-    }); 
+      });
+
+      $("#select-sav").change(function () {
+        $(".sav-contact").removeClass("active");
+        var $choice = $("#select-sav option:selected").val();
+        var $id = "#"+$choice;
+        $($id).addClass("active");
+      });
     </script>
   </body>
 </html>
