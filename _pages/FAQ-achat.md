@@ -5,13 +5,11 @@ title: Foire Aux Questions - Achat
 type: faq
 ---
 
-{% include search_inpage.html %}
-
 {% include anchor.html id="format-ebook" label="Quel format choisir pour acheter un e-book ?" %}
 
 ### Quel format choisir pour acheter un e-book ?
 
-<p class="protip">Pour une lecture optimale, nous vous recommandons d’acheter vos e-books en format ePub. Ce format est en effet le plus adapté à la lecture numérique car il s’adapte aux différents supports de lecture et vous permet de modifier la forme de vos textes avec beaucoup de facilité.</p>
+<div class="protip"><p>Pour une lecture optimale, nous vous recommandons d’acheter vos e-books en format ePub. Ce format est en effet le plus adapté à la lecture numérique car il s’adapte aux différents supports de lecture et vous permet de modifier la forme de vos textes avec beaucoup de facilité.</p></div>
 
 Il existe différents formats d'e-books qui possèdent chacun leurs caractéristiques :
 
@@ -84,10 +82,10 @@ Le format ePub Fixed Layout est un nouveau format apportant un meilleur confort 
     </tr>
 </table>
 
-<p class="warningtip">
-    <span class="title">Pack / Multi-format</span>
-    Un livre multi-format ou pack comporte plusieurs fois le même titre en différents formats. On peut ainsi acheter <em>Le Rouge et le noir</em> et obtenir à la fois un fichier PDF, un fichier ePub et un lien pour lire le livre en streaming. Les composants du pack sont indissociables, ils ne peuvent être vendus séparément.
-</p>
+<div class="warningtip">
+    <h5>Pack / Multi-format</h5>
+    <p>Un livre multi-format ou pack comporte plusieurs fois le même titre en différents formats. On peut ainsi acheter <em>Le Rouge et le noir</em> et obtenir à la fois un fichier PDF, un fichier ePub et un lien pour lire le livre en streaming. Les composants du pack sont indissociables, ils ne peuvent être vendus séparément.</p>
+</div>
 
 {% include anchor.html id="protections-ebook" label="Quelles sont les protections présentes sur un e-book ?" %}
 

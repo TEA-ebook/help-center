@@ -1,4 +1,11 @@
 // ----- BASE -----
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
 * {
   box-sizing:border-box;
 }
@@ -32,11 +39,36 @@ header {
 
 // Pages
 #content {
-  max-width: 1200px;
+  width: 95vw;
+  max-width: 1500px;
   margin: 0 auto;
+  flex-grow: 1;
+  display: flex;
+  justify-content: space-between;
+
+  &.home {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  article {
+    width: 66%;
+
+    p > img {
+      max-width: 100%;
+      display: block;
+      margin: 1em auto;
+    }
+    .video {
+      text-align: center;
+    }
+  }
+  nav {
+    width: 33%;
+  }
 }
 
 // ----- HOME -----
+
 // Tabs device home
 .ui-tabs {
   .ui-tabs-nav {
@@ -63,6 +95,24 @@ header {
     }
     & > div {
       flex-grow: 1;
+    }
+  }
+}
+#sav {
+  display: flex;
+  margin-top: 1em;
+
+  #faq-sav {
+    flex-grow: 2;
+  }
+  #choice-sav {
+    flex-grow: 1;
+
+    .sav-contact {
+      display: none;
+      &.active {
+        display: block;
+      }
     }
   }
 }

@@ -8,7 +8,7 @@ La page de présentation de l’application apparaît. Cliquez alors sur « Ins
 
 ![](/images/support-tablette2-1.png)
 
-<p class="warningtip">Votre compte Google doit être enregistré au préalable sur votre tablette, sinon Google Play ne pourra pas installer l’application sur votre tablette. Si ce n’est pas le cas, l’enregistrement du compte Google se fait depuis Paramètres > Comptes > Ajouter un compte.</p>
+<div class="warningtip"><p>Votre compte Google doit être enregistré au préalable sur votre tablette, sinon Google Play ne pourra pas installer l’application sur votre tablette. Si ce n’est pas le cas, l’enregistrement du compte Google se fait depuis Paramètres > Comptes > Ajouter un compte.</p></div>
 
 L’application est alors téléchargée et installée sur votre tablette Android. Lancez l’application directement depuis le Play Store en cliquant sur « Ouvrir ».
 
@@ -28,4 +28,4 @@ Pour vous connecter à votre compte client, il vous suffit d'appuyer sur l'icôn
 
 ![](/images/support-tablette2-3.png)
 
-<p class="warningtip">Le compte client que vous enregistrez doit être le même que celui utilisé sur le site web de votre libraire ou la librairie de votre liseuse.</p>
+<div class="warningtip"><p>Le compte client que vous enregistrez doit être le même que celui utilisé sur le site web de votre libraire ou la librairie de votre liseuse.</p></div>

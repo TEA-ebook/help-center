@@ -5,8 +5,6 @@ title: Foire Aux Questions - Téléchargement
 type: faq
 ---
 
-{% include search_inpage.html %}
-
 {% include anchor.html id="recuperer-ebook" label="Après avoir acheté un e-book où puis-je le récupérer ?" %}
 
 ### Après avoir acheté un e-book, où puis-je le récupérer ?
@@ -20,7 +18,7 @@ type: faq
 
 * [Transférer un livre sur sa liseuse Basic 2](/liseuseBasic/#tranferer-basic2)
 * [Télécharger sur votre liseuse Pocketbook depuis le store liseuse](/liseusePB/#telecharger-store-liseuse)
-* [Télécharger sur votre liseuse TEA depuis « mes achats »](/web-liseuseTEA/#telecharger-liseuseTEA
+* [Télécharger sur votre liseuse TEA depuis « mes achats »](/web-liseuseTEA/#telecharger-liseuseTEA)
 
 **Sur tablette/smartphone Android**
 
@@ -31,7 +29,7 @@ type: faq
 
 * [Télécharger sur l'application iOs](/web-iosv1/#telecharger-ios)
 
-{% include popine-info.html %}
+[Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?](/faq-autre/#version-logiciel)
 
 {% include anchor.html id="pas-telecharger-ebook" label="Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?" %}
 

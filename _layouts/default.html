@@ -26,7 +26,7 @@
 
     {% include header.html %}
 
-    <div class="container marketing" id="content">
+    <div id="content" {% if page.url == "/index.html" %}class="home"{% endif %}>
       {{ content }}
     </div>
 
@@ -34,14 +34,16 @@
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/external/jquery/jquery.js"></script>
+    <script src="/js/jquery-ui.js"></script>
     <script src="/js/polyfills.js"></script>
     <script src="/js/hightlight.js"></script>
     <script src="/js/main.js"></script>
     <script src="/js/anchor-menu.js"></script>
     <script src="/js/info.js"></script>
+    {% if page.type == 'faq' %}
     <script src="/js/faq-search.js"></script>
-    <script src="/js//js/external/jquery/jquery.js"></script>
-    <script src="/js/jquery-ui.js"></script>
+    {% endif %}
     <script>
       $( "#tabs" ).tabs();
       $(".navbar ul.dropdown-menu").hide();
@@ -50,14 +52,21 @@
         if ($this.next("ul.dropdown-menu:visible").length !== 0) {
           $this.next("ul.dropdown-menu").slideUp("normal");
           $this.removeClass("active");
-        }         else {
+        } else {
           $(".navbar ul.dropdown-menu").slideUp("normal");
           $(".navbar li.dropdown > a").removeClass("active");
           $this.next("ul.dropdown-menu").slideDown("normal");
           $this.addClass("active");
         }
         return false;
-    }); 
+      });
+
+      $("#select-sav").change(function () {
+        $(".sav-contact").removeClass("active");
+        var $choice = $("#select-sav option:selected").val();
+        var $id = "#"+$choice;
+        $($id).addClass("active");
+      });
     </script>
   </body>
 </html>

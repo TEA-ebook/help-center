@@ -5,8 +5,6 @@ title: Foire Aux Questions - Comptes client
 type: faq
 ---
 
-{% include search_inpage.html %}
-
 {% include anchor.html id="identifiants" label="Mes identifiants de compte client du site du libraire sont-ils valables sur le store de la liseuse ?" %}
 
 ### Mes identifiants de compte client du site du libraire sont-ils valables dans la Librairie de la liseuse ?
@@ -70,7 +68,7 @@ Dans le champ « Fournisseur d'eBook », choisissez « Adobe ID ». Puis tap
 
 Une fois l'ordinateur autorisé, cliquez sur « OK ».
 
-<p class="warningtip">Dans les deux cas, vous <strong>ne devez pas</strong> cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</p>
+<div class="warningtip"><p>Dans les deux cas, vous <strong>ne devez pas</strong> cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</p></div>
 
 #### Sur une liseuse TEA
 
@@ -122,4 +120,4 @@ Renseignez ensuite les identifiants Adobe que vous avez créé précédemment.
     1. Appuyez sur l’icône « Paramètres » (symbolisé par un engrenage) en haut à droite.
     2. Une fois sur la page « Mon compte », vérifiez quel e-mail a été utilisé.
 
-{% include popine-info.html %}
+[Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?](/faq-autre/#version-logiciel)

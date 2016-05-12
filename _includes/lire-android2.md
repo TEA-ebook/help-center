@@ -12,7 +12,7 @@
 6. Mode d'affichage : Couverture - Détail.
 7. Trier les livres par Titres - Auteurs - Dates d'ajout.
 
-<p class="protip">S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’outil d’importation afin de synchroniser l’ensemble des e-books que vous avez achetés sur le site, web ou liseuse, ou l'application de votre libraire, grâce à votre compte client.</p>
+<div class="protip"><p>S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’outil d’importation afin de synchroniser l’ensemble des e-books que vous avez achetés sur le site, web ou liseuse, ou l'application de votre libraire, grâce à votre compte client.</p></div>
 
 {% include anchor.html id="fonctionnalites-lecture" label="Les fonctionnalités de lecture" %}
 
@@ -32,4 +32,4 @@
 10. Régler les marges.
 11. Pagination.
 
-<p class="protip">Vous pouvez rester appuyé sur votre texte afin de déclencher les fonctions « copier » et « annoter ». Une fois déclenché, sélectionnez le texte qui vous intéresse, puis cliquez sur « Annoter » afin d’ouvrir l’onglet d’annotation et prendre une note.</p>
+<div class="protip"><p>Vous pouvez rester appuyé sur votre texte afin de déclencher les fonctions « copier » et « annoter ». Une fois déclenché, sélectionnez le texte qui vous intéresse, puis cliquez sur « Annoter » afin d’ouvrir l’onglet d’annotation et prendre une note.</p></div>
