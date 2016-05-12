@@ -11,7 +11,7 @@ type: faq
 
 **Sur ordinateur**
 
-* [Télécharger son livre sur son ordinateur](/ordinateur/#telecharger-ordinateur)
+* [Télécharger son livre sur son ordinateur](/web-web/#telecharger-ordinateur)
 * [Lire un ebook dans son navigateur](/web-web/#lire-internet)
 
 **Sur la liseuse**
@@ -55,6 +55,6 @@ Le bouton « Télécharger » est :
 
 **Si vous possèdez une liseuse Pocketbook Touch Lux 2/3, Sense ou Ultra :**
 
-* Vérifiez que votre liseuse est bien à jour et effectuez une mise à jour si besoin : [Comment mettre à jour ma liseuse Pocketbook ?](/faq-liseuse/#maj-pb)
+* Vérifiez que votre liseuse est bien à jour et effectuez une mise à jour si besoin : [Comment mettre à jour ma liseuse Pocketbook / TEA ?](/maj/)
 * Assurez-vous que votre compte client est bien enregistré dans la liseuse :
 [Comment vérifier quel compte client est enregistré sur ma liseuse ?](/faq-comptes/#compte-liseuse)
