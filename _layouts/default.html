@@ -41,6 +41,7 @@
     <script src="/js/main.js"></script>
     <script src="/js/anchor-menu.js"></script>
     <script src="/js/info.js"></script>
+    <script src="/js/sav.js"></script>
     {% if page.type == 'faq' %}
     <script src="/js/faq-search.js"></script>
     {% endif %}
@@ -59,13 +60,6 @@
           $this.addClass("active");
         }
         return false;
-      });
-
-      $("#select-sav").change(function () {
-        $(".sav-contact").removeClass("active");
-        var $choice = $("#select-sav option:selected").val();
-        var $id = "#"+$choice;
-        $($id).addClass("active");
       });
     </script>
   </body>
