@@ -26,9 +26,7 @@
 
     {% include header.html %}
 
-    <div id="content" {% if page.url == "/index.html" %}class="home"{% endif %}>
-      {{ content }}
-    </div>
+    {{ content }}
 
     {% include footer.html %}
 

@@ -42,6 +42,9 @@ header {
   width: 95vw;
   max-width: 1500px;
   margin: 0 auto;
+  flex-grow: 1;
+  display: flex;
+  justify-content: space-between;
 
   &.home {
     flex-direction: column;
