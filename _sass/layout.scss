@@ -48,7 +48,7 @@ header {
 
   &.home {
     flex-direction: column;
-    justify-content: flex-start;
+    //justify-content: flex-start;
   }
   article {
     width: 66%;
@@ -64,6 +64,11 @@ header {
   }
   nav {
     width: 33%;
+
+    ul#anchor-menu {
+      position: fixed;
+      width: 28%;
+    }
   }
 }
 
@@ -109,5 +114,23 @@ header {
   #choice-sav {
     //flex-grow: 1;
     width: 45%;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  #content {
+    nav {
+      font-size: 90%;
+    }
+  }
+}
+@media screen and (max-width: 800px) {
+  #content {
+    article {
+      width: 100%
+    }
+    nav {
+      display: none;
+    }
   }
 }
