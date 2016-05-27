@@ -5,8 +5,6 @@ title: Foire Aux Questions - Liseuses
 type: faq
 ---
 
-{% include search_inpage.html %}
-
 {% include anchor.html id="generalites" label="Généralités" %}
 
 ## Généralités

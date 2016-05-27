@@ -5,8 +5,6 @@ title: Foire Aux Questions - Lecture
 type: faq
 ---
 
-{% include search_inpage.html %}
-
 {% include anchor.html id="support-ebook" label="Sur quels supports puis-je lire un e-book ?" %}
 
 ### Sur quels supports puis-je lire un e-book ?
@@ -45,7 +43,7 @@ Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateu
 * [Ouvrir un fichier `acsm` sur ordinateur](/web-web/#lire-ordinateur)
 * [Ouvrir un fichier `acsm` sur liseuse](/liseuseBasic/#tranferer-basic2)
 
-<p class="warningtip">Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p>
+<div class="warningtip"><p>Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>
 
 {% include anchor.html id="ebook-incomplet" label="L’e-book est incomplet. Il manque des pages ou des chapitres." %}
 
@@ -86,6 +84,6 @@ Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Re
 Il est possible de lire ses e-books sur une liseuse Kobo.  
 Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
 
-<p class="warningtip">Il faut penser à éjecter « proprement » la liseuse Kobo avant de la déconnecter d'un ordinateur.</p>
+<div class="warningtip"><p>Il faut penser à éjecter « proprement » la liseuse Kobo avant de la déconnecter d'un ordinateur.</p></div>
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>

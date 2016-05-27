@@ -1,0 +1,416 @@
+// ----- BASE -----
+body {
+  color: $textColor;
+  font-family: $globalFont;
+  font-size: 18px;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: $titleFont;
+
+  a {
+    text-decoration: none;
+  }
+}
+a {
+  color: $linkColor;
+}
+h1 {
+  font-size: 2.2em;
+  &, a {
+    color: $h1Color;
+  }
+}
+h2 {
+  font-size: 2em;
+  &, a {
+    color: $h2Color;
+  }
+}
+h3 {
+  font-size: 1.6em;
+  &, a {
+    color: $h3Color;
+  }
+}
+h4 {
+  font-size: 1.2em;
+  &, a {
+    color: $h4Color;
+  }
+}
+
+// class utile
+.tip {
+  padding: 0.8em 0.4em 0.8em 0em;
+  margin: 1em 0;
+
+  &::before {
+    font-family: $iconFont;
+    font-size: 2em;
+    width: 8%;
+    float: left;
+    text-align: center;
+  }
+  h5 {
+    margin: 0 0 0.4em;
+    width: 92%;
+    font-size: 1em;
+    float: right;
+  }
+  p {
+    width: 92%;
+    margin: 0 0 0.4em;
+    float: right;
+
+    &:last-of-type {
+      margin: 0;
+    }
+  }
+  &::after {
+    display: block;
+    content:' ';
+    clear: both;
+    height: 0;
+  }
+}
+.warningtip {
+  @extend .tip;
+
+  border-left: solid 4px $warningtipColor;
+  background-color: $warningtipBackground;
+  
+  &::before {
+    content: '\e808';
+    color: $warningtipColor;
+  }
+  h5 {
+    color: $warningtipColor;
+  }
+}
+.protip {
+  @extend .tip;
+
+  border-left: solid 4px $protipColor;
+  background-color: $protipBackground;
+
+  &::before {
+    content: '\e809';
+    color: $protipColor;
+  }
+  h5 {
+    color: $protipColor;
+  }
+}
+
+// Top menu
+header {
+  nav {
+    & > ul {
+      list-style: none;
+
+      & > li {
+        & > a {
+          color: $menuLink;
+          font-size: 1.2em;
+          text-decoration: none;
+          display: inline-block;
+          padding: 1em;
+          background-color: $backgroundMenu;
+
+          &:hover, &.active {
+            background-color: $backgroundMenuHover;
+          }
+        }
+        &.dropdown{
+          & > a::after {
+            content: "⌵";
+            font-weight: bold;
+            margin-left: 0.5em;
+            vertical-align: top;
+          }
+        }
+        .dropdown-menu {
+          background-color: $backgroundMenuHover;
+          list-style: none;
+          margin: 0;
+          padding: 0.5em 0;
+
+          .title {
+            padding: 0.5em 1em;
+            font-weight: bold;
+          }
+          li {
+            a {
+              color: $menuLink;
+              padding: 0.5em 1em;
+              text-decoration: none;
+              display: inline-block;
+              width: 100%;
+
+              &:hover {
+                background-color: $backgroundMenu;
+              }
+            } 
+            &.sub-link {
+              a {
+                padding-left: 3em;
+              }
+            }
+            &.divider {
+              border-bottom: 1px solid;
+              padding: 0.5em 0;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// Pages
+#content {
+  article {
+    padding: 1em;
+
+    p > img {
+      border: double 6px $imageBorder;
+    }
+    table {
+      border: solid 1px $tableBorder;
+      border-collapse: collapse;
+
+      td, th {
+        padding: 0.5em;
+        border: solid 1px $tableBorder;
+
+        &.warning {
+          background-color: $warningColor;
+        }
+        &.success {
+          background-color: $successColor;
+        }
+        &.danger {
+          background-color: $dangerColor;
+        }
+      }
+    }
+    #search-form {
+      background-color: $searchFormBackground;
+      padding: 0.5em 1em;
+
+      .form-inline {
+        border: solid 2px $inputBorder;
+        background-color: $buttonBackground;
+        display: flex;
+        align-items: center;
+
+        svg {
+          height: 1.1em;
+          margin: 0 0.4em;
+
+          path {
+            fill: $buttonColor;
+          }
+        }
+        input {
+          border: none;
+          font-size: 1em;
+          padding: 0.2em 0.4em;
+          flex-grow: 1;
+        }
+      }
+    }
+    .highlight {
+      color: $hightlightColor;
+      background-color: $hightlightBackground;
+    }
+  }
+  nav {
+    background-color: $backgroundNav;
+
+    #anchor-menu {
+      margin: 0;
+      padding: 0.6em 0;
+      list-style: none;
+
+      .anchor-menu-item {
+        &.level-1 {
+          font-size: 1.4em;
+          color: $level1Color;
+          padding: 0.2em 0.8em;
+        }
+        a {
+          display: block;
+          text-decoration: none;
+          padding: 0.2em 0.8em;
+
+          &:hover {
+            background-color: $backgroundNavHover;
+          }
+        }
+        &.level-2 a {
+          font-size: 1.2em;
+          color: $level2Color;
+          margin-top: 0.4em;
+        }
+        &.level-3 a {
+          color: $level3Color;
+          padding-left: 1.8em;
+        }
+      }
+    }
+  }
+  .back-to-faq {
+    text-align: right;
+    font-weight: bold;
+  }
+}
+
+// Footer
+footer {
+  text-align: center;
+  margin-top: 1em;
+  padding: 1em;
+
+  p {
+    margin: 0;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+
+// ----- HOME -----
+#intro {
+  padding: 1em;
+  margin-bottom: 1em;
+
+  h1 {
+    font-size: 2em;
+    margin: 0.5em 0;
+  }
+}
+
+// Tabs device home
+.ui-tabs {
+  border: $borderTab solid 1px;
+
+  .ui-tabs-nav {
+    li {
+      background-color: $backgroundTab;
+      border-collapse: collapse;
+      padding: 1em;
+      font-family: $titleFont;
+      font-size: 1.4em;
+      font-weight: bold;
+
+      .ui-tabs-anchor {
+        color:$textTab;
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+
+        svg {
+          height: 2em;
+          margin-right: 0.5em;
+
+          path {
+            fill:$textTab;
+          }
+        }
+      }
+      &:not(:last-of-type) {
+        border-right: $borderTab solid 1px;
+      }
+      &.ui-tabs-active {
+        border: none;
+        background-color: $backgroundTabActive;
+
+        .ui-tabs-anchor {
+          color: $textTabActive;
+
+          svg {
+            path {
+              fill: $textTabActive;
+            }
+          }
+        }
+      }
+    }
+  }
+  .ui-tabs-panel {
+    border-top: none;
+    padding: 1em;
+
+    .content-tab:not(:last-of-type) {
+      margin-right: 1em;
+      border-right: $borderTab solid 2px;
+      padding-right: 1em;
+    }
+  }
+  .content-tab {
+    h1 {
+      text-align: center;
+      color: $h1Color;
+      font-size: 2em;
+      margin: 0.5em 0;
+    }
+    ul {
+      padding-left: 1.2em;
+      li {
+        font-size: 1.2em;
+        margin-bottom: 0.5em;
+
+        a {
+          text-decoration: none;
+
+          &::after {
+            content: ">";
+            margin-left: 0.5em;
+          }
+        }
+      }
+    }
+  }
+}
+#sav {
+  h1 {
+    font-size: 2em;
+    margin: 0.2em 0;
+  }
+  #faq-sav {
+    padding: 1em;
+    margin-right: 1em;
+
+    ul {
+      padding-left: 1.2em;
+      li {
+        font-size: 1.2em;
+        margin-bottom: 0.5em;
+
+        a {
+          text-decoration: none;
+
+          &::after {
+            content: ">";
+            margin-left: 0.5em;
+          }
+        }
+      }
+    }
+  }
+  #choice-sav {
+    background-color: $insertBackground;
+    padding: 1em;
+
+    h2 {
+      font-size: 1.6em;
+      margin: 0.7em 0 0.2em;
+    }
+    select {
+      border: solid 1px $inputBorder;
+      background-color: $inputBackground;
+      font-size: 1em;
+    }
+  }
+}

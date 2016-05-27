@@ -1,8 +1,8 @@
-<p class="protip">Afin de profiter des dernières fonctionnalités de votre liseuse, il est recommandé de maintenir sa liseuse à jour. <a href="/maj/">En savoir plus…</a></p>
+<div class="protip"><p>Afin de profiter des dernières fonctionnalités de votre liseuse, il est recommandé de maintenir sa liseuse à jour. <a href="/maj/">En savoir plus…</a></p></div>
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/zlI7RQfKAug" %}
 
-<p class="warningtip">Lorsque vous allumez votre liseuse PocketBook v4 pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse, notamment lors de vos futurs achats.</p>
+<div class="warningtip"><p>Lorsque vous allumez votre liseuse PocketBook v4 pour la première fois, il est important de bien vérifier et régler la date et l’heure pour garantir un bon fonctionnement de la liseuse, notamment lors de vos futurs achats.</p></div>
 
 {% include anchor.html id="connexion-wifi" label="Connexion au WiFi" %}
 
@@ -22,7 +22,7 @@ Entrez la Clé WiFi (appelée aussi WPA, située au dos de votre box internet) p
 
 N’oubliez pas de mettre sur « On » la connexion automatique, cela vous évitera de passer par cette étape à chaque fois que vous voulez vous connecter à la librairie numérique en passant par ce réseau WiFi.
 
-<p class="protip">Lorsque vous vous connectez à un réseau, il est possible qu’une mise à jour vous soit demandée. Il est préférable de faire ces mises à jour, car elles vous permettent de bénéficier des dernières fonctionnalités du logiciel et de corriger d'éventuels problèmes.</p>
+<div class="protip"><p>Lorsque vous vous connectez à un réseau, il est possible qu’une mise à jour vous soit demandée. Il est préférable de faire ces mises à jour, car elles vous permettent de bénéficier des dernières fonctionnalités du logiciel et de corriger d'éventuels problèmes.</p></div>
 
 {% include anchor.html id="compte-client" label="Compte client" %}
 

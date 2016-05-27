@@ -3,49 +3,141 @@ layout: default
 title: Accueil
 ---
 
-<div class="row">
-  <div id="select_container" class="col-lg-5">
-    <h2>Choisissez votre parcours</h2>
-    <p>
-      Choississez votre support de vente, ainsi que le support sur lequel vous souhaitez lire vos e-book, afin de générer un parcours personnalisé.
-    </p>
-    <p>
-      <strong>J'achète sur</strong><br />
-      <select name="select_achat" id="select_achat"></select>
-    </p>
-    <p>
-      <strong>Je lis sur</strong><br />
-      <span id="select_lecture_wrapper">…</span>
-    </p>
-    <p>
-      <strong>Je me rends sur la page</strong><br />
-      <span id="select_result"></span>
-    </p>
+<div id="intro">
+  <h1>Bienvenue sur l’Aide officielle The Ebook Alternative</h1>
+  <p>Retrouvez toutes les informations nécessaires sur nos produits et ceux de <a href="http://www.tea-ebook.com/clients/" title="TEA - the ebook alternative">nos partenaires</a> liés à l’achat et la lecture de livres numériques sur tous supports.</p>
+</div>
+
+<div id="tabs">
+  <ul>
+    <li>
+      <a href="#liseuse">
+        <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 42 64">
+          <path d="M40,0C38.9,0,3.3,0,2,0C0.7,0,0,1.1,0,2.1c0,1.2,0,52.1,0,55.2c0,2.9,0.4,5.7,5.4,6.4c2.1,0.3,28,0.3,31.1,0 c5.1-0.5,5.5-4,5.5-6.4c0-2.5,0-54.1,0-55.1S41.5,0.1,40,0z M37.4,50c-0.3,0-32.7,0-33,0s-0.2-0.2-0.2-0.4s0-44,0-44.3 c0-0.3,0-0.5,0.3-0.5c0.4,0,32.1,0,32.6,0s0.4,0.1,0.4,0.4s0,44,0,44.3C37.7,49.8,37.8,50,37.4,50z"/>
+        </svg>
+        Liseuses TEA
+      </a>
+    </li>
+    <li>
+      <a href="#android">
+        <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38 64">
+          <g id="Your_Icon_1_">
+            <path d="M22.4,59.6h-7.1c-0.5,0-1,0.4-1,1c0,0.5,0.4,1,1,1h7.1c0.5,0,1-0.4,1-1S23,59.6,22.4,59.6z"/>
+            <path d="M34.3,0H3.5C1.5,0,0,1.8,0,3.8v56.5c0,2,1.5,3.6,3.5,3.6h30.8c2,0,3.7-1.6,3.7-3.6V3.8C38,1.8,36.3,0,34.3,0z M17,1.9h6.2 c0.2,0,0.4,0,0.4,0.3c0,0.2-0.2,0.3-0.4,0.3H17c-0.2,0-0.4,0-0.4-0.3C16.5,1.9,16.8,1.9,17,1.9z M22.4,62.2h-7.1 c-0.7,0-1.4-0.9-1.4-1.6s0.6-1.6,1.4-1.6h7.1c0.7,0,1.4,0.9,1.4,1.6S23.2,62.2,22.4,62.2z M34.3,57.8H3.1V4.5h31.1L34.3,57.8 L34.3,57.8z"/>
+          </g>
+          <g>
+            <path d="M11.7,37c0,0.7,0.6,1.5,1.5,1.5h1.5v3.7c0,0.9,0.7,1.6,1.6,1.6h0.1c0.9,0,1.6-0.7,1.6-1.6v-3.7h2.1v3.7 c0,0.9,0.7,1.6,1.6,1.6h0.1c0.9,0,1.6-0.7,1.6-1.6v-3.7H25c0.7,0,1.5-0.6,1.5-1.5V26.2H11.7V37z"/>
+            <path d="M22.6,19.6l1.3-1.9c0.1-0.1,0-0.3-0.1-0.3c-0.1-0.1-0.3,0-0.3,0.1l-1.3,1.9c-1-0.4-2-0.6-3.1-0.6c-1.2,0-2.2,0.2-3.1,0.6 l-1.3-1.9c-0.1-0.1-0.2-0.2-0.3-0.1c-0.1,0.1-0.1,0.2-0.1,0.3l1.2,1.9c-2.2,1.1-3.7,3.1-3.7,5.4c0,0.1,0,0.3,0,0.4h14.6 c0-0.1,0-0.3,0-0.4C26.4,22.8,24.9,20.7,22.6,19.6L22.6,19.6z M15.6,23c-0.4,0-0.7-0.3-0.7-0.7s0.3-0.7,0.7-0.7s0.7,0.3,0.7,0.7 C16.3,22.7,16,23,15.6,23L15.6,23z M22.4,23c-0.4,0-0.7-0.3-0.7-0.7s0.3-0.7,0.7-0.7s0.7,0.3,0.7,0.7C23.1,22.7,22.7,23,22.4,23 L22.4,23z"/>
+            <path d="M28.7,26L28.7,26c-1,0-1.6,0.7-1.6,1.6v6.8c0,0.9,0.7,1.6,1.6,1.6h0.1c0.9,0,1.6-0.7,1.6-1.6v-6.8 C30.2,26.6,29.6,26,28.7,26L28.7,26z"/>
+            <path d="M9.4,26L9.4,26c-1,0-1.6,0.7-1.6,1.6v6.8c0,0.9,0.7,1.6,1.6,1.6l0,0c0.9,0,1.6-0.7,1.6-1.6v-6.8C11,26.6,10.2,26,9.4,26 L9.4,26z"/>
+          </g>
+        </svg>
+        Smartphones / Tablettes
+      </a>
+    </li>
+    <li>
+      <a href="#ios">
+        <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38 64">
+          <path d="M33.1,51.9c-28.4,0-28.4,0-28.4,0c0-43.4,0-43.4,0-43.4c28.4,0,28.4,0,28.4,0V51.9z M18.6,61.1c-2.1,0-4.4-1.4-4.4-2.9 c0-2.1,2.1-3.5,4.4-3.5c2.9,0,5.1,1.4,5.1,3.5C23.6,59.7,21.5,61.1,18.6,61.1z M31.6,0C6.3,0,6.3,0,6.3,0C2.6,0,0,2.9,0,6.4 c0,51.2,0,51.2,0,51.2C0,61.1,2.6,64,6.3,64c25.5,0,25.5,0,25.5,0c3.6,0,6.3-2.9,6.3-6.4c0-51.2,0-51.2,0-51.2C38,2.9,35.3,0,31.6,0 z"/>
+          <g>
+            <path d="M20.4,19c1.7-2.3,4.2-2.3,4.2-2.3s0.3,2.1-1.4,4.3c-1.8,2.2-3.9,1.9-3.9,1.9S18.9,21,20.4,19z"/>
+            <path d="M19.5,24.3c0.9,0,2.6-1.3,4.8-1.3c3.7,0,5.2,2.7,5.2,2.7s-2.9,1.5-2.9,5c0,4.1,3.6,5.4,3.6,5.4s-2.6,7-5.9,7 c-1.6,0-2.8-1.1-4.4-1.1c-1.7,0-3.3,1.1-4.4,1.1c-3.1,0-7-6.7-7-12.2c0-5.3,3.3-8.1,6.4-8.1C16.9,23.1,18.5,24.3,19.5,24.3z"/>
+          </g>
+        </svg>
+        iPhones / iPads
+      </a>
+    </li>
+    <li>
+      <a href="#ordinateur">
+        <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 56">
+          <path d="M57.1,41.3c-50.8,0-50.8,0-50.8,0c0-35.7,0-35.7,0-35.7c50.8,0,50.8,0,50.8,0V41.3z M57.1,0C6.3,0,6.3,0,6.3,0 C2.8,0,0,2.7,0,6.2c0,35.1,0,35.1,0,35.1c0,3.5,2.8,7,6.3,7.7c13.9,2.8,13.9,2.8,13.9,2.8S8.3,56,16,56c32,0,32,0,32,0 c7.7,0-4.2-4.1-4.2-4.1c13.9-2.8,13.9-2.8,13.9-2.8c3.5-0.7,6.3-4.2,6.3-7.7c0-35.1,0-35.1,0-35.1C64,2.7,61.2,0,57.1,0z"/>
+        </svg>
+        Ordinateur
+      </a>
+    </li>
+  </ul>
+  <div id="liseuse">
+    <div class="content-tab">
+      <img src="images/TL3.png" />
+      <div>
+        <h1>Touch Lux 3</h1>
+        <ul>
+          <li><a href="web-liseuseTEA/">J'achète sur mon ordinateur et je lis sur ma liseuse.</a></li>
+          <li><a href="liseuse-liseuseTEA/">J'achète et je lis sur ma liseuse.</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="content-tab">
+      <img src="images/Ultra.png" />
+      <div>
+        <h1>Ultra</h1>
+        <ul>
+          <li><a href="web-liseuseTEA/">J'achète sur mon ordinateur et je lis sur ma liseuse</a></li>
+          <li><a href="liseuse-liseuseTEA/">J'achète et je lis sur ma liseuse</a></li>
+        </ul>
+      </div>
+    </div>
   </div>
-  <div class="col-lg-7">
-    <p class="img-home"><img src="/images/test-home.png"></p>
+  <div id="android">
+    <div class="content-tab">
+      <img src="images/androidv1.png" />
+      <div>
+        <h1>Application version 1</h1>
+        <ul>
+          <li><a href="web-androidv1/">J'achète sur mon ordinateur et je lis sur ma tablette ou mon smartphone</a></li>
+          <li><a href="androidv1-androidv1/">J'achète et je lis sur ma tablette ou mon smartphone</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="content-tab">
+      <img src="images/androidv2.png" />
+      <div>
+        <h1>Application version 2</h1>
+        <ul>
+          <li><a href="web-androidv2/">J'achète sur mon ordinateur et je lis sur ma tablette ou mon smartphone</a></li>
+          <li><a href="androidv2-androidv2/">J'achète et je lis sur ma tablette ou mon smartphone</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div id="ios" class="content-tab">
+    <img src="images/iPad.png" />
+    <div>
+      <h1>Application iOs</h1>
+      <ul>
+        <li><a href="web-ios/">J'achète sur mon ordinateur et je lis sur mon iPad ou mon iPhone</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="ordinateur" class="content-tab">
+    <img src="images/ordinateur.png" />
+    <div>
+      <h1>Liseuse web</h1>
+      <ul>
+        <li><a href="web-web/">J'achète et je lis sur mon ordinateur</a></li>
+      </ul>
+    </div>
   </div>
 </div>
 
-<div class="row">
-  <div class="col-lg-8">
-    {% include presentation-rapide-lecture-numerique.md %}
+<div id="sav">
+  <div id="faq-sav">
+    <h1>Foire aux questions</h1>
+    <ul>
+      <li><a href="/faq-achat/#format-ebook">Quel format choisir pour acheter un e-book ?</a></li>
+      <li><a href="/faq-lecture/#pas-ouvrir-ebook">Je n’arrive pas à ouvrir mon e-book. Que puis-je faire ?</a></li>
+      <li><a href="/faq-telechargement/#recuperer-ebook">Après avoir acheté un e-book, où puis-je le récupérer ?</a></li>
+    </ul>
+    <p class="back-to-faq"><a href="/faq/">Plus de questions »</a></p>
   </div>
-  <div class="col-lg-4">
-    <h2>FAQ</h2>
-
-    <h3>Quel format choisir pour mon e-book&nbsp;?</h3>
-    <p>
-      Pour une lecture optimale, nous vous recommandons d’acheter vos e-books en format ePub. Ce format est en effet le plus adapté à la lecture numérique car il s’adapte aux différents supports de lecture et vous permet de modifier la forme de vos textes avec beaucoup de facilité.
-    </p>
-
-    <h3>Comment savoir si mon livre est protégé&nbsp;?</h3>
-    <p>
-      Vous pouvez trouver cette information sur la fiche produit de votre livre.<br />
-      S'il porte la mention "Contenu protégé", alors il s'agit d'un livre protégé par une mesure technique de protection mise en place pour préserver les droits des œuvres numériques. Le fichier est crypté grâce à l'insertion d'informations codées.<br />
-      S'il porte la mention "Watermarking", alors le livre porte un marquage (visible ou invisible pour le lecteur) dans les pages de l'e-book qui permet d'identifier l'acheteur du livre.
-    </p>
-    <p><a class="btn btn-default" role="button" href="faq/">En savoir plus »</a></p>
+  <div id="choice-sav">
+    <h1>Choisissez votre librairie :</h1>
+    <form>
+      <select id="select-sav">
+        <option selected="selected" disabled="disabled">Librairie</option>
+      </select>
+    </form>
+    <div id="sav-contact">
+    </div>
   </div>
 </div>
-

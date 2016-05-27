@@ -4,10 +4,10 @@ layout: page
 title: Mettre à jour ma liseuse TEA/Pocketbook
 ---
 
-<p class="protip">
-    <span class="title">Pourquoi mettre à jour régulièrement ma liseuse ?</span><br />
-    Pour disposer en permanence de la version logicielle la plus récente, ce qui permet d’optimiser les performances et d’apporter de nouvelles fonctionnalités à mon appareil.
-</p>
+<div class="protip">
+    <h5>Pourquoi mettre à jour régulièrement ma liseuse ?</h5>
+    <p>Pour disposer en permanence de la version logicielle la plus récente, ce qui permet d’optimiser les performances et d’apporter de nouvelles fonctionnalités à mon appareil.</p>
+</div>
 
 {% include anchor.html id="version-logiciel" label="Quelle est la version du logiciel installé sur ma liseuse ?" %}
 
@@ -31,9 +31,7 @@ L'information précise se trouve dans Paramètres > À propos de l'appareil > Lo
 
 ## Mise à jour depuis la version 4
 
-<p class="protip">
-    <span class="title">Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</span>
-</p>
+<div class="protip"><p>Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</p></div>
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/jNXMBA56iw8" %}
 
@@ -52,9 +50,7 @@ Nous vous conseillons d'activer les mises à jour automatiques en appuyant sur l
 
 ## Mise à jour depuis la version 5
 
-<p class="protip">
-    <span class="title">Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</span>
-</p>
+<div class="protip"><p>Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</p></div>
 
 - Aller dans Paramètres > Logiciel.
 - Appuyer sur Mise à jour du logiciel.

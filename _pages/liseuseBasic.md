@@ -22,7 +22,7 @@ title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook Basic 
 
 La Pocketbook Basic 2 ne possède pas d'écran tactile, la navigation dans la liseuse se fait donc à l'aide des boutons (pour plus d'information se référer au manuel de la liseuse). Lors du premier démarrage de la liseuse, acceptez le contrat de licence puis paramétrez la date et l'heure.
 
-<p class="warningtip">Il est important de bien vérifier et régler la date et l’heure correctement pour garantir un bon fonctionnement de la liseuse.</p>
+<div class="warningtip"><p>Il est important de bien vérifier et régler la date et l’heure correctement pour garantir un bon fonctionnement de la liseuse.</p></div>
 
 Vous arrivez alors sur la page d'accueil de votre liseuse qui vous permet d’accéder aux différentes fonctionnalités de votre liseuse.
 
@@ -38,10 +38,10 @@ Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synch
 
 ## Transférer un livre sur sa liseuse Basic 2
 
-<p class="protip">
-    Vous avez la possibilité de transférer votre livre directement de votre ordinateur à votre liseuse depuis l'explorateur de fichier de votre ordinateur.<br />
-    S'il s'agit d'un fichier de licence (.acsm), le livre sera alors automatiquement téléchargé lors de la première ouverture.
-</p>
+<div class="protip">
+    <p>Vous avez la possibilité de transférer votre livre directement de votre ordinateur à votre liseuse depuis l'explorateur de fichier de votre ordinateur.</p>
+    <p>S'il s'agit d'un fichier de licence (.acsm), le livre sera alors automatiquement téléchargé lors de la première ouverture.</p>
+</div>
 
 {% include anchor.html id="ouvrir-livre" label="Ouvrir un livre" %}
 
@@ -59,10 +59,10 @@ Vous devez tout d’abord avoir vos e-books sur Adobe Digital Editions.
 * Confirmez la connexion sur votre liseuse (cliquez sur connecter/accepter/Oui).
 * Lors de la première connexion, un programme d’installation peut être lancé.
 
-<p class="warningtip">
-    Dans le cas des liseuses PocketBook, si vous branchez votre liseuse à votre ordinateur alors qu’elle est éteinte, celle-ci ne vous proposera pas de transférer des fichiers mais se mettra automatiquement à charger la batterie.<br />
-    Il faut donc allumer votre liseuse, attendre l’apparition du menu principal, brancher la liseuse à votre ordinateur et sélectionner « Transférer des fichiers ».
-</p>
+<div class="warningtip">
+    <p>Dans le cas des liseuses PocketBook, si vous branchez votre liseuse à votre ordinateur alors qu’elle est éteinte, celle-ci ne vous proposera pas de transférer des fichiers mais se mettra automatiquement à charger la batterie.</p>
+    <p>Il faut donc allumer votre liseuse, attendre l’apparition du menu principal, brancher la liseuse à votre ordinateur et sélectionner « Transférer des fichiers ».</p>
+</div>
 
 * Lancez Adobe Digital Editions s’il ne s’est pas lancé tout seul. 
 * Votre liseuse apparaît dans « Périphériques ». 
