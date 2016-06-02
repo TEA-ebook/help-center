@@ -1,17 +1,17 @@
 $( "#tabs" ).tabs();
 $(".navbar ul.dropdown-menu").hide();
 $(".navbar li.dropdown > a").click(function () {
-var $this = $(this);
-if ($this.next("ul.dropdown-menu:visible").length !== 0) {
-    $this.next("ul.dropdown-menu").slideUp("normal");
-    $this.removeClass("active");
-} else {
-    $(".navbar ul.dropdown-menu").slideUp("normal");
-    $(".navbar li.dropdown > a").removeClass("active");
-    $this.next("ul.dropdown-menu").slideDown("normal");
-    $this.addClass("active");
-}
-return false;
+    var $this = $(this);
+    if ($this.next("ul.dropdown-menu:visible").length !== 0) {
+        $this.next("ul.dropdown-menu").slideUp("normal");
+        $this.removeClass("active");
+    } else {
+        $(".navbar ul.dropdown-menu").slideUp("normal");
+        $(".navbar li.dropdown > a").removeClass("active");
+        $this.next("ul.dropdown-menu").slideDown("normal");
+        $this.addClass("active");
+    }
+    return false;
 });
 
 (function () {
