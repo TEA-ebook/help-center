@@ -104,8 +104,6 @@ Il est possible de forcer synchronisation en « tirant » sur la page « Mes 
 6. Ajouter un marque page ;
 7. Pagination.
 
-{% include anchor.html id="changer-theme-lecture" label="Changer le thème de lecture (confort de lecture)" %}
-
 #### Changer le thème de lecture (confort de lecture)
 
 A quoi ça sert?  
