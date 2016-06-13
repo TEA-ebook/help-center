@@ -37,7 +37,7 @@
         },
         'Decitre' : {
             'name' : 'Decitre',
-            'mail' : ['serviceclients', 'decitre', 'fr'],
+            'mail' : ['relationclients', 'decitre', 'fr'],
             'phone' : ['00', '48', '49', '76', '01'],
             'schedule' : 'Du lundi au samedi de 8h30 à 19h30'
         },
