@@ -100,7 +100,7 @@ Touch Lux 2, Touch Lux 3.
 ### Amélioration de l'expérience d'utilisation
 
 - **Le nom d’un PDF dans la bibliothèque** n’est plus celui du fichier mais celui du titre de l’ebook.
-- **Les performances de la librairie ont été améliorées** afin de réduire les clignotements de la page et faciliter la sélection des ebooks et leur achat.
+- **Les performances de la librairie ont été améliorées** afin de faciliter la sélection des ebooks et leur achat.
 - **Nouveau clavier français** pour améliorer la prise de note et rendre l’accès aux caractères spéciaux plus simple.
 
 <table class="table table-bordered" style="text-align:center">
@@ -121,12 +121,12 @@ Touch Lux 2, Touch Lux 3.
 {% include anchor.html id="corrections" label="Corrections des bugs et des messages d'erreur" %}
 
 ### Corrections des bugs et des messages d'erreur
-
+- **Corrections des problèmes de connexion et synchronisation Dropbox**
 - **Corrections des problèmes de rétro-éclairage :**
-  1. À venir avec la mise à jour sur l’Ultra - L'intensité du rétro-éclairage sur l'Ultra n’est plus perdue si la liseuse est éteinte sans rétro-éclairage.
-  2. Le rétro-éclairage sur Touch Lux se réactive même si la liseuse s'est éteinte automatiquement après s’être mise en veille
+  1. L'intensité du rétro-éclairage n’est plus perdue si la liseuse est éteinte sans rétro-éclairage.
+  2. Le rétro-éclairage se réactive même si la liseuse s'est éteinte automatiquement après s’être mise en veille.
 - **Meilleur gestion des multi-utilisateurs** avec la suppression des données personnelles de l’utilisateur précédent.
-- Il est à nouveau possible de **Marquer comme lu un ebook**.
+- Il est à nouveau possible de **Marquer comme lu** un ebook.
 - La liseuse affiche désormais un message d'erreur si elle n'a pas pu vérifier si une mise à jour était disponible.
 
 ![](/images/5-14-6.jpg)
