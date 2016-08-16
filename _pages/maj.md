@@ -125,7 +125,7 @@ Touch Lux 2, Touch Lux 3.
 - **Corrections des problèmes de rétro-éclairage :**
   1. L'intensité du rétro-éclairage n’est plus perdue si la liseuse est éteinte sans rétro-éclairage.
   2. Le rétro-éclairage se réactive même si la liseuse s'est éteinte automatiquement après s’être mise en veille.
-- **Meilleur gestion des multi-utilisateurs** avec la suppression des données personnelles de l’utilisateur précédent.
+- **Meilleure gestion des multi-utilisateurs** avec la suppression des données personnelles de l’utilisateur précédent.
 - Il est à nouveau possible de **Marquer comme lu** un ebook.
 - La liseuse affiche désormais un message d'erreur si elle n'a pas pu vérifier si une mise à jour était disponible.
 
