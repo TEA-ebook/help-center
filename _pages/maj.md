@@ -94,7 +94,7 @@ Touch Lux 2, Touch Lux 3.
 
 ![](/images/5-14-1.jpg)
 
-- Possibilité de connecter **plusieurs compte Adobe** sur une liseuse unique.
+- Possibilité de connecter **plusieurs comptes Adobe** sur une liseuse unique.
 
 {% include anchor.html id="ameliorations-xp" label="Amélioration de l'expérience d'utilisation" %}
 
@@ -133,10 +133,11 @@ Touch Lux 2, Touch Lux 3.
 ![](/images/5-14-6.jpg)
 
 - Il n’est plus précisé “1 Nouveaux livres" mais **"1 Nouveau livre"**.
-- 
+ 
+{% include anchor.html id="logiciels-disponibles" label="Logiciels disponibles" %}
+
 ## Logiciels disponibles au téléchargement
 
-{% include anchor.html id="logiciels-disponibles" label="Logiciels disponibles" %}
 Liste des dernières versions des logiciels des liseuses distribuées par nos partenaires :
 
 ### Liseuses Touch Lux 2 & Touch Lux 3
