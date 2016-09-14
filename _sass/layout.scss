@@ -135,9 +135,20 @@ header {
     nav {
       font-size: 85%;
 
-      li:not(:last-of-type) {
-        a {
-          white-space: nowrap;
+      ul.navbar {
+        li {
+          .dropdown-menu {
+            width: 18em;
+
+            li a {
+              white-space: normal;
+            }
+          }
+        }
+        li:not(:last-of-type) {
+          a {
+            white-space: nowrap;
+          }
         }
       }
     }
@@ -177,16 +188,35 @@ header {
 }
 @media screen and (max-width: 450px) {
   header {
+    div {
+      img {
+        width: 150px;
+      }
+    }
     nav {
+      flex-grow: 1;
+
       p {
         font-size: 1.6em;
         display: block;
         border: 2px solid;
         border-radius: 0.3em;
-        padding: 0.3em 0.6em;
+        padding: 0.3em;
+        text-align: center;
+        max-width: 8em;
+        margin-left: auto;
+        margin-right: auto;
       }
-      ul.navbar{
+      ul.navbar {
         display: none;
+        li {
+          a.active {
+            display: block;
+          }
+          .dropdown-menu {
+            right: 0px;
+          }
+        }
       }
     }
   }
