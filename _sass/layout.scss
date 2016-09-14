@@ -14,6 +14,10 @@ body {
 header {
   display: flex;
   justify-content: space-between;
+
+  p {
+    display: none;
+  }
   nav {
     padding: 0.5em 1em;
 
@@ -127,12 +131,80 @@ header {
   }
 }
 @media screen and (max-width: 800px) {
+  header{
+    nav {
+      font-size: 85%;
+
+      li:not(:last-of-type) {
+        a {
+          white-space: nowrap;
+        }
+      }
+    }
+  }
   #content {
     article {
-      width: 100%
+      width: 100%;
     }
     nav {
       display: none;
+    }
+  }
+  #content.home {
+    .ui-tabs {
+      .ui-tabs-nav li {
+        .ui-tabs-anchor {
+          justify-content: center;
+          
+          svg {
+            margin: 0;
+          }
+          span {
+            display: none;
+          }
+        }
+      }
+      .ui-tabs-panel {
+        .content-tab {
+          flex-direction: column;
+          border: none;
+          margin: 0;
+          padding: 0;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 450px) {
+  header {
+    nav {
+      p {
+        font-size: 1.6em;
+        display: block;
+        border: 2px solid;
+        border-radius: 0.3em;
+        padding: 0.3em 0.6em;
+      }
+      ul.navbar{
+        display: none;
+      }
+    }
+  }
+  #content.home {
+    .ui-tabs {
+      .ui-tabs-nav li {
+        padding: 0.8em;
+      }
+      .ui-tabs-panel {
+        flex-direction: column;
+      }
+    }
+    #sav {
+      flex-direction: column;
+
+      #faq-sav, #choice-sav {
+        width: auto;
+      }
     }
   }
 }
