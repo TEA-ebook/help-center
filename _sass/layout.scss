@@ -172,9 +172,6 @@ header {
       .ui-tabs-panel {
         .content-tab {
           flex-direction: column;
-          border: none;
-          margin: 0;
-          padding: 0;
         }
         &.content-tab {
           img {
@@ -227,6 +224,11 @@ header {
       .ui-tabs-panel {
         flex-direction: column;
 
+        .content-tab {
+          border: none;
+          margin: 0;
+          padding: 0;
+        }
         &.content-tab, .content-tab {
           img {
             max-width: 90vw;
