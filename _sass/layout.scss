@@ -182,6 +182,11 @@ header {
           margin: 0;
           padding: 0;
         }
+        &.content-tab {
+          img {
+            max-width: 45vw;
+          }
+        }
       }
     }
   }
@@ -227,6 +232,13 @@ header {
       }
       .ui-tabs-panel {
         flex-direction: column;
+
+        &.content-tab, .content-tab {
+          img {
+            max-width: 90vw;
+            margin: 0;
+          }
+        }
       }
     }
     #sav {
