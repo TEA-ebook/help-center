@@ -21,4 +21,4 @@ Cliquez sur l’e-book que vous voulez transférer et faites un glisser-déposer
 
 Vérifiez que l’e-book a été transféré en cliquant sur le nom de votre liseuse dans « Périphériques ». 
 Débranchez votre liseuse après vérification. 
-Vous venez de transférer votre e-book. Félicitations ! 
+Vous venez de transférer votre e-book. Félicitations ! 

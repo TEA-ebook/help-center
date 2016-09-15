@@ -9,9 +9,9 @@ title: Mettre à jour ma liseuse TEA/Pocketbook
     <p>Pour disposer en permanence de la version logicielle la plus récente, ce qui permet d’optimiser les performances et d’apporter de nouvelles fonctionnalités à mon appareil.</p>
 </div>
 
-{% include anchor.html id="version-logiciel" label="Quelle est la version du logiciel installé sur ma liseuse ?" %}
+{% include anchor.html id="version-logiciel" label="Quelle est la version du logiciel installé sur ma liseuse ?" %}
 
-## Quelle est la version du logiciel installé sur ma liseuse ?
+## Quelle est la version du logiciel installé sur ma liseuse ?
 
 La page d'accueil de la liseuse permet de voir quel logiciel est installé.
 
@@ -31,7 +31,7 @@ L'information précise se trouve dans Paramètres > À propos de l'appareil > Lo
 
 ## Mise à jour depuis la version 5
 
-<div class="protip"><p>Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</p></div>
+<div class="protip"><p>Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</p></div>
 
 - Aller dans Paramètres > Logiciel.
 - Appuyer sur Mise à jour du logiciel.
@@ -60,7 +60,7 @@ Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/
 
 ## Mise à jour depuis la version 4
 
-<div class="protip"><p>Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</p></div>
+<div class="protip"><p>Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</p></div>
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/jNXMBA56iw8" %}
 
@@ -138,7 +138,7 @@ Touch Lux 2, Touch Lux 3.
 
 ## Logiciels disponibles au téléchargement
 
-Liste des dernières versions des logiciels des liseuses distribuées par nos partenaires :
+Liste des dernières versions des logiciels des liseuses distribuées par nos partenaires :
 
 ### Liseuses Touch Lux 2 & Touch Lux 3
 Télécharger le [logiciel T626.5.14.601.](https://drive.google.com/open?id=0B7hvXLD2QLi1bHNUS1c3em1Fc1k)

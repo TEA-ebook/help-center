@@ -28,4 +28,4 @@ S'il s'agit de la première utilisation de votre liseuse Pocketbook, assurez-vou
 
 ## Autres liseuses Pocketbook
 
-Si vous possédez une liseuse Pocketbook (TouchLux, Aqua, BasicTouch) ou une ancienne version de la liseuse TouchLux 2 : [lire sur liseuse Pocketbook](/liseusePB/)
+Si vous possédez une liseuse Pocketbook (TouchLux, Aqua, BasicTouch) ou une ancienne version de la liseuse TouchLux 2 : [lire sur liseuse Pocketbook](/liseusePB/)

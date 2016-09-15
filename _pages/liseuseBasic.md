@@ -75,7 +75,7 @@ Cliquez sur l’e-book que vous voulez transférer et faites un glisser-déposer
 
 * Vérifiez que l’e-book a été transféré en cliquant sur le nom de votre liseuse dans « Périphériques ». 
 * Débranchez votre liseuse après vérification. 
-* Vous venez de transférer votre e-book. Félicitations ! 
+* Vous venez de transférer votre e-book. Félicitations ! 
 
 {% include anchor.html id="lire-basic2" label="Lire son livre sur votre liseuse Basic 2" %}
 
@@ -101,17 +101,17 @@ La bibliothèque de votre liseuse vous permet d'accéder aux livres présents su
 
 ![](/images/support-basic2-4.jpg)
 
-Le menu contextuel, qui apparaît suite à une pression continue sur OK, permet d’effectuer les opérations suivantes :
+Le menu contextuel, qui apparaît suite à une pression continue sur OK, permet d’effectuer les opérations suivantes :
 
 * Ouvrir ;
-* Informations : court récapitulatif d’un livre/dossier ; 
-* Marquer comme lu / non lu ; 
-* Ajouter aux favoris / Supprimer des favoris ; 
-* Fichier : Renommer, Déplacer vers un dossier, Supprimer ;
-* Filtre : Tous les livres, En cours de lecture, Favoris ;
-* Regrouper par : les paramètres suivants s’affichent en tant que noms de dossiers en fonction de la méthode de regroupement sélectionnée : Dossier, Auteur, Série, Genre, Format, Par date d’ajout ;
-* Trier : fonctionne selon les paramètres suivants : Noms des fichiers, Titres des livres, Dernier ouvert, Date de création, Série, Auteur ;
-* Affichage : simple ou détaillé ;
+* Informations : court récapitulatif d’un livre/dossier ;
+* Marquer comme lu / non lu ;
+* Ajouter aux favoris / Supprimer des favoris ;
+* Fichier : Renommer, Déplacer vers un dossier, Supprimer ;
+* Filtre : Tous les livres, En cours de lecture, Favoris ;
+* Regrouper par : les paramètres suivants s’affichent en tant que noms de dossiers en fonction de la méthode de regroupement sélectionnée : Dossier, Auteur, Série, Genre, Format, Par date d’ajout ;
+* Trier : fonctionne selon les paramètres suivants : Noms des fichiers, Titres des livres, Dernier ouvert, Date de création, Série, Auteur ;
+* Affichage : simple ou détaillé ;
 * Rechercher.
 
 {% include anchor.html id="lecture-basic2" label="Fonctionnalités de lecture" %}
@@ -135,6 +135,6 @@ En appuyant sur le bouton OK, vous pouvez accéder au menu de l'application de l
 * Quitter : Ferme le livre.
 * Pivoter : Fixe l’orientation de l’écran.
 * Notes.
-* Paramètres : Vous pouvez configurer les paramètres de lecture qui vous conviennent le mieux : police, taille de police, l’espacement des lignes ou la largeur des marges de page.
+* Paramètres : Vous pouvez configurer les paramètres de lecture qui vous conviennent le mieux : police, taille de police, l’espacement des lignes ou la largeur des marges de page.
 * Dictionnaire : Traduction d’un seul mot. Par défaut, le curseur met en surbrillance le mot à traduire, et le dictionnaire recherche une traduction automatiquement. En appuyant sur le bouton OK, une barre d’outils apparaît.
 

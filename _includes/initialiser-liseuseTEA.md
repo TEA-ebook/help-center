@@ -44,24 +44,24 @@ Découvrez la sélection d’ebooks et extraits offerts présents dans la biblio
 
 ### Fonctionnalités
 
-Diverses fonctionnalités sont accessibles depuis la page d'accueil du logiciel (ces fonctionnalités peuvent différer d'un modèle à l'autre)&nbsp;:
+Diverses fonctionnalités sont accessibles depuis la page d'accueil du logiciel (ces fonctionnalités peuvent différer d'un modèle à l'autre) :
 
 #### Directement sur la page d'accueil :
 
-- **Bibliothèque** : Retrouvez tous les livres présents sur votre liseuse.
-- **Librairie** : Achetez de nouveaux livres.
-- **Mes achats** : Téléchargez facilement tous vos livres sur votre liseuse.
+- **Bibliothèque** : Retrouvez tous les livres présents sur votre liseuse.
+- **Librairie** : Achetez de nouveaux livres.
+- **Mes achats** : Téléchargez facilement tous vos livres sur votre liseuse.
 
 #### Menu du haut :
 
-- **wi-Fi** : Connectez-vous à votre réseau Wi-Fi.
-- **Synchroniser** : Synchronisez les différents services de synchronisation (ex : Dropbox).
+- **wi-Fi** : Connectez-vous à votre réseau Wi-Fi.
+- **Synchroniser** : Synchronisez les différents services de synchronisation (ex : Dropbox).
 - **Gestionnaire de tâches**
-- **Paramètres** : Réglez votre liseuse suivant vos besoins (éclairage, compte Adobe, réseau, langues, date et heure…)
+- **Paramètres** : Réglez votre liseuse suivant vos besoins (éclairage, compte Adobe, réseau, langues, date et heure…)
 - **Rechercher**
 - Réglez la luminosité
 
-#### Menu du bas :
+#### Menu du bas :
 
 - **Calculatrice**
 - **Dictionnaire**
