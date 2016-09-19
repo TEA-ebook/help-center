@@ -154,3 +154,10 @@ Les versions 4.0.0 et 4.0.1 d'Adobe Digital Editions génèrent régulièrement 
     3. Ré-autoriser Adobe Digital Editions avec votre identifiant Adobe.
 
 <div class="warningtip"><p>Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>
+
+{% include anchor.html id="duplicate-transaction" label="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
+
+### E\_ADEPT\_DUPLICATE\_TRANSACTION\_ID
+
+Lorsque vous rencontrez ce message, cela signifie que votre autorisation Adobe ID n'est plus reconnue par le logiciel Adobe Digital Editions.
+Contactez votre Service Clients et demandez une réinitialisation du lien de votre livre numérique.
