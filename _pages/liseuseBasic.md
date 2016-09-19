@@ -49,33 +49,7 @@ Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synch
 
 {% include ouvrir-livre.md %}
 
-Le transfert d'un ebook depuis ordinateur vers une liseuse se fait grâce à un câble USB.
-
-Vous devez tout d’abord avoir vos e-books sur Adobe Digital Editions.
-
-![](/images/transferer-ordinateur-liseuse-1.png)
-
-* Connectez votre ordinateur à votre liseuse grâce à votre câble USB.
-* Confirmez la connexion sur votre liseuse (cliquez sur connecter/accepter/Oui).
-* Lors de la première connexion, un programme d’installation peut être lancé.
-
-<div class="warningtip">
-    <p>Dans le cas des liseuses PocketBook, si vous branchez votre liseuse à votre ordinateur alors qu’elle est éteinte, celle-ci ne vous proposera pas de transférer des fichiers mais se mettra automatiquement à charger la batterie.</p>
-    <p>Il faut donc allumer votre liseuse, attendre l’apparition du menu principal, brancher la liseuse à votre ordinateur et sélectionner « Transférer des fichiers ».</p>
-</div>
-
-* Lancez Adobe Digital Editions s’il ne s’est pas lancé tout seul. 
-* Votre liseuse apparaît dans « Périphériques ». 
-
-![](/images/transferer-ordinateur-liseuse-2.png)
-
-Cliquez sur l’e-book que vous voulez transférer et faites un glisser-déposer sur votre liseuse : 
-
-![](/images/transferer-ordinateur-liseuse-3.png)
-
-* Vérifiez que l’e-book a été transféré en cliquant sur le nom de votre liseuse dans « Périphériques ». 
-* Débranchez votre liseuse après vérification. 
-* Vous venez de transférer votre e-book. Félicitations ! 
+{% include transferer-ordinateur-liseuse.md %}
 
 {% include anchor.html id="lire-basic2" label="Lire son livre sur votre liseuse Basic 2" %}
 
