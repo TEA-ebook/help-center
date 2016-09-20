@@ -24,17 +24,17 @@ Les commandes que vous avez passées depuis notre site Internet sont visibles da
 Pour modifier les informations relatives à votre compte, vous devez vous connecter à notre site Internet.  
 Cliquez sur Mon compte en haut à droite de la page d'accueil. Saisissez votre adresse mail et votre mot de passe. Vous pouvez ensuite modifier ou compléter vos informations personnelles en cliquant sur « Mes informations personnelles ».
 
-{% include anchor.html id="compte-liseuse" label="Comment vérifier quel compte client est entré sur ma liseuse ?" %}
+{% include anchor.html id="compte-liseuse" label="Comment vérifier quel compte client est entré sur ma liseuse ?" %}
 
-### Comment vérifier quel compte client est enregistré sur ma liseuse ?
+### Comment vérifier quel compte client est enregistré sur ma liseuse ?
 
-Sur une liseuse TEA (ou Pocketbook) :
+Sur une liseuse TEA (ou Pocketbook) :
 
-- Aller dans « Paramètres »
-- Puis dans « Comptes et synchronisation »
-- Et enfin dans « Mon compte client »
-- Si vous êtes connecté, vous voyez apparaître le mail du compte client avec lequel vous êtes enregistré, ainsi que la mention « Se déconnecter »
-- Si vous n'êtes pas connecté, vous voyez apparaître une icône de cadenas ouvert ainsi que la mention « Connexion ». Appuyez sur « Connexion » pour enregistrer votre compte client.
+- Aller dans « Paramètres »
+- Puis dans « Comptes et synchronisation »
+- Et enfin dans « Mon compte client »
+- Si vous êtes connecté, vous voyez apparaître le mail du compte client avec lequel vous êtes enregistré, ainsi que la mention « Se déconnecter »
+- Si vous n'êtes pas connecté, vous voyez apparaître une icône de cadenas ouvert ainsi que la mention « Connexion ». Appuyez sur « Connexion » pour enregistrer votre compte client.
 
 {% include anchor.html id="compte-adobe" label="Qu'est-ce que mon compte Adobe, ou Adobe ID ?" %}
 
@@ -48,7 +48,7 @@ Pour créer votre compte Adobe, rendez-vous sur le lien suivant avec un navigate
 
 Pensez à bien conserver vos identifiant et mot de passe, vous devrez les saisir sur le(s) support(s) de lecture de votre choix afin de les autoriser et d'ainsi pouvoir lire vos e-books protégés par Adobe DRM.
 
-{% include anchor.html id="identifiant-adobe" label="Comment enregistrer un identifiant Adobe sur mon support ?" %}
+{% include anchor.html id="identifiant-adobe" label="Compte Adobe" %}
 
 ### Compte Adobe
 
@@ -68,7 +68,7 @@ Dans le champ « Fournisseur d'eBook », choisissez « Adobe ID ». Puis tap
 
 Une fois l'ordinateur autorisé, cliquez sur « OK ».
 
-<div class="warningtip"><p>Dans les deux cas, vous <strong>ne devez pas</strong> cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</p></div>
+<div class="warningtip"><p>Dans les deux cas, vous <strong>ne devez pas</strong> cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</p></div>
 
 #### Sur une liseuse TEA
 
@@ -92,32 +92,32 @@ Renseignez ensuite les identifiants Adobe que vous avez créé précédemment.
 
 ![](/images/support-tablette2-6.png)
 
-{% include anchor.html id="identifiant-adobe" label="Comment vérifier avec quel identifiant Adobe le support a été autorisé ?" %}
+{% include anchor.html id="identifiant-adobe" label="Comment vérifier avec quel identifiant Adobe le support a été autorisé ?" %}
 
-### Comment vérifier avec quel identifiant Adobe le support a été autorisé ?
+### Comment vérifier avec quel identifiant Adobe le support a été autorisé ?
 
-* Sur Adobe Digital Editions :
-    1. Dans le menu allez dans « Aide ».
-    2. Puis dans « Infos sur l'autorisation ».
+* Sur Adobe Digital Editions :
+    1. Dans le menu allez dans « Aide ».
+    2. Puis dans « Infos sur l'autorisation ».
     3. Vérifiez ensuite quel e-mail a été utilisé ou bien si l'ordinateur a été autorisé sans identifiant.
-* Sur les liseuses TEA (ou Pocketbook) :
-    1. Allez dans « Paramètres » (sur la page d'accueil pour le logiciel v4 ou dans le menu du haut pour le logiciel v5).
-    2. Puis dans « Comptes et synchronisation » et « Adobe DRM ».
+* Sur les liseuses TEA (ou Pocketbook) :
+    1. Allez dans « Paramètres » (sur la page d'accueil pour le logiciel v4 ou dans le menu du haut pour le logiciel v5).
+    2. Puis dans « Comptes et synchronisation » et « Adobe DRM ».
     3. Vérifiez ensuite quel e-mail a été utilisé.
-* Sur les liseuses Bookeen :
-    1. Depuis le menu de la page d'accueil, allez dans « Réglages ».
-    2. Puis dans « À propos de ».
-    3. Enfin dans la fenêtre qui s'est ouverte, vérifier l'e-mail utilisé dans la section « AdobeID ».
-* Sur les applications Android :
-    * Version 1 :
-        1. Appuyez sur « Mon compte » en haut à droite.
+* Sur les liseuses Bookeen :
+    1. Depuis le menu de la page d'accueil, allez dans « Réglages ».
+    2. Puis dans « À propos de ».
+    3. Enfin dans la fenêtre qui s'est ouverte, vérifier l'e-mail utilisé dans la section « AdobeID ».
+* Sur les applications Android :
+    * Version 1 :
+        1. Appuyez sur « Mon compte » en haut à droite.
         2. Vérifiez ensuite quel e-mail a été utilisé.
-    * Version 2 :
+    * Version 2 :
         1. Allez dans le menu.
-        2. Puis dans « Adobe DRM ».
+        2. Puis dans « Adobe DRM ».
         3. Vérifiez ensuite quel e-mail a été utilisé.
-* Sur l'application iOs :
-    1. Appuyez sur l’icône « Paramètres » (symbolisé par un engrenage) en haut à droite.
-    2. Une fois sur la page « Mon compte », vérifiez quel e-mail a été utilisé.
+* Sur l'application iOs :
+    1. Appuyez sur l’icône « Paramètres » (symbolisé par un engrenage) en haut à droite.
+    2. Une fois sur la page « Mon compte », vérifiez quel e-mail a été utilisé.
 
-[Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?](/faq-autre/#version-logiciel)
+[Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?](/faq-autre/#version-logiciel)

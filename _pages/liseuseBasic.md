@@ -49,33 +49,7 @@ Pour ce faire, allez dans le menu « Paramètres », puis « Comptes et synch
 
 {% include ouvrir-livre.md %}
 
-Le transfert d'un ebook depuis ordinateur vers une liseuse se fait grâce à un câble USB.
-
-Vous devez tout d’abord avoir vos e-books sur Adobe Digital Editions.
-
-![](/images/transferer-ordinateur-liseuse-1.png)
-
-* Connectez votre ordinateur à votre liseuse grâce à votre câble USB.
-* Confirmez la connexion sur votre liseuse (cliquez sur connecter/accepter/Oui).
-* Lors de la première connexion, un programme d’installation peut être lancé.
-
-<div class="warningtip">
-    <p>Dans le cas des liseuses PocketBook, si vous branchez votre liseuse à votre ordinateur alors qu’elle est éteinte, celle-ci ne vous proposera pas de transférer des fichiers mais se mettra automatiquement à charger la batterie.</p>
-    <p>Il faut donc allumer votre liseuse, attendre l’apparition du menu principal, brancher la liseuse à votre ordinateur et sélectionner « Transférer des fichiers ».</p>
-</div>
-
-* Lancez Adobe Digital Editions s’il ne s’est pas lancé tout seul. 
-* Votre liseuse apparaît dans « Périphériques ». 
-
-![](/images/transferer-ordinateur-liseuse-2.png)
-
-Cliquez sur l’e-book que vous voulez transférer et faites un glisser-déposer sur votre liseuse : 
-
-![](/images/transferer-ordinateur-liseuse-3.png)
-
-* Vérifiez que l’e-book a été transféré en cliquant sur le nom de votre liseuse dans « Périphériques ». 
-* Débranchez votre liseuse après vérification. 
-* Vous venez de transférer votre e-book. Félicitations ! 
+{% include transferer-ordinateur-liseuse.md %}
 
 {% include anchor.html id="lire-basic2" label="Lire son livre sur votre liseuse Basic 2" %}
 
@@ -101,17 +75,17 @@ La bibliothèque de votre liseuse vous permet d'accéder aux livres présents su
 
 ![](/images/support-basic2-4.jpg)
 
-Le menu contextuel, qui apparaît suite à une pression continue sur OK, permet d’effectuer les opérations suivantes :
+Le menu contextuel, qui apparaît suite à une pression continue sur OK, permet d’effectuer les opérations suivantes :
 
 * Ouvrir ;
-* Informations : court récapitulatif d’un livre/dossier ; 
-* Marquer comme lu / non lu ; 
-* Ajouter aux favoris / Supprimer des favoris ; 
-* Fichier : Renommer, Déplacer vers un dossier, Supprimer ;
-* Filtre : Tous les livres, En cours de lecture, Favoris ;
-* Regrouper par : les paramètres suivants s’affichent en tant que noms de dossiers en fonction de la méthode de regroupement sélectionnée : Dossier, Auteur, Série, Genre, Format, Par date d’ajout ;
-* Trier : fonctionne selon les paramètres suivants : Noms des fichiers, Titres des livres, Dernier ouvert, Date de création, Série, Auteur ;
-* Affichage : simple ou détaillé ;
+* Informations : court récapitulatif d’un livre/dossier ;
+* Marquer comme lu / non lu ;
+* Ajouter aux favoris / Supprimer des favoris ;
+* Fichier : Renommer, Déplacer vers un dossier, Supprimer ;
+* Filtre : Tous les livres, En cours de lecture, Favoris ;
+* Regrouper par : les paramètres suivants s’affichent en tant que noms de dossiers en fonction de la méthode de regroupement sélectionnée : Dossier, Auteur, Série, Genre, Format, Par date d’ajout ;
+* Trier : fonctionne selon les paramètres suivants : Noms des fichiers, Titres des livres, Dernier ouvert, Date de création, Série, Auteur ;
+* Affichage : simple ou détaillé ;
 * Rechercher.
 
 {% include anchor.html id="lecture-basic2" label="Fonctionnalités de lecture" %}
@@ -135,6 +109,6 @@ En appuyant sur le bouton OK, vous pouvez accéder au menu de l'application de l
 * Quitter : Ferme le livre.
 * Pivoter : Fixe l’orientation de l’écran.
 * Notes.
-* Paramètres : Vous pouvez configurer les paramètres de lecture qui vous conviennent le mieux : police, taille de police, l’espacement des lignes ou la largeur des marges de page.
+* Paramètres : Vous pouvez configurer les paramètres de lecture qui vous conviennent le mieux : police, taille de police, l’espacement des lignes ou la largeur des marges de page.
 * Dictionnaire : Traduction d’un seul mot. Par défaut, le curseur met en surbrillance le mot à traduire, et le dictionnaire recherche une traduction automatiquement. En appuyant sur le bouton OK, une barre d’outils apparaît.
 

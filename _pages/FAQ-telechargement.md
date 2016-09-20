@@ -18,7 +18,7 @@ type: faq
 
 * [Transférer un livre sur sa liseuse Basic 2](/liseuseBasic/#tranferer-basic2)
 * [Télécharger sur votre liseuse Pocketbook depuis le store liseuse](/liseusePB/#telecharger-store-liseuse)
-* [Télécharger sur votre liseuse TEA depuis « mes achats »](/web-liseuseTEA/#telecharger-liseuseTEA)
+* [Télécharger sur votre liseuse TEA depuis « Mes achats »](/web-liseuseTEA/#telecharger-liseuseTEA)
 
 **Sur tablette/smartphone Android**
 
@@ -29,7 +29,7 @@ type: faq
 
 * [Télécharger sur l'application iOs](/web-iosv1/#telecharger-ios)
 
-[Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?](/faq-autre/#version-logiciel)
+[Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?](/faq-autre/#version-logiciel)
 
 {% include anchor.html id="pas-telecharger-ebook" label="Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?" %}
 
@@ -46,15 +46,15 @@ Si vous ne trouvez toujours pas votre livre ou bien qu'un message d'erreur est a
 
 Le bouton « Télécharger » est :
 
-- absent : la commande a été annulée et le livre n'est pas téléchargeable ;
+- absent : la commande a été annulée et le livre n'est pas téléchargeable ;
 - présent : contacter le service client.
 
 {% include anchor.html id="pas-telecharger-ebook-liseuse" label="Je n’arrive pas à télécharger mon e-book sur ma liseuse ?" %}
 
 ### Je n’arrive pas à télécharger mon e-book sur ma liseuse ?
 
-**Si vous possèdez une liseuse Pocketbook Touch Lux 2/3, Sense ou Ultra :**
+**Si vous possèdez une liseuse Pocketbook Touch Lux 2/3, Sense ou Ultra :**
 
-* Vérifiez que votre liseuse est bien à jour et effectuez une mise à jour si besoin : [Comment mettre à jour ma liseuse Pocketbook / TEA ?](/maj/)
-* Assurez-vous que votre compte client est bien enregistré dans la liseuse :
-[Comment vérifier quel compte client est enregistré sur ma liseuse ?](/faq-comptes/#compte-liseuse)
+* Vérifiez que votre liseuse est bien à jour et effectuez une mise à jour si besoin : [Comment mettre à jour ma liseuse Pocketbook / TEA ?](/maj/)
+* Assurez-vous que votre compte client est bien enregistré dans la liseuse :
+[Comment vérifier quel compte client est enregistré sur ma liseuse ?](/faq-comptes/#compte-liseuse)
