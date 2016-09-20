@@ -48,7 +48,7 @@ Pour créer votre compte Adobe, rendez-vous sur le lien suivant avec un navigate
 
 Pensez à bien conserver vos identifiant et mot de passe, vous devrez les saisir sur le(s) support(s) de lecture de votre choix afin de les autoriser et d'ainsi pouvoir lire vos e-books protégés par Adobe DRM.
 
-{% include anchor.html id="identifiant-adobe" label="Comte Adobe" %}
+{% include anchor.html id="identifiant-adobe" label="Compte Adobe" %}
 
 ### Compte Adobe
 
