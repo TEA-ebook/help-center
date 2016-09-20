@@ -65,11 +65,11 @@ Dans le cas contraire vous devez enregistrer votre compte personnel ID Adobe ain
 
 Diverses fonctionnalités sont accessibles depuis la page d'accueil du logiciel (ces fonctionnalités peuvent différer d'un modèle à l'autre)&nbsp;:
 
-- **Bibliothèque** : Retrouvez tous les livres présent sur votre liseuse.
-- **Librairie** : Achetez de nouveaux livres
+- **Bibliothèque** : Retrouvez tous les livres présents sur votre liseuse.
+- **Librairie** : Achetez de nouveaux livres.
 - **Mes achats** (*uniquement sur Touch Lux 2*) : Téléchargez facilement tous vos livres sur votre liseuse.
 - **Paramètres** : Réglez votre liseuse suivant vos besoins (éclairage, compte Adobe, réseau, langues, date et heure...)
-- **Applications** : Calculatrice, dictionnaire, solitaire, sudoku...
+- **Applications** : Calculatrice, Dictionnaire, Solitaire, Sudoku...
 - **Notes**
 - **Favoris**
 - **Navigateur**
