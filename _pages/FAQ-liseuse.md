@@ -183,9 +183,6 @@ Mettez-la en charge. S'il ne se passe toujours rien, contactez le service client
 
 * Mes ebooks : Pour les ebooks acheté dans votre librairie, il suffit d'aller dans mes achats et de les télécharger à nouveau.
 * Mes voix pour la synthèse vocale : Il est possible de télécharger les fichier voix pour la synthèse vocale à l'adresse suivante : http://www.pocketbook-int.com/fr/support/pocketbook-ultra
-* Mes notes : Il n'est pour l'instant pas possible de les récupérer automatiquement. Mais une fonctionnalité import/export notes est en cours de préparation.
-* Mes positions de lecture : Il n'est pour l'instant pas possible de les récupérer automatiquement.
-* Mes paramètres : Il n'est pas possible de les récupérer automatiquement.
 
 {% include anchor.html id="garantie" label="Conditions de garantie des liseuses TEA (ou Pocketbook)" %}
 
@@ -220,8 +217,7 @@ La présente garantie tient lieu et place de toute autre garantie, implicite ou 
 
 Merci de noter que les différences entre les nuances d’éclairage sont une des particularités de la fabrication de diodes électroluminescentes (LED) et ne peuvent donc pas être considérées comme un défaut de qualité ou comme une anomalie. Vous constaterez, sous certaines conditions d’éclairage, une ombre légère sur la partie inférieure de l’écran lorsque le rétro-éclairage est activé. Ceci est normal et propre à chaque écran à encre électronique avec rétro-éclairage.
 
-Lorsque le rétro-éclairage d’une liseuse est activé, il est possible d’apercevoir des points ou zones particulièrement éclairés selon l’inclinaison de l’écran. Ces effets sont liés aux particularités technologiques du rétro-éclairage et ne sont pas considérés comme un défaut de qualité ou comme une
-anomalie.
+Lorsque le rétro-éclairage d’une liseuse est activé, il est possible d’apercevoir des points ou zones particulièrement éclairés selon l’inclinaison de l’écran. Ces effets sont liés aux particularités technologiques du rétro-éclairage et ne sont pas considérés comme un défaut de qualité ou comme une anomalie.
 
 {% include anchor.html id="bookeen" label="Liseuses Bookeen" %}
 

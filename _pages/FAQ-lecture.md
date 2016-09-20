@@ -86,9 +86,9 @@ Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui n�
 
 <div class="warningtip"><p>Il faut penser à éjecter « proprement » la liseuse Kobo avant de la déconnecter d'un ordinateur.</p></div>
 
-{% include anchor.html id="lire-autres" label="Comment lire mes livres sur une liseuse non TEA (ou PB) ?" %}
+{% include anchor.html id="lire-autres" label="Comment lire mes livres sur une liseuse non TEA (ou Pocketbook) ?" %}
 
-### Comment lire mes livres sur une liseuse non TEA (ou PB) ?
+### Comment lire mes livres sur une liseuse non TEA (ou Pocketbook) ?
 
 [Ouvrir et lire un livre avec Adobe Digital Editions](/web-web/#installer-adobe-digital-edition)
 
