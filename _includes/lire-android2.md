@@ -26,7 +26,7 @@
 4. Paramètres de l'application de lecture.
 5. Régler la luminosité.
 6. Choisir le mode d'affichage : page par page - en continu.
-7. Plus de réglages : Police - Note - Affichage en plein écran - Vérouillage.de l'écran - Recherche.
+7. Plus de réglages : Police - Note - Affichage en plein écran - Verrouillage de l'écran - Recherche.
 8. Régler la taille des caractères.
 9. Choisir le thème coloré.
 10. Régler les marges.
