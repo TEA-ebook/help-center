@@ -174,8 +174,18 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 
 ### Ma liseuse TEA (ou Pocketbook) est bloquée sur une page, que dois-je faire ?
 
-Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.  
+Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.
 Mettez-la en charge. S'il ne se passe toujours rien, contactez le service client.
+
+{% include anchor.html id="formatage" label="Comment récupérer mes données après le formatage de ma liseuse ?" %}
+
+## Comment récupérer mes données après le formatage de ma liseuse ?
+
+* Mes ebooks : Pour les ebooks acheté dans votre librairie, il suffit d'aller dans mes achats et de les télécharger à nouveau.
+* Mes voix pour la synthèse vocale : Il est possible de télécharger les fichier voix pour la synthèse vocale à l'adresse suivante : http://www.pocketbook-int.com/fr/support/pocketbook-ultra
+* Mes notes : Il n'est pour l'instant pas possible de les récupérer automatiquement. Mais une fonctionnalité import/export notes est en cours de préparation.
+* Mes positions de lecture : Il n'est pour l'instant pas possible de les récupérer automatiquement.
+* Mes paramètres : Il n'est pas possible de les récupérer automatiquement.
 
 {% include anchor.html id="garantie" label="Conditions de garantie des liseuses TEA (ou Pocketbook)" %}
 
