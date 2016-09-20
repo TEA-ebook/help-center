@@ -49,12 +49,12 @@ Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 G
 
 Les liseuses TEA (ou Pocketbook) supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
 
-{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse  TEA (ou Pocketbook) ?" %}
+{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse  TEA (ou Pocketbook) ?" %}
 
-### Quels sont les formats supportés par ma liseuse TEA (ou Pocketbook) ?
+### Quels sont les formats supportés par ma liseuse TEA (ou Pocketbook) ?
 
-- Formats d’ebooks supportés par les liseuses TEA (ou Pocketbook) : ePub, PDF, Adobe® DRM, HTML, TXT, FB2, FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
-- Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
+- Formats d’ebooks supportés par les liseuses TEA (ou Pocketbook) : ePub, PDF, Adobe® DRM, HTML, TXT, FB2, FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
+- Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
 
 {% include anchor.html id="maj-liseuse" label="Comment mettre à jour ma liseuse ?" %}
 
@@ -81,7 +81,7 @@ Vous ne perdrez pas vos documents ou vos livres quand vous mettrez à jour votre
 
 Dans votre liseuse, rendez-vous dans *Paramètres > À propos de l'appareil > Logiciel > Version du logiciel* ou bien dans *Paramètres > Logiciel > Version du logiciel*.
 
-La version du logiciel apparaît sous la forme suivante : T623.4.4.893
+La version du logiciel apparaît sous la forme suivante : T623.4.4.893
 
 * La lettre T indique s'il s'agit d'un logiciel spécifique TEA. (Si vous avez une autre lettre (W), il s'agit d'un logiciel générique Pocketbook.)
 * Les trois premiers chiffres indiquent le modèle de la liseuse.
@@ -142,7 +142,7 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 #### Version 4
 
 - Allez dans Paramètres > Paramètres supplémentaires > Configuration de l'écran en mode Lecture.
-- Appuyez ensuite sur les boutons On/Off des éléments que vous souhaitez ou non afficher dans la barre d'état en bas :
+- Appuyez ensuite sur les boutons On/Off des éléments que vous souhaitez ou non afficher dans la barre d'état en bas :
   - Page en cours
   - Date et heure
   - Titre du livre
@@ -166,7 +166,7 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 - Allez dans Applications > Photo.
 - Ouvrez l'image.
 - Appuyez au centre de l'image, une barre apparait en haut.
-- Appuyez sur le menu et choisissez :
+- Appuyez sur le menu et choisissez :
   - Logo de démarrage
   - Logo pour la mise hors tension de l'appareil 
 
@@ -174,8 +174,50 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 
 ### Ma liseuse TEA (ou Pocketbook) est bloquée sur une page, que dois-je faire ?
 
-Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.  
+Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.
 Mettez-la en charge. S'il ne se passe toujours rien, contactez le service client.
+
+{% include anchor.html id="formatage" label="Comment récupérer mes données après le formatage de ma liseuse ?" %}
+
+## Comment récupérer mes données après le formatage de ma liseuse ?
+
+* Mes ebooks : Pour les ebooks acheté dans votre librairie, il suffit d'aller dans mes achats et de les télécharger à nouveau.
+* Mes voix pour la synthèse vocale : Il est possible de télécharger les fichier voix pour la synthèse vocale à l'adresse suivante : http://www.pocketbook-int.com/fr/support/pocketbook-ultra
+
+{% include anchor.html id="garantie" label="Conditions de garantie des liseuses TEA (ou Pocketbook)" %}
+
+## Conditions de garantie des liseuses TEA (ou Pocketbook)
+
+{% include anchor.html id="restrictions-exceptions" label="Restrictions et exceptions" %}
+
+### Restrictions et exceptions :
+La présente garantie tient lieu et place de toute autre garantie, implicite ou explicite, incluant sans limitation, les garanties implicites de qualité marchande ou liées à un usage particulier.
+
+{% include anchor.html id="non-application" label="La garantie de la liseuse ne couvre pas et ne s'applique pas" %} 
+
+### La garantie de la liseuse ne couvre pas et ne s'applique pas :
+
+1. Aux consommables, c'est-à-dire aux produits qui demandent un remplacement périodique lié à l’usage normal de la liseuse, à l'exception des batteries.
+2. Aux dommages résultant de l'usure normale de la liseuse dans le cadre de son utilisation et de son amortissement (par exemple, les dommages exclusivement d'ordre esthétique tels que l’usure sur le l’extérieur de la liseuse, les égratignures, etc.).
+3. À la récupération de données ou de programmes spécifiques qui appartiennent à l’utilisateur et qui se trouvent sur la mémoire interne de la liseuse.
+4. Si le boîtier de la liseuse a été ouvert, que son numéro de série ou son étiquette d'inviolabilité ont été abîmés, modifiés, retirés ou dégradés, sauf si le défaut est survenu en raison de manipulations (main d’œuvre) effectuées par le fournisseur.
+5. Aux dommages attribuables à une surtension ou à toute anomalie électrique externe à la liseuse.
+6. Aux détériorations découlant d'une installation ou de la modification non autorisées des logiciels contenus dans la liseuse.
+7. Aux défaillances découlant de la négligence, d'une mauvaise utilisation ou manipulation, d'une utilisation abusive de la liseuse.
+8. Aux conséquences liées à l’utilisation d’accessoires ou tout autres produits qui n’ont pas été fournis par PocketBook ou qui n’ont pas été certifiés par lui comme compatibles avec cette liseuse.
+9. Aux dommages causés par une catastrophe naturelle (incendie, inondation, foudre, tempêtes, tremblements de terre, etc.).
+10. Aux dommages dus à un mauvais traitement de la liseuse ou une fausse manipulation incluant la chute de la liseuse, la casse de son écran pour quelque cause que ce soit et son contact avec tout liquide par exemple renversé sur la liseuse ou dans lequel la liseuse a été immergé et conduisant à la présence de liquide sur ou à l’intérieur de la liseuse.
+11. Aux dommages causés par une incompatibilité de la liseuse avec des flux de télécommunication (wifi, réseaux câblés, etc.) ne respectant pas les normes et protocoles standard.
+12. Aux erreurs liées à l’utilisation de logiciels incompatibles avec la liseuse ou aux actions de virus informatiques contractés par la liseuse ou par tout logiciel en lien avec elle.
+13. Si le nombre de pixels endommagés sur l’écran de la liseuse excède le nombre de 5.
+
+{% include anchor.html id="remarque-importante" label="Remarque importante concernant le rétro-éclairage des liseuses" %}
+
+### Remarque importante concernant le rétro-éclairage des liseuses :
+
+Merci de noter que les différences entre les nuances d’éclairage sont une des particularités de la fabrication de diodes électroluminescentes (LED) et ne peuvent donc pas être considérées comme un défaut de qualité ou comme une anomalie. Vous constaterez, sous certaines conditions d’éclairage, une ombre légère sur la partie inférieure de l’écran lorsque le rétro-éclairage est activé. Ceci est normal et propre à chaque écran à encre électronique avec rétro-éclairage.
+
+Lorsque le rétro-éclairage d’une liseuse est activé, il est possible d’apercevoir des points ou zones particulièrement éclairés selon l’inclinaison de l’écran. Ces effets sont liés aux particularités technologiques du rétro-éclairage et ne sont pas considérés comme un défaut de qualité ou comme une anomalie.
 
 {% include anchor.html id="bookeen" label="Liseuses Bookeen" %}
 

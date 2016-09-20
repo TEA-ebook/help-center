@@ -22,31 +22,31 @@ Vous pouvez modifier les paramètres d'affichage et de tri de la bibliothèque.
 
 ![](/images/lire-liseuse-Pocketbook-F4-4.jpg)
 
-**1. Critères de filtrage**
-- Tous les livres ;
-- Lecture en cours ;
+**1. Critères de filtrage :**
+- Tous les livres ;
+- Lecture en cours ;
 - Favoris.
 
-**2. Critères de regroupement**
-- Dossier ;
-- Auteur ;
-- Format ;
+**2. Critères de regroupement :**
+- Dossier ;
+- Auteur ;
+- Format ;
 - Date d'ajout.
 
-**3. Critères d'ordonnancement**
-- Titres des livres ;
-- Noms des fichiers ;
-- Dernier ouvert ;
-- Date de création ;
+**3. Critères d'ordonnancement :**
+- Titres des livres ;
+- Noms des fichiers ;
+- Dernier ouvert ;
+- Date de création ;
 - Auteur.
 
-**4. Critères d'affichage :**
-- Simple ;
-- Détaillé ;
+**4. Critères d'affichage :**
+- Simple ;
+- Détaillé ;
 - Miniature.
 
-**5. Stockage**
-- Internet + carte mémoire ;
+**5. Stockage :**
+- Internet + carte mémoire ;
 - Internet ;
 - Carte mémoire.
 

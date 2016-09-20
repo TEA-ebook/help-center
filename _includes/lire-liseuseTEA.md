@@ -22,23 +22,23 @@ Vous pouvez modifier les paramètres d'affichage et de tri de la bibliothèque.
 
 ![](/images/lire-liseuse-Pocketbook-F5-4.jpg)
 
-**Critères de regroupement**
+**Critères de regroupement :**
 
-- Tous ;
-- Auteurs ;
-- Genres ;
-- Étagères ;
-- Dossiers ;
-- Formats ;
+- Tous ;
+- Auteurs ;
+- Genres ;
+- Étagères ;
+- Dossiers ;
+- Formats ;
 - Séries.
 
 Les résultats de regroupements peuvent être affichés dans l'ordre croissant (A-Z) ou décroissant (Z-A).
 
 Vous pouvez aussi effectuer une recherche par mot-clé.
 
-**Critères d'affichages :**
+**Critères d'affichages :**
 
-- Détaillée ;
+- Détaillée ;
 - Miniature.
 
 #### Le menu contextuel

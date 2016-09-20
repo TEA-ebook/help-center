@@ -14,6 +14,14 @@ $(".navbar li.dropdown > a").click(function () {
     return false;
 });
 
+$("#title-menu-top").click(function () {
+    if($("#content-menu-top").css("display")=="none") {
+        $("#content-menu-top").css("display","block");
+    } else {
+        $("#content-menu-top").css("display","none");
+    }    
+})
+
 (function () {
     'use strict';
 

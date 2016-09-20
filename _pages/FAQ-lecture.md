@@ -23,7 +23,7 @@ Certaines applications permettent également de se connecter directement à une 
 
 {% include anchor.html id="pas-ouvrir-ebook" label="Je n’arrive pas à ouvrir mon e-book." %}
 
-### Je n’arrive pas à ouvrir mon e-book. Que puis-je faire ?
+### Je n’arrive pas à ouvrir mon e-book. Que puis-je faire ?
 
 1. Vérifiez la compatibilité entre le format du e-book que vous avez acheté et le support sur lequel vous essayez de l'ouvrir : [Quel format choisir pour acheter un e-book ?](/faq-achat/#format-ebook)
 2. Vérifiez si l'application de lecture est adaptée à votre support, notamment si la version de l'application est bien compatible avec la version du support.
@@ -36,7 +36,7 @@ Si rien ne fonctionne, contactez votre service client.
 
 {% include anchor.html id="ouvrir-acsm" label="Mon livre est un fichier au format acsm" %}
 
-### Mon e-book est un fichier au format acsm. Comment puis-je l'ouvrir ?
+### Mon e-book est un fichier au format acsm. Comment puis-je l'ouvrir ?
 
 Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateur de télécharger son e-book, lorsque celui-ci est protégé par Adobe DRM.
 
@@ -47,7 +47,7 @@ Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateu
 
 {% include anchor.html id="ebook-incomplet" label="L’e-book est incomplet. Il manque des pages ou des chapitres." %}
 
-### L’e-book est incomplet. Il manque des pages ou des chapitres. Que puis-je faire ?
+### L’e-book est incomplet. Il manque des pages ou des chapitres. Que puis-je faire ?
 
 Certains livres sont vendus soit au chapitre, soit en version intégrale.
 Vérifiez sur la fiche produit du livre que vous avez acheté qu'il s'agit bien du livre complet et non d'un chapitre ou d'un extrait.  
@@ -72,7 +72,7 @@ Certains livres multi-format proposent un format mobipocket, compatible avec la 
 
 ### Puis-je lire mes e-books sur la liseuse Reader de SONY ?
 
-Un logiciel complémentaire doit être installé pour transférer vos e-books : le Reader for PC & Mac.  
+Un logiciel complémentaire doit être installé pour transférer vos e-books : le Reader for PC & Mac.  
 Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Reader SONY, téléchargeable gratuitement sur leur site.  
 [pour Windows](http://www.sony.fr/support/fr/content/cnt-dwnl/prd-ebo/sony-reader-software-update-ver2400_05230-win/)  
 [pour Mac](http://www.sony.fr/support/fr/content/cnt-dwnl/prd-ebo/sony-reader-software-update-ver2400_05230-mac/)
@@ -85,5 +85,15 @@ Il est possible de lire ses e-books sur une liseuse Kobo.
 Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
 
 <div class="warningtip"><p>Il faut penser à éjecter « proprement » la liseuse Kobo avant de la déconnecter d'un ordinateur.</p></div>
+
+{% include anchor.html id="lire-autres" label="Comment lire mes livres sur une liseuse non TEA (ou Pocketbook) ?" %}
+
+### Comment lire mes livres sur une liseuse non TEA (ou Pocketbook) ?
+
+[Ouvrir et lire un livre avec Adobe Digital Editions](/web-web/#installer-adobe-digital-edition)
+
+#### Transférer un livre sur sa liseuse
+
+{% include transferer-ordinateur-liseuse.md %}
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>

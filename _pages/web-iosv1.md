@@ -107,14 +107,14 @@ Il est possible de forcer synchronisation en « tirant » sur la page « Mes 
 #### Changer le thème de lecture (confort de lecture)
 
 A quoi ça sert?  
-Trois thèmes de lecture différents sont proposés : 
+Trois thèmes de lecture différents sont proposés : 
 
 1. Fond blanc, texte noir, 
 2. Fond noir, texte blanc, 
 3. Fond sépia, texte noir 
 
 Vous pouvez choisir un thème suivant l'environnement de lecture en cours. 
-Exemple : pour une lecture confortable en environnement très lumineux, choisissez le thème fond blanc. A l'inverse, pour une lecture en environnement très peu lumineux, choisissez le thème fond noir.
+Exemple : pour une lecture confortable en environnement très lumineux, choisissez le thème fond blanc. A l'inverse, pour une lecture en environnement très peu lumineux, choisissez le thème fond noir.
 
 ##### Comment changer le thème
 
@@ -122,10 +122,10 @@ Depuis la lecture d'un livre numérique, accédez aux paramètres de lecture :
 
 ![](/images/lire-iPad-3.png)
 
-Dépliez le menu et choisissez un thème :
+Dépliez le menu et choisissez un thème :
 
 ![](/images/lire-iPad-4.png)
 
-Exemple: le thème "Fond noir, texte blanc" est sélectionné.
+Exemple: le thème « Fond noir, texte blanc » est sélectionné.
 
 ![](/images/lire-iPad-5.png)
