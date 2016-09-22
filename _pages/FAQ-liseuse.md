@@ -190,13 +190,13 @@ Mettez-la en charge. S'il ne se passe toujours rien, contactez le service client
 
 {% include anchor.html id="restrictions-exceptions" label="Restrictions et exceptions" %}
 
-### Restrictions et exceptions :
+### Restrictions et exceptions :
 
 La présente garantie tient lieu et place de toute autre garantie, implicite ou explicite, incluant sans limitation, les garanties implicites de qualité marchande ou liées à un usage particulier.
 
 {% include anchor.html id="non-application" label="La garantie de la liseuse ne couvre pas et ne s'applique pas" %} 
 
-### La garantie de la liseuse ne couvre pas et ne s'applique pas :
+### La garantie de la liseuse ne couvre pas et ne s'applique pas :
 
 1. Aux consommables, c'est-à-dire aux produits qui demandent un remplacement périodique lié à l’usage normal de la liseuse, à l'exception des batteries.
 2. Aux dommages résultant de l'usure normale de la liseuse dans le cadre de son utilisation et de son amortissement (par exemple, les dommages exclusivement d'ordre esthétique tels que l’usure sur le l’extérieur de la liseuse, les égratignures, etc.).
