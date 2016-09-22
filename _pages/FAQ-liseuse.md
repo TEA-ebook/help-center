@@ -214,7 +214,7 @@ La présente garantie tient lieu et place de toute autre garantie, implicite ou 
 
 {% include anchor.html id="remarque-importante" label="Remarque importante concernant le rétro-éclairage des liseuses" %}
 
-### Remarque importante concernant le rétro-éclairage des liseuses :
+### Remarque importante concernant le rétro-éclairage des liseuses :
 
 Merci de noter que les différences entre les nuances d’éclairage sont une des particularités de la fabrication de diodes électroluminescentes (LED) et ne peuvent donc pas être considérées comme un défaut de qualité ou comme une anomalie. Vous constaterez, sous certaines conditions d’éclairage, une ombre légère sur la partie inférieure de l’écran lorsque le rétro-éclairage est activé. Ceci est normal et propre à chaque écran à encre électronique avec rétro-éclairage.
 
