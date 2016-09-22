@@ -58,6 +58,8 @@ title: Foire Aux Questions
 
 #### [Puis-je lire mes e-books sur une liseuse Kobo ?](/faq-lecture/#lire-kobo)
 
+#### [Comment lire mes livres sur une liseuse non TEA (ou Pocketbook) ?](/faq-lecture/#lire-autres)
+
 {% include anchor.html id="liseuse" label="Liseuse" %}
 
 ## [Liseuses](/faq-liseuse/)
@@ -100,6 +102,18 @@ title: Foire Aux Questions
 
 #### [Ma liseuse TEA (ou Pocketbook) est bloquée sur une page, que dois-je faire ?](/faq-liseuse/#pocketbook-bloque)
 
+#### [Comment récupérer mes données après le formatage de ma liseuse ?](/faq-liseuse/#formatage)
+
+### [Conditions de garantie des liseuses TEA (ou Pocketbook)](/faq-liseuse/#garantie)
+
+#### [Restrictions et exceptions](/faq-liseuse/#restrictions-exceptions)
+
+#### [La garantie de la liseuse ne couvre pas et ne s'applique pas](/faq-liseuse/#non-application)
+
+#### [Remarque importante concernant le rétro-éclairage des liseuses](/faq-liseuse/#remarque-importante)
+
+### [Liseuses Bookeen](/faq-liseuse/#bookeen)
+
 ## [Téléchargement](/faq-telechargement/)
 
 #### [Après avoir acheté un e-book, où puis-je le récupérer ?](/faq-telechargement/#recuperer-ebook)
@@ -124,6 +138,10 @@ title: Foire Aux Questions
 
 #### [Error check activation](/faq-erreurs/#error-check-activation)
 
+#### [E\_ADEPT\_DUPLICATE\_TRANSACTION\_ID](/faq-erreurs/#duplicate-transaction)
+
 ## [Autres](/faq-autre/)
 
 #### [Malgré les protections, peut-on imprimer ou copier un e-book ?](/faq-autre/#imprimer-copier-ebook)
+
+#### [Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?](/faq-autre/#version-logiciel)

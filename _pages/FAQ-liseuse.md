@@ -179,7 +179,7 @@ Mettez-la en charge. S'il ne se passe toujours rien, contactez le service client
 
 {% include anchor.html id="formatage" label="Comment récupérer mes données après le formatage de ma liseuse ?" %}
 
-## Comment récupérer mes données après le formatage de ma liseuse ?
+### Comment récupérer mes données après le formatage de ma liseuse ?
 
 * Mes ebooks : Pour les ebooks acheté dans votre librairie, il suffit d'aller dans mes achats et de les télécharger à nouveau.
 * Mes voix pour la synthèse vocale : Il est possible de télécharger les fichier voix pour la synthèse vocale à l'adresse suivante : http://www.pocketbook-int.com/fr/support/pocketbook-ultra
@@ -191,6 +191,7 @@ Mettez-la en charge. S'il ne se passe toujours rien, contactez le service client
 {% include anchor.html id="restrictions-exceptions" label="Restrictions et exceptions" %}
 
 ### Restrictions et exceptions :
+
 La présente garantie tient lieu et place de toute autre garantie, implicite ou explicite, incluant sans limitation, les garanties implicites de qualité marchande ou liées à un usage particulier.
 
 {% include anchor.html id="non-application" label="La garantie de la liseuse ne couvre pas et ne s'applique pas" %} 
