@@ -27,7 +27,7 @@ type: faq
 
 **Sur iPad/iPhone**
 
-* [Télécharger sur l'application iOs](/web-iosv1/#telecharger-ios)
+* [Télécharger sur l'application iOs](/web-ios/)
 
 [Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?](/faq-autre/#version-logiciel)
 
