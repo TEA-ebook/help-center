@@ -64,21 +64,26 @@ Pour supprimer un ou plusieurs ebooks de la bibliothèque, faites un appui prolo
 {% include anchor.html id="onglet-auteurs" label="L'onglet Auteurs" %}
 
 ### L'onglet "Auteurs"
+
 Cet espace vous permet d'accéder aux ebooks de votre bibliothèque via les noms d'auteurs, classés par défaut dans l'ordre alphabétique.
 
 {% include anchor.html id="fonctionnalites-lecture" label="Les fonctionnalités de lecture" %}
 
 ### Les fonctionnalités de lecture
 
-![](/images/lire-iPad-2.png)
+En appuyant au milieu de l'écran pendant la lecture, faites apparaître les paramètres de lecture.
+
+![](/images/support-iPad-v2-5.png)
 
 1. Retour à la bibliothèque ;
-2. Recherche ;
-3. Détail du livre (Sommaire, résumé, note) ;
-4. Paramètre de lecture (Luminosité, police + taille, affichage, orientation, contraste) ;
-5. Ajouter une note ;
-6. Ajouter un marque page ;
-7. Pagination.
+2. Détails du livre (Menu, Couverture, Marque-pages, notes) ;
+3. Taille de la police
+4. Recherche d'un mot dans la page
+5. Thème de lecture
+6. Verrouiller/Dévérouiller l'orientation paysage/portrait
+7. Affichage de la page (page par page, scroll, 2 pages)
+8. Luminosité
+9. Pagination.
 
 #### Changer le thème de lecture (confort de lecture)
 
@@ -87,20 +92,15 @@ Quatre thèmes de lecture différents sont proposés :
 1. Fond blanc, texte noir, 
 2. Fond noir, texte blanc, 
 3. Fond sépia, texte noir 
+4. Fond gris, texte noir 
 
-Vous pouvez choisir un thème suivant l'environnement de lecture en cours. 
+![](/images/support-iPad-v2-6.png)
+
+Vous pouvez choisir un thème suivant votre environnement de lecture en cours. 
 Exemple : pour une lecture confortable en environnement très lumineux, choisissez le thème fond blanc. A l'inverse, pour une lecture en environnement très peu lumineux, choisissez le thème fond noir.
 
-##### Comment changer le thème
+{% include anchor.html id="parametres-appli-iOS-v2" label="L'onglet Paramètres" %}
 
-Depuis la lecture d'un livre numérique, accédez aux paramètres de lecture :
+### L'onglet "Paramètres"
 
-![](/images/lire-iPad-3.png)
-
-Dépliez le menu et choisissez un thème :
-
-![](/images/lire-iPad-4.png)
-
-Exemple : le thème « Fond noir, texte blanc » est sélectionné.
-
-![](/images/lire-iPad-5.png)
+![](/images/support-iPad-v2-7.png)
