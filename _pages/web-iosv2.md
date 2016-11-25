@@ -103,4 +103,11 @@ Exemple : pour une lecture confortable en environnement très lumineux, choisis
 
 ### L'onglet "Paramètres"
 
+Depuis les paramètres de l'application, vous pouvez activer et désactiver les animations, le mode nuit, configurer les zones tactiles de lecture et les paramètres de lecture.
+
 ![](/images/support-iPad-v2-7.png)
+
+C'est également ici que vous pouvez autoriser votre application avec un identifiant Adobe, pour lire les ebooks protégés par la DRM Adobe.
+Si besoin de compléments sur l'identification Adobe, consultez la FAQ. http://aide.tea-ebook.com/faq-comptes/#identifiant-adobe
+
+Vous pouvez également synchroniser votre application avec Dropbox en vous identifiant. Vous pourrez alors ajouter des fichiers sur Dropbox et les retrouver sur votre application.
