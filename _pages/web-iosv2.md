@@ -19,22 +19,19 @@ L’application est alors téléchargée et installée sur votre iPad/iPhone. La
 Vous retrouverez ensuite facilement l’application sur votre iPad/iPhone : l’icône de l'application de votre libraire apparaît désormais avec les autres applications sur votre appareil.
 
 {% include anchor.html id="Initialisation-application" label="Initialisation de l'application" %}
+{% include anchor.html id="connexion-compte-client" label="Connexion au compte client" %}
 
 ## Initialisation de l'application
+
+### Connexion au compte client
 
 Afin de pouvoir utiliser toutes les fonctionnalités de l'application, identifiez-vous avec votre compte client.
 En bas à droite de l'écran, appuyez sur l'icône "Paramètres" représentée par un engrenage.
 
-![](/images/support-iPad-2.png)
-
-{% include anchor.html id="connexion-compte-client" label="Connexion au compte client" %}
-
-### Connexion au compte client
-
 Sélectionnez le champ "Compte Libraire", et renseignez vos identifiants (adresse mail et mot de passe de votre compte client). Appuyez ensuite sur "Autoriser".
 L'application iOS ne permet pas de créer directement votre compte client, vous devez le faire sur le site internet de votre libraire.
 
-![](/images/support-iPad-3.png)
+![](/images/support-iPad-v2-1.png)
 
 {% include anchor.html id="synchro-achats-ios" label="Synchronisation des achats sur l'application iOs" %}
 
@@ -42,7 +39,7 @@ L'application iOS ne permet pas de créer directement votre compte client, vous 
 
 Dans l'espace "Mes achats" (2ème icône en bas de l'écran), retrouvez tous les ebooks achetés avec votre compte client Libraire.
 
-![](/images/telecharger-iPad-1.png)
+![](/images/support-iPad-v2-2.png)
 
 Pour télécharger un ebook sur votre appareil et le lire, appuyez sur la couverture, il sera alors ajouté à l'espace "Bibliothèque" et sera accessible sur votre appareil même sans connexion internet.
 
@@ -54,15 +51,20 @@ Pour télécharger un ebook sur votre appareil et le lire, appuyez sur la couver
 
 ### Fonctionnement de la bibliothèque
 
-![](/images/lire-iPad-1.png)
+![](/images/support-iPad-v2-3.png)
 
-L'espace "Bibliothèque" permet de gérer ses livres.
-2. Trier par (auteur, titre, éditeur, derniers lus, derniers ajoutés) ;
-3. Affichage (couverture, détail) ;
-4. Thème de la bibliothèque ;
-5. Paramètres (Mon compte, aide, partager, mentions légales) ;
-6. Supprimer des livres ;
-7. Recherche.
+L'espace "Bibliothèque" permet de gérer ses livres. 
+Deux affichages sont possibles : un mode couvertures comme ci-dessus, un mode détails comme ci-dessous.
+
+![](/images/support-iPad-v2-4.png)
+
+Il est possible de sélectionner des ebooks en les désignant comme des coups de coeur. Ils se retrouveront alors dans l'onglet "Favoris" de la bibliothèque. Les derniers ebooks ouverts se retrouvent quant à eux dans l'onglet "Récents" de la bibliothèque.
+Pour supprimer un ou plusieurs ebooks de la bibliothèque, faites un appui prolongé sur l'une des couvertures (puis sur les autres couvertures si vous souhaitez en supprimer plusieurs) et appuyez sur la corbeille qui apparaît en haut à gauche.
+
+{% include anchor.html id="onglet-auteurs" label="L'onglet Auteurs" %}
+
+### L'onglet "Auteurs"
+Cet espace vous permet d'accéder aux ebooks de votre bibliothèque via les noms d'auteurs, classés par défaut dans l'ordre alphabétique.
 
 {% include anchor.html id="fonctionnalites-lecture" label="Les fonctionnalités de lecture" %}
 
@@ -80,7 +82,6 @@ L'espace "Bibliothèque" permet de gérer ses livres.
 
 #### Changer le thème de lecture (confort de lecture)
 
-A quoi ça sert?  
 Quatre thèmes de lecture différents sont proposés : 
 
 1. Fond blanc, texte noir, 
