@@ -85,6 +85,11 @@ En appuyant au milieu de l'écran pendant la lecture, faites apparaître les par
 8. Luminosité
 9. Pagination.
 
+En faisant un appui long sur un mot pendant la lecture, faites apparaître les fonctionnalités de lecture.
+
+![](/images/support-iPad-v2-7.png)
+
+
 #### Changer le thème de lecture (confort de lecture)
 
 Quatre thèmes de lecture différents sont proposés : 
@@ -105,7 +110,7 @@ Exemple : pour une lecture confortable en environnement très lumineux, choisis
 
 Depuis les paramètres de l'application, vous pouvez activer et désactiver les animations, le mode nuit, configurer les zones tactiles de lecture et les paramètres de lecture.
 
-![](/images/support-iPad-v2-7.png)
+![](/images/support-iPad-v2-8.png)
 
 C'est également ici que vous pouvez autoriser votre application avec un identifiant Adobe, pour lire les ebooks protégés par la DRM Adobe.
 Si besoin de compléments sur l'identification Adobe, consultez la FAQ. http://aide.tea-ebook.com/faq-comptes/#identifiant-adobe
