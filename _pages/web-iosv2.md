@@ -85,7 +85,7 @@ En appuyant au milieu de l'écran pendant la lecture, faites apparaître les par
 8. Luminosité
 9. Pagination.
 
-En faisant un appui long sur un mot pendant la lecture, faites apparaître les fonctionnalités de lecture.
+En faisant un appui long sur un mot pendant la lecture, faites apparaître les fonctionnalités de lecture, de prise de notes et de surlignage.
 
 ![](/images/support-iPad-v2-7.png)
 
