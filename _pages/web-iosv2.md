@@ -1,10 +1,17 @@
 ---
 permalink: "/web-iosv2/"
 layout: page
-title: Lire un ebook sur son iPad/iPhone (app v2)
+title: Acheter un ebook sur Internet et le lire sur son iPad/iPhone (app v2)
 ---
 
-Pour accéder à vos e-books achetés depuis un ordinateur ou depuis une liseuse sur votre iPad/iPhone, vous devez disposer de l'application iOS de votre libraire, sous réserve que votre libraire dispose d'une application iOS.
+{% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
+
+## Acheter un ebook sur Internet
+
+{% include acheter-ordinateur.md %}
+
+Pour accéder à vos e-books achetés depuis le web sur votre tablette iPad/iPhone, vous devez disposer de l'application iOS de votre libraire*.
+**Sous réserve que votre libraire dispose d'une application iOS.*
 
 {% include anchor.html id="installer-application" label="Installer l'application" %}
 
