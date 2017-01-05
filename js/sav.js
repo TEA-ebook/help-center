@@ -64,6 +64,11 @@
             'mail' : ['sav', 'tea-ebook', 'com'],
             'schedule' :'Du lundi au vendredi de 9h00 à 18h00'
         },
+        'Furet du Nord' : {
+            'name' : 'Furet du Nord',
+            'mail' : ['contact','supportfuret','com'],
+            'schedule' :'Du lundi au vendredi de 9h00 à 18h00'
+        },
         'Lecteur-moderne' : {
             'name' : 'Lecteur Moderne',
             'mail' : ['sav', 'tea-ebook', 'com'],
