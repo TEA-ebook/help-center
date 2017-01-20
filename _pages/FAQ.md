@@ -64,53 +64,59 @@ title: Foire Aux Questions
 
 ## [Liseuses](/faq-liseuse/)
 
-### [Généralités](/faq-liseuse/#generalites)
-
-#### [Comment puis-je recharger ma liseuse ?](/faq-liseuse/#recharger-liseuse)
-
-#### [Que se passe-t-il si la batterie de ma liseuse se vide complètement ?](/faq-liseuse/#batterie-vide)
-
-#### [Où peut-on voir le niveau de la batterie ?](/faq-liseuse/#niveau-batterie)
-
-
-
 ### [Liseuses TEA (ou Pocketbook)](/faq-liseuse/#Pocketbook)
 
-#### [Combien de livres puis-je stocker ?](/faq-liseuse/#combien-livres-stocker)
+#### [Recharger sa liseuse TEA](/faq-liseuse/#recharger-liseuse-generalites)
 
-#### [Quel type de carte SD dois-je utiliser avec ma liseuse ?](/faq-liseuse/#carteSD-liseuse)
+##### [Comment puis-je recharger ma liseuse ?](/faq-liseuse/#recharger-liseuse)
 
-#### [Quels sont les formats supportés par ma liseuse TEA ?](/faq-liseuse/#format-supporte)
+##### [Où puis-je voir le niveau de la batterie ?](/faq-liseuse/#niveau-batterie)
 
-#### [Comment mettre à jour ma liseuse TEA ?](/faq-liseuse/#maj-liseuse)
+##### [Que se passe-t-il si la batterie de ma liseuse se vide complètement ?](/faq-liseuse/#batterie-vide)
 
-#### [Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?](/faq-liseuse/#maj-liseuse-freeze)
+#### [Gérer la bibliothèque de sa liseuse TEA](/faq-liseuse/#gestion-bibliotheque)
 
-#### [Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?](/faq-liseuse/#perdre-livres-maj)
+##### [Combien d'ebooks puis-je stocker dans ma liseuse ?](/faq-liseuse/#combien-livres-stocker)
 
-#### [Comment puis-je connaître la version du logiciel de ma liseuse ?](/faq-liseuse/#version-logiciel-liseuse)
+##### [Quel type de carte SD puis-je utiliser avec ma liseuse ?](/faq-liseuse/#carteSD-liseuse)
 
-#### [Comment gérer mes étagères et mettre un livre en favori dans le logiciel v5 ?](/faq-liseuse/#etageres-favoris)
+##### [Quels sont les formats supportés par ma liseuse TEA ?](/faq-liseuse/#format-supporte)
 
-#### [Comment supprimer des livres de la liseuse ?](/faq-liseuse/#supprimer-livres-liseuses)
+##### [Comment gérer mes étagères et mettre un livre en favori dans le logiciel v5 ?](/faq-liseuse/#etageres-favoris)
 
-#### [Comment régler la langue du menu ?](/faq-liseuse/#langue-menu)
+##### [Comment supprimer des livres de la liseuse ?](/faq-liseuse/#supprimer-livres-liseuses)
 
-#### [Comment afficher l'heure ou le niveau de batterie en mode lecture ?](/faq-liseuse/#affichage-mode-lecture)
+#### [Mettre à jour sa liseuse TEA](/faq-liseuse/#maj-generalites)
 
-#### [Est-ce que je peux personnaliser mon écran de démarrage ou de mise hors tension ?](/faq-liseuse/#ecran-hors-tension)
+##### [Comment mettre à jour ma liseuse ?](/faq-liseuse/#maj-liseuse)
 
-#### [Ma liseuse TEA (ou Pocketbook) est bloquée sur une page, que dois-je faire ?](/faq-liseuse/#pocketbook-bloque)
+##### [Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?](/faq-liseuse/#maj-liseuse-freeze)
 
-#### [Comment récupérer mes données après le formatage de ma liseuse ?](/faq-liseuse/#formatage)
+##### [Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?](/faq-liseuse/#perdre-livres-maj)
 
-### [Conditions de garantie des liseuses TEA (ou Pocketbook)](/faq-liseuse/#garantie)
+##### [Comment puis-je connaître la version du logiciel de ma liseuse ?](/faq-liseuse/#version-logiciel-liseuse)
 
-#### [Restrictions et exceptions](/faq-liseuse/#restrictions-exceptions)
+#### [Personnaliser sa liseuse TEA](/faq-liseuse/#personnaliser-liseuse)
 
-#### [La garantie de la liseuse ne couvre pas et ne s'applique pas](/faq-liseuse/#non-application)
+##### [Comment régler la langue du menu ?](/faq-liseuse/#langue-menu)
 
-#### [Remarque importante concernant le rétro-éclairage des liseuses](/faq-liseuse/#remarque-importante)
+##### [Comment afficher l'heure ou le niveau de batterie en mode lecture ?](/faq-liseuse/#affichage-mode-lecture)
+
+##### [Comment personnaliser l'écran de démarrage ou de mise hors tension ?](/faq-liseuse/#ecran-hors-tension)
+
+#### [Autres questions](/faq-liseuse/#autres-faq-liseuse)
+
+##### [Ma liseuse TEA est bloquée sur une page, que dois-je faire ?](/faq-liseuse/#pocketbook-bloque)
+
+##### [Comment récupérer mes données après le formatage de ma liseuse ?](/faq-liseuse/#formatage)
+
+#### [Conditions de garantie des liseuses TEA (ou Pocketbook)](/faq-liseuse/#garantie)
+
+##### [Restrictions et exceptions](/faq-liseuse/#restrictions-exceptions)
+
+##### [La garantie de la liseuse ne couvre pas et ne s'applique pas](/faq-liseuse/#non-application)
+
+##### [Remarque importante concernant le rétro-éclairage des liseuses](/faq-liseuse/#remarque-importante)
 
 ### [Liseuses Bookeen](/faq-liseuse/#bookeen)
 
