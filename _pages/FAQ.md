@@ -58,7 +58,7 @@ title: Foire Aux Questions
 
 #### [Puis-je lire mes e-books sur une liseuse Kobo ?](/faq-lecture/#lire-kobo)
 
-#### [Comment lire mes livres sur une liseuse non TEA (ou Pocketbook) ?](/faq-lecture/#lire-autres)
+#### [Comment lire mes livres sur une liseuse non TEA ?](/faq-lecture/#lire-autres)
 
 {% include anchor.html id="liseuse" label="Liseuse" %}
 
@@ -80,9 +80,9 @@ title: Foire Aux Questions
 
 #### [Quel type de carte SD dois-je utiliser avec ma liseuse ?](/faq-liseuse/#carteSD-liseuse)
 
-#### [Quels sont les formats supportés par ma liseuse TEA (ou Pocketbook) ?](/faq-liseuse/#format-supporte)
+#### [Quels sont les formats supportés par ma liseuse TEA ?](/faq-liseuse/#format-supporte)
 
-#### [Comment mettre à jour ma liseuse TEA (ou Pocketbook) ?](/faq-liseuse/#maj-liseuse)
+#### [Comment mettre à jour ma liseuse TEA ?](/faq-liseuse/#maj-liseuse)
 
 #### [Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?](/faq-liseuse/#maj-liseuse-freeze)
 
