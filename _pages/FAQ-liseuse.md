@@ -25,7 +25,7 @@ Vous pouvez également utiliser un chargeur USB. Celui-ci doit avoir les caract�
 
 {% include anchor.html id="niveau-batterie" label="Où peut-on voir le niveau de la batterie ?" %}
 
-#### Où peut-on voir le niveau de la batterie ?
+#### Où puis-je voir le niveau de la batterie ?
 
 Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inférieur ou supérieur droit de l'écran de votre liseuse.
 
@@ -48,7 +48,7 @@ Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 G
 
 {% include anchor.html id="carteSD-liseuse" label="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
 
-#### Quel type de carte SD dois-je utiliser avec ma liseuse ?
+#### Quel type de carte SD puis-je utiliser avec ma liseuse ?
 
 Les liseuses TEA (ou Pocketbook) supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
 
@@ -86,7 +86,7 @@ Pour supprimer une étagère, il faut choisir le mode « étagère », puis fa
 - Une fenêtre de confirmation apparait. Appuyez sur « Oui ».
 
 Cette manipulation est adaptée pour la suppression d'un ou quelques livres.
-Si vous souhaitez en supprimer un plus grand nombre, il est préférable de passer par le PC en connectant la liseuse et en utilisant l'explorateur de fichiers.
+Si vous souhaitez en supprimer un plus grand nombre, il est préférable de connecter la liseuse à un ordinateur et d'utiliser l'explorateur de fichiers.
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
