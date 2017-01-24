@@ -21,6 +21,16 @@ Les tablettes tactiles permettent d'acheter et de lire des livres numériques, m
 Pour lire des livres numériques sur une tablette, il faut installer au préalable une application de lecture qui permet d'ouvrir un livre, de prendre des notes et d'organiser sa bibliothèque.  
 Certaines applications permettent également de se connecter directement à une librairie en ligne pour acheter des livres numériques.
 
+{% include anchor.html id="lire-autres" label="Comment lire mes livres sur une liseuse non TEA ?" %}
+
+### Comment transférer mes e-books sur une liseuse non TEA ?
+
+[Ouvrir et lire un e-book avec Adobe Digital Editions](/web-web/#installer-adobe-digital-edition)
+
+#### Transférer un e-book sur sa liseuse
+
+{% include transferer-ordinateur-liseuse.md %}
+
 {% include anchor.html id="pas-ouvrir-ebook" label="Je n’arrive pas à ouvrir mon e-book." %}
 
 ### Je n’arrive pas à ouvrir mon e-book. Que puis-je faire ?
@@ -70,7 +80,7 @@ Certains livres multi-format proposent un format mobipocket, compatible avec la 
 
 {% include anchor.html id="lire-sony" label="Puis-je lire mes livres sur Reader de Sony ?" %}
 
-### Puis-je lire mes e-books sur la liseuse Reader de SONY ?
+### Puis-je lire mes e-books sur une liseuse Reader de SONY ?
 
 Un logiciel complémentaire doit être installé pour transférer vos e-books : le Reader for PC & Mac.  
 Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Reader SONY, téléchargeable gratuitement sur leur site.  
@@ -83,17 +93,8 @@ Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Re
 
 Il est possible de lire ses e-books sur une liseuse Kobo.  
 Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
+Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/web-web/#installer-adobe-digital-edition).
 
 <div class="warningtip"><p>Il faut penser à éjecter « proprement » la liseuse Kobo avant de la déconnecter d'un ordinateur.</p></div>
-
-{% include anchor.html id="lire-autres" label="Comment lire mes livres sur une liseuse non TEA (ou Pocketbook) ?" %}
-
-### Comment lire mes livres sur une liseuse non TEA (ou Pocketbook) ?
-
-[Ouvrir et lire un livre avec Adobe Digital Editions](/web-web/#installer-adobe-digital-edition)
-
-#### Transférer un livre sur sa liseuse
-
-{% include transferer-ordinateur-liseuse.md %}
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
