@@ -84,7 +84,7 @@ Nous vous conseillons d'activer les mises à jour automatiques en appuyant sur l
 
 ### Liseuses compatibles
 
-Touch Lux 2, Touch Lux 3, Ultra.
+Touch Lux 2, Touch Lux 3, Ultra, Sense.
 
 {% include anchor.html id="nouveautes" label="Nouveautés" %}
 
