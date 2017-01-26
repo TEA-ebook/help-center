@@ -147,7 +147,7 @@ Télécharger le [logiciel T626.5.14.601.](https://drive.google.com/open?id=0B7h
 Télécharger le [logiciel T650.5.14.796.](https://drive.google.com/file/d/0B7hvXLD2QLi1bWltSEV6Z0VjcUU)
 
 ### Liseuses Sense
-Télécharger le [logiciel T630.5.9.550.](https://drive.google.com/open?id=0B7hvXLD2QLi1RmNoQ1pYZ2pFb1U)
+Télécharger le [logiciel T630.5.14.1033.](https://drive.google.com/open?id=0B7hvXLD2QLi1R1hoMFlrbmpuUU0)
 
 ### Liseuses Inkpad
 Télécharger le [logiciel.](https://drive.google.com/open?id=0BzY6xTxUGQZna1NhM0oxb3puZ2c)
