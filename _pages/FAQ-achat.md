@@ -14,7 +14,7 @@ type: faq
 Il existe différents formats d'e-books qui possèdent chacun leurs caractéristiques :
 
 **ePub : Electronic publication**  
-Le format ePub est un format standardisé ouvert et aconçu pour faciliter la mise en page du contenu, le texte affiché étant ajusté pour le type d'appareil de lecture (taille de l'écran). Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac. Il est également compatible avec les liseuses à encre électronique (qui acceptent le format ePub) et particulièrement adapté à ce type d'écran.
+Le format ePub est un format standardisé ouvert et conçu pour faciliter la mise en page du contenu, le texte affiché étant ajusté pour le type d'appareil de lecture (taille de l'écran). Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac. Il est également compatible avec les liseuses à encre électronique (qui acceptent le format ePub) et particulièrement adapté à ce type d'écran.
 
 **PDF : Portable Document Format**  
 Le format PDF conserve la mise en forme initiale de l'ouvrage indépendamment des logiciels ou supports qui en permettent la lecture. Il est lisible avec le logiciel Adobe Digital Editions sur PC et Mac.
@@ -92,9 +92,10 @@ Le format ePub Fixed Layout est un nouveau format apportant un meilleur confort 
 ### Quelles sont les protections présentes sur un e-book ?
 
 **Contenu protégé**  
-Il s'agit d'un livre protégé par une mesure technique de protection mise en place pour préserver les droits des œuvres numériques. Le fichier est crypté grâce à l'insertion d'informations codées.  
+Il s'agit d'un e-book protégé par une mesure technique de protection mise en place pour préserver les droits des œuvres numériques. Le fichier est crypté grâce à l'insertion d'informations codées.  
 Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse TEA ou liseuse Pocketbook compatible, application Android et iOs), ce cryptage reste totalement invisible.  
 Par contre, si vous souhaitez sortir de cet environnement, le livre vous sera fourni sous DRM (Digital Right Management) ACS4 (Adobe Content Server 4) dite DRM Adobe ou Adobe DRM.
+Comment lire un e-ebook protégé par la DRM Adobe ?
 
 **Tatouage numérique / Watermarking / Marquage**  
 Le tatouage numérique est une mesure dissuasive à l'égard des utilisateurs. Il ne verrouille pas le fichier mais en permet la traçabilité grâce à l'insertion d'un marquage (visible ou invisible pour le lecteur) dans les pages de l'e-book.
@@ -156,8 +157,8 @@ Non, lorsque vous achetez un e-book, vous ne payez que le prix de l’e-book. Il
 
 ### Puis-je offrir un e-book ?
 
-Pour le moment, il n'est pas possible d'offrir un e-book. 
-Les e-books sont uniquement téléchargeables depuis votre compte client.
+Il est possible d'offrir un e-book. 
+Sur une fiche produit, en dessous de « télécharger », vous avez la possibilité de cliquer sur « offrir ». Vous faites alors l'achat et le destinataire du cadeau reçoit un email personnalisé lui permettant de télécharger le ou les e-books offerts.
 
 {% include anchor.html id="delai-retractation" label="Ai-je un droit / délai de rétractation ?" %}
 
@@ -166,9 +167,3 @@ Les e-books sont uniquement téléchargeables depuis votre compte client.
 Le remboursement ou l’échange ne sont pas possibles pour une commande de livres numériques.  
 Vous avez accepté les conditions générales de vente en validant votre commande.
 Elles indiquent que le délai de rétractation de 7 jours prévu par l’article L121-20 du Code de la consommation ne s’applique pas à la commande de livres numériques.
-
-{% include anchor.html id="remise-libraires" label="La remise de 5 % des libraires s’applique-t-elle sur les e-books ?" %}
-
-### La remise de 5 % des libraires s’applique-t-elle sur les e-books ?
-
-Les e-books ne bénéficient pas de la remise de 5 %.
