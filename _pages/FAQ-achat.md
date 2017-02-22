@@ -91,6 +91,8 @@ Le format ePub Fixed Layout est un nouveau format apportant un meilleur confort 
 
 ### Quelles sont les protections présentes sur un e-book ?
 
+Il existe 3 cas de figure pour les protections des e-books.
+
 **Contenu protégé**  
 Il s'agit d'un e-book protégé par une mesure technique de protection mise en place pour préserver les droits des œuvres numériques. Le fichier est crypté grâce à l'insertion d'informations codées.  
 Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse TEA ou liseuse Pocketbook compatible, application Android et iOs), ce cryptage reste totalement invisible.  
@@ -157,8 +159,9 @@ Non, lorsque vous achetez un e-book, vous ne payez que le prix de l’e-book. Il
 
 ### Puis-je offrir un e-book ?
 
-Il est possible d'offrir un e-book. 
-Sur une fiche produit, en dessous de « télécharger », vous avez la possibilité de cliquer sur « offrir ». Vous faites alors l'achat et le destinataire du cadeau reçoit un email personnalisé lui permettant de télécharger le ou les e-books offerts.
+Il est possible d'offrir un e-book à la personne de son choix, même si elle n'a pas encore de compte sur le site de votre libraire. 
+Sur une fiche produit, en dessous de « télécharger », vous avez la possibilité de cliquer sur « offrir ». 
+Vous faites alors l'achat et le destinataire du cadeau reçoit un email personnalisé lui permettant de télécharger le ou les e-books offerts.
 
 {% include anchor.html id="delai-retractation" label="Ai-je un droit / délai de rétractation ?" %}
 
