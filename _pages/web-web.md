@@ -40,7 +40,7 @@ Si vous souhaitez tout de même télécharger votre livre pour le lire sur votre
 
 {% include installation-ade.md %}
 
-{% include anchor.html id="telecharger-ordinateur" label="Télécharger son livre sur son ordinateur" %}
+{% include anchor.html id="telecharger-ordinateur" label="Télécharger un ebook sur son ordinateur" %}
 
 ## Télécharger un ebook sur son ordinateur
 
