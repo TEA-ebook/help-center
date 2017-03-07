@@ -1,4 +1,7 @@
-L'installation d'Adobe Digital Editions est nécessaire si vous souhaitez lire des livres au contenu protégé sur votre ordinateur sans passer par le navigateur, ou si vous souhaitez transférer des livres au contenu protégé sur certains supports.
+L’installation d'Adobe Digital Editions est nécessaire si vous souhaitez transférer __des ebooks protégés par Adobe DRM__ (`.acsm`) sur d'autres liseuses que celles de TEA ou sur des applications différentes de celles de nos [partenaires](/#android).
+
+Il n'est pas nécessaire de télécharger Adobe Digital Edition pour [lire sur votre ordinateur](/web-web/#lire-ordinateur), [lire sur une liseuse TEA](/liseuse-liseuseTEA/#lire-liseuseTEA) ou [lire sur l'application de l'un de nos partenaires](/#android).
+
 
 {% include anchor.html id="telecharger-adobe-digital-edition" label="Télécharger Adobe Digital Editions 4" %}
 
