@@ -12,13 +12,12 @@ title: Acheter un ebook sur Internet et le lire dans son navigateur
 
 {% include anchor.html id="lire-internet" label="Lire un ebook dans son navigateur" %}
 
-## Lire un ebook dans son navigateur
+## Lire un ebook dans son navigateur (connexion internet nécessaire)
 
-Vous avez la possibilité de lire directement votre livre depuis le récapitulatif de votre commande ou depuis la page mes ebooks de votre compte client.
+Depuis la page «Mes ebooks», vous retrouvez l’ensemble de vos livres. Vous pouvez cliquez directement sur la couverture d’un livre pour le lire en ligne. Vous pouvez également sélectionner «Lire sur ordinateur» , la lecture en ligne vous sera à nouveau proposée.
 
 ![](/images/telecharger-ordinateur-2.png)
-
-Cliquez sur le bouton « Lire » et votre livre s'ouvre dans votre navigateur grâce à une liseuse web.
+![](/images/telecharger-ordinateur-3.png)
 
 {% include anchor.html id="fonctionnalite-liseuse" label="Fonctionnalités de la liseuse web" %}
 
