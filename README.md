@@ -20,6 +20,12 @@ On supposera pour les actions ci-dessous que le projet git-hub "help-center" a �
 * Pour mettre à jour le projet git-hub : `git pull`
 * Pour changer de branche : `git checkout [nom de la branche telle qu'affichée dans git-hub]`
 
+## Tester les liens morts
+
+```sh
+bundle exec rake test_dead_links
+```
+
 ## Liens problématiques présents dans ces pages d'aides :
 
 1. Le lien fait référence à une page de magasin et ne peut être générique.
