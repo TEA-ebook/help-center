@@ -44,3 +44,18 @@ Vous retrouvez l’ensemble de vos ebooks :
 
 ![](/images/tea-ebook-library.png)
 
+
+{% include anchor.html id="fonctionalités-tea-ebook" label="Les fonctionnalités de lecture de TEA Ebook" %}
+
+## Les fonctionnalités de lecture de TEA Ebook
+
+![](/images/tea-ebook-fonctionnalites.png)
+ 
+1. Réduire/Agrandir la taille du texte ;
+2. Plein écran ;
+3. Table des matières ;
+4. Signets ;
+5. Boutons « Page précédente » et « Page suivante » ;
+6. Progression de la lecture ;
+7. Retour à la bibliothèque.
+
