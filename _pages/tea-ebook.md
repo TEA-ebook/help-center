@@ -82,7 +82,7 @@ Pour lire un fichier `.epub` préalablement téléchargé, vous pouvez procéder
 
 {% include telecharger-ordinateur.md %}
 
-{% include anchor.html id="installer-ade" label="Utiliser Adobe Digital Editions" %}
+{% include anchor.html id="utiliser-ade" label="Utiliser Adobe Digital Editions" %}
 
 ### Utiliser Adobe Digital Editions
 
