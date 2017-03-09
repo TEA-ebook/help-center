@@ -44,6 +44,19 @@ Vous retrouvez l’ensemble de vos ebooks :
 
 ![](/images/tea-ebook-library.png)
 
+{% include anchor.html id="lire-tea-ebook" label="Lire un ebook avec TEA Ebook" %}
+
+### Lire un ebook avec TEA Ebook
+
+Pour lire un livre acheté sur le site de votre libraire, cliquez le bouton «Lire».
+
+![](/images/tea-ebook-lecture.png)
+
+Pour lire un fichier `.epub` préalablement téléchargé, vous pouvez procéder à un glisser-déposer ou bien utiliser le bouton «Ajouter un livre dans la bibliothèque» et sélectionner le fichier.
+
+![](/images/tea-ebook-ajouter.png)
+
+
 
 {% include anchor.html id="fonctionalités-tea-ebook" label="Les fonctionnalités de lecture de TEA Ebook" %}
 
