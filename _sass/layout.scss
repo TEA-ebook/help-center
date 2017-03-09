@@ -93,6 +93,7 @@ header {
   .content-tab {
     display: flex;
     align-items: center;
+    min-height: 320px;
 
     img {
       flex-shrink: 0;
