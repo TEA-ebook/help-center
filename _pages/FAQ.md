@@ -24,8 +24,6 @@ title: Foire Aux Questions
 
 #### [Ai-je un droit / délai de rétractation ?](/faq-achat/#delai-retractation)
 
-#### [La remise de 5 % des libraires s’applique-t-elle sur les e-books ?](/faq-achat/#remise-libraires)
-
 ## [Compte client](/faq-comptes/)
 
 #### [Mes identifiants de compte client du site du libraire sont-ils valables sur le store de la liseuse ?](/faq-comptes/#identifiants)
