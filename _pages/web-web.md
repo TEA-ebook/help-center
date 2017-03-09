@@ -24,11 +24,11 @@ Depuis la page «Mes ebooks», vous retrouvez l’ensemble de vos livres. Vous p
 
 ![](/images/lire-web-1.png)
 
-1. Boutons « Précédent » et « Suivant » ;
+1. Boutons « Page précédente » et « Page suivante » ;
 2. Table des matières ;
 3. Grossissement/Réduction de la taille du texte ;
 4. Progression de la lecture.
 
 ![](/images/lire-web-2.png)
 
-Si vous souhaitez tout de même télécharger votre livre pour le lire sur votre ordinateur, rendez-vous à la page d'aide à la [lecture sur ordinateur](/tea-ebook/).
+Si vous souhaitez tout de même télécharger votre livre pour le lire sur votre ordinateur, rendez-vous à la page d'aide à la [lecture sur ordinateur](/tea-ebook/#lire-tea-ebook).
