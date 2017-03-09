@@ -14,9 +14,9 @@ title: Acheter un ebook sur Internet et le lire sur son ordinateur
 
 ## Lire un ebook sur TEA Ebook
 
-Depuis la page mes ebooks, vous retrouvez l’ensemble de vos livres. Sélectionnez «Lire sur ordinateur».
+Depuis la page «Vos Ebooks», vous retrouvez l’ensemble de vos livres. Sélectionnez «Lire sur ordinateur».
 
-![Vue «Mes ebooks» sur le site libraire](/images/telecharger-ordinateur-2.png)
+![Vue «Vos Ebooks» sur le site libraire](/images/telecharger-ordinateur-2.png)
 
 Sélectionnez «Télécharger TEA ebook» pour lire vos ebooks sur votre ordinateur, sans connexion internet.
 

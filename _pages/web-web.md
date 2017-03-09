@@ -14,7 +14,7 @@ title: Acheter un ebook sur Internet et le lire en ligne
 
 ## Lire un ebook dans son navigateur (connexion internet nécessaire)
 
-Depuis la page «Mes ebooks», vous retrouvez l’ensemble de vos livres. Vous pouvez cliquez directement sur la couverture d’un livre pour le lire en ligne. 
+Depuis la page «Vos ebooks», vous retrouvez l’ensemble de vos livres. Vous pouvez cliquez directement sur la couverture d’un livre pour le lire en ligne. 
 
 ![](/images/telecharger-ordinateur-2.png)
 
