@@ -72,3 +72,20 @@ Pour lire un fichier `.epub` préalablement téléchargé, vous pouvez procéder
 6. Progression de la lecture ;
 7. Retour à la bibliothèque.
 
+{% include anchor.html id="lire-autre" label="Lire sur d'autres supports" %}
+
+## Lire sur d'autres supports
+
+{% include anchor.html id="telecharger-ebook" label="Télécharger un ebook sur son ordinateur" %}
+
+### Télécharger un ebook sur son ordinateur
+
+{% include telecharger-ordinateur.md %}
+
+{% include anchor.html id="installer-ade" label="Utiliser Adobe Digital Editions" %}
+
+### Utiliser Adobe Digital Editions
+
+Une fois le fichier exporté sur votre ordinateur, vous pouvez l’ouvrir sur Adobe Digital Editions pour [le transférer sur d’autres supports](http://aide.tea-ebook.com/faq-lecture/#lire-autres).
+
+Si vous souhaitez utiliser Adobe Digital Editions, voir [la page d'aide dédiée](/ade/).
