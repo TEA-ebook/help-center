@@ -1,7 +1,7 @@
 ---
 permalink: "/web-web/"
 layout: page
-title: Acheter un ebook sur Internet et le lire dans son navigateur
+title: Acheter un ebook sur Internet et le lire en ligne
 ---
 
 {% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
@@ -14,14 +14,13 @@ title: Acheter un ebook sur Internet et le lire dans son navigateur
 
 ## Lire un ebook dans son navigateur (connexion internet nécessaire)
 
-Depuis la page «Mes ebooks», vous retrouvez l’ensemble de vos livres. Vous pouvez cliquez directement sur la couverture d’un livre pour le lire en ligne. Vous pouvez également sélectionner «Lire sur ordinateur» , la lecture en ligne vous sera à nouveau proposée.
+Depuis la page «Mes ebooks», vous retrouvez l’ensemble de vos livres. Vous pouvez cliquez directement sur la couverture d’un livre pour le lire en ligne. 
 
 ![](/images/telecharger-ordinateur-2.png)
-![](/images/telecharger-ordinateur-3.png)
 
-{% include anchor.html id="fonctionnalite-liseuse" label="Fonctionnalités de la liseuse web" %}
+{% include anchor.html id="fonctionnalite-liseuse" label="Fonctionnalités de la lecture en ligne" %}
 
-### Fonctionnalités de la liseuse web
+### Fonctionnalités de la lecture en ligne
 
 ![](/images/lire-web-1.png)
 
@@ -32,22 +31,4 @@ Depuis la page «Mes ebooks», vous retrouvez l’ensemble de vos livres. Vous p
 
 ![](/images/lire-web-2.png)
 
-Si vous souhaitez tout de même télécharger votre livre pour le lire sur votre ordinateur, rendez-vous à la [page suivante](/ordinateur/)
-
-{% include anchor.html id="installer-adobe-digital-edition" label="Installer Adobe Digital Éditions" %}
-
-## Installer Adobe Digital Éditions
-
-{% include installation-ade.md %}
-
-{% include anchor.html id="telecharger-ordinateur" label="Télécharger un ebook sur son ordinateur" %}
-
-## Télécharger un ebook sur son ordinateur
-
-{% include telecharger-ordinateur.md %}
-
-{% include anchor.html id="lire-ordinateur" label="Lire son livre sur son ordinateur" %}
-
-## Lire un ebook avec Adobe Digital Editions
-
-{% include lire-ordinateur.md %}
+Si vous souhaitez tout de même télécharger votre livre pour le lire sur votre ordinateur, rendez-vous à la page d'aide à la [lecture sur ordinateur](/tea-ebook/).
