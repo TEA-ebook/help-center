@@ -74,7 +74,14 @@ body {
     position: fixed;
     margin-top: -120px;
     right: 0;
+    overflow-y: hidden;
     height: 100%;
+
+    #anchor-menu { 
+      position: relative;
+      overflow-y: scroll;
+      height: 100%;
+    }
   }
 }
 
