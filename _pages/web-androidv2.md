@@ -2,6 +2,7 @@
 permalink: "/web-androidv2/"
 layout: page
 title: Acheter un ebook sur Internet et le lire sur sa tablette Android (app v2)
+type: help
 ---
 
 {% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}

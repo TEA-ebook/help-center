@@ -2,6 +2,7 @@
 permalink: "/androidv1-androidv1/"
 layout: page
 title: Acheter un ebook et le lire sur sa tablette Android (app v1)
+type: help
 ---
 
 {% include anchor.html id="installer-android" label="Installer l'application Android v1" %}

@@ -2,6 +2,7 @@
 permalink: "/web-liseuseTEA/"
 layout: page
 title: Acheter un ebook sur Internet et le lire sur sa liseuse TEA (ou Pocketbook) v5
+type: help
 ---
 
 {% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
