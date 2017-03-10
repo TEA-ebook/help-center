@@ -1,3 +1,10 @@
+scrollProgress.set({
+    color: '#68a99c',
+    height: '12px',
+    bottom: true
+});
+
+
 $( "#tabs" ).tabs();
 $(".navbar ul.dropdown-menu").hide();
 $(".navbar li.dropdown > a").click(function () {
