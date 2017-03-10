@@ -11,9 +11,13 @@ body {
 }
 
 // Top menu
-header {
+#header {
+  position: fixed;
   display: flex;
   justify-content: space-between;
+  background: #fff;
+  width: 67%;
+  height: 120px;
 
   p {
     display: none;
@@ -44,9 +48,7 @@ header {
 
 // Pages
 #content {
-  width: 95vw;
-  max-width: 1500px;
-  margin: 0 auto;
+  margin: 120px auto;
   flex-grow: 1;
   display: flex;
   justify-content: space-between;
@@ -69,6 +71,10 @@ header {
   }
   nav {
     width: 33%;
+    position: fixed;
+    margin-top: -120px;
+    right: 0;
+    height: 100%;
   }
 }
 
