@@ -22,7 +22,7 @@ $("#title-menu-top").click(function () {
     }    
 })
 
-(function () {
+$(function onLoad() {
     'use strict';
 
     var trailingSlashes = /\/+$/;

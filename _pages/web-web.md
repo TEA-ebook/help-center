@@ -1,7 +1,7 @@
 ---
 permalink: "/web-web/"
 layout: page
-title: Acheter un ebook sur Internet et le lire dans son navigateur
+title: Acheter un ebook sur Internet et le lire en ligne
 ---
 
 {% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
@@ -12,43 +12,23 @@ title: Acheter un ebook sur Internet et le lire dans son navigateur
 
 {% include anchor.html id="lire-internet" label="Lire un ebook dans son navigateur" %}
 
-## Lire un ebook dans son navigateur
+## Lire un ebook dans son navigateur (connexion internet nécessaire)
 
-Vous avez la possibilité de lire directement votre livre depuis le récapitulatif de votre commande ou depuis la page mes ebooks de votre compte client.
+Depuis la page « Vos ebooks », vous retrouvez l’ensemble de vos livres. Vous pouvez cliquer directement sur la couverture d’un livre pour le lire en ligne. 
 
 ![](/images/telecharger-ordinateur-2.png)
 
-Cliquez sur le bouton « Lire » et votre livre s'ouvre dans votre navigateur grâce à une liseuse web.
+{% include anchor.html id="fonctionnalite-liseuse" label="Fonctionnalités de la lecture en ligne" %}
 
-{% include anchor.html id="fonctionnalite-liseuse" label="Fonctionnalités de la liseuse web" %}
-
-### Fonctionnalités de la liseuse web
+### Fonctionnalités de la lecture en ligne
 
 ![](/images/lire-web-1.png)
 
-1. Boutons « Précédent » et « Suivant » ;
+1. Boutons « Page précédente » et « Page suivante » ;
 2. Table des matières ;
 3. Grossissement/Réduction de la taille du texte ;
 4. Progression de la lecture.
 
 ![](/images/lire-web-2.png)
 
-Si vous souhaitez tout de même télécharger votre livre pour le lire sur votre ordinateur, rendez-vous à la [page suivante](/ordinateur/)
-
-{% include anchor.html id="installer-adobe-digital-edition" label="Installer Adobe Digital Éditions" %}
-
-## Installer Adobe Digital Éditions
-
-{% include installation-ade.md %}
-
-{% include anchor.html id="telecharger-ordinateur" label="Télécharger son livre sur son ordinateur" %}
-
-## Télécharger un ebook sur son ordinateur
-
-{% include telecharger-ordinateur.md %}
-
-{% include anchor.html id="lire-ordinateur" label="Lire son livre sur son ordinateur" %}
-
-## Lire un ebook avec Adobe Digital Editions
-
-{% include lire-ordinateur.md %}
+Si vous souhaitez tout de même télécharger votre livre pour le lire sur votre ordinateur, rendez-vous à la page d'aide à la [lecture sur ordinateur](/tea-ebook/#lire-tea-ebook).

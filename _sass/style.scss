@@ -370,7 +370,7 @@ footer {
           text-decoration: none;
 
           &::after {
-            content: ">";
+            content: $leftArrow;
             margin-left: 0.5em;
           }
         }
@@ -397,7 +397,7 @@ footer {
           text-decoration: none;
 
           &::after {
-            content: ">";
+            content: $leftArrow;
             margin-left: 0.5em;
           }
         }

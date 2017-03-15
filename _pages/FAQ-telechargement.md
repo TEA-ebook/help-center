@@ -11,8 +11,9 @@ type: faq
 
 **Sur ordinateur**
 
-* [Télécharger son livre sur son ordinateur](/web-web/#telecharger-ordinateur)
+* [Lire un ebook sur son ordinateur](/tea-ebook/#lire-tea-ebook)
 * [Lire un ebook dans son navigateur](/web-web/#lire-internet)
+* [Télécharger son livre sur son ordinateur](/tea-ebook/#lire-autre)
 
 **Sur la liseuse**
 

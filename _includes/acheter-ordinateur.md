@@ -44,6 +44,7 @@ Entrez le numéro de votre carte, la date d’expiration de votre carte ainsi qu
 
 ### Finalisation de la commande
 
-Une fois la commande terminée, vous pouvez retrouver un récapitulatif de votre commande vous permettant de télécharger vos livres et un mail vous est automatiquement envoyé.
+Une fois le paiement effectué, vous retrouvez la confirmation de votre commande et la possibilité d’aller consulter la liste de vos ebooks. Un mail de confirmation de commande vous est envoyé.
+Nous vous donnons quelques conseils pour lire vos ebooks sur l’ensemble des supports de lecture : applications, liseuses et ordinateur.
 
 ![](/images/acheter-ordinateur-8.png)
