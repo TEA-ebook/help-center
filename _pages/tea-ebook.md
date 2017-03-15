@@ -20,7 +20,7 @@ Depuis la page «Vos Ebooks», vous retrouvez l’ensemble de vos livres. Sélec
 
 Sélectionnez «Télécharger TEA ebook» pour lire vos ebooks sur votre ordinateur, sans connexion internet.
 
-![](/images/telecharger-ordinateur-3.png)
+![](/images/telecharger-ordinateur-3b.png)
 
 {% include anchor.html id="installer-tea-ebook" label="Installer TEA Ebook" %}
 
