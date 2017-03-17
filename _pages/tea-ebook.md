@@ -44,7 +44,7 @@ Vous retrouvez l’ensemble de vos ebooks :
 
 ![](/images/tea-ebook-library.png)
 
-{% include anchor.html id="lire-tea-ebook" label="Lire un ebook avec TEA Ebook" %}
+{% include anchor.html id="lire-avec-tea-ebook" label="Lire un ebook avec TEA Ebook" %}
 
 ### Lire un ebook avec TEA Ebook
 
