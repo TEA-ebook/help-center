@@ -26,5 +26,5 @@ Vous devez tout d’abord avoir téléchargé vos e-books sur Adobe Digital Edit
 
 ![](/images/transferer-ordinateur-liseuse-3.png)
 
-* Ejectez le périphérique de votre ordinateur puis débranchez votre liseuse. 
+* Éjectez le périphérique de votre ordinateur puis débranchez votre liseuse. 
 * Vous venez de transférer votre e-book. Félicitations !
