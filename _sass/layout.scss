@@ -106,10 +106,12 @@ body {
   .content-tab {
     display: flex;
     align-items: center;
+    min-height: 320px;
 
     img {
       flex-shrink: 0;
       margin-right: 0.5em;
+      max-width: 50%;
     }
     & > div {
       flex-grow: 1;

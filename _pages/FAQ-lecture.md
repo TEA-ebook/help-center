@@ -21,11 +21,11 @@ Les tablettes tactiles permettent d'acheter et de lire des livres numériques, m
 Pour lire des livres numériques sur une tablette, il faut installer au préalable une application de lecture qui permet d'ouvrir un livre, de prendre des notes et d'organiser sa bibliothèque.  
 Certaines applications permettent également de se connecter directement à une librairie en ligne pour acheter des livres numériques.
 
-{% include anchor.html id="lire-autres" label="Comment lire mes livres sur une liseuse non TEA ?" %}
+{% include anchor.html id="lire-autres" label="Comment transférer mes e-books sur une liseuse non TEA ?" %}
 
 ### Comment transférer mes e-books sur une liseuse non TEA ?
 
-[Ouvrir et lire un e-book avec Adobe Digital Editions](/web-web/#installer-adobe-digital-edition)
+[Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions)
 
 #### Transférer un e-book sur sa liseuse
 
@@ -50,7 +50,7 @@ Si rien ne fonctionne, contactez votre service client.
 
 Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateur de télécharger son e-book, lorsque celui-ci est protégé par Adobe DRM.
 
-* [Ouvrir un fichier `acsm` sur ordinateur](/web-web/#lire-ordinateur)
+* [Ouvrir un fichier `acsm` sur ordinateur](/tea-ebook/#utiliser-ade)
 * [Ouvrir un fichier `acsm` sur liseuse](/liseuseBasic/#tranferer-basic2)
 
 <div class="warningtip"><p>Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>
@@ -93,7 +93,7 @@ Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Re
 
 Il est possible de lire ses e-books sur une liseuse Kobo.  
 Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
-Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/web-web/#installer-adobe-digital-edition).
+Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions).
 
 <div class="warningtip"><p>Il faut penser à éjecter « proprement » la liseuse Kobo avant de la déconnecter d'un ordinateur.</p></div>
 

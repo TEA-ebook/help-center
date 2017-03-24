@@ -5,7 +5,7 @@ title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook Basic 
 type: help
 ---
 
-{% include anchor.html id="installer-adobe-digital-edition" label="Installer Adobe Digital Éditions" %}
+{% include anchor.html id="installer-adobe-digital-editions" label="Installer Adobe Digital Éditions" %}
 
 ## Installer Adobe Digital Éditions
 
