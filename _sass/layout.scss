@@ -84,6 +84,19 @@ body {
   }
 }
 
+// Scroll progress
+#progress-wrapper {
+  width: 100%;
+  position: fixed;
+  left: 0px;
+  top: 120px;
+  #progress-element {
+    background-color: $scrollProgress;
+    height: 2px;
+  }
+}
+
+
 // ----- HOME -----
 
 // Tabs device home

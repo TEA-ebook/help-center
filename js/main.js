@@ -1,10 +1,6 @@
 var pageType = document.getElementById("page").dataset.pageType;
 if (pageType == "faq" || pageType == "help") {
-    scrollProgress.set({
-        color: '#68a99c',
-        height: '12px',
-        bottom: true
-    });
+    scrollProgress.set({ styles: false });
 }
 
 
