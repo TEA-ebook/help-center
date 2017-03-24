@@ -10,6 +10,7 @@ body {
   box-sizing:border-box;
 }
 
+$headerHeight:80px;
 // Top menu
 #header {
   position: fixed;
@@ -17,13 +18,18 @@ body {
   justify-content: space-between;
   background: #fff;
   width: 100%;
-  height: 120px;
+  height: $headerHeight;
+
+  .logo {
+    img { max-height: $headerHeight; }
+  }
 
   p {
     display: none;
   }
   nav {
-    padding: 0.5em 1em;
+    padding: 0;
+    margin: 0;
 
     & > ul {
       display: flex;
@@ -48,7 +54,7 @@ body {
 
 // Pages
 #content {
-  margin: 120px auto;
+  margin: $headerHeight auto;
   flex-grow: 1;
   display: flex;
   justify-content: space-between;
@@ -89,7 +95,8 @@ body {
   width: 100%;
   position: fixed;
   left: 0px;
-  top: 120px;
+  top: $headerHeight;
+  border-top: 1px solid #ccc;
   #progress-element {
     background-color: $scrollProgress;
     height: 2px;
