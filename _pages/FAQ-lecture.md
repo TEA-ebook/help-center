@@ -84,8 +84,8 @@ Certains livres multi-format proposent un format mobipocket, compatible avec la 
 
 Un logiciel complémentaire doit être installé pour transférer vos e-books : le Reader for PC & Mac.  
 Avec la liseuse SONY, il est préférable d'utiliser l'application de lecture Reader SONY, téléchargeable gratuitement sur leur site.  
-[pour Windows](http://www.sony.fr/support/fr/content/cnt-dwnl/prd-ebo/sony-reader-software-update-ver2400_05230-win/)  
-[pour Mac](http://www.sony.fr/support/fr/content/cnt-dwnl/prd-ebo/sony-reader-software-update-ver2400_05230-mac/)
+[pour Windows](https://www.sony.fr/electronics/support/downloads/Z0005571)  
+[pour Mac](https://www.sony.fr/electronics/support/downloads/Z0005570)
 
 {% include anchor.html id="lire-kobo" label="Puis-je lire mes livres sur une liseuse Kobo ?" %}
 
