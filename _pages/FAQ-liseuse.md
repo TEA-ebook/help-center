@@ -199,7 +199,7 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 
 Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.
 Mettez-la en charge. 
-S'il ne se passe toujours rien, contactez la hotline constructeur par téléphone : 08.05.08.02.77 ou par email : help@pocketbook-int.com et exposez votre problème.
+S'il ne se passe toujours rien, contactez la hotline constructeur et exposez votre problème par téléphone : 08.05.08.02.77 depuis la France (0800 898 720 depuis la Suisse) ou par email : help@pocketbook-int.com.
 
 {% include anchor.html id="formatage" label="Comment récupérer mes données après le formatage de ma liseuse ?" %}
 
