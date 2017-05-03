@@ -61,9 +61,9 @@ Les liseuses TEA (ou Pocketbook) supportent une micro carte SD jusqu'à 32 Go. L
 
 {% include anchor.html id="etageres-favoris" label="Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?" %}
 
-#### Comment gérer mes étagères et mettre un livre en favori dans le logiciel v5 ?
+#### Comment gérer mes étagères et mettre un livre en favori ?
 
-La version 5 du logiciel de la liseuse introduit un nouveau concept, celui d'étagère, qui permet de trier ses livres.  
+Les étagères permettent de trier les ebooks de la bibliothèque.  
 L'étagère « Favoris » est présente par défaut.
 
 Dans le mode « étagère », vous ne voyez que les livres qui ont été ajoutés à une étagère. Vous pouvez directement créer une nouvelle étagère en appuyant sur "Nouveau rayon de bibliothèque".
