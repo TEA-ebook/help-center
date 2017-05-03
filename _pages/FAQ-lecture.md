@@ -9,7 +9,7 @@ type: faq
 
 ### Sur quels supports puis-je lire un ebook ?
 
-Les supports / terminaux de lecture désignent de manière générale l'outil grâce auquel on peut lire un e-book.  
+Les supports / terminaux de lecture désignent de manière générale l'outil grâce auquel on peut lire un ebook.  
 Outre les ordinateurs et les smartphones, il existe :
 
 **Liseuse / E-reader / Lecteur de livre numérique / Ebook reader**  
