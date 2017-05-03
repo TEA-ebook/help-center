@@ -13,9 +13,9 @@ Tout dépend des protections qui sont apposées sur vos e-books. La fiche techni
 
 {% include anchor.html id="version-logiciel" label="Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?" %}
 
-### Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?
+### Comment connaître la version de votre application ou du logiciel de votre liseuse TEA (Pocketbook) ?
 
-#### Les différentes versions de l'application Android :
+#### Les différentes versions des applications Android :
 
 <table>
   <tr>
@@ -28,7 +28,7 @@ Tout dépend des protections qui sont apposées sur vos e-books. La fiche techni
   </tr>
 </table>
 
-#### Les différentes versions du logiciel des liseuses Pocketbook :
+#### Les différentes versions du logiciel des liseuses TEA (Pocketbook) :
 
 <table>
   <tr>
