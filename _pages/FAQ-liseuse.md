@@ -166,7 +166,14 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 ##### Version 5
 
 - Allez dans Paramètres > Personnalisation
-- Appuyez ensuite sur le bouton On/Off correspondant à Affichage en mode lecture, afin d'afficher ou non la barre d'état en haut.
+- Appuyez ensuite sur le bouton On/Off correspondant à "Affichage de la barre d'info en mode lecture", afin d'afficher ou non la barre d'état en haut.
+
+{% include anchor.html id="pagination-mode-lecture" label="Comment afficher/cacher la pagination de l'ebook en mode lecture ?" %}
+
+#### Comment afficher/cacher la pagination de l'ebook en mode lecture ?
+
+- Allez dans Paramètres > Personnalisation
+- Appuyez ensuite sur le bouton On/Off correspondant à "Mode plein écran pour les formats texte", afin d'afficher ou non la pagination.
 
 {% include anchor.html id="ecran-hors-tension" label="Est-ce que je peux personnaliser mon écran de démarrage ou de mise hors tension ?" %}
 
