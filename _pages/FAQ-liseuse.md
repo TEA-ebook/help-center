@@ -200,7 +200,7 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 
 ### Autres questions
 
-{% include anchor.html id="relier-liseuse-ordi" label="Je n'arrive pas à relier ma liseuse TEA à mon ordinateur ?" %}
+{% include anchor.html id="relier-liseuse-ordi" label="Je n'arrive pas à relier ma liseuse TEA à mon ordinateur" %}
 
 #### Je n'arrive pas à relier ma liseuse TEA à mon ordinateur, que dois-je faire ?
 
