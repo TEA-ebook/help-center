@@ -8,6 +8,8 @@ type: faq
 
 ## Liseuses TEA (ou Pocketbook)
 
+Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez également consulter le <a href="https://www.tea-ebook.com/wp-content/uploads/2016/04/Manuel-TouchLux3TEA3.pdf">manuel de la liseuse Touch Lux 3</a> et <a href="https://www.tea-ebook.com/wp-content/uploads/2016/04/Manuel-UltraTEA3.pdf">celui de la liseuse Ultra</a>.
+
 {% include anchor.html id="recharger-liseuse-generalites" label="Recharger sa liseuse TEA" %}
 
 ### Recharger sa liseuse TEA
