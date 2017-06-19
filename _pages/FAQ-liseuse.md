@@ -200,7 +200,13 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 
 ### Autres questions
 
-{% include anchor.html id="pocketbook-bloque" label="Ma liseuse Pocketbook est bloquée sur une page, que dois-je faire ?" %}
+{% include anchor.html id="relier-liseuse-ordi" label="Je n'arrive pas à relier ma liseuse TEA à mon ordinateur ?" %}
+
+#### Je n'arrive pas à relier ma liseuse TEA à mon ordinateur, que dois-je faire ?
+
+Afin d'afficher le contenu de votre liseuse TEA sur un ordinateur et faire des transferts en mode usb, configurez votre liseuse de la façon suivante :  dans "Paramètres" puis "Paramètres avancés", sélectionnez le "Mode usb" "Demander à chaque connexion".
+
+{% include anchor.html id="pocketbook-bloque" label="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
 
 #### Ma liseuse TEA (ou Pocketbook) est bloquée sur une page, que dois-je faire ?
 
