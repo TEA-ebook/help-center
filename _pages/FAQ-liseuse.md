@@ -206,7 +206,8 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 
 #### Je n'arrive pas à relier ma liseuse TEA à mon ordinateur, que dois-je faire ?
 
-Afin d'afficher le contenu de votre liseuse TEA sur un ordinateur et faire des transferts en mode usb, configurez votre liseuse de la façon suivante :  dans "Paramètres" puis "Paramètres avancés", sélectionnez le "Mode usb" "Demander à chaque connexion".
+Afin d'afficher le contenu de votre liseuse TEA sur un ordinateur et faire des transferts en mode USB, configurez votre liseuse de la façon suivante :  dans "Paramètres" puis "Paramètres avancés", sélectionnez le "Mode USB" : "Demander à chaque connexion".
+Une fois votre liseuse paramétrée de cette façon, laissez-la allumée, branchez-la à votre ordinateur avec un câble USB puis sélectionnez "Transférer des fichiers" parmi les deux choix affichés sur l'écran de votre liseuse.
 
 {% include anchor.html id="pocketbook-bloque" label="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
 
