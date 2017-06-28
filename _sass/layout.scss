@@ -105,15 +105,15 @@ header {
     }
   }
 }
-#sav {
+#sav, #sav-pb {
   display: flex;
   margin-top: 1em;
 
-  #faq-sav {
+  .faq-sav {
     //flex-grow: 2;
     width: 55%;
   }
-  #choice-sav {
+  .sav-contact {
     //flex-grow: 1;
     width: 45%;
   }

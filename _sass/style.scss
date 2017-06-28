@@ -378,12 +378,12 @@ footer {
     }
   }
 }
-#sav {
+#sav, #sav-pb {
   h1 {
     font-size: 2em;
     margin: 0.2em 0;
   }
-  #faq-sav {
+  .faq-sav {
     padding: 1em;
     margin-right: 1em;
 
@@ -404,7 +404,7 @@ footer {
       }
     }
   }
-  #choice-sav {
+  .sav-contact {
     background-color: $insertBackground;
     padding: 1em;
 

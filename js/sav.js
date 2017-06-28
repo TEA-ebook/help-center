@@ -139,3 +139,9 @@
 
 
 }(jQuery, undefined));
+
+(function contactPB($){
+    var mailPB = 'help' + '@' + 'pocketbook-int' + '.com';
+    var contactSavPB = '<a href="mailto:' + mailPB +'">' + mailPB + '</a>';
+    $('#contact-pb').html(contactSavPB);
+}(jQuery, undefined));
