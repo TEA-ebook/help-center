@@ -221,7 +221,7 @@ S'il ne se passe toujours rien, contactez la hotline constructeur et exposez vot
 
 #### Comment récupérer mes données après le formatage de ma liseuse ?
 
-* Mes ebooks : Pour les ebooks acheté dans votre librairie, il suffit d'aller dans mes achats et de les télécharger à nouveau.
+* Mes ebooks : Pour les ebooks achetés dans votre librairie, il suffit d'aller dans mes achats et de les télécharger à nouveau.
 * Mes voix pour la synthèse vocale : Il est possible de télécharger les fichier voix pour la synthèse vocale à l'adresse suivante : http://www.pocketbook-int.com/fr/support/pocketbook-ultra
 
 {% include anchor.html id="garantie" label="Conditions de garantie des liseuses TEA (ou Pocketbook)" %}
