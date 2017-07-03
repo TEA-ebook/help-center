@@ -26,7 +26,7 @@ Sélectionnez « Télécharger TEA ebook » pour lire vos ebooks sur votre ord
 
 ### Installer TEA Ebook
 
-Sur la page de [TEA Ebook](https://app.tea-ebook.com/), vous pouvez télécharger la version de l’application TEA Ebook correspondante au système d'exploitation de votre ordinateur. L'application de lecture d'ebooks TEA Ebooks est compatible sur Mac, Windows et Linux.
+Sur la page de [TEA Ebook](https://app.tea-ebook.com/), vous pouvez télécharger la version de l’application TEA Ebook correspondante au système d'exploitation de votre ordinateur. L'application de lecture d'ebooks TEA Ebook est compatible sur Mac, Windows et Linux.
 
 ![](/images/installer-tea-ebook.png)
 
