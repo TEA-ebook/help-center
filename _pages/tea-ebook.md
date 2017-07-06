@@ -26,19 +26,26 @@ Sélectionnez « Télécharger TEA ebook » pour lire vos ebooks sur votre ord
 
 ### Installer TEA Ebook
 
-Sur la page de [TEA Ebook](https://app.tea-ebook.com/), vous pouvez télécharger la version de l’application TEA Ebook correspondante au système d'exploitation de votre ordinateur.
+Sur la page de [TEA Ebook](https://app.tea-ebook.com/), vous pouvez télécharger la version de l’application TEA Ebook correspondante au système d'exploitation de votre ordinateur. L'application de lecture d'ebooks TEA Ebook est compatible sur Mac, Windows et Linux.
 
 ![](/images/installer-tea-ebook.png)
 
-TEA Ebook, une fois téléchargé et installé, est disponible dans vos applications. 
+Le logiciel TEA Ebook, une fois téléchargé et installé, est disponible dans vos applications. 
 
 {% include anchor.html id="installer-tea-ebook" label="Initialiser TEA Ebook" %}
 
-### Initialiser TEA Ebook
+### Utiliser TEA Ebook
 
-Ouvrez TEA Ebook. Choisissez votre libraire et renseignez votre identifiant de compte client et mot de passe, utilisé pour acheter vos ebooks.
+Ouvrez TEA Ebook. 
 
-![](/images/initialisation-tea-ebook.png)
+![](/images/initialisation-tea-ebookv1.3.png)
+
+Pour ajouter un livre déjà présent sur votre ordinateur au logiciel de lecture TEA Ebook, faites un glisser-déposer.
+Vous pouvez également cliquer sur "Bibliothèque" puis "Importer un fichier dans la bibliothèque".
+
+Pour retrouver l'ensemble de vos ebooks achetés chez votre libraire, cliquez sur "Se connecter", choisissez votre libraire et connectez-vous à votre compte client en renseignant votre identifiant et votre mot de passe, utilisés pour acheter vos ebooks.
+
+![](/images/tea_ebook_login_popinv1.3.png)
 
 Vous retrouvez l’ensemble de vos ebooks :
 
@@ -51,12 +58,6 @@ Vous retrouvez l’ensemble de vos ebooks :
 Pour lire un livre acheté sur le site de votre libraire, cliquez le bouton « Lire ».
 
 ![](/images/tea-ebook-lecture.png)
-
-Pour lire un fichier `.epub` préalablement téléchargé, vous pouvez procéder à un glisser-déposer ou bien utiliser le bouton « Ajouter un livre dans la bibliothèque » et sélectionner le fichier.
-
-![](/images/tea-ebook-ajouter.png)
-
-
 
 {% include anchor.html id="fonctionalités-tea-ebook" label="Les fonctionnalités de lecture de TEA Ebook" %}
 
