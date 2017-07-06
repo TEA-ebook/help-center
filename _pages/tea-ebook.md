@@ -32,7 +32,7 @@ Sur la page de [TEA Ebook](https://app.tea-ebook.com/), vous pouvez télécharge
 
 Le logiciel TEA Ebook, une fois téléchargé et installé, est disponible dans vos applications. 
 
-{% include anchor.html id="installer-tea-ebook" label="Initialiser TEA Ebook" %}
+{% include anchor.html id="utiliser-tea-ebook" label="Utiliser TEA Ebook" %}
 
 ### Utiliser TEA Ebook
 
@@ -47,9 +47,13 @@ Pour retrouver l'ensemble de vos ebooks achetés chez votre libraire, cliquez su
 
 ![](/images/tea_ebook_login_popinv1.3.png)
 
-Vous retrouvez l’ensemble de vos ebooks :
+Vous retrouvez l’ensemble de vos ebooks...
 
 ![](/images/tea-ebook-library.png)
+
+... et vous avez accès à votre e-librairie habituelle via le bouton en haut à droite :
+
+![](/images/tea_ebook_menu_bar.png)
 
 {% include anchor.html id="lire-avec-tea-ebook" label="Lire un ebook avec TEA Ebook" %}
 
