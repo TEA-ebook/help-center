@@ -18,7 +18,7 @@ Pour finir cliquez sur « Valider mon panier ».
 
 ![](/images/acheter-ordinateur-3.png)
 
-{% include anchor.html id="identification-o" label="Identification" %}
+{% include anchor.html id="identification-o" label="S'identifier" %}
 
 ### S'identifier
 
@@ -28,9 +28,9 @@ Identifiez-vous si « Vous avez déjà un compte client ». Sinon, créez-vous
 
 ![](/images/acheter-ordinateur-5.png)
 
-{% include anchor.html id="paiement-o" label="Paiement" %}
+{% include anchor.html id="paiement-o" label="Payer sa commande" %}
 
-### Payer
+### Payer sa commande
 
 Cochez les Conditions Générales de Vente en bas à gauche, puis validez votre commande.
 
@@ -40,9 +40,9 @@ Entrez le numéro de votre carte, la date d’expiration de votre carte ainsi qu
 
 ![](/images/acheter-ordinateur-7.png)
 
-{% include anchor.html id="inalisation-commande-o" label="Finalisation de la commande" %}
+{% include anchor.html id="inalisation-commande-o" label="Finaliser sa commande" %}
 
-### Finaliser la commande
+### Finaliser sa commande
 
 Une fois le paiement effectué, vous retrouvez la confirmation de votre commande et la possibilité d’aller consulter la liste de vos ebooks. Un mail de confirmation de commande vous est envoyé.
 Nous vous donnons quelques conseils pour lire vos ebooks sur l’ensemble des supports de lecture : applications, liseuses et ordinateur.
