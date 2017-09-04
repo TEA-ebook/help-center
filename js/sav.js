@@ -1,16 +1,17 @@
 
 (function savContact($) {
 
-    function isMobile() {
-    if( /android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()) ) {
-        return true;
-    }
-    else {
-        return false;
-    }
-}
-
     'use strict';
+
+    function isMobile() {
+        if( /android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()) ) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
+
     var savTree = {
         'Auchan' : {
             'name' : 'Auchan',
@@ -152,11 +153,32 @@
         $('#sav-contact').html(result);
     });
 
-
-}(jQuery, undefined));
-
-(function contactPB($){
     var mailPB = 'help' + '@' + 'pocketbook-int' + '.com';
-    var contactSavPB = '<a href="mailto:' + mailPB +'">' + mailPB + '</a>';
+    var phonePB = {
+        'France' : {
+            'pays' : 'France',
+            'phoneNumber' : ['277', '080', '805', '0']
+        },
+        'Suisse' : {
+            'pays' : 'Suisse',
+            'phoneNumber' : ['720', '898', '800', '0']
+        },
+        'Autres' : {
+            'pays' : 'Autres pays francophones',
+            'phoneNumber' : ['277', '080', '805', '0033']
+        }
+    };
+    var contactSavPB = '<ul>';
+    for (var country in phonePB){
+            if (isMobile()) {
+                contactSavPB += '<li>' + phonePB[country]['pays'] + ' : <strong><a href="tel:' + phonePB[country]['phoneNumber'].reverse().join('') + '"">' + phonePB[country]['phoneNumber'].join(' ') + '</a></strong></li>';
+            }
+            else {
+                contactSavPB += '<li>' + phonePB[country]['pays'] + ' : <strong>' + phonePB[country]['phoneNumber'].reverse().join(' ') + '</strong></li>';
+            }
+    }
+    contactSavPB += '</ul>';
+    contactSavPB += '<p>Ou par email à l\'adresse : ' + '<a href="mailto:' + mailPB +'">' + mailPB + '</a></p>';
     $('#contact-pb').html(contactSavPB);
+
 }(jQuery, undefined));
