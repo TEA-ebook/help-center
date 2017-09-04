@@ -1,4 +1,15 @@
-(function savChoice($) {
+
+(function savContact($) {
+
+    function isMobile() {
+    if( /android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()) ) {
+        return true;
+    }
+    else {
+        return false;
+    }
+}
+
     'use strict';
     var savTree = {
         'Auchan' : {
@@ -129,8 +140,12 @@
         }
         if (savChoice['phone']){
             var phone = savChoice['phone'];
-            var phoneFormated = phone.reverse().join(' ');
-            result += '<strong>Téléphone : </strong>' + phoneFormated + '<br />';
+            if (isMobile()) {
+                result += '<strong>Téléphone : </strong><a href="tel:' + phone.reverse().join('') + '"">' + phone.join(' ') + '</a><br />';                
+            }
+            else {
+                result += '<strong>Téléphone : </strong>' + phone.reverse().join(' ') + '<br />';
+            }
         }
         result += '<strong>Horaire : </strong>' + savChoice['schedule'];
         result += '</p>';
