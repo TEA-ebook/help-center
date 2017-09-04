@@ -4,36 +4,36 @@
         'Auchan' : {
             'name' : 'Auchan',
             'mail' : ['sav', 'tea-ebook', 'com'],
-            'schedule' :'Du lundi au vendredi de 9h00 à 18h00'
+            'schedule' :'Du lundi au vendredi de 9h à 18h'
         },
         'Bisey' : {
             'name' : 'Bisey',
             'mail' : ['info', 'bisey', 'com'],
             'phone' : ['92', '42', '66', '89', '03'],
-            'schedule' :'Le lundi de 10h à 19h00<br/>Du mardi au vendredi de 9h00 à 19h00<br/>Le samedi de 9h00 à 18h30'
+            'schedule' :'Le lundi de 10h à 19h<br/>Du mardi au vendredi de 9h à 19h<br/>Le samedi de 9h à 18h30'
         },
         'Cdiscount' : {
             'name' : 'Cdiscount by TEA',
             'mail' : ['cdiscountbytea', 'tea-ebook', 'com'],
-            'schedule' : 'Du lundi au vendredi de 9h00 à 18h00'
+            'schedule' : 'Du lundi au vendredi de 9h à 18h'
         },
         'Chapitre' : {
             'name' : 'Chapitre',
             'mail' : ['relation_clients', 'chapitre', 'com'],
             'phone' : ['71', '56', '79', '21', '03'],
-            'schedule' : 'Du lundi au vendredi de 8h00 à 19h00<br/>Le samedi de 9h00 à 19h00'
+            'schedule' : 'Du lundi au vendredi de 8h à 19h<br/>Le samedi de 9h à 19h'
         },
         'Cheminant' : {
             'name' : 'Cheminant',
             'mail' : ['librairie.cheminant', 'wanadoo', 'fr'],
             'phone' : ['11', '74', '42', '97', '02'],
-            'schedule' :'Du lundi au samedi de 9h15 à 19h00'
+            'schedule' :'Du lundi au samedi de 9h15 à 19h'
         },
         'Cultura' : {
             'name' : 'Cultura',
             'site' : 'http://www.cultura.com/contact.html',
             'phone' : ['93', '02', '86', '86', '09'],
-            'schedule' : 'Du lundi au samedi de 8h00 à 19h00'
+            'schedule' : 'Du lundi au samedi de 8h à 19h'
         },
         'Decitre' : {
             'name' : 'Decitre',
@@ -45,58 +45,64 @@
             'name' : 'Develay',
             'mail' : ['contact.librairie', 'develay', 'net'],
             'phone' : ['49', '01', '65', '74', '04'],
-            'schedule' :'Du lundi au vendredi de 9h00 à 12h00 et de 14h00 à 19h00<br/>Le samedi de 9h30 à 12h30 et de 14h00 à 19h00'
+            'schedule' :'Du lundi au vendredi de 9h à 12h et de 14h à 19h<br/>Le samedi de 9h30 à 12h30 et de 14h à 19h'
         },
         'Ebooks-store' : {
             'name' : 'Ebooks Store',
             'mail' : ['ebooks-store', 'fls', 'ch'],
             'phone' : ['708', '840', '0848'],
-            'schedule' : 'Du lundi au vendredi de 8h00 à 12h00 et de 13h00 à 17h00'
+            'schedule' : 'Du lundi au vendredi de 8h à 12h et de 13h à 17h'
         },
         'Espace-temps' : {
             'name' : 'Espace Temps',
             'mail' : ['espacetemps.egly', 'wanadoo', 'fr'],
             'phone' : ['66', '02', '26', '69', '01'],
-            'schedule' :'Du lundi au samedi de 9h00 à 19h30'
+            'schedule' :'Du lundi au samedi de 9h à 19h30'
         },
         'Eyrolles' : {
             'name' : 'Eyrolles',
             'mail' : ['sav', 'tea-ebook', 'com'],
-            'schedule' :'Du lundi au vendredi de 9h00 à 18h00'
+            'schedule' :'Du lundi au vendredi de 9h à 18h'
         },
         'Furet du Nord' : {
             'name' : 'Furet du Nord',
             'mail' : ['contact','supportfuret','com'],
-            'schedule' :'Du lundi au vendredi de 9h00 à 18h00'
+            'schedule' :'Du lundi au vendredi de 9h à 18h'
         },
         'Lecteur-moderne' : {
             'name' : 'Lecteur Moderne',
             'mail' : ['sav', 'tea-ebook', 'com'],
-            'schedule' :'Du lundi au vendredi de 9h00 à 18h00'
+            'schedule' :'Du lundi au vendredi de 9h à 18h'
+        },
+        'Librairie Jésuite' : {
+            'name' : 'Librairie Jésuite',
+            'mail' : ['communication-ser','ser-sa','com'],
+            'phone' : ['01', '44', '39', '48', '24'],
+            'schedule' :'Du lundi au vendredi 9h à 17h'
         },
         'Madison' : {
             'name' : 'Madison',
             'mail' : ['madisonlibourne', 'gmail', 'com'],
             'phone' : ['25', '32', '51', '57', '05'],
-            'schedule' :'Du lundi au samedi de 9h30 à 12h30 et de 14h00 à 19h00'
+            'schedule' :'Du lundi au samedi de 9h30 à 12h30 et de 14h à 19h'
         },
         'Mes-livres-numeriques' : {
             'name' : 'Mes livres numériques',
             'mail' : ['info', 'meslivresnumeriques', 'be'],
             'phone' : ['60', '11', '22', '70/', '32'],
-            'schedule' : 'Du lundi au vendredi de 13h00 à 16h30'
+            'schedule' : 'Du lundi au vendredi de 13h à 16h30'
         },
         'Montbarbon' : {
             'name' : 'Montbarbon',
             'mail' : ['cde-livre-site', 'montbarbon', 'com'],
             'phone' : ['68', '45', '23', '74', '04'],
-            'schedule' :'Le lundi de 14h00 à 19h00<br/>Du mardi au samedi de 9h30 à 19h00'
+            'schedule' :'Le lundi de 14h00 à 19h00<br/>Du mardi au samedi de 9h30 à 19h'
         },
         'PlanetR' : {
             'name' : 'Planet\'R',
             'mail' : ['planet.r.librairie', 'orange', 'fr'],
             'phone' : ['77', '17', '77', '33', '02'],
-            'schedule' :'Du lundi 9h00 à 19h30'
+            'schedule' :'Du lundi au samedi de 9h à 19h30'
         },
         'Systeme-U' : {
             'name' : 'Système U / Uculture',
