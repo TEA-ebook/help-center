@@ -77,7 +77,7 @@
         'Librairie Jésuite' : {
             'name' : 'Librairie Jésuite',
             'mail' : ['communication-ser','ser-sa','com'],
-            'phone' : ['01', '44', '39', '48', '24'],
+            'phone' : ['24', '48', '39', '44', '01'],
             'schedule' :'Du lundi au vendredi 9h à 17h'
         },
         'Madison' : {
