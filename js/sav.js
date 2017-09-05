@@ -3,13 +3,9 @@
 
     'use strict';
 
+    var mobileRegex = /android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i;
     function isMobile() {
-        if( /android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()) ) {
-            return true;
-        }
-        else {
-            return false;
-        }
+        return mobileRegex.test(navigator.userAgent);
     }
 
     var savTree = {
