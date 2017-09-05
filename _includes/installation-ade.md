@@ -7,12 +7,7 @@ Il n'est pas nécessaire de télécharger Adobe Digital Editions pour [lire sur 
 
 ### Télécharger Adobe Digital Editions 4
 
-Rendez-vous sur la page [Adobe Digital Editions du site Adobe](http://www.adobe.com/fr/solutions/ebook/digital-editions.html)
-Puis cliquez sur l'onglet « Télécharger ».
-
-![](/images/support-ordinateur-2.png)
-
-Dans la section « Adobe Digital Editions  4.0.2 – Programmes d'installation », cliquez sur « Macintosh (18,7 Mo) » ou « Windows (7,2 Mo) » en fonction de la catégorie de votre ordinateur : Mac ou Windows. (Adobe Digital Editions n'est pas compatible avec Linux.)
+Rendez-vous sur la page [Adobe Digital Editions du site Adobe](http://www.adobe.com/fr/solutions/ebook/digital-editions/download.html).
 
 ![](/images/support-ordinateur-3.png)
 
