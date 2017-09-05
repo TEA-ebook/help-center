@@ -148,9 +148,9 @@
             result += '<strong>Téléphone : </strong>';
 
             if (isMobile()) {
-                result += '<a href="tel:' + phone + '"">' + phoneFormated + '</a>';
+                result += '<a href="tel:' + phone + '"">' + phoneFormatted + '</a>';
             } else {
-                result += phoneFormated;
+                result += phoneFormatted;
             }
 
             result +=  '<br />';
@@ -182,10 +182,10 @@
         var phoneNumberFormatted = phonePB[country]['phoneNumber'].join(' ');
         contactSavPB += '<li>';
         if (isMobile()) {
-            contactSavPB += countryName + ' : <strong><a href="tel:' + phoneNumber + '"">' + phoneNumberFormated + '</a>';
+            contactSavPB += countryName + ' : <strong><a href="tel:' + phoneNumber + '"">' + phoneNumberFormatted + '</a>';
         }
         else {
-            contactSavPB += countryName + ' : <strong>' + phoneNumberFormated;
+            contactSavPB += countryName + ' : <strong>' + phoneNumberFormatted;
         }
         contactSavPB += '</strong></li>';
     }
