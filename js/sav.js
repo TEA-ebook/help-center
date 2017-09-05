@@ -142,13 +142,18 @@
             result += '<strong>Email : </strong><a href="mailto:' + mail +'">' + mail + '</a><br />';
         }
         if (savChoice['phone']){
-            var phone = savChoice['phone'];
+
+            var phone = savChoice['phone'].reverse().join('');
+            var phoneFormated = savChoice['phone'].join(' ');
+            result += '<strong>Téléphone : </strong>';
+
             if (isMobile()) {
-                result += '<strong>Téléphone : </strong><a href="tel:' + phone.reverse().join('') + '"">' + phone.join(' ') + '</a><br />';                
+                result += '<a href="tel:' + phone + '"">' + phoneFormated + '</a>';
+            } else {
+                result += phoneFormated;
             }
-            else {
-                result += '<strong>Téléphone : </strong>' + phone.reverse().join(' ') + '<br />';
-            }
+
+            result +=  '<br />';
         }
         result += '<strong>Horaire : </strong>' + savChoice['schedule'];
         result += '</p>';
@@ -158,26 +163,31 @@
     var mailPB = 'help' + '@' + 'pocketbook-int' + '.com';
     var phonePB = {
         'France' : {
-            'pays' : 'France',
+            'countryName' : 'France',
             'phoneNumber' : ['277', '080', '805', '0']
         },
         'Suisse' : {
-            'pays' : 'Suisse',
+            'countryName' : 'Suisse',
             'phoneNumber' : ['720', '898', '800', '0']
         },
         'Autres' : {
-            'pays' : 'Autres pays francophones',
+            'countryName' : 'Autres pays francophones',
             'phoneNumber' : ['277', '080', '805', '0033']
         }
     };
     var contactSavPB = '<ul>';
     for (var country in phonePB){
-            if (isMobile()) {
-                contactSavPB += '<li>' + phonePB[country]['pays'] + ' : <strong><a href="tel:' + phonePB[country]['phoneNumber'].reverse().join('') + '"">' + phonePB[country]['phoneNumber'].join(' ') + '</a></strong></li>';
-            }
-            else {
-                contactSavPB += '<li>' + phonePB[country]['pays'] + ' : <strong>' + phonePB[country]['phoneNumber'].reverse().join(' ') + '</strong></li>';
-            }
+        var countryName = phonePB[country]['countryName'];
+        var phoneNumber = phonePB[country]['phoneNumber'].reverse().join('');
+        var phoneNumberFormated = phonePB[country]['phoneNumber'].join(' ');
+        contactSavPB += '<li>';
+        if (isMobile()) {
+            contactSavPB += countryName + ' : <strong><a href="tel:' + phoneNumber + '"">' + phoneNumberFormated + '</a>';
+        }
+        else {
+            contactSavPB += countryName + ' : <strong>' + phoneNumberFormated;
+        }
+        contactSavPB += '</strong></li>';
     }
     contactSavPB += '</ul>';
     contactSavPB += '<p>Ou par email à l\'adresse : ' + '<a href="mailto:' + mailPB +'">' + mailPB + '</a></p>';
