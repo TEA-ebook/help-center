@@ -144,7 +144,7 @@
         if (savChoice['phone']){
 
             var phone = savChoice['phone'].reverse().join('');
-            var phoneFormated = savChoice['phone'].join(' ');
+            var phoneFormatted = savChoice['phone'].join(' ');
             result += '<strong>Téléphone : </strong>';
 
             if (isMobile()) {
@@ -179,7 +179,7 @@
     for (var country in phonePB){
         var countryName = phonePB[country]['countryName'];
         var phoneNumber = phonePB[country]['phoneNumber'].reverse().join('');
-        var phoneNumberFormated = phonePB[country]['phoneNumber'].join(' ');
+        var phoneNumberFormatted = phonePB[country]['phoneNumber'].join(' ');
         contactSavPB += '<li>';
         if (isMobile()) {
             contactSavPB += countryName + ' : <strong><a href="tel:' + phoneNumber + '"">' + phoneNumberFormated + '</a>';
