@@ -1,5 +1,13 @@
-(function savChoice($) {
+
+(function savContact($) {
+
     'use strict';
+
+    var mobileRegex = /android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i;
+    function isMobile() {
+        return mobileRegex.test(navigator.userAgent);
+    }
+
     var savTree = {
         'Auchan' : {
             'name' : 'Auchan',
@@ -134,20 +142,55 @@
             result += '<strong>Email : </strong><a href="mailto:' + mail +'">' + mail + '</a><br />';
         }
         if (savChoice['phone']){
-            var phone = savChoice['phone'];
-            var phoneFormated = phone.reverse().join(' ');
-            result += '<strong>Téléphone : </strong>' + phoneFormated + '<br />';
+
+            var phone = savChoice['phone'].reverse().join('');
+            var phoneFormatted = savChoice['phone'].join(' ');
+            result += '<strong>Téléphone : </strong>';
+
+            if (isMobile()) {
+                result += '<a href="tel:' + phone + '"">' + phoneFormatted + '</a>';
+            } else {
+                result += phoneFormatted;
+            }
+
+            result +=  '<br />';
         }
         result += '<strong>Horaire : </strong>' + savChoice['schedule'];
         result += '</p>';
         $('#sav-contact').html(result);
     });
 
-
-}(jQuery, undefined));
-
-(function contactPB($){
     var mailPB = 'help' + '@' + 'pocketbook-int' + '.com';
-    var contactSavPB = '<a href="mailto:' + mailPB +'">' + mailPB + '</a>';
+    var phonePB = {
+        'France' : {
+            'countryName' : 'France',
+            'phoneNumber' : ['277', '080', '805', '0']
+        },
+        'Suisse' : {
+            'countryName' : 'Suisse',
+            'phoneNumber' : ['720', '898', '800', '0']
+        },
+        'Autres' : {
+            'countryName' : 'Autres pays francophones',
+            'phoneNumber' : ['277', '080', '805', '0033']
+        }
+    };
+    var contactSavPB = '<ul>';
+    for (var country in phonePB){
+        var countryName = phonePB[country]['countryName'];
+        var phoneNumber = phonePB[country]['phoneNumber'].reverse().join('');
+        var phoneNumberFormatted = phonePB[country]['phoneNumber'].join(' ');
+        contactSavPB += '<li>';
+        if (isMobile()) {
+            contactSavPB += countryName + ' : <strong><a href="tel:' + phoneNumber + '"">' + phoneNumberFormatted + '</a>';
+        }
+        else {
+            contactSavPB += countryName + ' : <strong>' + phoneNumberFormatted;
+        }
+        contactSavPB += '</strong></li>';
+    }
+    contactSavPB += '</ul>';
+    contactSavPB += '<p>Ou par email à l\'adresse : ' + '<a href="mailto:' + mailPB +'">' + mailPB + '</a></p>';
     $('#contact-pb').html(contactSavPB);
+
 }(jQuery, undefined));
