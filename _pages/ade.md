@@ -21,3 +21,9 @@ title: Utiliser Adobe Digital Editions
 ## Transférer un ebook vers une liseuse avec Adobe Digital Editions
 
 {% include transferer-ordinateur-liseuse.md %}
+
+{% include anchor.html id="messages-ade" label="Les messages d'erreur les plus fréquents sur Adobe Digital Editions" %}
+
+## Les messages d'erreur les plus fréquents sur Adobe Digital Editions
+
+{% include faq-erreurs.md %}
