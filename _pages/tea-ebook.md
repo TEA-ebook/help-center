@@ -4,14 +4,6 @@ layout: page
 title: Acheter un ebook sur Internet et le lire sur son ordinateur
 ---
 
-{% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
-
-## Acheter un ebook sur Internet
-
-{% include acheter-ordinateur.md %}
-
-{% include anchor.html id="lire-tea-ebook" label="Lire un ebook sur TEA Ebook" %}
-
 ## Lire un ebook sur TEA Ebook
 
 Depuis la page « Vos Ebooks », vous retrouvez l’ensemble de vos livres. Sélectionnez « Lire sur ordinateur ».
