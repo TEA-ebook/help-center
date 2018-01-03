@@ -95,30 +95,16 @@ Il existe 3 cas de figure pour les protections des e-books.
 
 **Contenu protégé**  
 Il s'agit d'un e-book protégé par une mesure technique de protection mise en place pour préserver les droits des œuvres numériques. Le fichier est crypté grâce à l'insertion d'informations codées.  
-Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse TEA ou liseuse Pocketbook compatible, application Android et iOs), ce cryptage reste totalement invisible.  
+Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse TEA ou liseuse Pocketbook compatible, logiciel TEA Ebook, application Android et iOs), ce cryptage reste totalement invisible.  
 Par contre, si vous souhaitez sortir de cet environnement, le livre vous sera fourni sous DRM (Digital Right Management) ACS4 (Adobe Content Server 4) dite DRM Adobe ou Adobe DRM.
-Comment lire un e-ebook protégé par la DRM Adobe ?
+
+[Comment lire un e-ebook protégé par la DRM Adobe ?](http://aide.tea-ebook.com/ade/)
 
 **Tatouage numérique / Watermarking / Marquage**  
 Le tatouage numérique est une mesure dissuasive à l'égard des utilisateurs. Il ne verrouille pas le fichier mais en permet la traçabilité grâce à l'insertion d'un marquage (visible ou invisible pour le lecteur) dans les pages de l'e-book.
 
 **Pas de protection**  
 Un e-book sans protection n'est soumis à aucune limite d'utilisation.
-
-{% include anchor.html id="caracteristique-ebook" label="Quelles sont les caractéristiques de l'e-book que j'achète ?" %}
-
-### Quelles sont les caractéristiques de l'e-book que j'achète ?
-
-Chaque e-book possède ses propres caractéristiques dont on peut retrouver le détail dans la fiche technique :
-
-**Libre de droit**  
-Est libre de droit ou appartient au domaine public un ouvrage dont l'auteur est décédé depuis 70 ans et un jour. Les e-books libres de droit sont souvent gratuits.
-
-**Impression**  
-Le taux d'impression est exprimé en pourcentage ou en nombre de pages. Il dépend des protections appliquées à l'e-book et indique dans quelle mesure il peut être imprimé.
-
-**Copier-coller**  
-Le taux de « copier-coller » est exprimé en pourcentage ou en nombre de pages. Il dépend des protections appliquées à l'e-book et indique dans quelle mesure il sera possible de le dupliquer.
 
 {% include anchor.html id="plusieurs-ebooks" label="Puis-je acheter plusieurs e-books en même temps ?" %}
 
