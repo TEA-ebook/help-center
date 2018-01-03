@@ -26,4 +26,4 @@ title: Utiliser Adobe Digital Editions
 
 ## Les messages d'erreur les plus fréquents sur Adobe Digital Editions
 
-{% include faq-erreurs.md %}
+Voir la page sur [les messages d'erreur les plus fréquents](http://aide.tea-ebook.com/faq-erreurs/).
