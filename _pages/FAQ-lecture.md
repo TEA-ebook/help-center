@@ -10,7 +10,7 @@ type: faq
 ### Sur quels supports puis-je lire un ebook ?
 
 Les supports / terminaux de lecture désignent de manière générale l'outil grâce auquel on peut lire un ebook.  
-Outre les ordinateurs et les smartphones, il existe :
+Outre les ordinateurs et les smartphones, vous pouvez lire sur :
 
 **Liseuse / E-reader / Lecteur de livre numérique / Ebook reader**  
 Il s'agit de supports dédiés exclusivement à la lecture de livres numériques. Les liseuses sont livrées « prêtes à l'utilisation », c’est-à-dire qu'elles intègrent une application permettant de lire et d'organiser ses livres numériques. Un accès direct à une librairie est proposé pour commander des e-books.  
@@ -26,8 +26,6 @@ Certaines applications permettent également de se connecter directement à une 
 ### Comment transférer mes ebooks sur une liseuse non TEA ?
 
 [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions)
-
-#### Transférer un ebook sur sa liseuse
 
 {% include transferer-ordinateur-liseuse.md %}
 
