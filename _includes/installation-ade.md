@@ -5,7 +5,7 @@ Il n'est pas nécessaire de télécharger Adobe Digital Editions pour [lire sur 
 
 {% include anchor.html id="telecharger-adobe-digital-edition" label="Télécharger Adobe Digital Editions 4" %}
 
-### Télécharger Adobe Digital Editions 4
+### Télécharger Adobe Digital Editions
 
 Rendez-vous sur la page [Adobe Digital Editions du site Adobe](http://www.adobe.com/fr/solutions/ebook/digital-editions/download.html).
 
