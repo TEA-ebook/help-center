@@ -1,7 +1,3 @@
-{% include anchor.html id="transfert-livre" label="Transférer un ebook avec Adobe Digital Editions" %}
-
-## Transférer un ebook avec Adobe Digital Editions
-
 Le transfert d'un e-book depuis ordinateur vers une liseuse se fait grâce à un câble USB.
 
 Vous devez préalablement avoir téléchargé vos e-books sur Adobe Digital Editions.
