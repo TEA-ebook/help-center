@@ -9,9 +9,8 @@ Il n'est pas nécessaire de télécharger Adobe Digital Editions pour [lire sur 
 
 Rendez-vous sur la page [Adobe Digital Editions du site Adobe](http://www.adobe.com/fr/solutions/ebook/digital-editions/download.html).
 
-![](/images/support-ordinateur-3.png)
-
-Cliquez sur « Enregistrer le fichier », puis double-cliquez sur le fichier téléchargé « ADE_4.0_Installer.exe » si vous êtes sur Windows ou sur le fichier « ADE_4.0_Installer.dmg » si vous êtes sur Mac OS. Autorisez le programme à apporter des modifications sur votre ordinateur si cela vous est demandé. 
+Cliquez sur « Enregistrer le fichier », puis double-cliquez sur le fichier téléchargé « ADE_4.0_Installer.exe » si vous êtes sur Windows ou sur le fichier « ADE_4.0_Installer.dmg » si vous êtes sur Mac OS. 
+Autorisez le programme à apporter des modifications sur votre ordinateur si cela vous est demandé. 
 
 {% include anchor.html id="installer-adobe-digital-editions" label="Installer Adobe Digital Editions" %}
 
