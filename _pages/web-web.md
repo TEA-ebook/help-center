@@ -4,11 +4,11 @@ layout: page
 title: Acheter un ebook sur Internet et le lire en ligne
 ---
 
-{% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
+{% include anchor.html id="acheter-internet" label="Acheter un ebook sur un ordinateur" %}
 
-## Acheter un ebook sur Internet
+## Acheter un ebook depuis un ordinateur (ou un navigateur web mobile)
 
-{% include acheter-ordinateur.md %}
+[Comment acheter un ebook depuis un ordinateur ?](http://aide.tea-ebook.com/acheter-un-ebook-web/).
 
 {% include anchor.html id="lire-internet" label="Lire un ebook dans son navigateur" %}
 
