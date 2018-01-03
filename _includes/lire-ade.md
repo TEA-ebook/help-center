@@ -1,3 +1,7 @@
+{% include anchor.html id="lire-ade" label="Lire sur Adobe Digital Editions" %}
+
+## Lire sur Adobe Digital Editions
+
 {% include anchor.html id="ouvrir-livre" label="Ouvrir un livre" %}
 
 ### Ouvrir un livre
