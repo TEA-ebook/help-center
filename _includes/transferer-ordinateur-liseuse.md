@@ -1,6 +1,6 @@
-Le transfert d'un e-book depuis ordinateur vers une liseuse se fait grâce à un câble USB.
+Le transfert d'un e-book depuis un ordinateur vers une liseuse se fait grâce à un câble USB.
 
-Vous devez préalablement avoir téléchargé vos e-books sur Adobe Digital Editions.
+Vous devez préalablement avoir téléchargé vos e-books sur le logiciel Adobe Digital Editions.
 
 ![](/images/transferer-ordinateur-liseuse-1.png)
 
@@ -13,7 +13,7 @@ Vous devez préalablement avoir téléchargé vos e-books sur Adobe Digital Edit
     <p>Il faut donc allumer votre liseuse, attendre l’apparition du menu principal, brancher la liseuse à votre ordinateur et sélectionner « Transférer des fichiers ».</p>
 </div>
 
-* Lancez le logiciel Adobe Digital Editions sur votre ordinateur. 
+* Si ce n'est pas déjà fait, lancez le logiciel Adobe Digital Editions sur votre ordinateur. 
 * Votre liseuse apparaît dans la colonne de gauche du logiciel, sous le titre « Périphériques ». 
 
 ![](/images/transferer-ordinateur-liseuse-2.png)
