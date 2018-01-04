@@ -98,7 +98,7 @@ Il s'agit d'un e-book protégé par une mesure technique de protection mise en p
 Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse TEA ou liseuse Pocketbook compatible, logiciel TEA Ebook, application Android et iOs), ce cryptage reste totalement invisible.  
 Par contre, si vous souhaitez sortir de cet environnement, le livre vous sera fourni sous DRM (Digital Right Management) ACS4 (Adobe Content Server 4) dite DRM Adobe ou Adobe DRM.
 
-[Comment lire un e-ebook protégé par la DRM Adobe ?](http://aide.tea-ebook.com/ade/)
+[Comment lire un e-book protégé par la DRM Adobe ?](http://aide.tea-ebook.com/ade/)
 
 **Tatouage numérique / Watermarking / Marquage**  
 Le tatouage numérique est une mesure dissuasive à l'égard des utilisateurs. Il ne verrouille pas le fichier mais en permet la traçabilité grâce à l'insertion d'un marquage (visible ou invisible pour le lecteur) dans les pages de l'e-book.
