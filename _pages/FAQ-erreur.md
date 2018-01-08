@@ -76,7 +76,7 @@ Il s'agit d'un message d'avertissement qui apparaît lors du premier télécharg
 Vous avez un ordinateur sur Windows 10 et vous rencontrez des difficultés à télécharger ou transférer des e-books avec Adobe Digital Editions ?
 C'est probablement à cause d'une incompatibilité entre Windows 10 et les dernières mises à jour du logiciel Adobe Digital Editions.
 Nous vous conseillons de désinstaller Adobe Digital Editions et de réinstaller une ancienne version du logiciel.
-[Télécharger une ancienne version de Adobe Digital Editions.]http://www.adobe.com/support/digitaleditions/downloads.html
+[Télécharger une ancienne version de Adobe Digital Editions.](http://www.adobe.com/support/digitaleditions/downloads.html)
 
 {% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
 
