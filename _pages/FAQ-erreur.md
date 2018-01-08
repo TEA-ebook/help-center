@@ -68,19 +68,15 @@ Il s'agit d'un message d'avertissement qui apparaît lors du premier télécharg
     * Connecter le wifi
     * Renseigner le compte Adobe
     * Activer l'appareil
+    
+{% include anchor.html id="ADE-Windows10" label="Adobe Digital Editions sur Windows 10" %}
 
-{% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
+### Adobe Digital Editions sur Windows 10
 
-### Erreur : « 400 Bad Request » à l'ouverture de la Librairie ou de Mes Achats sur liseuse
-
-Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de votre liseuse, en suivant les étapes suivantes :
-
- * Depuis la page d'accueil de votre liseuse, ouvrir le menu du bas en appuyant sur les deux traits horizontaux.
- * Sélectionner le navigateur.
- * Appuyer sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse
- * Appuyer ensuite sur « Paramètres », puis sur « Effacer les cookies »
- * Fermer le navigateur pour revenir à la page d'accueil de votre liseuse.
- * Ré-essayer alors de vous connecter à votre librairie.
+Vous avez un ordinateur sur Windows 10 et vous rencontrez des difficultés à télécharger ou transférer des e-books avec Adobe Digital Editions ?
+C'est probablement à cause d'une incompatibilité entre Windows 10 et les dernières mises à jour du logiciel Adobe Digital Editions.
+Nous vous conseillons de désinstaller Adobe Digital Editions et de réinstaller une ancienne version du logiciel.
+[Télécharger une ancienne version de Adobe Digital Editions.]http://www.adobe.com/support/digitaleditions/downloads.html
 
 {% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
 
@@ -155,9 +151,23 @@ Les versions 4.0.0 et 4.0.1 d'Adobe Digital Editions génèrent régulièrement 
 
 <div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
 
+
 {% include anchor.html id="duplicate-transaction" label="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
 
 ### E\_ADEPT\_DUPLICATE\_TRANSACTION\_ID
 
 Lorsque vous rencontrez ce message, cela signifie que votre autorisation Adobe ID n'est plus reconnue par le logiciel Adobe Digital Editions.
 Contactez votre Service Clients et demandez une réinitialisation du lien de votre livre numérique.
+
+{% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
+
+### Erreur : « 400 Bad Request » à l'ouverture de la Librairie ou de Mes Achats sur liseuse
+
+Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de votre liseuse, en suivant les étapes suivantes :
+
+ * Depuis la page d'accueil de votre liseuse, ouvrir le menu du bas en appuyant sur les deux traits horizontaux.
+ * Sélectionner le navigateur.
+ * Appuyer sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse
+ * Appuyer ensuite sur « Paramètres », puis sur « Effacer les cookies »
+ * Fermer le navigateur pour revenir à la page d'accueil de votre liseuse.
+ * Ré-essayer alors de vous connecter à votre librairie.
