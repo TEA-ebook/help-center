@@ -27,6 +27,8 @@ La page d'accueil de la liseuse permet de voir quel logiciel est installé.
 
 L'information précise se trouve dans Paramètres > À propos de l'appareil > Logiciel > Version du logiciel ou Paramètres > Logiciel > Version du logiciel.
 
+{% include feedback-button.html question="Quelle est la version du logiciel installé sur ma liseuse ?" %}
+
 {% include anchor.html id="maj5" label="Mise à jour depuis la version 5" %}
 
 ## Mise à jour depuis la version 5
