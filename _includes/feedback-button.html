@@ -1,0 +1,20 @@
+<div class="feedback center">Cette réponse vous a-t-elle aidée ? 
+	<form action="https://formspree.io/astranchet@tea-ebook.com" method="POST">
+	    <input type="hidden" name="page" value="{{ page.url }}">
+	    <input type="hidden" name="question" value="{{ include.question }}">
+	    <input type="hidden" name="feedback" value="👍">
+	    <input type="hidden" name="_next" value="{{ page.url }}" />
+	    <input type="hidden" name="_language" value="fr" />
+	    <input type="hidden" name="_subject" value="[Aide] Feedback" />
+	    <input type="submit" value="Oui 👍">
+	</form>
+	<form action="https://formspree.io/astranchet@tea-ebook.com" method="POST">
+	    <input type="hidden" name="page" value="{{ page.url }}">
+	    <input type="hidden" name="question" value="{{ include.question }}">
+	    <input type="hidden" name="feedback" value="👎">
+	    <input type="hidden" name="_next" value="{{ page.url }}" />
+	    <input type="hidden" name="_language" value="fr" />
+	    <input type="hidden" name="_subject" value="[Aide] Feedback" />
+	    <input type="submit" value="Non 👎">
+	</form>
+</div>

@@ -159,6 +159,8 @@ Les versions 4.0.0 et 4.0.1 d'Adobe Digital Editions génèrent régulièrement 
 Lorsque vous rencontrez ce message, cela signifie que votre autorisation Adobe ID n'est plus reconnue par le logiciel Adobe Digital Editions.
 Contactez votre Service Clients et demandez une réinitialisation du lien de votre livre numérique.
 
+{% include feedback-button.html question="400 Bad request" %}
+
 {% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
 
 ### Erreur : « 400 Bad Request » à l'ouverture de la Librairie ou de Mes Achats sur liseuse
@@ -171,3 +173,6 @@ Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de 
  * Appuyer ensuite sur « Paramètres », puis sur « Effacer les cookies »
  * Fermer le navigateur pour revenir à la page d'accueil de votre liseuse.
  * Ré-essayer alors de vous connecter à votre librairie.
+
+
+{% include feedback-button.html question="400 Bad request" %}
