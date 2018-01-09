@@ -19,6 +19,8 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 
 [Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#identifiant-adobe)
 
+{% include feedback-button.html question="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
+
 {% include anchor.html id="request-expired" label="E_ADEPT_REQUEST_EXPIRED" %}
 
 ### E\_ADEPT\_REQUEST\_EXPIRED
@@ -41,6 +43,8 @@ Pour modifier les paramètres Date/heure :
     * Appuyer ensuite sur « Synchroniser l'heure ».
     * Activer aussi la « Synchronisation automatique de l'heure », en appuyant sur le bouton On/Off
 
+{% include feedback-button.html question="E_ADEPT_REQUEST_EXPIRED" %}
+
 {% include anchor.html id="livre-abime-protege" label="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
 
 ### Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)
@@ -55,6 +59,8 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 
 [Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#identifiant-adobe)
 
+{% include feedback-button.html question="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
+
 {% include anchor.html id="protege-adobe-DRM" label="Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil..." %}
 
 ### Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil...
@@ -68,7 +74,9 @@ Il s'agit d'un message d'avertissement qui apparaît lors du premier télécharg
     * Connecter le wifi
     * Renseigner le compte Adobe
     * Activer l'appareil
-    
+
+{% include feedback-button.html question="Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil..." %}
+
 {% include anchor.html id="ADE-Windows10" label="Adobe Digital Editions sur Windows 10" %}
 
 ### Adobe Digital Editions sur Windows 10
@@ -77,6 +85,8 @@ Vous avez un ordinateur sur Windows 10 et vous rencontrez des difficultés à t�
 C'est probablement à cause d'une incompatibilité entre Windows 10 et les dernières mises à jour du logiciel Adobe Digital Editions.
 Nous vous conseillons de désinstaller Adobe Digital Editions et de réinstaller une ancienne version du logiciel.
 [Télécharger une ancienne version de Adobe Digital Editions.](http://www.adobe.com/support/digitaleditions/downloads.html)
+
+{% include feedback-button.html question="Adobe Digital Editions sur Windows 10" %}
 
 {% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
 
@@ -96,6 +106,8 @@ Il faut donc retirer manuellement l'autorisation de l'ordinateur.
     4. Localiser aussi HKEY_CURRENT_USER>Software>Adobe>Adept et supprimer le dossier complet.
 
 <div class="warningtip"><p>Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>   
+
+{% include feedback-button.html question="E_AUTH_NOT_READY" %}
 
 {% include anchor.html id="error-check-activation" label="Error check activation" %}
 
@@ -151,6 +163,8 @@ Les versions 4.0.0 et 4.0.1 d'Adobe Digital Editions génèrent régulièrement 
 
 <div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
 
+{% include feedback-button.html question="Error check activation" %}
+
 
 {% include anchor.html id="duplicate-transaction" label="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
 
@@ -159,7 +173,7 @@ Les versions 4.0.0 et 4.0.1 d'Adobe Digital Editions génèrent régulièrement 
 Lorsque vous rencontrez ce message, cela signifie que votre autorisation Adobe ID n'est plus reconnue par le logiciel Adobe Digital Editions.
 Contactez votre Service Clients et demandez une réinitialisation du lien de votre livre numérique.
 
-{% include feedback-button.html question="400 Bad request" %}
+{% include feedback-button.html question="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
 
 {% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
 
@@ -175,4 +189,4 @@ Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de 
  * Ré-essayer alors de vous connecter à votre librairie.
 
 
-{% include feedback-button.html question="400 Bad request" %}
+ {% include feedback-button.html question="400 Bad request" %}
