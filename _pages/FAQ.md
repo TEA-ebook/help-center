@@ -10,8 +10,6 @@ title: Foire Aux Questions
 
 #### [Quelles sont les protections présentes sur un e-book ?](/faq-achat/#protections-ebook)
 
-#### [Quelles sont les caractéristiques de l'e-book que j'achète ?](/faq-achat/#caracteristique-ebook)
-
 #### [Puis-je acheter plusieurs e-books en même temps ?](/faq-achat/#plusieurs-ebooks)
 
 #### [Y a-t-il une limitation du nombre de livres par commande sur la liseuse ?](/faq-achat/#limitation-nombre-ebook)
