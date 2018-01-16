@@ -25,17 +25,32 @@ Vous pouvez également utiliser un chargeur USB. Celui-ci doit avoir les caract�
 - Output: DC5.0V +/- 5% ;
 - Max: 700mA Min 150mA.
 
+{% include feedback-button.html question="Comment puis-je recharger ma liseuse ?" %}
+
+
+
+
 {% include anchor.html id="niveau-batterie" label="Où peut-on voir le niveau de la batterie ?" %}
 
 #### Où puis-je voir le niveau de la batterie ?
 
 Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inférieur ou supérieur droit de l'écran de votre liseuse.
 
+{% include feedback-button.html question="Où peut-on voir le niveau de la batterie ?" %}
+
+
+
+
 {% include anchor.html id="batterie-vide" label="Que se passe-t-il si la batterie de ma liseuse se vide complètement ?" %}
 
 #### Que se passe-t-il si la batterie de ma liseuse se vide complètement ?
 
 Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la carte SD. Vous ne pouvez juste plus utiliser votre liseuse et vous devez donc la mettre en charge. En revanche, vous pouvez parfaitement continuer d’avoir une image ou un texte à l’écran même si l’appareil est déchargé.
+
+{% include feedback-button.html question="Que se passe-t-il si la batterie de ma liseuse se vide complètement ?" %}
+
+
+
 
 {% include anchor.html id="gestion-bibliotheque" label="Gérer la bibliothèque de sa liseuse TEA" %}
 
@@ -48,11 +63,21 @@ Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la cart
 Pour les liseuses TEA, la capacité interne est de 4 Go, soit environ 4 000 ebooks (selon leur taille).  
 Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 Go en insérant une carte mémoire dans la fente prévue à cet effet.
 
+{% include feedback-button.html question="Gérer la bibliothèque de sa liseuse TEA" %}
+
+
+
+
 {% include anchor.html id="carteSD-liseuse" label="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
 
 #### Quel type de carte SD puis-je utiliser avec ma liseuse ?
 
 Les liseuses TEA supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
+
+{% include feedback-button.html question="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
+
+
+
 
 {% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse  TEA (ou Pocketbook) ?" %}
 
@@ -60,6 +85,11 @@ Les liseuses TEA supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC s
 
 - Formats d’ebooks supportés par les liseuses TEA: ePub, PDF, Adobe® DRM, HTML, TXT, FB2, FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
 - Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
+
+{% include feedback-button.html question="Quels sont les formats supportés par ma liseuse  TEA (ou Pocketbook) ?" %}
+
+
+
 
 {% include anchor.html id="etageres-favoris" label="Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?" %}
 
@@ -77,6 +107,11 @@ Pour supprimer un livre d'une étagère, il faut choisir le mode « étagère 
 
 Pour supprimer une étagère, il faut choisir le mode « étagère », puis faire un appui long sur l'étagère que vous souhaitez supprimer. Appuyer ensuite sur « Supprimer ». Supprimer une étagère ne supprime pas les livres qu'elle contient.
 
+{% include feedback-button.html question="Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?" %}
+
+
+
+
 {% include anchor.html id="supprimer-livres-liseuses" label="Comment supprimer des livres de la liseuse ?" %}
 
 #### Comment supprimer des ebooks de ma liseuse ?
@@ -90,6 +125,11 @@ Pour supprimer une étagère, il faut choisir le mode « étagère », puis fa
 Cette manipulation est adaptée pour la suppression d'un ou quelques livres.
 Si vous souhaitez en supprimer un plus grand nombre, il est préférable de connecter la liseuse à un ordinateur et d'utiliser l'explorateur de fichiers.
 
+{% include feedback-button.html question="Comment supprimer des livres de la liseuse ?" %}
+
+
+
+
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 {% include anchor.html id="maj-generalites" label="Mettre à jour sa liseuse TEA" %}
@@ -102,6 +142,11 @@ Si vous souhaitez en supprimer un plus grand nombre, il est préférable de conn
 
 Pour en savoir plus sur les mises à jours disponibles sur votre liseuse TEA, consultez <a href="http://aide.tea-ebook.com/maj/#maj5">la page dédiée</a>.
 
+{% include feedback-button.html question="Comment mettre à jour ma liseuse ?" %}
+
+
+
+
 {% include anchor.html id="maj-liseuse-freeze" label="Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?" %}
 
 #### Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?
@@ -109,11 +154,21 @@ Pour en savoir plus sur les mises à jours disponibles sur votre liseuse TEA, co
 Ce type de problème peut arriver lorsque la liseuse n’était pas assez chargée au moment du lancement de la mise à jour.  
 Essayez de laisser la batterie de la liseuse se charger pendant toute une nuit, et appuyer sur le bouton ON/OFF pendant quelques secondes le lendemain matin pour redémarrer votre liseuse.
 
+{% include feedback-button.html question="Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?" %}
+
+
+
+
 {% include anchor.html id="perdre-livres-maj" label="Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?" %}
 
 #### Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?
 
 Vous ne perdrez pas vos documents ou vos livres quand vous mettrez à jour votre liseuse. C’est seulement l’opportunité pour votre appareil de gagner de nouvelles fonctionnalités.
+
+{% include feedback-button.html question="Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?" %}
+
+
+
 
 {% include anchor.html id="version-logiciel-liseuse" label="Comment puis-je connaître la version du logiciel de ma liseuse ?" %}
 
@@ -136,6 +191,11 @@ La version du logiciel apparaît sous la forme suivante : T623.4.4.893
   - 614 : Basic 2
 * Les autres chiffres indiquent la version du logiciel. S'ils commencent par 4, alors il s'agit d'un logiciel v4, et s'ils commencent par 5 alors il s'agit un logiciel v5.
 
+{% include feedback-button.html question="Comment puis-je connaître la version du logiciel de ma liseuse ?" %}
+
+
+
+
 {% include anchor.html id="personnaliser-liseuse" label="Personnaliser sa liseuse TEA" %}
 
 ### Personnaliser sa liseuse TEA
@@ -149,6 +209,11 @@ La version du logiciel apparaît sous la forme suivante : T623.4.4.893
 
 Vous avez aussi la possibilité de choisir la disposition de votre clavier virtuel ou les dictionnaires disponibles.
 
+{% include feedback-button.html question="Comment régler la langue du menu ?" %}
+
+
+
+
 {% include anchor.html id="affichage-mode-lecture" label="Comment afficher l'heure ou le niveau de batterie en mode lecture ?" %}
 
 #### Comment afficher l'heure ou le niveau de batterie en mode lecture ?
@@ -156,12 +221,22 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 - Allez dans Paramètres > Personnalisation
 - Appuyez ensuite sur le bouton On/Off correspondant à "Affichage de la barre d'info en mode lecture", afin d'afficher ou non la barre d'état en haut.
 
+{% include feedback-button.html question="Comment afficher l'heure ou le niveau de batterie en mode lecture ?" %}
+
+
+
+
 {% include anchor.html id="pagination-mode-lecture" label="Comment afficher/cacher la pagination de l'ebook en mode lecture ?" %}
 
 #### Comment afficher/cacher la pagination de l'ebook en mode lecture ?
 
 - Allez dans Paramètres > Personnalisation
 - Appuyez ensuite sur le bouton On/Off correspondant à "Mode plein écran pour les formats texte", afin d'afficher ou non la pagination.
+
+{% include feedback-button.html question="Comment afficher/cacher la pagination de l'ebook en mode lecture ?" %}
+
+
+
 
 {% include anchor.html id="ecran-hors-tension" label="Est-ce que je peux personnaliser mon écran de démarrage ou de mise hors tension ?" %}
 
@@ -174,6 +249,11 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
   - Ecran de démarrage
   - Ecran hors tension
 
+{% include feedback-button.html question="Est-ce que je peux personnaliser mon écran de démarrage ou de mise hors tension ?" %}
+
+
+
+
 {% include anchor.html id="autres-faq-liseuse" label="Autres questions" %}
 
 ### Autres questions
@@ -185,6 +265,11 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 Afin d'afficher le contenu de votre liseuse TEA sur un ordinateur et faire des transferts en mode USB, configurez votre liseuse de la façon suivante :  dans "Paramètres" puis "Paramètres avancés", sélectionnez le "Mode USB" : "Demander à chaque connexion".
 Une fois votre liseuse paramétrée de cette façon, laissez-la allumée, branchez-la à votre ordinateur avec un câble USB puis sélectionnez "Transférer des fichiers" parmi les deux choix affichés sur l'écran de votre liseuse.
 
+{% include feedback-button.html question="Autres questions" %}
+
+
+
+
 {% include anchor.html id="pocketbook-bloque" label="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
 
 #### Ma liseuse TEA est bloquée sur une page, que dois-je faire ?
@@ -193,12 +278,22 @@ Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la r
 Mettez-la en charge. 
 S'il ne se passe toujours rien, contactez la hotline constructeur et exposez votre problème par téléphone : 08.05.08.02.77 depuis la France (0800 898 720 depuis la Suisse) ou par email : help@pocketbook-int.com.
 
+{% include feedback-button.html question="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
+
+
+
+
 {% include anchor.html id="formatage" label="Comment récupérer mes données après le formatage de ma liseuse ?" %}
 
 #### Comment récupérer mes données après le formatage de ma liseuse ?
 
 * Mes ebooks : Pour les ebooks achetés dans votre librairie, il suffit d'aller dans mes achats et de les télécharger à nouveau.
 * Mes voix pour la synthèse vocale : Il est possible de télécharger les fichier voix pour la synthèse vocale à l'adresse suivante : http://www.pocketbook-int.com/fr/support/pocketbook-ultra
+
+{% include feedback-button.html question="Comment récupérer mes données après le formatage de ma liseuse ?" %}
+
+
+
 
 {% include anchor.html id="garantie" label="Conditions de garantie des liseuses TEA" %}
 
@@ -236,8 +331,20 @@ Merci de noter que les différences entre les nuances d’éclairage sont une de
 
 Lorsque le rétro-éclairage d’une liseuse est activé, il est possible d’apercevoir des points ou zones particulièrement éclairés selon l’inclinaison de l’écran. Ces effets sont liés aux particularités technologiques du rétro-éclairage et ne sont pas considérés comme un défaut de qualité ou comme une anomalie.
 
+{% include feedback-button.html question="Remarque importante concernant le rétro-éclairage des liseuses" %}
+
+
+
+
 {% include anchor.html id="bookeen" label="Liseuses Bookeen" %}
 
 ## Liseuses Bookeen
 
 Si vous possèdez une liseuse Bookeen, vous pouvez vous référer à [l'aide en ligne de Bookeen](https://service.bookeen.com/fr/Knowledgebase/List).
+
+
+{% include feedback-button.html question="Liseuses Bookeen" %}
+
+
+
+
