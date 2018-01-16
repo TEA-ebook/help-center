@@ -138,10 +138,10 @@ Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adob
 
 ### Puis-je lire mes ebooks sur une liseuse Reader de SONY ?
 
-Un logiciel complémentaire doit être installé pour transférer vos e-books vers une liseuse SONY : le logiciel Reader for PC & Mac.  
-Ce logiciel de lecture Reader SONY est téléchargeable gratuitement sur leur site :
-[pour Windows](https://www.sony.fr/electronics/support/downloads/Z0005571)  
-[pour Mac](https://www.sony.fr/electronics/support/downloads/Z0005570)
+Pour transférer vos e-books vers une liseuse SONY, le logiciel Reader SONY est nécessaire. Il est téléchargeable gratuitement sur le site de Sony :
+
+<a class="button" href="https://www.sony.fr/electronics/support/downloads/Z0005571">Télécharger Reader SONY pour Windows</a>
+<a class="button" href="https://www.sony.fr/electronics/support/downloads/Z0005570">Télécharger Reader SONY pour Mac</a>
 
 {% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Reader de Sony ?" %}
 
@@ -155,6 +155,9 @@ Ce logiciel de lecture Reader SONY est téléchargeable gratuitement sur leur si
 
 L'application [TEA Ebook](https://app.tea-ebook.com/) est compatible avec les ordinateurs Linux. 
 Elle vous permet de retrouver tous vos EPUB et de les lire sur votre ordinateur.
+
+<a class="button" href="https://app.tea-ebook.com/">Télécharger TEA Ebook pour Linux</a>
+
 
 {% include feedback-button.html question="Puis-je lire mes ebooks sur un ordinateur Linux ?" %}
 

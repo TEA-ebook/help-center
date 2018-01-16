@@ -104,6 +104,19 @@ h4 {
 .center {
   text-align: center;
 }
+.button {
+  background: $h2Color;
+  color: white;
+  border-radius: 5px;
+  padding: .5em;
+  margin: .5em;
+}
+a.button {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
 
 // Top menu
 header {
