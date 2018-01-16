@@ -4,9 +4,9 @@ layout: page
 title: Foire Aux Questions - Liseuses
 type: faq
 ---
-{% include anchor.html id="Pocketbook" label="Liseuses TEA (ou Pocketbook)" %}
+{% include anchor.html id="Pocketbook" label="Liseuses TEA" %}
 
-## Liseuses TEA (ou Pocketbook)
+## Liseuses TEA
 
 Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez également consulter le <a href="https://www.tea-ebook.com/wp-content/uploads/2016/04/Manuel-TouchLux3TEA3.pdf">manuel de la liseuse Touch Lux 3</a> et <a href="https://www.tea-ebook.com/wp-content/uploads/2016/04/Manuel-UltraTEA3.pdf">celui de la liseuse Ultra</a>.
 
@@ -45,20 +45,20 @@ Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la cart
 
 #### Combien d'ebooks puis-je stocker dans ma liseuse ?
 
-Pour les liseuses TEA (ou Pocketbook), la capacité interne est de 4 Go, soit environ 4 000 ebooks (selon leur taille).  
+Pour les liseuses TEA, la capacité interne est de 4 Go, soit environ 4 000 ebooks (selon leur taille).  
 Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 Go en insérant une carte mémoire dans la fente prévue à cet effet.
 
 {% include anchor.html id="carteSD-liseuse" label="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
 
 #### Quel type de carte SD puis-je utiliser avec ma liseuse ?
 
-Les liseuses TEA (ou Pocketbook) supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
+Les liseuses TEA supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
 
 {% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse  TEA (ou Pocketbook) ?" %}
 
-#### Quels sont les formats supportés par ma liseuse TEA (ou Pocketbook) ?
+#### Quels sont les formats supportés par ma liseuse TEA ?
 
-- Formats d’ebooks supportés par les liseuses TEA (ou Pocketbook) : ePub, PDF, Adobe® DRM, HTML, TXT, FB2, FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
+- Formats d’ebooks supportés par les liseuses TEA: ePub, PDF, Adobe® DRM, HTML, TXT, FB2, FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
 - Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
 
 {% include anchor.html id="etageres-favoris" label="Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?" %}
@@ -100,7 +100,7 @@ Si vous souhaitez en supprimer un plus grand nombre, il est préférable de conn
 
 #### Comment mettre à jour ma liseuse ?
 
-Pour en savoir plus sur les mises à jours disponibles sur votre liseuse TEA (ou Pocketbook), consultez <a href="http://aide.tea-ebook.com/maj/#maj5">la page dédiée</a>.
+Pour en savoir plus sur les mises à jours disponibles sur votre liseuse TEA, consultez <a href="http://aide.tea-ebook.com/maj/#maj5">la page dédiée</a>.
 
 {% include anchor.html id="maj-liseuse-freeze" label="Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?" %}
 
@@ -123,16 +123,17 @@ Dans votre liseuse, rendez-vous dans *Paramètres > À propos de l'appareil > Lo
 
 La version du logiciel apparaît sous la forme suivante : T623.4.4.893
 
-* La lettre T indique s'il s'agit d'un logiciel spécifique TEA. (Si vous avez une autre lettre (W), il s'agit d'un logiciel générique Pocketbook.)
+* La lettre T indique s'il s'agit d'un logiciel spécifique TEA. Si vous avez une autre lettre (W), il s'agit d'un logiciel générique Pocketbook.
 * Les trois premiers chiffres indiquent le modèle de la liseuse.
-  - 626 : Touch Lux 2 ou Touch Lux 3 ;
-  - 650 : Ultra ;
-  - 614 : Basic 2 ;
-  - 623 : Touch Lux ;
-  - 624 : Basic Touch ;
-  - 630 : Sense ;
-  - 640 : Aqua ;
-  - 840 : InkPad.
+  - 631 : Touch HD
+  - 650 : Ultra
+  - 626 : Touch Lux 2 ou Touch Lux 3
+  - 624 : Basic Touch
+  - 623 : Touch Lux
+  - 630 : Sense
+  - 640 : Aqua
+  - 840 : InkPad ou Inkpad 2
+  - 614 : Basic 2
 * Les autres chiffres indiquent la version du logiciel. S'ils commencent par 4, alors il s'agit d'un logiciel v4, et s'ils commencent par 5 alors il s'agit un logiciel v5.
 
 {% include anchor.html id="personnaliser-liseuse" label="Personnaliser sa liseuse TEA" %}
@@ -152,21 +153,6 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 
 #### Comment afficher l'heure ou le niveau de batterie en mode lecture ?
 
-##### Version 4
-
-- Allez dans Paramètres > Paramètres supplémentaires > Configuration de l'écran en mode Lecture.
-- Appuyez ensuite sur les boutons On/Off des éléments que vous souhaitez ou non afficher dans la barre d'état en bas :
-  - Page en cours
-  - Date et heure
-  - Titre du livre
-  - Charge de la batterie
-  - Gestionnaire des tâches
-  - Wi-Fi
-
-<p class="warningtip">Vous n'avez la possibilité de n'afficher que 3 ou 4 éléments à la fois dans la barre d'état.</p>
-
-##### Version 5
-
 - Allez dans Paramètres > Personnalisation
 - Appuyez ensuite sur le bouton On/Off correspondant à "Affichage de la barre d'info en mode lecture", afin d'afficher ou non la barre d'état en haut.
 
@@ -181,16 +167,6 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 
 #### Comment personnaliser l'écran de démarrage ou de mise hors tension ?
 
-##### Version 4
-
-- Allez dans Applications > Photo.
-- Ouvrez l'image.
-- Appuyez au centre de l'image, une barre apparait en haut.
-- Appuyez sur le menu et choisissez :
-  - Logo de démarrage
-  - Logo pour la mise hors tension de l'appareil 
-
-##### Version 5
 - Allez dans Applications > Galerie.
 - Ouvrez l'image de votre choix.
 - Appuyez au centre de l'image, une barre apparait en haut.
@@ -211,7 +187,7 @@ Une fois votre liseuse paramétrée de cette façon, laissez-la allumée, branch
 
 {% include anchor.html id="pocketbook-bloque" label="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
 
-#### Ma liseuse TEA (ou Pocketbook) est bloquée sur une page, que dois-je faire ?
+#### Ma liseuse TEA est bloquée sur une page, que dois-je faire ?
 
 Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.
 Mettez-la en charge. 
@@ -224,9 +200,9 @@ S'il ne se passe toujours rien, contactez la hotline constructeur et exposez vot
 * Mes ebooks : Pour les ebooks achetés dans votre librairie, il suffit d'aller dans mes achats et de les télécharger à nouveau.
 * Mes voix pour la synthèse vocale : Il est possible de télécharger les fichier voix pour la synthèse vocale à l'adresse suivante : http://www.pocketbook-int.com/fr/support/pocketbook-ultra
 
-{% include anchor.html id="garantie" label="Conditions de garantie des liseuses TEA (ou Pocketbook)" %}
+{% include anchor.html id="garantie" label="Conditions de garantie des liseuses TEA" %}
 
-### Conditions de garantie des liseuses TEA (ou Pocketbook)
+### Conditions de garantie des liseuses TEA
 
 {% include anchor.html id="restrictions-exceptions" label="Restrictions et exceptions" %}
 
