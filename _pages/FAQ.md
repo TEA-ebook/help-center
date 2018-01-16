@@ -36,7 +36,7 @@ title: Foire Aux Questions
 
 #### [Qu'est-ce que mon compte Adobe, ou Adobe ID ?](/faq-comptes/#compte-adobe)
 
-#### [Comment vérifier avec quel identifiant Adobe le support a été autorisé ?](/faq-comptes/#identifiant-adobe)
+#### [Comment vérifier avec quel identifiant Adobe le support a été autorisé ?](/faq-comptes/#authorized-identifiant-adobe)
 
 ## [Lecture](/faq-lecture/)
 
@@ -148,4 +148,4 @@ title: Foire Aux Questions
 
 #### [Malgré les protections, peut-on imprimer ou copier un e-book ?](/faq-autre/#imprimer-copier-ebook)
 
-#### [Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?](/faq-autre/#version-logiciel)
+#### [Comment connaître la version de votre application Android ?](/faq-autre/#version-logiciel)

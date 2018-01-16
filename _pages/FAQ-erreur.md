@@ -17,7 +17,7 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 * Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 * Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 
-[Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#identifiant-adobe)
+[Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#authorized-identifiant-adobe)
 
 {% include feedback-button.html question="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
 
@@ -57,7 +57,7 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 * Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 * Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 
-[Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#identifiant-adobe)
+[Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#authorized-identifiant-adobe)
 
 {% include feedback-button.html question="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
 
