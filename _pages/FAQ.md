@@ -36,7 +36,7 @@ title: Foire Aux Questions
 
 #### [Qu'est-ce que mon compte Adobe, ou Adobe ID ?](/faq-comptes/#compte-adobe)
 
-#### [Comment vérifier avec quel identifiant Adobe le support a été autorisé ?](/faq-comptes/#identifiant-adobe)
+#### [Comment vérifier avec quel identifiant Adobe le support a été autorisé ?](/faq-comptes/#authorized-identifiant-adobe)
 
 ## [Lecture](/faq-lecture/)
 

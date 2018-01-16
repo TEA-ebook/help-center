@@ -92,7 +92,7 @@ Renseignez ensuite les identifiants Adobe que vous avez créé précédemment.
 
 ![](/images/support-tablette2-6.png)
 
-{% include anchor.html id="identifiant-adobe" label="Comment vérifier avec quel identifiant Adobe le support a été autorisé ?" %}
+{% include anchor.html id="authorized-identifiant-adobe" label="Comment vérifier avec quel identifiant Adobe le support a été autorisé ?" %}
 
 ### Comment vérifier avec quel identifiant Adobe le support a été autorisé ?
 
