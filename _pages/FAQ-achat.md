@@ -87,6 +87,10 @@ Le format ePub Fixed Layout est un nouveau format apportant un meilleur confort 
     <p>Un livre multi-format ou pack comporte plusieurs fois le même titre en différents formats. On peut ainsi acheter <em>Le Rouge et le noir</em> et obtenir à la fois un fichier PDF, un fichier ePub et un lien pour lire le livre en streaming. Les composants du pack sont indissociables, ils ne peuvent être vendus séparément.</p>
 </div>
 
+{% include feedback-button.html question="Quel format choisir pour acheter un e-book ?" %}
+
+
+
 {% include anchor.html id="protections-ebook" label="Quelles sont les protections présentes sur un e-book ?" %}
 
 ### Quelles sont les protections présentes sur un e-book ?
@@ -106,6 +110,11 @@ Le tatouage numérique est une mesure dissuasive à l'égard des utilisateurs. I
 **Pas de protection**  
 Un e-book sans protection n'est soumis à aucune limite d'utilisation.
 
+{% include feedback-button.html question="Quelles sont les protections présentes sur un e-book ?" %}
+
+
+
+
 {% include anchor.html id="plusieurs-ebooks" label="Puis-je acheter plusieurs e-books en même temps ?" %}
 
 ### Puis-je acheter plusieurs e-books en même temps ?
@@ -123,11 +132,22 @@ Dans un même panier, vous ne pouvez pas acheter :
 
 *Exemple :* Oliver Twist (format PDF) × 2
 
+{% include feedback-button.html question="Puis-je acheter plusieurs e-books en même temps ?" %}
+
+
+
+
+
 {% include anchor.html id="limitation-nombre-ebook" label="Y a-t-il une limitation du nombre de livres par commande sur la liseuse ?" %}
 
 ### Y a-t-il une limitation du nombre de livres par commande sur la liseuse ?
 
 Nous vous conseillons de ne pas sélectionner plus de 30 e-books par commande.
+
+{% include feedback-button.html question="Y a-t-il une limitation du nombre de livres par commande sur la liseuse ?" %}
+
+
+
 
 {% include anchor.html id="payer-ebook" label="Comment puis-je payer mes e-books ?" %}
 
@@ -135,11 +155,22 @@ Nous vous conseillons de ne pas sélectionner plus de 30 e-books par commande.
 
 Vous pouvez payer vos e-books par carte bancaire ou e-carte bleue.
 
+{% include feedback-button.html question="Comment puis-je payer mes e-books ?" %}
+
+
+
+
 {% include anchor.html id="frais-supplementaires" label="Y a-t-il des frais de dossier supplémentaires au prix de l’e-book ?" %}
 
 ### Y a-t-il des frais de dossier supplémentaires au prix de l’e-book ?
 
 Non, lorsque vous achetez un e-book, vous ne payez que le prix de l’e-book. Il n'y a pas de frais de port ou d'autres frais supplémentaires.
+
+{% include feedback-button.html question="Y a-t-il des frais de dossier supplémentaires au prix de l’e-book ?" %}
+
+
+
+
 
 {% include anchor.html id="offrir-ebook" label="Puis-je offrir un e-book ?" %}
 
@@ -149,6 +180,11 @@ Il est possible d'offrir un e-book à la personne de son choix, même si elle n'
 Sur une fiche produit, en dessous de « télécharger », vous avez la possibilité de cliquer sur « offrir ». 
 Vous faites alors l'achat et le destinataire du cadeau reçoit un email personnalisé lui permettant de télécharger le ou les e-books offerts.
 
+{% include feedback-button.html question="Puis-je offrir un e-book ?" %}
+
+
+
+
 {% include anchor.html id="delai-retractation" label="Ai-je un droit / délai de rétractation ?" %}
 
 ### Ai-je un droit / délai de rétractation ?
@@ -156,3 +192,6 @@ Vous faites alors l'achat et le destinataire du cadeau reçoit un email personna
 Le remboursement ou l’échange ne sont pas possibles pour une commande de livres numériques.  
 Vous avez accepté les conditions générales de vente en validant votre commande.
 Elles indiquent que le délai de rétractation de 7 jours prévu par l’article L121-20 du Code de la consommation ne s’applique pas à la commande de livres numériques.
+
+{% include feedback-button.html question="Ai-je un droit / délai de rétractation ?" %}
+
