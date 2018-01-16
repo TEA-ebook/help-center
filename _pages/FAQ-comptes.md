@@ -128,3 +128,5 @@ Renseignez ensuite les identifiants Adobe que vous avez créé précédemment.
 
 1. Appuyez sur l’icône « Paramètres » (symbolisé par un engrenage) en haut à droite.
 2. Une fois sur la page « Mon compte », vérifiez quel e-mail a été utilisé.
+
+{% include feedback-button.html question="Comment vérifier avec quel identifiant Adobe le support a été autorisé ?" %}
