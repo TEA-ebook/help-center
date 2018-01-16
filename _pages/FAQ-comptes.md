@@ -104,7 +104,7 @@ Renseignez ensuite les identifiants Adobe que vous avez créé précédemment.
 
 #### Sur les liseuses TEA (ou Pocketbook)
 
-1. Allez dans « Paramètres » (sur la page d'accueil pour le logiciel v4 ou dans le menu du haut pour le logiciel v5).
+1. Allez dans « Paramètres »
 2. Puis dans « Comptes et synchronisation » et « Adobe DRM ».
 3. Vérifiez ensuite quel e-mail a été utilisé.
 
