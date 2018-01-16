@@ -144,8 +144,13 @@ title: Foire Aux Questions
 
 #### [E\_ADEPT\_DUPLICATE\_TRANSACTION\_ID](/faq-erreurs/#duplicate-transaction)
 
+
+TODO : supprimer l'aide Autre
+
+
+
 ## [Autres](/faq-autre/)
 
 #### [Malgré les protections, peut-on imprimer ou copier un e-book ?](/faq-autre/#imprimer-copier-ebook)
 
-#### [Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?](/faq-autre/#version-logiciel)
+#### [Comment connaître la version de votre application Android ?](/faq-autre/#version-logiciel)
