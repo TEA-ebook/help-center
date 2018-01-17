@@ -1,4 +1,5 @@
-<div class="feedback">Cette réponse vous a-t-elle aidée ? 
+<div class="feedback">
+	<span>Cette réponse vous a-t-elle aidée ?</span>
 	<form action="https://formspree.io/feedback-aide@tea-ebook.com" method="POST">
 	    <input type="hidden" name="page" value="{{ page.url }}">
 	    <input type="hidden" name="question" value="{{ include.question }}">
@@ -6,7 +7,7 @@
 	    <input type="hidden" name="_next" value="{{ page.url }}" />
 	    <input type="hidden" name="_language" value="fr" />
 	    <input type="hidden" name="_subject" value="[Aide] Feedback" />
-	    <input type="submit" value="Oui 👍">
+	    <input type="submit" value="Oui 👍" class="thumb-button">
 	</form>
 	<form action="https://formspree.io/feedback-aide@tea-ebook.com" method="POST">
 	    <input type="hidden" name="page" value="{{ page.url }}">
@@ -15,6 +16,11 @@
 	    <input type="hidden" name="_next" value="{{ page.url }}" />
 	    <input type="hidden" name="_language" value="fr" />
 	    <input type="hidden" name="_subject" value="[Aide] Feedback" />
-	    <input type="submit" value="Non 👎">
+	    <span class="thumb-button">Non 👎</span>
+	    <div>
+	    	<label>Des suggestions ou commentaires ? <textarea name="comment"></textarea></label>
+	    	<label>Votre email (si vous souhaitez une réponse) <input type="text" name="email" value="" /></label>
+		    <input type="submit" class="button" value="Envoyer">
+		</div>
 	</form>
 </div>
