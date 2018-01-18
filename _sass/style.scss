@@ -40,6 +40,9 @@ h4 {
 }
 
 // class utile
+.hidden {
+  display: none;
+}
 .tip {
   padding: 0.8em 0.4em 0.8em 0em;
   margin: 1em 0;
@@ -438,16 +441,56 @@ footer {
 
 // Feedback
 .feedback {
-  font-style: italic;
-  color: grey;
-  font-size: .75em;
-  margin: 1em 0 3em;
 
-  form, input[type="submit"] {
-    border: none;
+  form {
     display: inline;
   }
-  input[type="submit"]:hover {
-    background: #edece8;
+
+  span, label {
+    font-style: italic;
+    color: grey;
+    font-size: .75em;
+  }
+
+  label {
+    display: block;
+    margin: 1em 0;
+  }
+
+  .thumb-button {
+    display: inline;
+    border: none;
+    color: black;
+    font-size: .7em;
+    font-style: normal;
+
+    &:hover {
+      background: #edece8;
+      border-radius: .3em;
+      cursor: default;
+    }
+  }
+  span.thumb-button {
+    padding: .3em;
+  }
+
+  textarea, input[type="text"] {
+    display: block;
+    width: 45%;
+    margin-top: .3em;
+    border: 1px solid #edece8;
+  }
+
+  textarea { height: 5em; }
+  input { height: 2.5em; }
+
+  input[type="submit"].button {
+    font-size: .7em;
+    color: white;
+    margin: 0;
+    padding: .5em 1em;
+    &:hover {
+      background: $buttonBackground; // TODO
+    }
   }
 }
