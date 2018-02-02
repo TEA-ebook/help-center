@@ -120,6 +120,16 @@ a.button {
     text-decoration: underline;
   }
 }
+.centered {
+  margin: 0 auto;
+}
+.legend {
+  display: block;
+  text-align: center;
+  font-size: .8em;
+  color: grey;
+  font-style: italic;
+}
 
 // Top menu
 header {
@@ -213,6 +223,12 @@ header {
         &.danger {
           background-color: $dangerColor;
         }
+      }
+
+      &.no-border {
+        border: none;
+
+        td, th { border: none; }
       }
     }
     #search-form {

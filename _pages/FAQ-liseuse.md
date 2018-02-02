@@ -36,6 +36,13 @@ Vous pouvez également utiliser un chargeur USB. Celui-ci doit avoir les caract�
 
 Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inférieur ou supérieur droit de l'écran de votre liseuse.
 
+<table class="centered no-border">
+  <tr>
+    <td><img src="/images/battery-v4.jpg" alt=""><span class="legend">Anciens modèles</span></td>
+    <td><img src="/images/battery-v5.png" alt=""><span class="legend">Modèles plus récents</span></td>
+  </tr>
+</table>
+
 {% include feedback-button.html question="Où peut-on voir le niveau de la batterie ?" %}
 
 
