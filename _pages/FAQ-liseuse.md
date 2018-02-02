@@ -52,7 +52,7 @@ Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inf�
 
 #### Que se passe-t-il si la batterie de ma liseuse se vide complètement ?
 
-Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la carte SD. Vous ne pouvez juste plus utiliser votre liseuse et vous devez donc la mettre en charge. En revanche, vous pouvez parfaitement continuer d’avoir une image ou un texte à l’écran même si l’appareil est déchargé.
+Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la carte SD. Vous ne pouvez juste plus utiliser votre liseuse et vous devez donc <a href="#recharger-liseuse">la mettre en charge</a>. En revanche, vous pouvez parfaitement continuer d’avoir une image ou un texte à l’écran même si l’appareil est déchargé.
 
 {% include feedback-button.html question="Que se passe-t-il si la batterie de ma liseuse se vide complètement ?" %}
 
