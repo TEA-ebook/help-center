@@ -36,6 +36,13 @@ Vous pouvez également utiliser un chargeur USB. Celui-ci doit avoir les caract�
 
 Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inférieur ou supérieur droit de l'écran de votre liseuse.
 
+<table class="centered no-border">
+  <tr>
+    <td><img src="/images/battery-v4.jpg" alt=""><span class="legend">Anciens modèles</span></td>
+    <td><img src="/images/battery-v5.png" alt=""><span class="legend">Modèles plus récents</span></td>
+  </tr>
+</table>
+
 {% include feedback-button.html question="Où peut-on voir le niveau de la batterie ?" %}
 
 
@@ -45,7 +52,7 @@ Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inf�
 
 #### Que se passe-t-il si la batterie de ma liseuse se vide complètement ?
 
-Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la carte SD. Vous ne pouvez juste plus utiliser votre liseuse et vous devez donc la mettre en charge. En revanche, vous pouvez parfaitement continuer d’avoir une image ou un texte à l’écran même si l’appareil est déchargé.
+Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la carte SD. Vous ne pouvez juste plus utiliser votre liseuse et vous devez donc <a href="#recharger-liseuse">la mettre en charge</a>. En revanche, vous pouvez parfaitement continuer d’avoir une image ou un texte à l’écran même si l’appareil est déchargé.
 
 {% include feedback-button.html question="Que se passe-t-il si la batterie de ma liseuse se vide complètement ?" %}
 
