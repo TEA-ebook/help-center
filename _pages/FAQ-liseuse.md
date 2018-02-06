@@ -294,8 +294,8 @@ S'il ne se passe toujours rien, contactez la hotline constructeur et exposez vot
 
 #### Comment récupérer mes données après le formatage de ma liseuse ?
 
-* __Vos ebooks__ : pour les ebooks achetés dans votre librairie, il suffit d'aller dans __Mes Achats__ et de les télécharger à nouveau.
-* __Vos voix pour la synthèse vocale__ : elles sont disponibles au téléchargement sur le site de [Pocket Book](http://www.pocketbook-int.com/fr/support/pocketbook-ultra) dans la catégorie _Text To Speech_.
+* __Ebooks__ : pour les ebooks achetés dans votre librairie, il suffit d'aller dans __Mes Achats__ et de les télécharger à nouveau.
+* __Voix pour la synthèse vocale__ : elles sont disponibles au téléchargement sur le site de [Pocket Book](http://www.pocketbook-int.com/fr/support/pocketbook-ultra) dans la catégorie _Text To Speech_.
 
 {% include feedback-button.html question="Comment récupérer mes données après le formatage de ma liseuse ?" %}
 
