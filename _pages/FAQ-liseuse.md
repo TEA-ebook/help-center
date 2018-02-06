@@ -253,7 +253,7 @@ La première :
 
 La seconde : 
  - Allez dans Paramètres > Personnalisation.
- - Appuez sur "Écran hors tension".
+ - Appuyez sur "Écran hors tension".
  - Sélectionnez l'écran de votre choix. Si vous choisissez "Couverture de livre", la couverture du livre en cours de lecture s'affichera sur l'écran hors tension.
  
 Sur certaines liseuses, il est également possible de personnaliser l'écran de démarrage de la liseuse.
