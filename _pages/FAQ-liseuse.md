@@ -237,11 +237,13 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 #### Comment personnaliser l'écran hors tension ?
 
 Il y a deux méthodes pour personnaliser l'écran hors tension de votre liseuse TEA :
+
 La première : 
 - Allez dans Applications > Galerie.
 - Ouvrez l'image de votre choix.
 - Appuyez au centre de l'image, une barre apparait en haut.
 - Appuyez sur le menu et choisissez "Écran hors tension".
+
 La seconde : 
  - Allez dans Paramètres > Personnalisation.
  - Appuez sur "Écran hors tension".
