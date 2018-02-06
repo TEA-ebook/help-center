@@ -4,6 +4,7 @@ layout: page
 title: Acheter un ebook sur Internet et le lire sur son ordinateur
 ---
 
+{% include anchor.html id="lire-tea-ebook" label="Lire un ebook sur ordinateur avec TEA Ebook" %}
 ## Lire un ebook sur TEA Ebook
 
 Depuis la page « Vos Ebooks », vous retrouvez l’ensemble de vos livres. Sélectionnez « Lire sur ordinateur ».
@@ -18,7 +19,7 @@ Sélectionnez « Télécharger TEA ebook » pour lire vos ebooks sur votre ord
 
 ### Installer TEA Ebook
 
-Sur la page de [TEA Ebook](https://app.tea-ebook.com/), vous pouvez télécharger la version de l’application TEA Ebook correspondante au système d'exploitation de votre ordinateur. L'application de lecture d'ebooks TEA Ebook est compatible sur Mac, Windows et Linux.
+Sur la page de [TEA Ebook](https://app.tea-ebook.com/), vous pouvez télécharger la version du logiciel TEA Ebook correspondante au système d'exploitation de votre ordinateur. Le logiciel de lecture d'ebooks TEA Ebook est compatible sur Mac, Windows et Linux.
 
 ![](/images/installer-tea-ebook.png)
 
@@ -83,6 +84,6 @@ Pour lire un livre acheté sur le site de votre libraire, cliquez le bouton « 
 
 ### Utiliser Adobe Digital Editions
 
-Une fois le fichier exporté sur votre ordinateur, vous pouvez l’ouvrir sur Adobe Digital Editions pour [le transférer sur d’autres supports](http://aide.tea-ebook.com/faq-lecture/#lire-autres).
+Une fois le fichier exporté sur votre ordinateur, vous pouvez l’ouvrir sur Adobe Digital Editions pour [le transférer sur d’autres supports](http://aide.tea-ebook.com/ade/#transfert-livre).
 
 Si vous souhaitez utiliser Adobe Digital Editions, voir [la page d'aide dédiée](/ade/).
