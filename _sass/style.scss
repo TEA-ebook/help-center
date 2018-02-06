@@ -40,6 +40,9 @@ h4 {
 }
 
 // class utile
+.hidden {
+  display: none;
+}
 .tip {
   padding: 0.8em 0.4em 0.8em 0em;
   margin: 1em 0;
@@ -100,6 +103,32 @@ h4 {
   h5 {
     color: $protipColor;
   }
+}
+.center {
+  text-align: center;
+}
+.button {
+  background: $h2Color;
+  color: white;
+  border-radius: 5px;
+  padding: .5em;
+  margin: .5em;
+}
+a.button {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+.centered {
+  margin: 0 auto;
+}
+.legend {
+  display: block;
+  text-align: center;
+  font-size: .8em;
+  color: grey;
+  font-style: italic;
 }
 
 // Top menu
@@ -194,6 +223,12 @@ header {
         &.danger {
           background-color: $dangerColor;
         }
+      }
+
+      &.no-border {
+        border: none;
+
+        td, th { border: none; }
       }
     }
     #search-form {
@@ -378,12 +413,12 @@ footer {
     }
   }
 }
-#sav {
+#sav, #sav-pb {
   h1 {
     font-size: 2em;
     margin: 0.2em 0;
   }
-  #faq-sav {
+  .faq-sav {
     padding: 1em;
     margin-right: 1em;
 
@@ -404,7 +439,7 @@ footer {
       }
     }
   }
-  #choice-sav {
+  .sav-contact {
     background-color: $insertBackground;
     padding: 1em;
 
@@ -416,6 +451,62 @@ footer {
       border: solid 1px $inputBorder;
       background-color: $inputBackground;
       font-size: 1em;
+    }
+  }
+}
+
+// Feedback
+.feedback {
+
+  form {
+    display: inline;
+  }
+
+  span, label {
+    font-style: italic;
+    color: grey;
+    font-size: .75em;
+  }
+
+  label {
+    display: block;
+    margin: 1em 0;
+  }
+
+  .thumb-button {
+    display: inline;
+    border: none;
+    color: black;
+    font-size: .7em;
+    font-style: normal;
+
+    &:hover {
+      background: #edece8;
+      border-radius: .3em;
+      cursor: default;
+    }
+  }
+  span.thumb-button {
+    padding: .3em;
+  }
+
+  textarea, input[type="text"] {
+    display: block;
+    width: 45%;
+    margin-top: .3em;
+    border: 1px solid #edece8;
+  }
+
+  textarea { height: 5em; }
+  input { height: 2.5em; }
+
+  input[type="submit"].button {
+    font-size: .7em;
+    color: white;
+    margin: 0;
+    padding: .5em 1em;
+    &:hover {
+      background: $buttonBackground; // TODO
     }
   }
 }

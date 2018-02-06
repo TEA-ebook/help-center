@@ -1,14 +1,14 @@
-{% include anchor.html id="fiche-produit-o" label="Fiche produit" %}
+{% include anchor.html id="fiche-produit-o" label="La fiche produit" %}
 
-### Fiche produit
+### La fiche produit
 
 Elle vous permet d'accéder à toutes les informations liées au livre, notamment le format (de manière générale, il est conseillé d'acheter ses ebooks au format ePub) et la protection.
 
 ![](/images/acheter-ordinateur-1.png)
 
-{% include anchor.html id="validation-panier-o" label="Validation du panier" %}
+{% include anchor.html id="validation-panier-o" label="Valider son panier" %}
 
-### Validation du panier
+### Valider son panier
 
 Trouvez l’e-book que vous désirez en vous servant du moteur de recherche ou en cliquant sur l’une des catégories proposées et cliquez sur « Télécharger ». Cliquez ensuite sur « Voir mon panier ».
 
@@ -18,9 +18,9 @@ Pour finir cliquez sur « Valider mon panier ».
 
 ![](/images/acheter-ordinateur-3.png)
 
-{% include anchor.html id="identification-o" label="Identification" %}
+{% include anchor.html id="identification-o" label="S'identifier" %}
 
-### Identification
+### S'identifier
 
 Identifiez-vous si « Vous avez déjà un compte client ». Sinon, créez-vous un compte en enregistrant une adresse e-mail et un mot de passe dans la partie « Vous êtes un nouveau client ? ». Vous devrez par la suite compléter les champs proposés afin de finaliser la création de votre compte client.
 
@@ -28,9 +28,9 @@ Identifiez-vous si « Vous avez déjà un compte client ». Sinon, créez-vous
 
 ![](/images/acheter-ordinateur-5.png)
 
-{% include anchor.html id="paiement-o" label="Paiement" %}
+{% include anchor.html id="paiement-o" label="Payer sa commande" %}
 
-### Paiement
+### Payer sa commande
 
 Cochez les Conditions Générales de Vente en bas à gauche, puis validez votre commande.
 
@@ -40,9 +40,9 @@ Entrez le numéro de votre carte, la date d’expiration de votre carte ainsi qu
 
 ![](/images/acheter-ordinateur-7.png)
 
-{% include anchor.html id="inalisation-commande-o" label="Finalisation de la commande" %}
+{% include anchor.html id="inalisation-commande-o" label="Finaliser sa commande" %}
 
-### Finalisation de la commande
+### Finaliser sa commande
 
 Une fois le paiement effectué, vous retrouvez la confirmation de votre commande et la possibilité d’aller consulter la liste de vos ebooks. Un mail de confirmation de commande vous est envoyé.
 Nous vous donnons quelques conseils pour lire vos ebooks sur l’ensemble des supports de lecture : applications, liseuses et ordinateur.

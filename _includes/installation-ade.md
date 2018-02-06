@@ -1,22 +1,16 @@
 L’installation d'Adobe Digital Editions est nécessaire si vous souhaitez transférer __des ebooks protégés par Adobe DRM__ (`.acsm`) sur d'autres liseuses que celles de TEA ou sur des applications différentes de celles de nos [partenaires](https://www.tea-ebook.com/clients).
 
-Il n'est pas nécessaire de télécharger Adobe Digital Editions pour [lire sur votre ordinateur](/tea-ebook/#lire-tea-ebook), [lire sur une liseuse TEA](/liseuse-liseuseTEA/#lire-liseuseTEA) ou [lire sur l'application de l'un de nos partenaires](/#android).
+Il n'est pas nécessaire de télécharger Adobe Digital Editions pour [lire sur votre ordinateur](/tea-ebook), [lire sur une liseuse TEA](/liseuse-liseuseTEA/#lire-liseuseTEA) ou lire sur l'application de l'un de nos partenaires.
 
 
 {% include anchor.html id="telecharger-adobe-digital-edition" label="Télécharger Adobe Digital Editions 4" %}
 
-### Télécharger Adobe Digital Editions 4
+### Télécharger Adobe Digital Editions
 
-Rendez-vous sur la page [Adobe Digital Editions du site Adobe](http://www.adobe.com/fr/solutions/ebook/digital-editions.html)
-Puis cliquez sur l'onglet « Télécharger ».
+Rendez-vous sur la page [Adobe Digital Editions du site Adobe](http://www.adobe.com/fr/solutions/ebook/digital-editions/download.html).
 
-![](/images/support-ordinateur-2.png)
-
-Dans la section « Adobe Digital Editions  4.0.2 – Programmes d'installation », cliquez sur « Macintosh (18,7 Mo) » ou « Windows (7,2 Mo) » en fonction de la catégorie de votre ordinateur : Mac ou Windows. (Adobe Digital Editions n'est pas compatible avec Linux.)
-
-![](/images/support-ordinateur-3.png)
-
-Cliquez sur « Enregistrer le fichier », puis double-cliquez sur le fichier téléchargé « ADE_4.0_Installer.exe » si vous êtes sur Windows ou sur le fichier « ADE_4.0_Installer.dmg » si vous êtes sur Mac OS. Autorisez le programme à apporter des modifications sur votre ordinateur si cela vous est demandé. 
+Cliquez sur « Enregistrer le fichier », puis double-cliquez sur le fichier téléchargé « ADE_4.0_Installer.exe » si vous êtes sur Windows ou sur le fichier « ADE_4.0_Installer.dmg » si vous êtes sur Mac OS. 
+Autorisez le programme à apporter des modifications sur votre ordinateur si cela vous est demandé. 
 
 {% include anchor.html id="installer-adobe-digital-editions" label="Installer Adobe Digital Editions" %}
 

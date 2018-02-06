@@ -32,4 +32,4 @@ Depuis la page « Vos ebooks », vous retrouvez l’ensemble de vos livres. Vo
 
 ![](/images/lire-web-2.png)
 
-Si vous souhaitez tout de même télécharger votre livre pour le lire sur votre ordinateur, rendez-vous à la page d'aide à la [lecture sur ordinateur](/tea-ebook/#lire-tea-ebook).
+Si vous souhaitez tout de même télécharger votre livre pour le lire sur votre ordinateur, rendez-vous à la page d'aide à la [lecture sur ordinateur](/tea-ebook).

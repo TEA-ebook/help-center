@@ -9,7 +9,7 @@ type: faq
 
 ### E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER
 
-<div class="warningtip"><p>Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>
+<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
 
 Cette erreur indique que le livre a déjà été ouvert avec un identifiant Adobe différent ou bien sans identifiant sur Adobe Digital Editions.
 Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sans identifiant sur un ordinateur.
@@ -17,13 +17,15 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 * Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 * Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 
-[Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#identifiant-adobe)
+[Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#authorized-identifiant-adobe)
+
+{% include feedback-button.html question="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
 
 {% include anchor.html id="request-expired" label="E_ADEPT_REQUEST_EXPIRED" %}
 
 ### E\_ADEPT\_REQUEST\_EXPIRED
 
-<div class="warningtip"><p>Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>
+<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
 
 Cette erreur indique que le fichier `acsm` téléchargé est trop vieux. Les fichiers de licences `acsm` ont une durée de validité limitée (entre 3 et 5 jours). Ils doivent donc être ouvert dans ce laps de temps.
 
@@ -41,11 +43,13 @@ Pour modifier les paramètres Date/heure :
     * Appuyer ensuite sur « Synchroniser l'heure ».
     * Activer aussi la « Synchronisation automatique de l'heure », en appuyant sur le bouton On/Off
 
+{% include feedback-button.html question="E_ADEPT_REQUEST_EXPIRED" %}
+
 {% include anchor.html id="livre-abime-protege" label="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
 
 ### Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)
 
-<div class="warningtip"><p>Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>
+<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
 
 Cette erreur apparaît quand un livre protégé est ouvert avec un mauvais ou sans identifiant Adobe.
 Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sans identifiant sur un ordinateur.
@@ -53,13 +57,15 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 * Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 * Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
 
-[Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#identifiant-adobe)
+[Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#authorized-identifiant-adobe)
+
+{% include feedback-button.html question="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
 
 {% include anchor.html id="protege-adobe-DRM" label="Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil..." %}
 
 ### Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil...
 
-<div class="warningtip"><p>Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>
+<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
 
 Il s'agit d'un message d'avertissement qui apparaît lors du premier téléchargement ou de la première ouverture d'un livre protégé, si vous n'avez pas autorisé votre appareil avec votre identifiant Adobe.
 
@@ -69,18 +75,18 @@ Il s'agit d'un message d'avertissement qui apparaît lors du premier télécharg
     * Renseigner le compte Adobe
     * Activer l'appareil
 
-{% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
+{% include feedback-button.html question="Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil..." %}
 
-### Erreur : « 400 Bad Request » à l'ouverture de la Librairie ou de Mes Achats sur liseuse
+{% include anchor.html id="ADE-Windows10" label="Adobe Digital Editions sur Windows 10" %}
 
-Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de votre liseuse, en suivant les étapes suivantes :
+### Adobe Digital Editions sur Windows 10
 
- * Depuis la page d'accueil de votre liseuse, ouvrir le menu du bas en appuyant sur les deux traits horizontaux.
- * Sélectionner le navigateur.
- * Appuyer sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse
- * Appuyer ensuite sur « Paramètres », puis sur « Effacer les cookies »
- * Fermer le navigateur pour revenir à la page d'accueil de votre liseuse.
- * Ré-essayer alors de vous connecter à votre librairie.
+Vous avez un ordinateur sur Windows 10 et vous rencontrez des difficultés à télécharger ou transférer des e-books avec Adobe Digital Editions ?
+C'est probablement à cause d'une incompatibilité entre Windows 10 et les dernières mises à jour du logiciel Adobe Digital Editions.
+Nous vous conseillons de désinstaller Adobe Digital Editions et de réinstaller une ancienne version du logiciel.
+[Télécharger une ancienne version de Adobe Digital Editions.](http://www.adobe.com/support/digitaleditions/downloads.html)
+
+{% include feedback-button.html question="Adobe Digital Editions sur Windows 10" %}
 
 {% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
 
@@ -100,6 +106,8 @@ Il faut donc retirer manuellement l'autorisation de l'ordinateur.
     4. Localiser aussi HKEY_CURRENT_USER>Software>Adobe>Adept et supprimer le dossier complet.
 
 <div class="warningtip"><p>Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>   
+
+{% include feedback-button.html question="E_AUTH_NOT_READY" %}
 
 {% include anchor.html id="error-check-activation" label="Error check activation" %}
 
@@ -153,7 +161,10 @@ Les versions 4.0.0 et 4.0.1 d'Adobe Digital Editions génèrent régulièrement 
     2. Taper : ~/Library/Application Support/Adobe/Digital Editions et déplacer le fichier activation.dat dans la corbeille.
     3. Ré-autoriser Adobe Digital Editions avec votre identifiant Adobe.
 
-<div class="warningtip"><p>Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>
+<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
+
+{% include feedback-button.html question="Error check activation" %}
+
 
 {% include anchor.html id="duplicate-transaction" label="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
 
@@ -161,3 +172,21 @@ Les versions 4.0.0 et 4.0.1 d'Adobe Digital Editions génèrent régulièrement 
 
 Lorsque vous rencontrez ce message, cela signifie que votre autorisation Adobe ID n'est plus reconnue par le logiciel Adobe Digital Editions.
 Contactez votre Service Clients et demandez une réinitialisation du lien de votre livre numérique.
+
+{% include feedback-button.html question="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
+
+{% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
+
+### Erreur : « 400 Bad Request » à l'ouverture de la Librairie ou de Mes Achats sur liseuse
+
+Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de votre liseuse, en suivant les étapes suivantes :
+
+ * Depuis la page d'accueil de votre liseuse, ouvrir le menu du bas en appuyant sur les deux traits horizontaux.
+ * Sélectionner le navigateur.
+ * Appuyer sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse
+ * Appuyer ensuite sur « Paramètres », puis sur « Effacer les cookies »
+ * Fermer le navigateur pour revenir à la page d'accueil de votre liseuse.
+ * Ré-essayer alors de vous connecter à votre librairie.
+
+
+ {% include feedback-button.html question="400 Bad request" %}

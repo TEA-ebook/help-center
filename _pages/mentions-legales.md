@@ -8,9 +8,9 @@ title: Mentions légales
 
 **Société :** TEA, The Ebook Alternative  
 **Adresse du siège social :** 14 rue Rhin et Danube, 69009 Lyon  
-**Directeur de la publication :** Nicolas Pastorino  
+**Directeur de la publication :** David Dupré
 
-## Hébergeur du site
+## Hébergeur du site
 
 **Société :** [Github Pages](https://pages.github.com/)
 

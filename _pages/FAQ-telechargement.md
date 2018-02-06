@@ -11,7 +11,7 @@ type: faq
 
 **Sur ordinateur**
 
-* [Lire un ebook sur son ordinateur](/tea-ebook/#lire-tea-ebook)
+* [Lire un ebook sur son ordinateur](/tea-ebook)
 * [Lire un ebook dans son navigateur](/web-web/#lire-internet)
 * [Télécharger son livre sur son ordinateur](/tea-ebook/#lire-autre)
 
@@ -32,6 +32,8 @@ type: faq
 
 [Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?](/faq-autre/#version-logiciel)
 
+{% include feedback-button.html question="Après avoir acheté un e-book où puis-je le récupérer ?" %}
+
 {% include anchor.html id="pas-telecharger-ebook" label="Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?" %}
 
 ### Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?
@@ -50,6 +52,8 @@ Le bouton « Télécharger » est :
 - absent : la commande a été annulée et le livre n'est pas téléchargeable ;
 - présent : contacter le service client.
 
+{% include feedback-button.html question="Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?" %}
+
 {% include anchor.html id="pas-telecharger-ebook-liseuse" label="Je n’arrive pas à télécharger mon e-book sur ma liseuse ?" %}
 
 ### Je n’arrive pas à télécharger mon e-book sur ma liseuse ?
@@ -59,3 +63,5 @@ Le bouton « Télécharger » est :
 * Vérifiez que votre liseuse est bien à jour et effectuez une mise à jour si besoin : [Comment mettre à jour ma liseuse Pocketbook / TEA ?](/maj/)
 * Assurez-vous que votre compte client est bien enregistré dans la liseuse :
 [Comment vérifier quel compte client est enregistré sur ma liseuse ?](/faq-comptes/#compte-liseuse)
+
+{% include feedback-button.html question="Je n’arrive pas à télécharger mon e-book sur ma liseuse ?" %}

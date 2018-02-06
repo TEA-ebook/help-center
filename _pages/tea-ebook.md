@@ -5,14 +5,6 @@ title: Acheter un ebook sur Internet et le lire sur son ordinateur
 type: help
 ---
 
-{% include anchor.html id="acheter-internet" label="Acheter un ebook sur Internet" %}
-
-## Acheter un ebook sur Internet
-
-{% include acheter-ordinateur.md %}
-
-{% include anchor.html id="lire-tea-ebook" label="Lire un ebook sur TEA Ebook" %}
-
 ## Lire un ebook sur TEA Ebook
 
 Depuis la page « Vos Ebooks », vous retrouvez l’ensemble de vos livres. Sélectionnez « Lire sur ordinateur ».
@@ -27,23 +19,34 @@ Sélectionnez « Télécharger TEA ebook » pour lire vos ebooks sur votre ord
 
 ### Installer TEA Ebook
 
-Sur la page de [TEA Ebook](https://app.tea-ebook.com/), vous pouvez télécharger la version de l’application TEA Ebook correspondante au système d'exploitation de votre ordinateur.
+Sur la page de [TEA Ebook](https://app.tea-ebook.com/), vous pouvez télécharger la version de l’application TEA Ebook correspondante au système d'exploitation de votre ordinateur. L'application de lecture d'ebooks TEA Ebook est compatible sur Mac, Windows et Linux.
 
 ![](/images/installer-tea-ebook.png)
 
-TEA Ebook, une fois téléchargé et installé, est disponible dans vos applications. 
+Le logiciel TEA Ebook, une fois téléchargé et installé, est disponible dans vos applications. 
 
-{% include anchor.html id="installer-tea-ebook" label="Initialiser TEA Ebook" %}
+{% include anchor.html id="utiliser-tea-ebook" label="Utiliser TEA Ebook" %}
 
-### Initialiser TEA Ebook
+### Utiliser TEA Ebook
 
-Ouvrez TEA Ebook. Choisissez votre libraire et renseignez votre identifiant de compte client et mot de passe, utilisé pour acheter vos ebooks.
+Ouvrez TEA Ebook. 
 
-![](/images/initialisation-tea-ebook.png)
+![](/images/initialisation-tea-ebookv1.3.png)
 
-Vous retrouvez l’ensemble de vos ebooks :
+Pour ajouter un livre déjà présent sur votre ordinateur au logiciel de lecture TEA Ebook, faites un glisser-déposer.
+Vous pouvez également cliquer sur "Bibliothèque" puis "Importer un fichier dans la bibliothèque".
+
+Pour retrouver l'ensemble de vos ebooks achetés chez votre libraire, cliquez sur "Se connecter", choisissez votre libraire et connectez-vous à votre compte client en renseignant votre identifiant et votre mot de passe, utilisés pour acheter vos ebooks.
+
+![](/images/tea_ebook_login_popinv1.3.png)
+
+Vous retrouvez l’ensemble de vos ebooks...
 
 ![](/images/tea-ebook-library.png)
+
+... et vous avez accès à votre e-librairie habituelle via le bouton en haut à droite :
+
+![](/images/tea_ebook_menu_bar.png)
 
 {% include anchor.html id="lire-avec-tea-ebook" label="Lire un ebook avec TEA Ebook" %}
 
@@ -52,12 +55,6 @@ Vous retrouvez l’ensemble de vos ebooks :
 Pour lire un livre acheté sur le site de votre libraire, cliquez le bouton « Lire ».
 
 ![](/images/tea-ebook-lecture.png)
-
-Pour lire un fichier `.epub` préalablement téléchargé, vous pouvez procéder à un glisser-déposer ou bien utiliser le bouton « Ajouter un livre dans la bibliothèque » et sélectionner le fichier.
-
-![](/images/tea-ebook-ajouter.png)
-
-
 
 {% include anchor.html id="fonctionalités-tea-ebook" label="Les fonctionnalités de lecture de TEA Ebook" %}
 

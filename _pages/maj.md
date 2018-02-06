@@ -7,30 +7,13 @@ type: help
 
 <div class="protip">
     <h5>Pourquoi mettre à jour régulièrement ma liseuse ?</h5>
-    <p>Pour disposer en permanence de la version logicielle la plus récente, ce qui permet d’optimiser les performances et d’apporter de nouvelles fonctionnalités à mon appareil.</p>
+    <p>En mettant à jour votre liseuse, vous bénéficiez des dernières fonctionnalités de votre appareil.</p>
 </div>
 
-{% include anchor.html id="version-logiciel" label="Quelle est la version du logiciel installé sur ma liseuse ?" %}
 
-## Quelle est la version du logiciel installé sur ma liseuse ?
+{% include anchor.html id="maj5" label="Mettre à jour ma liseuse" %}
 
-La page d'accueil de la liseuse permet de voir quel logiciel est installé.
-
-<table class="table table-bordered" style="text-align:center">
-    <tr>
-        <th><a href="#maj4">Version 4 :</a></th>
-        <th><a href="#maj5">Version 5 :</a></th>
-    </tr>
-    <tr>
-        <td><a href="#maj4"><img src="/images/index-info-3.jpg" alt=""></a></td>
-        <td><a href="#maj5"><img src="/images/index-info-5.jpg" alt=""></a></td>    </tr>
-</table>
-
-L'information précise se trouve dans Paramètres > À propos de l'appareil > Logiciel > Version du logiciel ou Paramètres > Logiciel > Version du logiciel.
-
-{% include anchor.html id="maj5" label="Mise à jour depuis la version 5" %}
-
-## Mise à jour depuis la version 5
+## Mettre à jour ma liseuse
 
 <div class="protip"><p>Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</p></div>
 
@@ -57,25 +40,7 @@ L'information précise se trouve dans Paramètres > À propos de l'appareil > Lo
 
 Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/Off correspondant à « Mise à jour automatique ». La liseuse recherchera automatiquement s'il y a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
 
-{% include anchor.html id="maj4" label="Mise à jour depuis la version 4" %}
-
-## Mise à jour depuis la version 4
-
-<div class="protip"><p>Pensez à laisser charger la batterie de votre liseuse avant de lancer la mise à jour !</p></div>
-
-{% include youtube-embedded-video.html url="https://www.youtube.com/embed/jNXMBA56iw8" %}
-
-- Aller dans Paramètres > À propos de l'appareil > Logiciel.
-- Appuyer sur Mise à jour du logiciel.
-- Connectez votre liseuse au réseau Wi-Fi, tel que proposé.
-- Une fenêtre s'affiche, demandant de télécharger et d'installer la mise à jour.
-- Appuyez sur « Oui ».
-- Le téléchargement de la nouvelle version commence. (Le temps de téléchargement peut-être relativement long (~20 minutes) suivant le type de mise à jour. Laissez le téléchargement se poursuivre jusqu'au bout. En cas d'interruption, recommencez la démarche, le téléchargement reprendra où il s'est arrêté.)
-- La mise à jour est ensuite appliquée. Elle peut durer plusieurs minutes, ne l'interrompez pas.
-- La liseuse redémarre ensuite, pour finaliser la mise à jour.
-
-Nous vous conseillons d'activer les mises à jour automatiques en appuyant sur le bouton On/Off correspondant à « Mise à jour automatique ». La liseuse recherchera automatiquement s'il y a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
-
+{% include feedback-button.html question="Mettre à jour ma liseuse" %}
 
 {% include anchor.html id="logiciel5.14" label="Détails du logiciel 5.14" %}
 
@@ -141,6 +106,9 @@ Touch Lux 2, Touch Lux 3, Ultra, Sense.
 
 Liste des dernières versions des logiciels des liseuses distribuées par nos partenaires :
 
+### Liseuses Touch HD
+Télécharger le [logiciel T631.5.17.1041](https://drive.google.com/file/d/1jkFjP2IutYwL4AuSBu6r6ANVrsLrkgMS)
+
 ### Liseuses Touch Lux 2 & Touch Lux 3
 Télécharger le [logiciel T626.5.14.601.](https://drive.google.com/open?id=0B7hvXLD2QLi1bHNUS1c3em1Fc1k)
 
@@ -154,13 +122,13 @@ Télécharger le [logiciel T630.5.14.1033.](https://drive.google.com/open?id=0B7
 Télécharger le [logiciel.](https://drive.google.com/open?id=0BzY6xTxUGQZna1NhM0oxb3puZ2c)
 
 ### Liseuses Touch Lux 1
-Le logiciel n'est pas encore disponible.
+Le logiciel n'est pas disponible.
 
 ### Liseuses Aqua
-Le logiciel n'est pas encore disponible.
+Le logiciel n'est pas disponible.
 
 ### Liseuses Basic Touch
-Le logiciel n'est pas encore disponible.
+Le logiciel n'est pas disponible.
 
 ### Liseuses Basic 2
-Le logiciel n'est pas encore disponible.
+Le logiciel n'est pas disponible.
