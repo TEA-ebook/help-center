@@ -219,46 +219,46 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 {% include feedback-button.html question="Comment régler la langue du menu ?" %}
 
 
-
-
 {% include anchor.html id="affichage-mode-lecture" label="Comment afficher l'heure ou le niveau de batterie en mode lecture ?" %}
 
 #### Comment afficher l'heure ou le niveau de batterie en mode lecture ?
 
-- Allez dans Paramètres > Personnalisation
+- Allez dans Paramètres > Personnalisation.
 - Appuyez ensuite sur le bouton On/Off correspondant à "Affichage de la barre d'info en mode lecture", afin d'afficher ou non la barre d'état en haut.
 
 {% include feedback-button.html question="Comment afficher l'heure ou le niveau de batterie en mode lecture ?" %}
-
-
 
 
 {% include anchor.html id="pagination-mode-lecture" label="Comment afficher/cacher la pagination de l'ebook en mode lecture ?" %}
 
 #### Comment afficher/cacher la pagination de l'ebook en mode lecture ?
 
-- Allez dans Paramètres > Personnalisation
+- Allez dans Paramètres > Personnalisation.
 - Appuyez ensuite sur le bouton On/Off correspondant à "Mode plein écran pour les formats texte", afin d'afficher ou non la pagination.
 
 {% include feedback-button.html question="Comment afficher/cacher la pagination de l'ebook en mode lecture ?" %}
 
 
+{% include anchor.html id="ecran-hors-tension" label="Comment personnaliser l'écran hors tension ?" %}
 
+#### Comment personnaliser l'écran hors tension ?
 
-{% include anchor.html id="ecran-hors-tension" label="Est-ce que je peux personnaliser mon écran de démarrage ou de mise hors tension ?" %}
+Il y a deux méthodes pour personnaliser l'écran hors tension de votre liseuse TEA :
 
-#### Comment personnaliser l'écran de démarrage ou de mise hors tension ?
-
+La première : 
 - Allez dans Applications > Galerie.
 - Ouvrez l'image de votre choix.
 - Appuyez au centre de l'image, une barre apparait en haut.
-- Appuyez sur le menu et choisissez :
-  - Ecran de démarrage
-  - Ecran hors tension
+- Appuyez sur le menu et choisissez "Écran hors tension".
 
-{% include feedback-button.html question="Est-ce que je peux personnaliser mon écran de démarrage ou de mise hors tension ?" %}
+La seconde : 
+ - Allez dans Paramètres > Personnalisation.
+ - Appuez sur "Écran hors tension".
+ - Sélectionnez l'écran de votre choix. Si vous choisissez "Couverture de livre", la couverture du livre en cours de lecture s'affichera sur l'écran hors tension.
+ 
+Sur certaines liseuses, il est également possible de personnaliser l'écran de démarrage de la liseuse.
 
-
+{% include feedback-button.html question="Comment personnaliser l'écran hors tension ?" %}
 
 
 {% include anchor.html id="autres-faq-liseuse" label="Autres questions" %}
