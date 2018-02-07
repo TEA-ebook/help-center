@@ -2,6 +2,7 @@
 permalink: "/maj/"
 layout: page
 title: Mettre à jour ma liseuse TEA/Pocketbook
+type: help
 ---
 
 <div class="protip">

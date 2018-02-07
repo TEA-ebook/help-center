@@ -1,3 +1,9 @@
+var pageType = document.getElementById("page").dataset.pageType;
+if (pageType == "faq" || pageType == "help") {
+    scrollProgress.set({ styles: false });
+}
+
+
 $( "#tabs" ).tabs();
 $(".navbar ul.dropdown-menu").hide();
 $(".navbar li.dropdown > a").click(function () {

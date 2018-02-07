@@ -10,16 +10,27 @@ body {
   box-sizing:border-box;
 }
 
+$headerHeight:80px;
 // Top menu
-header {
+#header {
+  position: fixed;
   display: flex;
   justify-content: space-between;
+  background: #fff;
+  width: 100%;
+  height: $headerHeight;
+  z-index: 1;
+
+  .logo {
+    img { max-height: $headerHeight; }
+  }
 
   p {
     display: none;
   }
   nav {
-    padding: 0.5em 1em;
+    padding: 0;
+    margin: 0;
 
     & > ul {
       display: flex;
@@ -44,9 +55,7 @@ header {
 
 // Pages
 #content {
-  width: 95vw;
-  max-width: 1500px;
-  margin: 0 auto;
+  margin: $headerHeight auto;
   flex-grow: 1;
   display: flex;
   justify-content: space-between;
@@ -69,8 +78,33 @@ header {
   }
   nav {
     width: 33%;
+    position: fixed;
+    right: 0;
+    overflow-y: hidden;
+    height: 100%;
+
+    #anchor-menu { 
+      position: relative;
+      overflow-y: scroll;
+      height: 100%;
+      padding-bottom: 50vh;
+    }
   }
 }
+
+// Scroll progress
+#progress-wrapper {
+  width: 100%;
+  position: fixed;
+  left: 0px;
+  top: $headerHeight;
+  border-top: 1px solid #ccc;
+  #progress-element {
+    background-color: $scrollProgress;
+    height: 2px;
+  }
+}
+
 
 // ----- HOME -----
 

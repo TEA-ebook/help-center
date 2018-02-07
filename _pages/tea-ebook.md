@@ -2,6 +2,7 @@
 permalink: "/tea-ebook/"
 layout: page
 title: Acheter un ebook sur Internet et le lire sur son ordinateur
+type: help
 ---
 
 {% include anchor.html id="lire-tea-ebook" label="Lire un ebook sur ordinateur avec TEA Ebook" %}

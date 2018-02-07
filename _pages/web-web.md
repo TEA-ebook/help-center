@@ -2,6 +2,7 @@
 permalink: "/web-web/"
 layout: page
 title: Acheter un ebook sur Internet et le lire en ligne
+type: help
 ---
 
 {% include anchor.html id="acheter-internet" label="Acheter un ebook sur un ordinateur" %}
