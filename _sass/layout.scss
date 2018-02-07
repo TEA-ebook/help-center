@@ -53,6 +53,14 @@ $headerHeight:80px;
   }
 }
 
+// Offset anchors because the header is fixed
+:target {
+  display: block;
+  position: relative;
+  top: -80px; 
+  visibility: hidden;
+}
+
 // Pages
 #content {
   margin: $headerHeight auto;
