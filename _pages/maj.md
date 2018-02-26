@@ -1,7 +1,7 @@
 ---
 permalink: "/maj/"
 layout: page
-title: Mettre à jour ma liseuse TEA/Pocketbook
+title: Mettre à jour ma liseuse TEA
 type: help
 ---
 
@@ -42,9 +42,31 @@ Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/
 
 {% include feedback-button.html question="Mettre à jour ma liseuse" %}
 
+
+{% include anchor.html id="logiciel5.14" label="Détails du logiciel 5.17" %}
+
+## Liseuses Touch HD - Détails du logiciel 5.17
+
+{% include anchor.html id="liseuses-compatibles" label="Liseuses compatibles" %}
+
+### Liseuses compatibles
+
+Liseuses Touch HD.
+
+{% include anchor.html id="nouveautes" label="Nouveauté" %}
+
+### Nouveauté
+
+- **Posssibilité d'afficher la dernière page lue pendant le démarrage de votre liseuse.**
+
+Pour ne plus perdre une minute de lecture, vous pouvez désormais afficher la page en cours de lecture lors du démarrage de votre liseuse.
+Pour profiter de cette nouvelle fonctionnalité, allez dans Paramètres > Personnalisation puis modifiez le paramètre "Logo de démarrage" en sélectionnant "page actuelle".
+
+- **Amélioration générale des performances de la liseuse et correction de bugs**
+
 {% include anchor.html id="logiciel5.14" label="Détails du logiciel 5.14" %}
 
-## Détails du logiciel 5.14
+## Liseuses Touch Lux 3, Touch Lux 2, Ultra, Sense - Détails du logiciel 5.14
 
 {% include anchor.html id="liseuses-compatibles" label="Liseuses compatibles" %}
 
