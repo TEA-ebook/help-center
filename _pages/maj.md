@@ -83,7 +83,7 @@ Touch Lux 2, Touch Lux 3.
 ### Correction de bugs
 - **Correction des problèmes de connexion et synchronisation Dropbox**
 - **Éclairage LED** : LED éteinte si le paramétrage est configuré en « off »
-- **Meilleure gestion des multi-utilisateurs** avec les positions de lecture distincts par profils.
+- **Meilleure gestion des multi-utilisateurs** avec les positions de lecture distinctes par profils.
 - **Fermeture de la librairie par l’icône**
 - **Écran spécifique batterie vide**
  
