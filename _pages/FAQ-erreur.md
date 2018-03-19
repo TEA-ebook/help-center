@@ -105,7 +105,7 @@ Il faut donc retirer manuellement l'autorisation de l'ordinateur.
     3. Localiser la clé suivante « HKEY_CURRENT_USER>Software>Adobe>Digital Editions » et supprimer le dossier complet (faire un clic droit dessus et cliquer sur « Supprimer »).
     4. Localiser aussi HKEY_CURRENT_USER>Software>Adobe>Adept et supprimer le dossier complet.
 
-<div class="warningtip"><p>Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touchlux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>   
+<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
 
 {% include feedback-button.html question="E_AUTH_NOT_READY" %}
 
