@@ -80,6 +80,7 @@ Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 G
 #### Quel type de carte SD puis-je utiliser avec ma liseuse ?
 
 Les liseuses TEA supportent une micro carte SD jusqu'à 32 Go. Les cartes SDHC sont donc compatibles.
+Le formatage FAT est recommandé.
 
 {% include feedback-button.html question="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
 
