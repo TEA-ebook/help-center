@@ -132,7 +132,7 @@ Liste des dernières versions des logiciels des liseuses distribuées par nos pa
 Télécharger le [logiciel T631.5.17.1041](https://drive.google.com/file/d/1jkFjP2IutYwL4AuSBu6r6ANVrsLrkgMS)
 
 ### Liseuses Touch Lux 2 & Touch Lux 3
-Télécharger le [logiciel T626.5.14.601.](https://drive.google.com/open?id=0B7hvXLD2QLi1bHNUS1c3em1Fc1k)
+Télécharger le [logiciel T626.5.14.1473.](https://drive.google.com/file/d/1rZECSORltgg-0x7ye8SQu3Il6YbvK8cQ)
 
 ### Liseuses Ultra
 Télécharger le [logiciel T650.5.14.796.](https://drive.google.com/file/d/0B7hvXLD2QLi1bWltSEV6Z0VjcUU)
