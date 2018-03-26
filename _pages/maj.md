@@ -43,7 +43,7 @@ Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/
 {% include feedback-button.html question="Mettre à jour ma liseuse" %}
 
 
-{% include anchor.html id="logiciel5.14" label="Détails du logiciel 5.17" %}
+{% include anchor.html id="logiciel5.17" label="Détails du logiciel 5.17" %}
 
 ## Liseuses Touch HD - Détails du logiciel 5.17
 
