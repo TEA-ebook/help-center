@@ -66,61 +66,26 @@ Pour profiter de cette nouvelle fonctionnalité, allez dans Paramètres > Person
 
 {% include anchor.html id="logiciel5.14" label="Détails du logiciel 5.14" %}
 
-## Liseuses Touch Lux 3, Touch Lux 2, Ultra, Sense - Détails du logiciel 5.14
+## Liseuses Touch Lux 3, Touch Lux 2 - Détails du logiciel 5.14.1473
 
 {% include anchor.html id="liseuses-compatibles" label="Liseuses compatibles" %}
 
 ### Liseuses compatibles
 
-Touch Lux 2, Touch Lux 3, Ultra, Sense.
-
-{% include anchor.html id="nouveautes" label="Nouveautés" %}
-
-### Nouveautés
-
-- **Remplacement du Dictionnaire** de l’Académie Française, 8ème édition (1935) par le Nouveau Littré.
-
-![](/images/5-14-1.jpg)
-
-- Possibilité de connecter **plusieurs comptes Adobe** sur une liseuse unique.
+Touch Lux 2, Touch Lux 3.
 
 {% include anchor.html id="ameliorations-xp" label="Amélioration de l'expérience d'utilisation" %}
 
-### Amélioration de l'expérience d'utilisation
-
-- **Le nom d’un PDF dans la bibliothèque** n’est plus celui du fichier mais celui du titre de l’ebook.
-- **Les performances de la librairie ont été améliorées** afin de faciliter la sélection des ebooks et leur achat.
-- **Nouveau clavier français** pour améliorer la prise de note et rendre l’accès aux caractères spéciaux plus simple.
-
-<table class="table table-bordered" style="text-align:center">
-    <tr>
-        <th>Logiciel 5.9</th>
-        <th>Logiciel 5.14</th>
-    </tr>
-    <tr>
-        <td><img src="/images/5-14-2.jpg" alt=""></td>
-        <td><img src="/images/5-14-4.jpg" alt=""></td>
-    </tr>
-    <tr>
-        <td><img src="/images/5-14-3.jpg" alt=""></td>
-        <td><img src="/images/5-14-5.jpg" alt=""></td>
-    </tr>
-</table>
+### Amélioration des performances de la liseuse
 
 {% include anchor.html id="corrections" label="Corrections des bugs et des messages d'erreur" %}
 
-### Corrections des bugs et des messages d'erreur
-- **Corrections des problèmes de connexion et synchronisation Dropbox**
-- **Corrections des problèmes de rétro-éclairage :**
-  1. L'intensité du rétro-éclairage n’est plus perdue si la liseuse est éteinte sans rétro-éclairage.
-  2. Le rétro-éclairage se réactive même si la liseuse s'est éteinte automatiquement après s’être mise en veille.
-- **Meilleure gestion des multi-utilisateurs** avec la suppression des données personnelles de l’utilisateur précédent.
-- Il est à nouveau possible de **Marquer comme lu** un ebook.
-- La liseuse affiche désormais un message d'erreur si elle n'a pas pu vérifier si une mise à jour était disponible.
-
-![](/images/5-14-6.jpg)
-
-- Il n’est plus précisé “1 Nouveaux livres" mais **"1 Nouveau livre"**.
+### Correction de bugs
+- **Correction des problèmes de connexion et synchronisation Dropbox**
+- **Éclairage LED** : LED éteinte si le paramétrage est configuré en « off »
+- **Meilleure gestion des multi-utilisateurs** avec les positions de lecture distinctes par profils.
+- **Fermeture de la librairie par l’icône**
+- **Écran spécifique batterie vide**
  
 {% include anchor.html id="logiciels-disponibles" label="Logiciels disponibles" %}
 
@@ -142,15 +107,3 @@ Télécharger le [logiciel T630.5.14.1033.](https://drive.google.com/open?id=0B7
 
 ### Liseuses Inkpad
 Télécharger le [logiciel.](https://drive.google.com/open?id=0BzY6xTxUGQZna1NhM0oxb3puZ2c)
-
-### Liseuses Touch Lux 1
-Le logiciel n'est pas disponible.
-
-### Liseuses Aqua
-Le logiciel n'est pas disponible.
-
-### Liseuses Basic Touch
-Le logiciel n'est pas disponible.
-
-### Liseuses Basic 2
-Le logiciel n'est pas disponible.
