@@ -21,7 +21,7 @@ Le format PDF conserve la mise en forme initiale de l'ouvrage indépendamment de
 Il est également compatible avec les liseuses à encre électronique mais la lisibilité est assez mauvaise. La lecture d'un PDF sur une liseuse est donc déconseillé.
 
 **Mobipocket/PRC**  
-Le format Mobipocket est destiné essentiellement aux PDA et nécessite l'installation de l'application Mobipocket Reader. On peut également ouvrir les e-books au format Mobipocket qui n'ont pas de DRM sur une liseuse Kindle ou avec l'application Kindle pour PC ou tablette.
+Le format Mobipocket nécessite l'installation de l'application Mobipocket Reader. On peut également ouvrir les e-books au format Mobipocket qui n'ont pas de DRM sur une liseuse Kindle ou avec l'application Kindle pour PC ou tablette.
 
 **Streaming**  
 La lecture d'e-books en streaming ne donne pas lieu à un téléchargement ou un enregistrement du fichier, mais elle se fait en ligne via le navigateur Internet et nécessite donc une connexion Internet.
@@ -70,7 +70,7 @@ Le format ePub Fixed Layout est un nouveau format apportant un meilleur confort 
         <th>Mobipocket(prc)</th>
         <td class="danger">Non Compatible</td>
         <td class="warning">Compatible avec une application spécifique</td>
-        <td class="success">Compatible</td>
+        <td class="warning">Non compatible avec toutes les liseuses</td>
         <td class="warning">Compatible avec une application spécifique</td>
     </tr>
     <tr>
