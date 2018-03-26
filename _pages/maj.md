@@ -66,7 +66,7 @@ Pour profiter de cette nouvelle fonctionnalité, allez dans Paramètres > Person
 
 {% include anchor.html id="logiciel5.14" label="Détails du logiciel 5.14" %}
 
-## Liseuses Touch Lux 3, Touch Lux 2, Ultra, Sense - Détails du logiciel 5.14.1473
+## Liseuses Touch Lux 3, Touch Lux 2 - Détails du logiciel 5.14.1473
 
 {% include anchor.html id="liseuses-compatibles" label="Liseuses compatibles" %}
 
