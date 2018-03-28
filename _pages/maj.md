@@ -66,7 +66,7 @@ Pour profiter de cette nouvelle fonctionnalité, allez dans Paramètres > Person
 
 {% include anchor.html id="logiciel5.14" label="Détails du logiciel 5.14" %}
 
-## Liseuses Touch Lux 3, Touch Lux 2 - Détails du logiciel 5.14.1473
+## Liseuses Touch Lux 3, Touch Lux 2 - Détails du logiciel 5.14.1487
 
 {% include anchor.html id="liseuses-compatibles" label="Liseuses compatibles" %}
 
@@ -94,10 +94,10 @@ Touch Lux 2, Touch Lux 3.
 Liste des dernières versions des logiciels des liseuses distribuées par nos partenaires :
 
 ### Liseuses Touch HD
-Télécharger le [logiciel T631.5.17.1041](https://drive.google.com/file/d/1jkFjP2IutYwL4AuSBu6r6ANVrsLrkgMS)
+Télécharger le [logiciel T631.5.17.1041.](https://drive.google.com/file/d/1jkFjP2IutYwL4AuSBu6r6ANVrsLrkgMS)
 
 ### Liseuses Touch Lux 2 & Touch Lux 3
-Télécharger le [logiciel T626.5.14.1473.](https://drive.google.com/file/d/1rZECSORltgg-0x7ye8SQu3Il6YbvK8cQ)
+Télécharger le [logiciel T626.5.14.1487.](https://drive.google.com/file/d/1L2muC1qKqQuk2K_a5KiqWItyOv9Y6mFW)
 
 ### Liseuses Ultra
 Télécharger le [logiciel T650.5.14.796.](https://drive.google.com/file/d/0B7hvXLD2QLi1bWltSEV6Z0VjcUU)
