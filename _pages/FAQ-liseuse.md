@@ -275,9 +275,6 @@ Une fois votre liseuse paramétrée de cette façon, laissez-la allumée, branch
 
 {% include feedback-button.html question="Je n'arrive pas à relier ma liseuse TEA à mon ordinateur, que dois-je faire ?" %}
 
-
-
-
 {% include anchor.html id="pocketbook-bloque" label="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
 
 #### Ma liseuse TEA est bloquée sur une page, que dois-je faire ?
@@ -287,8 +284,6 @@ Mettez-la en charge.
 S'il ne se passe toujours rien, contactez la hotline constructeur et exposez votre problème par téléphone : 08.05.08.02.77 depuis la France (0800 898 720 depuis la Suisse) ou par email : help@pocketbook-int.com.
 
 {% include feedback-button.html question="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
-
-
 
 
 {% include anchor.html id="formatage" label="Comment récupérer mes données après le formatage de ma liseuse ?" %}
@@ -301,7 +296,16 @@ S'il ne se passe toujours rien, contactez la hotline constructeur et exposez vot
 {% include feedback-button.html question="Comment récupérer mes données après le formatage de ma liseuse ?" %}
 
 
+{% include anchor.html id="formatage" label="Comment gérer la fonction SMARTlight de ma liseuse TEA ?" %}
 
+#### Comment gérer la fonction SMARTlight de ma liseuse TEA ?
+
+La fonction SMARTlight est disponible sur les liseuses Touch HD Brown Edition. Elle permet d'adapter la couleur de l'éclairage de l'écran au fil de la journée. Par défaut, cette fonction est en mode automatique (le commutateur est sur la position On). 
+La liseuse détermine alors la température de couleur optimale selon l’heure du jour (de blanc neutre le matin à des teintes plus chaudes dans la soirée). Lorsque le mode automatique est éteint (le commutateur est sur la position Off), vous pouvez sélectionner manuellement la température de l'éclairage.
+
+<div class="protip"><p>La liseuse devra être à la bonne heure pour s’assurer que la fonction SMARTlight marche correctement en mode automatique. Pour régler l’heure, activez la “synchronisation automatique de l’heure” (Paramétrages - “Date/heure”) ou réglez l’heure manuellement.</p></div>
+
+{% include feedback-button.html question="Comment gérer la fonction SMARTlight de ma liseuse TEA ?" %}
 
 {% include anchor.html id="garantie" label="Conditions de garantie des liseuses TEA" %}
 
