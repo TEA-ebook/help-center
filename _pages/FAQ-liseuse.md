@@ -296,7 +296,7 @@ S'il ne se passe toujours rien, contactez la hotline constructeur et exposez vot
 {% include feedback-button.html question="Comment récupérer mes données après le formatage de ma liseuse ?" %}
 
 
-{% include anchor.html id="formatage" label="Comment gérer la fonction SMARTlight de ma liseuse TEA ?" %}
+{% include anchor.html id="smartlight" label="Comment gérer la fonction SMARTlight de ma liseuse TEA ?" %}
 
 #### Comment gérer la fonction SMARTlight de ma liseuse TEA ?
 
