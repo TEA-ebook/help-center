@@ -42,12 +42,11 @@ Cliquez sur Mon compte en haut à droite de la page d'accueil. Saisissez votre a
 
 
 
-{% include anchor.html id="compte-liseuse" label="Comment vérifier quel compte client est entré sur ma liseuse ?" %}
+{% include anchor.html id="compte-liseuse" label="Comment vérifier quel compte client est entré sur ma liseuse TEA ?" %}
 
-### Comment vérifier quel compte client est enregistré sur ma liseuse ?
+### Comment vérifier quel compte client est enregistré sur ma liseuse TEA ?
 
-Sur une liseuse TEA (ou Pocketbook) :
-
+Pour vérifier quel compte client est enregistré sur une liseuse TEA :
 - Aller dans « Paramètres »
 - Puis dans « Comptes et synchronisation »
 - Et enfin dans « Mon compte client »
