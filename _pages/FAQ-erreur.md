@@ -27,7 +27,7 @@ Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert ave
 
 <div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
 
-Cette erreur indique que le fichier `acsm` téléchargé est trop vieux. Les fichiers de licences `acsm` ont une durée de validité limitée (entre 3 et 5 jours). Ils doivent donc être ouvert dans ce laps de temps.
+Cette erreur indique que le fichier `acsm` téléchargé est trop vieux. Les fichiers de licences `acsm` ont une durée de validité limitée (entre 3 et 5 jours). Ils doivent donc être ouverts dans ce laps de temps.
 
 Pour résoudre ce problème, supprimez le fichier `acsm` et téléchargez-en un nouveau depuis votre compte client. Puis ouvrez  le fichier pour télécharger le livre.
 
