@@ -10,6 +10,17 @@ type: faq
 
 Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez également consulter le <a href="https://www.tea-ebook.com/wp-content/uploads/2016/04/Manuel-TouchLux3TEA3.pdf">manuel de la liseuse Touch Lux 3</a> et <a href="https://www.tea-ebook.com/wp-content/uploads/2016/04/Manuel-UltraTEA3.pdf">celui de la liseuse Ultra</a>.
 
+
+{% include anchor.html id="pb-matériel" label="J'ai un problème matériel sur ma liseuse TEA." %}
+
+### J'ai un problème matériel sur ma liseuse TEA
+Pour tout problème matériel sur votre liseuse TEA, par exemple si l'écran semble cassé, contactez la Hotline Constructeur TEA-Pocketbook par email à l'adresse help@pocketbook-int.com ou bien par téléphone du lundi au vendredi de 9h à 17h au numéro suivant correspondant à votre pays (appel gratuit depuis une ligne fixe) :
+France : 0 805 080 277
+Suisse : 0 800 898 720
+Autres pays francophones : 0033 805 080 277.
+
+{% include feedback-button.html question="J'ai un problème matériel sur ma liseuse TEA" %}
+
 {% include anchor.html id="recharger-liseuse-generalites" label="Recharger sa liseuse TEA" %}
 
 ### Recharger sa liseuse TEA
@@ -28,8 +39,6 @@ Vous pouvez également utiliser un chargeur USB. Celui-ci doit avoir les caract�
 {% include feedback-button.html question="Comment puis-je recharger ma liseuse ?" %}
 
 
-
-
 {% include anchor.html id="niveau-batterie" label="Où peut-on voir le niveau de la batterie ?" %}
 
 #### Où puis-je voir le niveau de la batterie ?
@@ -44,7 +53,6 @@ Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inf�
 </table>
 
 {% include feedback-button.html question="Où peut-on voir le niveau de la batterie ?" %}
-
 
 
 
@@ -99,7 +107,7 @@ Le formatage FAT est recommandé.
 
 
 
-{% include anchor.html id="etageres-favoris" label="Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?" %}
+{% include anchor.html id="etageres-favoris" label="Comment gérer mes étagères et mettre un livre en favori ?" %}
 
 #### Comment gérer mes étagères et mettre un livre en favori ?
 
@@ -118,8 +126,6 @@ Pour supprimer une étagère, il faut choisir le mode « étagère », puis fa
 {% include feedback-button.html question="Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?" %}
 
 
-
-
 {% include anchor.html id="supprimer-livres-liseuses" label="Comment supprimer des livres de la liseuse ?" %}
 
 #### Comment supprimer des ebooks de ma liseuse ?
@@ -136,8 +142,6 @@ Si vous souhaitez en supprimer un plus grand nombre, il est préférable de conn
 {% include feedback-button.html question="Comment supprimer des livres de la liseuse ?" %}
 
 
-
-
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
 
 {% include anchor.html id="maj-generalites" label="Mettre à jour sa liseuse TEA" %}
@@ -151,7 +155,6 @@ Si vous souhaitez en supprimer un plus grand nombre, il est préférable de conn
 Pour en savoir plus sur les mises à jours disponibles sur votre liseuse TEA, consultez <a href="http://aide.tea-ebook.com/maj/#maj5">la page dédiée</a>.
 
 {% include feedback-button.html question="Comment mettre à jour ma liseuse ?" %}
-
 
 
 
@@ -275,6 +278,8 @@ Une fois votre liseuse paramétrée de cette façon, laissez-la allumée, branch
 
 {% include feedback-button.html question="Je n'arrive pas à relier ma liseuse TEA à mon ordinateur, que dois-je faire ?" %}
 
+
+
 {% include anchor.html id="pocketbook-bloque" label="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
 
 #### Ma liseuse TEA est bloquée sur une page, que dois-je faire ?
@@ -286,9 +291,9 @@ S'il ne se passe toujours rien, contactez la hotline constructeur et exposez vot
 {% include feedback-button.html question="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
 
 
-{% include anchor.html id="formatage" label="Comment récupérer mes données après le formatage de ma liseuse ?" %}
+{% include anchor.html id="formatage" label="Comment récupérer mes données après le formatage de ma liseuse TEA ?" %}
 
-#### Comment récupérer mes données après le formatage de ma liseuse ?
+#### Comment récupérer mes données après le formatage de ma liseuse TEA ?
 
 * __Ebooks__ : pour les ebooks achetés dans votre librairie, il suffit d'aller dans __Mes Achats__ et de les télécharger à nouveau.
 * __Voix pour la synthèse vocale__ : elles sont disponibles au téléchargement sur le site de [Pocket Book](http://www.pocketbook-int.com/fr/support/pocketbook-ultra) dans la catégorie _Text To Speech_.
@@ -300,12 +305,13 @@ S'il ne se passe toujours rien, contactez la hotline constructeur et exposez vot
 
 #### Comment gérer la fonction SMARTlight de ma liseuse TEA ?
 
-La fonction SMARTlight est disponible sur les liseuses Touch HD Brown Edition. Elle permet d'adapter la couleur de l'éclairage de l'écran au fil de la journée. Par défaut, cette fonction est en mode automatique (le commutateur est sur la position On). 
+La fonction SMARTlight est disponible sur les liseuses Touch HD Brown Edition et Inkpad 3. Elle permet d'adapter la couleur de l'éclairage de l'écran au fil de la journée. Par défaut, cette fonction est en mode automatique (le commutateur est sur la position On). 
 La liseuse détermine alors la température de couleur optimale selon l’heure du jour (de blanc neutre le matin à des teintes plus chaudes dans la soirée). Lorsque le mode automatique est éteint (le commutateur est sur la position Off), vous pouvez sélectionner manuellement la température de l'éclairage.
 
 <div class="protip"><p>La liseuse devra être à la bonne heure pour s’assurer que la fonction SMARTlight marche correctement en mode automatique. Pour régler l’heure, activez la “synchronisation automatique de l’heure” (Paramétrages - “Date/heure”) ou réglez l’heure manuellement.</p></div>
 
 {% include feedback-button.html question="Comment gérer la fonction SMARTlight de ma liseuse TEA ?" %}
+
 
 {% include anchor.html id="garantie" label="Conditions de garantie des liseuses TEA" %}
 
@@ -347,16 +353,28 @@ Lorsque le rétro-éclairage d’une liseuse est activé, il est possible d’ap
 
 
 
+{% include anchor.html id="autres-liseuses" label="Je n'ai pas une liseuse TEA et j'ai des questions sur une liseuse d'une autre marque." %}
 
-{% include anchor.html id="bookeen" label="Liseuses Bookeen" %}
+## Je n'ai pas une liseuse TEA et j'ai des questions sur une liseuse d'une autre marque.
 
-## Liseuses Bookeen
+Il n'est pas trop tard, vous pouvez encore vous rattraper et vous procurer une liseuse TEA ;-).
+Toutes nos liseuses et leurs points de vente sont présents sur l'espace [Liseuses](https://www.tea-ebook.com/solution/#liseuses) de notre site.
+
+{% include anchor.html id="bookeen" label="J'ai une liseuse Bookeen." %}
+
+### J'ai une liseuse Bookeen.
 
 Si vous possèdez une liseuse Bookeen, vous pouvez vous référer à [l'aide en ligne de Bookeen](https://service.bookeen.com/fr/Knowledgebase/List).
 
-
 {% include feedback-button.html question="Liseuses Bookeen" %}
 
+{% include anchor.html id="bookeen" label="J'ai une liseuse Sony, Kobo, Kindle..." %}
 
+### J'ai une liseuse Sony, Kobo, Kindle...
+
+Pour lire sur une liseuse Nolim, Kobo, Kindle, Sony, consultez directement le site internet de la marque de votre liseuse.
+http://aide.tea-ebook.com/faq-lecture/
+
+{% include feedback-button.html question="J'ai une liseuse Sony, Kobo, Kindle..." %}
 
 
