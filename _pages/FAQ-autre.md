@@ -11,6 +11,8 @@ type: faq
 
 Tout dépend des protections qui sont apposées sur vos e-books. La fiche technique de la fiche produit d’un e-book communique également ce type d’information. Vous devez regarder sur la fiche technique afin de savoir si l’e-book est imprimable ou copiable.
 
+{% include feedback-button.html question="Malgré les protections, peut-on imprimer ou copier un e-book ?" %}
+
 {% include anchor.html id="version-logiciel" label="Comment connaître la version de votre application Android ?" %}
 
 ### Comment connaître la version de votre application Android ?
@@ -25,3 +27,5 @@ Tout dépend des protections qui sont apposées sur vos e-books. La fiche techni
     <td><img src="/images/index-info-2.png" alt=""></td>
   </tr>
 </table>
+
+{% include feedback-button.html question="Comment connaître la version de votre application Android ?" %}
