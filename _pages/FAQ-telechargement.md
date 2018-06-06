@@ -30,7 +30,7 @@ type: faq
 
 * [Télécharger sur l'application iOs](/web-ios/)
 
-[Comment connaître la version de votre application ou du logiciel de votre liseuse Pocketbook ?](/faq-autre/#version-logiciel)
+[Comment connaître la version de votre application ou du logiciel de votre liseuse TEA ?](/faq-autre/#version-logiciel)
 
 {% include feedback-button.html question="Après avoir acheté un e-book où puis-je le récupérer ?" %}
 
