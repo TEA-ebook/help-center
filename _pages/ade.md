@@ -10,11 +10,15 @@ title: Utiliser Adobe Digital Editions
 
 {% include installation-ade.md %}
 
+{% include feedback-button.html question="Installer Adobe Digital Editions" %}
+
 {% include anchor.html id="lire-ade" label="Lire sur Adobe Digital Editions" %}
 
 ## Lire sur Adobe Digital Editions
 
 {% include lire-ade.md %}
+
+{% include feedback-button.html question="Lire sur Adobe Digital Editions" %}
 
 {% include anchor.html id="transfert-livre" label="Transférer un ebook avec Adobe Digital Editions" %}
 
@@ -22,8 +26,12 @@ title: Utiliser Adobe Digital Editions
 
 {% include transferer-ordinateur-liseuse.md %}
 
+{% include feedback-button.html question="Transférer un ebook vers une liseuse avec Adobe Digital Editions" %}
+
 {% include anchor.html id="messages-ade" label="Les messages d'erreur les plus fréquents sur Adobe Digital Editions" %}
 
 ## Les messages d'erreur les plus fréquents sur Adobe Digital Editions
 
 Voir la page sur [les messages d'erreur les plus fréquents](http://aide.tea-ebook.com/faq-erreurs/).
+
+{% include feedback-button.html question="Les messages d'erreur les plus fréquents sur Adobe Digital Editions" %}
