@@ -16,6 +16,8 @@ Sélectionnez « Télécharger TEA ebook » pour lire vos ebooks sur votre ord
 
 ![](/images/telecharger-ordinateur-3b.png)
 
+{% include feedback-button.html question="Lire un ebook sur TEA Ebook" %}
+
 {% include anchor.html id="installer-tea-ebook" label="Installer TEA Ebook" %}
 
 ### Installer TEA Ebook
@@ -25,6 +27,8 @@ Sur la page de [TEA Ebook](https://app.tea-ebook.com/), vous pouvez télécharge
 ![](/images/installer-tea-ebook.png)
 
 Le logiciel TEA Ebook, une fois téléchargé et installé, est disponible dans vos applications. 
+
+{% include feedback-button.html question="Installer TEA Ebook" %}
 
 {% include anchor.html id="utiliser-tea-ebook" label="Utiliser TEA Ebook" %}
 
@@ -49,6 +53,8 @@ Vous retrouvez l’ensemble de vos ebooks...
 
 ![](/images/tea_ebook_menu_bar.png)
 
+{% include feedback-button.html question="Utiliser TEA Ebook" %}
+
 {% include anchor.html id="lire-avec-tea-ebook" label="Lire un ebook avec TEA Ebook" %}
 
 ### Lire un ebook avec TEA Ebook
@@ -56,6 +62,8 @@ Vous retrouvez l’ensemble de vos ebooks...
 Pour lire un livre acheté sur le site de votre libraire, cliquez le bouton « Lire ».
 
 ![](/images/tea-ebook-lecture.png)
+
+{% include feedback-button.html question="Lire un ebook avec TEA Ebook" %}
 
 {% include anchor.html id="fonctionalités-tea-ebook" label="Les fonctionnalités de lecture de TEA Ebook" %}
 
@@ -71,6 +79,8 @@ Pour lire un livre acheté sur le site de votre libraire, cliquez le bouton « 
 6. Progression de la lecture ;
 7. Retour à la bibliothèque.
 
+{% include feedback-button.html question="Les fonctionnalités de lecture de TEA Ebook" %}
+
 {% include anchor.html id="lire-autre" label="Lire sur d'autres supports" %}
 
 ## Lire sur d'autres supports
@@ -81,10 +91,14 @@ Pour lire un livre acheté sur le site de votre libraire, cliquez le bouton « 
 
 {% include telecharger-ordinateur.md %}
 
+{% include feedback-button.html question="Télécharger un ebook sur son ordinateur" %}
+
 {% include anchor.html id="utiliser-ade" label="Utiliser Adobe Digital Editions" %}
 
 ### Utiliser Adobe Digital Editions
 
-Une fois le fichier exporté sur votre ordinateur, vous pouvez l’ouvrir sur Adobe Digital Editions pour [le transférer sur d’autres supports](http://aide.tea-ebook.com/ade/#transfert-livre).
+Une fois le fichier exporté sur votre ordinateur, vous pouvez l’ouvrir sur Adobe Digital Editions pour [le transférer sur d’autres supports de lecture, par exemple une liseuse](http://aide.tea-ebook.com/ade/#transfert-livre).
 
 Si vous souhaitez utiliser Adobe Digital Editions, voir [la page d'aide dédiée](/ade/).
+
+{% include feedback-button.html question="Utiliser Adobe Digital Editions" %}
