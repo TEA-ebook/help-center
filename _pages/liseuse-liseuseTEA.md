@@ -13,11 +13,15 @@ S'il s'agit de la première utilisation de votre liseuse Pocketbook, assurez-vou
 
 {% include initialiser-liseuseTEA.md %}
 
+{% include feedback-button.html question="Initialiser votre liseuse TEA" %}
+
 {% include anchor.html id="acheter-liseuseTEA" label="Acheter un ebook sur votre liseuse TEA" %}
 
 ## Acheter un ebook sur votre liseuse TEA
 
 {% include acheter-liseuse.md %}
+
+{% include feedback-button.html question="Acheter un ebook sur votre liseuse TEA" %}
 
 {% include anchor.html id="lire-liseuseTEA" label="Lire sur votre liseuse TEA" %}
 
@@ -25,8 +29,12 @@ S'il s'agit de la première utilisation de votre liseuse Pocketbook, assurez-vou
 
 {% include lire-liseuseTEA.md %}
 
+{% include feedback-button.html question="Lire sur votre liseuse TEA" %}
+
 {% include anchor.html id="autres-liseusePB" label="Autres liseuses Pocketbook" %}
 
 ## Autres liseuses Pocketbook
 
 Si vous possédez une liseuse Pocketbook (TouchLux, Aqua, BasicTouch) ou une ancienne version de la liseuse TouchLux 2 : [lire sur liseuse Pocketbook](/liseusePB/)
+
+{% include feedback-button.html question="Autres liseuses Pocketbook" %}
