@@ -32,10 +32,3 @@ Vous pouvez maintenant télécharger vos livres directement sur votre liseuse. [
 ## Lire sur votre liseuse TEA
 
 {% include lire-liseuseTEA.md %}
-
-{% include anchor.html id="autres-liseusePB" label="Autres liseuses Pocketbook" %}
-
-## Autres liseuses Pocketbook
-
-Si vous possédez une liseuse Pocketbook (TouchLux, Aqua, BasicTouch) ou une ancienne version de la liseuse TouchLux 2 : [lire sur liseuse Pocketbook](/liseusePB/)  
-Et si vous possédez une liseuse Pocketbook Basic2 : [lire sur liseuse Basic2](/liseuseBasic)
