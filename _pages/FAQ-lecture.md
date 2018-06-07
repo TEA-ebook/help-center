@@ -13,7 +13,7 @@ Les supports / terminaux de lecture désignent de manière générale l'outil gr
 Outre les ordinateurs et les smartphones, vous pouvez lire sur :
 
 **Liseuse / E-reader / Lecteur de livre numérique / Ebook reader**  
-Il s'agit de supports dédiés exclusivement à la lecture de livres numériques. Les liseuses sont livrées « prêtes à l'utilisation », c’est-à-dire qu'elles intègrent une application permettant de lire et d'organiser ses livres numériques. Un accès direct à une librairie est proposé pour commander des e-books.  
+Il s'agit de supports dédiés exclusivement à la lecture de livres numériques. Les liseuses sont livrées « prêtes à l'utilisation », c’est-à-dire qu'elles intègrent une application permettant de lire et d'organiser ses livres numériques. Un accès direct à une librairie est proposé pour commander des ebooks.  
 Elles intègrent aussi le plus souvent un navigateur Internet (accès en Wifi).
 
 **Tablette / Tablette multimédia / Tablette tactile (Android et iOS)**  
@@ -22,9 +22,6 @@ Pour lire des livres numériques sur une tablette, il faut installer au préalab
 Certaines applications permettent également de se connecter directement à une librairie en ligne pour acheter des livres numériques.
 
 {% include feedback-button.html question="Sur quels supports puis-je lire un ebook ?" %}
-
-
-
 
 
 {% include anchor.html id="lire-autres" label="Comment transférer mes ebooks sur une liseuse non TEA ?" %}
@@ -36,9 +33,6 @@ Certaines applications permettent également de se connecter directement à une 
 {% include transferer-ordinateur-liseuse.md %}
 
 {% include feedback-button.html question="Comment transférer mes ebooks sur une liseuse non TEA ?" %}
-
-
-
 
 
 {% include anchor.html id="pas-ouvrir-ebook" label="Je n’arrive pas à ouvrir mon e-book." %}
@@ -57,9 +51,6 @@ Si rien ne fonctionne, contactez votre service client.
 {% include feedback-button.html question="Je n’arrive pas à ouvrir mon e-book." %}
 
 
-
-
-
 {% include anchor.html id="ouvrir-acsm" label="Mon livre est un fichier au format acsm" %}
 
 ### Mon ebook est un fichier au format acsm. Comment puis-je l'ouvrir ?
@@ -74,9 +65,6 @@ Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateu
 {% include feedback-button.html question="Mon livre est un fichier au format acsm" %}
 
 
-
-
-
 {% include anchor.html id="ebook-incomplet" label="L’e-book est incomplet. Il manque des pages ou des chapitres." %}
 
 ### L’ebook est incomplet. Il manque des pages ou des chapitres. Que puis-je faire ?
@@ -88,9 +76,6 @@ S'il s'agit bien du livre complet, contactez votre service client.
 {% include feedback-button.html question="L’e-book est incomplet. Il manque des pages ou des chapitres." %}
 
 
-
-
-
 {% include anchor.html id="lire-ipad" label="Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?" %}
 
 ### Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?
@@ -98,9 +83,6 @@ S'il s'agit bien du livre complet, contactez votre service client.
 Les ebooks au format epub et PDF sont lisibles sur iPad, à condition d'avoir téléchargé une application de lecture telle que Bluefire Reader.
 
 {% include feedback-button.html question="Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?" %}
-
-
-
 
 
 {% include anchor.html id="lire-kindle" label="Puis-je lire mes livres sur une liseuse Kindle ?" %}
@@ -114,31 +96,35 @@ Certains livres multi-format proposent un format mobipocket, compatible avec la 
 
 {% include feedback-button.html question="Puis-je lire mes livres sur une liseuse Kindle ?" %}
 
-
-
-
-
 {% include anchor.html id="lire-kobo" label="Puis-je lire mes ebooks sur une liseuse Kobo ?" %}
 
 ### Puis-je lire mes ebooks sur une liseuse Kobo ?
 
-Il est possible de lire ses e-books sur une liseuse Kobo.  
+Il est possible de lire ses ebooks sur une liseuse Kobo.  
 Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
 Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions).
 
-<div class="warningtip"><p>Il faut penser à éjecter « proprement » la liseuse Kobo avant de la déconnecter d'un ordinateur.</p></div>
+<div class="warningtip"><p>Pour toute question sur l'utilisation d'une liseuse Kobo, consultez directement le site de Kobo.</p></div>
 
 {% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Kobo ?" %}
 
+{% include anchor.html id="bookeen" label="Puis-je lire mes ebooks sur une liseuse Bookeen ?" %}
 
+### Puis-je lire mes ebooks sur une liseuse Bookeen ?
 
+Il est possible de lire ses ebooks sur une liseuse Bookeen.  
+Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
+Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions).
 
+<div class="warningtip"><p>Pour toute question sur l'utilisation d'une liseuse Bookeen, consultez directement [l'aide en ligne de Bookeen](https://service.bookeen.com/fr/Knowledgebase/List).</p></div>
+
+{% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Bookeen ?" %}
 
 {% include anchor.html id="lire-sony" label="Puis-je lire mes ebooks sur une liseuse Reader de Sony ?" %}
 
 ### Puis-je lire mes ebooks sur une liseuse Reader de SONY ?
 
-Pour transférer vos e-books vers une liseuse SONY, le logiciel Reader SONY est nécessaire. Il est téléchargeable gratuitement sur le site de Sony :
+Pour transférer vos ebooks vers une liseuse SONY, le logiciel Reader SONY est nécessaire. Il est téléchargeable gratuitement sur le site de Sony :
 
 <a class="button" href="https://www.sony.fr/electronics/support/downloads/Z0005571">Télécharger Reader SONY pour Windows</a>
 <a class="button" href="https://www.sony.fr/electronics/support/downloads/Z0005570">Télécharger Reader SONY pour Mac</a>
@@ -146,21 +132,17 @@ Pour transférer vos e-books vers une liseuse SONY, le logiciel Reader SONY est 
 {% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Reader de Sony ?" %}
 
 
-
-
-
 {% include anchor.html id="lire-Linux" label="Puis-je lire mes ebooks sur un ordinateur Linux ?" %}
 
 ### Puis-je lire mes ebooks sur un ordinateur Linux ?
 
-L'application [TEA Ebook](https://app.tea-ebook.com/) est compatible avec les ordinateurs Linux. 
-Elle vous permet de retrouver tous vos EPUB et de les lire sur votre ordinateur.
+Le logiciel [TEA Ebook](https://app.tea-ebook.com/) est compatible avec les ordinateurs Linux. 
+Il vous permet de retrouver tous vos EPUB et de les lire sur votre ordinateur.
 
 <a class="button" href="https://app.tea-ebook.com/">Télécharger TEA Ebook pour Linux</a>
 
 
 {% include feedback-button.html question="Puis-je lire mes ebooks sur un ordinateur Linux ?" %}
-
 
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
