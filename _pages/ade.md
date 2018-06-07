@@ -20,7 +20,7 @@ title: Utiliser Adobe Digital Editions
 
 {% include feedback-button.html question="Lire sur Adobe Digital Editions" %}
 
-{% include anchor.html id="transfert-livre" label="Transférer un ebook avec Adobe Digital Editions" %}
+{% include anchor.html id="transfert-livre" label="Transférer un ebook vers une liseuse avec Adobe Digital Editions" %}
 
 ## Transférer un ebook vers une liseuse avec Adobe Digital Editions
 
