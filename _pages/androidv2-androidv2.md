@@ -11,6 +11,8 @@ type: help
 
 {% include initialiser-android2.md %}
 
+{% include feedback-button.html question="Installer l'application Android v2" %}
+
 {% include anchor.html id="acheter-android" label="Acheter sur l'application Android v2" %}
 
 ## Acheter sur l'application Android v2
@@ -53,14 +55,20 @@ Enfin, sélectionnez vos coordonnées de paiement : le N° de la carte, la date
 
 ![](/images/acheter-tablette2-6.png)
 
+{% include feedback-button.html question="Acheter sur l'application Android v2" %}
+
 {% include anchor.html id="telecharger-android" label="Télécharger sur son application Android v2" %}
 
 ## Télécharger sur son application Android v2
 
 {% include telecharger-android2.md %}
 
+{% include feedback-button.html question="Télécharger sur son application Android v2" %}
+
 {% include anchor.html id="lire-android" label="Lire avec votre application Android v2" %}
 
 ## Lire avec votre application Android v2
 
 {% include lire-android2.md %}
+
+{% include feedback-button.html question="Lire avec votre application Android v2" %}
