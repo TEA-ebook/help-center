@@ -351,8 +351,6 @@ Lorsque le rétro-éclairage d’une liseuse est activé, il est possible d’ap
 
 {% include feedback-button.html question="Remarque importante concernant le rétro-éclairage des liseuses" %}
 
-
-
 {% include anchor.html id="autres-liseuses" label="Je n'ai pas une liseuse TEA et j'ai des questions sur une liseuse d'une autre marque." %}
 
 ## Je n'ai pas une liseuse TEA et j'ai des questions sur une liseuse d'une autre marque.
@@ -360,21 +358,6 @@ Lorsque le rétro-éclairage d’une liseuse est activé, il est possible d’ap
 Il n'est pas trop tard, vous pouvez encore vous rattraper et vous procurer une liseuse TEA ;-).
 Toutes nos liseuses et leurs points de vente sont présents sur l'espace [Liseuses](https://www.tea-ebook.com/solution/#liseuses) de notre site.
 
-{% include anchor.html id="bookeen" label="J'ai une liseuse Bookeen." %}
+Si vous avez des questions sur une liseuse d'une autre marque que TEA (Kobo, Kindle, Bookeen, Sony...), consultez la [FAQ lecture](http://aide.tea-ebook.com/faq-lecture/).
 
-### J'ai une liseuse Bookeen.
-
-Si vous possèdez une liseuse Bookeen, vous pouvez vous référer à [l'aide en ligne de Bookeen](https://service.bookeen.com/fr/Knowledgebase/List).
-
-{% include feedback-button.html question="Liseuses Bookeen" %}
-
-{% include anchor.html id="bookeen" label="J'ai une liseuse Sony, Kobo, Kindle..." %}
-
-### J'ai une liseuse Sony, Kobo, Kindle...
-
-Pour lire sur une liseuse Nolim, Kobo, Kindle, Sony, consultez directement le site internet de la marque de votre liseuse.
-http://aide.tea-ebook.com/faq-lecture/
-
-{% include feedback-button.html question="J'ai une liseuse Sony, Kobo, Kindle..." %}
-
-
+{% include feedback-button.html question="Autres marques de liseuses" %}
