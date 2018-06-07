@@ -31,7 +31,7 @@ S'il s'agit de la première utilisation de votre liseuse Pocketbook, assurez-vou
 
 {% include feedback-button.html question="Lire sur votre liseuse TEA" %}
 
-{% include anchor.html id="autres-liseusePB" label="Les autres marques de liseuses" %}
+{% include anchor.html id="autres-liseuses" label="Les autres marques de liseuses" %}
 
 ## Les autres marques de liseuses 
 
