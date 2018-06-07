@@ -31,10 +31,13 @@ S'il s'agit de la première utilisation de votre liseuse Pocketbook, assurez-vou
 
 {% include feedback-button.html question="Lire sur votre liseuse TEA" %}
 
-{% include anchor.html id="autres-liseuses" label="Les autres marques de liseuses" %}
+{% include anchor.html id="autres-liseuses" label="Vous n'avez pas une liseuse TEA ?" %}
 
-## Les autres marques de liseuses 
+## Vous n'avez pas une liseuse TEA ?
 
-Si vous possédez une liseuse d'une autre marque que TEA (Kobo, Kindle, Bookeen, Sony...), consultez la [FAQ lecture](http://aide.tea-ebook.com/faq-lecture/).
+Il n'est pas trop tard, vous pouvez encore vous rattraper et vous procurer une liseuse TEA ;-).
+Toutes nos liseuses et leurs points de vente sont présents sur l'espace [Liseuses](https://www.tea-ebook.com/solution/#liseuses) de notre site.
+
+Si vous avez des questions sur une liseuse d'une autre marque que TEA (Kobo, Kindle, Bookeen, Sony...), consultez la [FAQ lecture](http://aide.tea-ebook.com/faq-lecture/).
 
 {% include feedback-button.html question="Autres marques de liseuses" %}
