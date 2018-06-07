@@ -116,7 +116,7 @@ Il est possible de lire ses ebooks sur une liseuse Bookeen.
 Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
 Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions).
 
-<div class="warningtip"><p>Pour toute question sur l'utilisation d'une liseuse Bookeen, consultez directement [l'aide en ligne de Bookeen](https://service.bookeen.com/fr/Knowledgebase/List).</p></div>
+<div class="warningtip"><p>Pour toute question sur l'utilisation d'une liseuse Bookeen, consultez directement l'aide en ligne de Bookeen.</p></div>
 
 {% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Bookeen ?" %}
 
