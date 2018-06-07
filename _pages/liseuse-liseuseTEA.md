@@ -33,8 +33,8 @@ S'il s'agit de la première utilisation de votre liseuse Pocketbook, assurez-vou
 
 {% include anchor.html id="autres-liseusePB" label="Autres liseuses Pocketbook" %}
 
-## Autres liseuses Pocketbook
+## Les autres marques de liseuses 
 
-Si vous possédez une liseuse Pocketbook (TouchLux, Aqua, BasicTouch) ou une ancienne version de la liseuse TouchLux 2 : [lire sur liseuse Pocketbook](/liseusePB/)
+Si vous possédez une liseuse d'une autre marque que TEA (Kobo, Kindle, Bookeen, Sony...), consultez la [FAQ lecture](http://aide.tea-ebook.com/faq-lecture/).
 
-{% include feedback-button.html question="Autres liseuses Pocketbook" %}
+{% include feedback-button.html question="Autres marques de liseuses" %}
