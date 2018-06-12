@@ -14,7 +14,6 @@ title: Contactez-nous
       <div id="sav-contact">
       </div>
     </div>
-  </div>
   
   <div id="sav-pb">
     <div class="sav-contact">
