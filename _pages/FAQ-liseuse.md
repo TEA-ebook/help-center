@@ -342,7 +342,7 @@ La présente garantie tient lieu et place de toute autre garantie, implicite ou 
 10. Aux dommages dus à un mauvais traitement de la liseuse ou une fausse manipulation incluant la chute de la liseuse, la casse de son écran pour quelque cause que ce soit et son contact avec tout liquide par exemple renversé sur la liseuse ou dans lequel la liseuse a été immergé et conduisant à la présence de liquide sur ou à l’intérieur de la liseuse.
 11. Aux dommages causés par une incompatibilité de la liseuse avec des flux de télécommunication (wifi, réseaux câblés, etc.) ne respectant pas les normes et protocoles standard.
 12. Aux erreurs liées à l’utilisation de logiciels incompatibles avec la liseuse ou aux actions de virus informatiques contractés par la liseuse ou par tout logiciel en lien avec elle.
-13. Si le nombre de pixels endommagés sur l’écran de la liseuse excède le nombre de 5.
+13. Si le nombre de pixels endommagés sur l’écran de la liseuse est inférieur à 5.
 
 {% include anchor.html id="remarque-importante" label="Remarque importante concernant le rétro-éclairage des liseuses" %}
 
