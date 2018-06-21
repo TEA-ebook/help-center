@@ -74,6 +74,10 @@ $headerHeight:80px;
   }
   article {
     width: 66%;
+    &.wide {
+      width: 100%;
+      max-width: 1200px;
+    }
 
     p > img {
       max-width: 100%;
@@ -159,4 +163,16 @@ $headerHeight:80px;
     //flex-grow: 1;
     width: 45%;
   }
+}
+  
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.column {
+  margin-right: 2em;
+  // same size column
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 0;
 }

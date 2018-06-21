@@ -102,6 +102,8 @@ h4 {
   }
   h5 {
     color: $protipColor;
+    height: 2em;
+    padding-top: .3em;
   }
 }
 .center {
@@ -453,6 +455,25 @@ footer {
       background-color: $inputBackground;
       font-size: 1em;
     }
+  }
+}
+
+// SAV dropdown style
+#choice-sav {
+  form {
+    background: $insertBackground;
+    color: $insertColor;
+    height: 2em;
+    width: 250px;
+    border-radius: .3em;
+  }
+  select {
+    background-color: transparent;
+    border: none;
+    font-size: 1em;
+    height: 2em;
+    padding: 5px;
+    width: 250px;
   }
 }
 
