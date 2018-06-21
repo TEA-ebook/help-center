@@ -15,8 +15,8 @@ title: Besoin d'aide ?
   </div>
 </div>
 
-<div id="choice-page" class="column">
-  <p>Pour tout autre problème, si vous ne trouvez pas la réponse à votre question <a href="/faq">dans la FAQ</a>, n'hésitez pas à contacter le</p>
+<div id="choice-sav" class="column">
+  <p>Pour toute autre question, vous pouvez trouvez la réponse dans <a href="/faq">notre FAQ</a> ou bien contacter le</p>
   <h4>Service Clients de votre librairie&nbsp;</h4>
   <form>
     <select id="select-sav">

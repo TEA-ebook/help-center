@@ -459,6 +459,25 @@ footer {
   }
 }
 
+// SAV dropdown style
+#choice-sav {
+  form {
+    background: $insertBackground;
+    color: $insertColor;
+    height: 2em;
+    width: 250px;
+    border-radius: .3em;
+  }
+  select {
+    background-color: transparent;
+    border: none;
+    font-size: 1em;
+    height: 2em;
+    padding: 5px;
+    width: 250px;
+  }
+}
+
 // Feedback
 .feedback {
 
