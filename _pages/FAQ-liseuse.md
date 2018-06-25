@@ -320,6 +320,8 @@ La liseuse détermine alors la température de couleur optimale selon l’heure 
 
 ### Conditions de garantie des liseuses TEA
 
+Les liseuses TEA sont garanties pendant 24 mois après la date d'achat.
+
 {% include anchor.html id="restrictions-exceptions" label="Restrictions et exceptions" %}
 
 #### Restrictions et exceptions :
