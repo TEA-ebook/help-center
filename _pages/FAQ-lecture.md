@@ -21,7 +21,7 @@ Les tablettes tactiles permettent d'acheter et de lire des livres numériques, m
 Pour lire des livres numériques sur une tablette, il faut installer au préalable une application de lecture qui permet d'ouvrir un livre, de prendre des notes et d'organiser sa bibliothèque.  
 Certaines applications permettent également de se connecter directement à une librairie en ligne pour acheter des livres numériques.
 
-**Compatibilité des formats et des supports**
+**Compatibilité des formats et des supports**  
 Selon le format et la protection d'un ebook, vous ne pourrez pas lire sur tous les supports de lecture.
 
 <table class="table table-bordered">
