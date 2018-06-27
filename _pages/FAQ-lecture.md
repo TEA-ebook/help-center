@@ -21,6 +21,61 @@ Les tablettes tactiles permettent d'acheter et de lire des livres numériques, m
 Pour lire des livres numériques sur une tablette, il faut installer au préalable une application de lecture qui permet d'ouvrir un livre, de prendre des notes et d'organiser sa bibliothèque.  
 Certaines applications permettent également de se connecter directement à une librairie en ligne pour acheter des livres numériques.
 
+**Compatibilité des formats et des supports**
+Selon le format et la protection d'un ebook, vous ne pourrez pas lire sur tous les supports de lecture.
+
+<table class="table table-bordered">
+    <tr>
+        <th></th>
+        <th>Ordinateur</th>
+        <th>Tablette</th>
+        <th>Liseuse</th>
+        <th>Smartphone</th>
+    </tr>
+    <tr>
+        <th>ePub</th>
+        <td class="success">Compatible</td>
+        <td class="success">Compatible</td>
+        <td class="success"><strong>Recommandé</strong></td>
+        <td class="success">Compatible</td>
+    </tr>
+    <tr>
+        <th>PDF</th>
+        <td class="success">Compatible</td>
+        <td class="success">Compatible</td>
+        <td class="warning">Compatible, mais non recommandé</td>
+        <td class="success">Compatible</td>
+    </tr>
+    <tr>
+        <th>Streaming</th>
+        <td class="warning">Compatible, nécessite une connexion internet</td>
+        <td class="warning">
+            Compatible Android, nécessite une connexion internet.<br />
+            Non compatible iOs.
+        </td>
+        <td class="danger">Non Compatible</td>
+        <td class="warning">
+            Compatible Android, nécessite une connexion internet.<br />
+            Non compatible iOs.
+        </td>
+    </tr>
+    <tr>
+        <th>Mobipocket(prc)</th>
+        <td class="danger">Non Compatible</td>
+        <td class="warning">Compatible avec une application spécifique</td>
+        <td class="warning">Compatible si non protégé</td>
+        <td class="warning">Compatible avec une application spécifique</td>
+    </tr>
+    <tr>
+        <th>ePub Fixed Layout</th>
+        <td class="success" ><strong>Recommandé</strong></td>
+        <td class="warning">Compatible depuis la liseuse en ligne dans « Vos Ebooks »</td>
+        <td class="danger">Non compatible</td>
+        <td class="warning">Compatible depuis la liseuse en ligne dans « Vos Ebooks »</td>
+    </tr>
+</table>
+
+
 {% include feedback-button.html question="Sur quels supports puis-je lire un ebook ?" %}
 
 
