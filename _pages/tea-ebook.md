@@ -74,7 +74,7 @@ Pour lire un livre acheté sur le site de votre libraire, cliquez le bouton « 
 
 ### Formats compatibles
 
-TEA Ebook permet de lire les livres au format **ePub** ainsi que les livres ePubs enrichis tels que **ePub 3** et **ePub Fixed Layout**.
+TEA Ebook permet de lire les livres au format **ePub** ainsi que les livres ePubs enrichis tels que les **ePub Fixed Layout**.
 
 TEA Ebook n'est pas compatible avec les livres protégés par Adobe DRM (au format ACSM). Pour ces cas là, le logiciel <a href="/ade/#lire-ade">Adobe Digital Editions</a> est nécessaire.
 
