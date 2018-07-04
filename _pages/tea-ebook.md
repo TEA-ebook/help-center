@@ -6,6 +6,7 @@ type: help
 ---
 
 {% include anchor.html id="lire-tea-ebook" label="Lire un ebook sur ordinateur avec TEA Ebook" %}
+
 ## Lire un ebook sur TEA Ebook
 
 Depuis la page « Vos Ebooks », vous retrouvez l’ensemble de vos livres. Sélectionnez « Lire sur ordinateur ».
@@ -65,9 +66,22 @@ Pour lire un livre acheté sur le site de votre libraire, cliquez le bouton « 
 
 {% include feedback-button.html question="Lire un ebook avec TEA Ebook" %}
 
-{% include anchor.html id="fonctionalités-tea-ebook" label="Les fonctionnalités de lecture de TEA Ebook" %}
+{% include anchor.html id="fonctionalités-tea-ebook" label="Les fonctionnalités de TEA Ebook" %}
 
-## Les fonctionnalités de lecture de TEA Ebook
+## Les fonctionnalités de TEA Ebook
+
+{% include anchor.html id="formats-compatibles" label="Formats compatibles" %}
+
+### Formats compatibles
+
+TEA Ebook permet de lire les livres au format **ePub** ainsi que les livres ePubs enrichis tels que les **ePub Fixed Layout**.
+
+TEA Ebook n'est pas compatible avec les livres protégés par Adobe DRM (au format ACSM). Pour ces cas là, le logiciel <a href="/ade/#lire-ade">Adobe Digital Editions</a> est nécessaire.
+
+
+{% include anchor.html id="fonctionnalités-lecture" label="Fonctionnalités de lecture" %}
+
+### Fonctionnalités de lecture
 
 ![](/images/tea-ebook-fonctionnalites.png)
  
