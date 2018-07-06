@@ -14,10 +14,10 @@ Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez éga
 {% include anchor.html id="pb-matériel" label="J'ai un problème matériel sur ma liseuse TEA." %}
 
 ### J'ai un problème matériel sur ma liseuse TEA
-Pour tout problème matériel sur votre liseuse TEA, par exemple si l'écran semble cassé, contactez la Hotline Constructeur TEA-Pocketbook par email à l'adresse help@pocketbook-int.com ou bien par téléphone du lundi au vendredi de 9h à 17h au numéro suivant correspondant à votre pays (appel gratuit depuis une ligne fixe) :
-France : 0 805 080 277
-Suisse : 0 800 898 720
-Autres pays francophones : 0033 805 080 277.
+
+Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran semble cassé), contactez la Hotline Constructeur TEA-Pocketbook par téléphone du lundi au vendredi de 9h à 17h aux numéros suivants :
+
+<div id="contact-pb"></div>
 
 {% include feedback-button.html question="J'ai un problème matériel sur ma liseuse TEA" %}
 
