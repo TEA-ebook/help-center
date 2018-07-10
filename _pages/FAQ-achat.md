@@ -114,7 +114,7 @@ Par contre, si vous souhaitez sortir de cet environnement, le livre vous sera fo
 
 <a id="protection-watermarking"></a>
 **Tatouage numérique / Watermarking / Marquage**  
-Le tatouage numérique est une mesure dissuasive à l'égard des utilisateurs. Il ne verrouille pas le fichier mais en permet la traçabilité grâce à l'insertion d'un marquage (visible ou invisible pour le lecteur) dans les pages de l'e-book.
+Le tatouage numérique ne verrouille pas le fichier mais en permet la traçabilité grâce à l'insertion d'un marquage (visible ou invisible pour le lecteur) dans les pages de l'e-book.
 
 <a id="protection-none"></a>
 **Pas de protection**  
