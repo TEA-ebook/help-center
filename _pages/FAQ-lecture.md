@@ -17,7 +17,7 @@ Il s'agit de supports dédiés exclusivement à la lecture de livres numériques
 Elles intègrent aussi le plus souvent un navigateur Internet (accès en Wifi).
 
 **Tablette / Tablette multimédia / Tablette tactile (Android et iOS)**  
-Les tablettes tactiles permettent d'acheter et de lire des livres numériques, mais elles ont d'autres fonctionnalités que la seule lecture d'e-book.  
+Les tablettes tactiles permettent d'acheter et de lire des livres numériques, mais elles ont d'autres fonctionnalités que la seule lecture d'ebook.  
 Pour lire des livres numériques sur une tablette, il faut installer au préalable une application de lecture qui permet d'ouvrir un livre, de prendre des notes et d'organiser sa bibliothèque.  
 Certaines applications permettent également de se connecter directement à une librairie en ligne pour acheter des livres numériques.
 
@@ -86,9 +86,9 @@ Selon le format et la protection d'un ebook, vous ne pourrez pas lire sur tous l
 
 #### Puis-je lire mes ebooks sur une liseuse Kindle ?
 
-Nos ebooks sont proposés au format EPUB ou PDF (excepté pour la BD où il s'agit le plus souvent de streaming).  
+Nos ebooks sont principalement aux formats standards EPUB ou PDF.  
 La liseuse Kindle ne supporte pas les fichiers EPUB.  
-Vous pouvez lire un PDF sur une liseuse Kindle à condition que celui-ci n'ait pas de DRM.  
+Vous pouvez lire un PDF sur une liseuse Kindle à condition que celui-ci ne soit pas protégé par DRM.  
 Certains livres multi-format proposent un format mobipocket, compatible avec la liseuse Kindle.
 
 {% include feedback-button.html question="Puis-je lire mes livres sur une liseuse Kindle ?" %}
@@ -98,8 +98,8 @@ Certains livres multi-format proposent un format mobipocket, compatible avec la 
 #### Puis-je lire mes ebooks sur une liseuse Kobo ?
 
 Il est possible de lire ses ebooks sur une liseuse Kobo.  
-Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
-Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions).
+Pour cela, il suffit de les transférer d'un ordinateur vers la liseuse Kobo via le logiciel Adobe Digital Editions, ce qui nécessite la création d'un identifiant Adobe.
+Voir [Ouvrir et lire un ebook avec Adobe Digital Editions](/ade).
 
 <div class="warningtip"><p>Pour toute question sur l'utilisation d'une liseuse Kobo, consultez directement le site de Kobo.</p></div>
 
@@ -110,8 +110,8 @@ Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adob
 #### Puis-je lire mes ebooks sur une liseuse Bookeen ?
 
 Il est possible de lire ses ebooks sur une liseuse Bookeen.  
-Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
-Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions).
+Pour cela, il suffit de les transférer d'un ordinateur vers la liseuse Bookeen via le logiciel Adobe Digital Editions, ce qui nécessite la création d'un identifiant Adobe.
+Voir [Ouvrir et lire un ebook avec Adobe Digital Editions](/ade).
 
 <div class="warningtip"><p>Pour toute question sur l'utilisation d'une liseuse Bookeen, consultez directement l'aide en ligne de Bookeen.</p></div>
 
@@ -132,27 +132,24 @@ Pour transférer vos ebooks vers une liseuse SONY, le logiciel Reader SONY est n
 
 ### Comment transférer mes ebooks sur une liseuse non TEA ?
 
-[Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions)
-
-{% include transferer-ordinateur-liseuse.md %}
+Consultez la page [Ouvrir, lire et transférer un ebook avec le logiciel Adobe Digital Editions](/ade)
 
 {% include feedback-button.html question="Comment transférer mes ebooks sur une liseuse non TEA ?" %}
 
-
-{% include anchor.html id="pas-ouvrir-ebook" label="Je n’arrive pas à ouvrir mon e-book." %}
+{% include anchor.html id="pas-ouvrir-ebook" label="Je n’arrive pas à ouvrir mon ebook." %}
 
 ### Je n’arrive pas à ouvrir mon ebook. Que puis-je faire ?
 
-1. Vérifiez la compatibilité entre le format du e-book que vous avez acheté et le support sur lequel vous essayez de l'ouvrir : [Quel format d'ebook choisir ?](/faq-achat/#format-ebook)
+1. Vérifiez la compatibilité entre le format du ebook que vous avez acheté et le support sur lequel vous essayez de l'ouvrir : [Quel format d'ebook choisir ?](/faq-achat/#format-ebook)
 2. Vérifiez si l'application de lecture est adaptée à votre support, notamment si la version de l'application est bien compatible avec la version du support.
-3. Si votre e-book est protégé :
+3. Si votre ebook est protégé :
 Vérifiez que l'application et/ou le support utilisé(e) est fourni(e) par votre librairie.
   * Si oui : Vérifiez que votre support est bien autorisé avec votre compte client ou votre compte Adobe.
   * Si non : vérifiez que le support/application utilisé(e) est bien compatible avec Adobe DRM et le cas échéant, que l'identifiant Adobe est bien renseigné.
 
 Si rien ne fonctionne, contactez votre service client.
 
-{% include feedback-button.html question="Je n’arrive pas à ouvrir mon e-book." %}
+{% include feedback-button.html question="Je n’arrive pas à ouvrir mon ebook." %}
 
 
 {% include anchor.html id="ouvrir-acsm" label="Mon livre est un fichier au format acsm" %}
@@ -169,7 +166,7 @@ Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateu
 {% include feedback-button.html question="Mon livre est un fichier au format acsm" %}
 
 
-{% include anchor.html id="ebook-incomplet" label="L’e-book est incomplet. Il manque des pages ou des chapitres." %}
+{% include anchor.html id="ebook-incomplet" label="L’ebook est incomplet. Il manque des pages ou des chapitres." %}
 
 ### L’ebook est incomplet. Il manque des pages ou des chapitres. Que puis-je faire ?
 
@@ -177,7 +174,7 @@ Certains livres sont vendus soit au chapitre, soit en version intégrale.
 Vérifiez sur la fiche produit de l'ebook que vous avez acheté qu'il s'agit bien du livre complet et non d'un chapitre ou d'un extrait.  
 S'il s'agit bien du livre complet, contactez votre service client.
 
-{% include feedback-button.html question="L’e-book est incomplet. Il manque des pages ou des chapitres." %}
+{% include feedback-button.html question="L’ebook est incomplet. Il manque des pages ou des chapitres." %}
 
 
 {% include anchor.html id="lire-ipad" label="Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?" %}
@@ -193,7 +190,7 @@ Les ebooks au format epub et PDF sont lisibles sur iPad, à condition d'avoir t�
 ### Puis-je lire mes ebooks sur un ordinateur Linux ?
 
 Le logiciel [TEA Ebook](https://app.tea-ebook.com/) est compatible avec les ordinateurs Linux. 
-Il vous permet de retrouver tous vos EPUB et de les lire sur votre ordinateur.
+Il vous permet de retrouver tous vos livres au format epub et de les lire sur votre ordinateur.
 
 <a class="button" href="https://app.tea-ebook.com/">Télécharger TEA Ebook pour Linux</a>
 
