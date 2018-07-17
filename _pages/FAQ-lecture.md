@@ -78,6 +78,55 @@ Selon le format et la protection d'un ebook, vous ne pourrez pas lire sur tous l
 
 {% include feedback-button.html question="Sur quels supports puis-je lire un ebook ?" %}
 
+{% include anchor.html id="lire-autres-marques-liseuses" label="Puis-je lire mes ebooks sur une liseuse d'une autre marque que TEA ?" %}
+
+### Puis-je lire mes ebooks sur une liseuse d'une autre marque que TEA ?
+
+{% include anchor.html id="lire-kindle" label="Puis-je lire mes livres sur une liseuse Kindle ?" %}
+
+#### Puis-je lire mes ebooks sur une liseuse Kindle ?
+
+Nos ebooks sont proposés au format EPUB ou PDF (excepté pour la BD où il s'agit le plus souvent de streaming).  
+La liseuse Kindle ne supporte pas les fichiers EPUB.  
+Vous pouvez lire un PDF sur une liseuse Kindle à condition que celui-ci n'ait pas de DRM.  
+Certains livres multi-format proposent un format mobipocket, compatible avec la liseuse Kindle.
+
+{% include feedback-button.html question="Puis-je lire mes livres sur une liseuse Kindle ?" %}
+
+{% include anchor.html id="lire-kobo" label="Puis-je lire mes ebooks sur une liseuse Kobo ?" %}
+
+#### Puis-je lire mes ebooks sur une liseuse Kobo ?
+
+Il est possible de lire ses ebooks sur une liseuse Kobo.  
+Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
+Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions).
+
+<div class="warningtip"><p>Pour toute question sur l'utilisation d'une liseuse Kobo, consultez directement le site de Kobo.</p></div>
+
+{% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Kobo ?" %}
+
+{% include anchor.html id="bookeen" label="Puis-je lire mes ebooks sur une liseuse Bookeen ?" %}
+
+#### Puis-je lire mes ebooks sur une liseuse Bookeen ?
+
+Il est possible de lire ses ebooks sur une liseuse Bookeen.  
+Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
+Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions).
+
+<div class="warningtip"><p>Pour toute question sur l'utilisation d'une liseuse Bookeen, consultez directement l'aide en ligne de Bookeen.</p></div>
+
+{% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Bookeen ?" %}
+
+{% include anchor.html id="lire-sony" label="Puis-je lire mes ebooks sur une liseuse Reader de Sony ?" %}
+
+#### Puis-je lire mes ebooks sur une liseuse Reader de SONY ?
+
+Pour transférer vos ebooks vers une liseuse SONY, le logiciel Reader SONY est nécessaire. Il est téléchargeable gratuitement sur le site de Sony :
+
+<a class="button" href="https://www.sony.fr/electronics/support/downloads/Z0005571">Télécharger Reader SONY pour Windows</a>
+<a class="button" href="https://www.sony.fr/electronics/support/downloads/Z0005570">Télécharger Reader SONY pour Mac</a>
+
+{% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Reader de Sony ?" %}
 
 {% include anchor.html id="lire-autres" label="Comment transférer mes ebooks sur une liseuse non TEA ?" %}
 
@@ -139,57 +188,6 @@ Les ebooks au format epub et PDF sont lisibles sur iPad, à condition d'avoir t�
 
 {% include feedback-button.html question="Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?" %}
 
-{% include anchor.html id="lire-autres-marques-liseuses" label="Puis-je lire mes ebooks sur une liseuse d'une autre marque que TEA ?" %}
-
-### Puis-je lire mes ebooks sur une liseuse d'une autre marque que TEA ?
-
-{% include anchor.html id="lire-kindle" label="Puis-je lire mes livres sur une liseuse Kindle ?" %}
-
-#### Puis-je lire mes ebooks sur une liseuse Kindle ?
-
-Nos ebooks sont proposés au format EPUB ou PDF (excepté pour la BD où il s'agit le plus souvent de streaming).  
-La liseuse Kindle ne supporte pas les fichiers EPUB.  
-Vous pouvez lire un PDF sur une liseuse Kindle à condition que celui-ci n'ait pas de DRM.  
-Certains livres multi-format proposent un format mobipocket, compatible avec la liseuse Kindle.
-
-{% include feedback-button.html question="Puis-je lire mes livres sur une liseuse Kindle ?" %}
-
-{% include anchor.html id="lire-kobo" label="Puis-je lire mes ebooks sur une liseuse Kobo ?" %}
-
-#### Puis-je lire mes ebooks sur une liseuse Kobo ?
-
-Il est possible de lire ses ebooks sur une liseuse Kobo.  
-Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
-Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions).
-
-<div class="warningtip"><p>Pour toute question sur l'utilisation d'une liseuse Kobo, consultez directement le site de Kobo.</p></div>
-
-{% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Kobo ?" %}
-
-{% include anchor.html id="bookeen" label="Puis-je lire mes ebooks sur une liseuse Bookeen ?" %}
-
-#### Puis-je lire mes ebooks sur une liseuse Bookeen ?
-
-Il est possible de lire ses ebooks sur une liseuse Bookeen.  
-Pour cela, il suffit de les transférer depuis Adobe Digital Editions, ce qui nécessite un identifiant Adobe.
-Voir [Ouvrir et lire un e-book avec Adobe Digital Editions](/ade/#installer-adobe-digital-editions).
-
-<div class="warningtip"><p>Pour toute question sur l'utilisation d'une liseuse Bookeen, consultez directement l'aide en ligne de Bookeen.</p></div>
-
-{% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Bookeen ?" %}
-
-{% include anchor.html id="lire-sony" label="Puis-je lire mes ebooks sur une liseuse Reader de Sony ?" %}
-
-#### Puis-je lire mes ebooks sur une liseuse Reader de SONY ?
-
-Pour transférer vos ebooks vers une liseuse SONY, le logiciel Reader SONY est nécessaire. Il est téléchargeable gratuitement sur le site de Sony :
-
-<a class="button" href="https://www.sony.fr/electronics/support/downloads/Z0005571">Télécharger Reader SONY pour Windows</a>
-<a class="button" href="https://www.sony.fr/electronics/support/downloads/Z0005570">Télécharger Reader SONY pour Mac</a>
-
-{% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Reader de Sony ?" %}
-
-
 {% include anchor.html id="lire-Linux" label="Puis-je lire mes ebooks sur un ordinateur Linux ?" %}
 
 ### Puis-je lire mes ebooks sur un ordinateur Linux ?
@@ -199,8 +197,6 @@ Il vous permet de retrouver tous vos EPUB et de les lire sur votre ordinateur.
 
 <a class="button" href="https://app.tea-ebook.com/">Télécharger TEA Ebook pour Linux</a>
 
-
 {% include feedback-button.html question="Puis-je lire mes ebooks sur un ordinateur Linux ?" %}
-
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
