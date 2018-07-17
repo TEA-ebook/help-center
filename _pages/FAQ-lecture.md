@@ -132,7 +132,7 @@ Pour transférer vos ebooks vers une liseuse SONY, le logiciel Reader SONY est n
 
 ### Comment transférer mes ebooks sur une liseuse non TEA ?
 
-Consultez la page [Ouvrir, lire et transférer un ebook avec le logiciel Adobe Digital Editions](/ade)
+Consultez la page [Ouvrir, lire et transférer un ebook avec le logiciel Adobe Digital Editions](/ade).
 
 {% include feedback-button.html question="Comment transférer mes ebooks sur une liseuse non TEA ?" %}
 
@@ -160,8 +160,6 @@ Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateu
 
 * [Ouvrir un fichier `acsm` sur ordinateur](/tea-ebook/#utiliser-ade)
 * [Ouvrir un fichier `acsm` sur liseuse](/liseuseBasic/#tranferer-basic2)
-
-<div class="warningtip"><p>Si vous possédez une liseuse Pocketbook Touch Lux 2 ou Sense ou une application Android (Decitre, Cultura ou Chapitre), procédez à une mise à jour afin de ne plus avoir à utiliser le compte Adobe. Si vous possédez une liseuse TEA ou une liseuse Pocketbook Touch Lux 2 ou Sense avec le logiciel mis à jour, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse.</p></div>
 
 {% include feedback-button.html question="Mon livre est un fichier au format acsm" %}
 
