@@ -268,7 +268,9 @@ Il y a deux méthodes pour personnaliser l'écran hors tension de votre liseuse 
 
 - Allez dans Paramètres > Personnalisation.
 - Appuyez sur "Écran hors tension".
-- Sélectionnez l'écran de votre choix. Si vous choisissez "Couverture de livre", la couverture du livre en cours de lecture s'affichera sur l'écran hors tension.
+- Sélectionnez le paramètre de votre choix :
+  - _tea-off_ affiche l'image par défaut.
+  - *Couverture de livre* affiche la couverture du livre en cours de lecture sur l'écran hors tension.
 
 <table class="centered no-border">
   <tr>
@@ -276,7 +278,9 @@ Il y a deux méthodes pour personnaliser l'écran hors tension de votre liseuse 
   </tr>
 </table>
  
-Sur les modèles <i>Touch Lux HD Brown Edition</i> et <i>InkPad 3</i>, il est également possible de personnaliser l'écran de démarrage de la liseuse.
+Sur les modèles <i>Touch HD</i>, <i>Touch HD Brown Edition</i> et <i>InkPad 3</i>, il est également possible de personnaliser l'écran de démarrage de la liseuse.
+
+<div class="warningtip"><p>L'image de l'écran de veille (une personne lisant sur son hamac) n'est pas personnalisable.</p></div>
 
 {% include feedback-button.html question="Comment personnaliser l'écran hors tension ?" %}
 
