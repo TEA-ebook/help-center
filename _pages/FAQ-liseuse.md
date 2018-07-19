@@ -249,18 +249,34 @@ Vous avez aussi la possibilité de choisir la disposition de votre clavier virtu
 
 Il y a deux méthodes pour personnaliser l'écran hors tension de votre liseuse TEA :
 
-La première : 
+##### Choisir une image de votre choix
+
 - Allez dans Applications > Galerie.
 - Ouvrez l'image de votre choix.
-- Appuyez au centre de l'image, une barre apparait en haut.
-- Appuyez sur le menu et choisissez "Écran hors tension".
+- Appuyez au centre de l'image, une barre de menu apparait alors en haut de l'écran.
+- Appuyez sur l'icône Menu ![](/images/icone-settings-screen-menu.png) et choisissez "Écran hors tension".
 
-La seconde : 
- - Allez dans Paramètres > Personnalisation.
- - Appuyez sur "Écran hors tension".
- - Sélectionnez l'écran de votre choix. Si vous choisissez "Couverture de livre", la couverture du livre en cours de lecture s'affichera sur l'écran hors tension.
+<table class="centered no-border">
+  <tr>
+    <td><img src="/images/personnalisation-ecran-hors-tension-1.png" alt="" class="small-image"></td>
+    <td><img src="/images/personnalisation-ecran-hors-tension-2.png" alt="" class="small-image"></td>
+    <td><img src="/images/personnalisation-ecran-hors-tension-3.png" alt="" class="small-image"></td>
+  </tr>
+</table>
+
+##### Afficher la couverture du livre en cours
+
+- Allez dans Paramètres > Personnalisation.
+- Appuyez sur "Écran hors tension".
+- Sélectionnez l'écran de votre choix. Si vous choisissez "Couverture de livre", la couverture du livre en cours de lecture s'affichera sur l'écran hors tension.
+
+<table class="centered no-border">
+  <tr>
+    <td><img src="/images/personnalisation-couverture.png" alt="" class="small-image"></td>
+  </tr>
+</table>
  
-Sur certaines liseuses, il est également possible de personnaliser l'écran de démarrage de la liseuse.
+Sur les modèles <i>Touch Lux HD Brown Edition</i> et <i>InkPad 3</i>, il est également possible de personnaliser l'écran de démarrage de la liseuse.
 
 {% include feedback-button.html question="Comment personnaliser l'écran hors tension ?" %}
 
