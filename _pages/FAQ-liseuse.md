@@ -297,7 +297,7 @@ Afin d’afficher le contenu de votre liseuse TEA sur un ordinateur et faire des
 
 Une fois votre liseuse paramétrée, branchez-la __allumée__ à votre ordinateur avec un câble USB puis sélectionnez _Transférer des fichiers_ parmi les deux choix affichés sur l’écran de votre liseuse.
 
-<p class="protip">Cela ne fonctionne pas ? Testez la connexion sur un autre ordinateur ou avec un autre cable micro USB (destinés pour le transfert des fichiers et non seulement pour la charge).</p>
+<p class="protip">Cela ne fonctionne pas ? Testez la connexion sur un autre ordinateur ou avec un autre cable micro USB (en effet, certains cables sont destinés uniquement à la charge d'appareils et ne permettent pas le transfert de fichier).</p>
 
 {% include feedback-button.html question="Je n'arrive pas à relier ma liseuse TEA à mon ordinateur, que dois-je faire ?" %}
 
