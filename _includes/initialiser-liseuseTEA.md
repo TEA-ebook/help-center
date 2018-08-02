@@ -1,9 +1,6 @@
 <div class="protip"><p>Afin de profiter des dernières fonctionnalités de votre liseuse, il est recommandé de maintenir sa liseuse à jour. <a href="/maj">En savoir plus…</a></p></div>
 
-Pour plus d'informations, vous pouvez télécharger le manuel complet de la liseuse :
-
-* [Touch Lux 3](https://www.tea-ebook.com/wp-content/uploads/2016/04/Manuel-TouchLux3TEA3.pdf)
-* [Ultra](https://www.tea-ebook.com/wp-content/uploads/2016/04/Manuel-UltraTEA3.pdf)
+Pour plus d'informations, vous pouvez télécharger les manuels complets des liseuses sur [notre site internet](https://www.tea-ebook.com/solution/#liseuses).
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/9UO-n02Tdko" %}
 
