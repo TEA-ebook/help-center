@@ -4,7 +4,7 @@ layout: page
 title: Foire Aux Questions - Liseuses
 type: faq
 ---
-{% include anchor.html id="Pocketbook" label="Liseuses TEA" %}
+{% include anchor.html id="Liseuses-TEA" label="Liseuses TEA" %}
 
 ## Liseuses TEA
 
