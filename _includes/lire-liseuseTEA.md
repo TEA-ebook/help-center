@@ -70,7 +70,7 @@ Un moteur de recherche est disponible dans la bibliothèque pour retrouver vos l
 Ci-dessous les actions principales en mode lecture. Si elle en possède, n’oubliez pas que vous pouvez également utiliser les boutons physiques pour naviguer sur votre liseuse.
 Description des boutons de gauche à droite : Accueil | Précédent | Suivant | Menu.
 
-![](/images/lire-liseuse-Pocketbook-F5-8.jpg)
+![](/images/ZonesTactiles.jpg)
 
 Afin d'accéder au menu des fonctionnalités de votre liseuse TEA (ou PocketBook) v5, appuyez au centre de l’écran lorsque vous êtes en mode lecture ou sur le bouton physique en bas à droite de votre liseuse. Ensuite cliquez sur le menu en haut à droite de l’écran puis sur « Paramètres ». Vous accéderez à un menu vous permettant de nombreuses actions sur votre texte.
 
