@@ -8,8 +8,7 @@ type: faq
 
 ## Liseuses TEA
 
-Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez également consulter le <a href="https://www.tea-ebook.com/wp-content/uploads/2016/04/Manuel-TouchLux3TEA3.pdf">manuel de la liseuse Touch Lux 3</a> et <a href="https://www.tea-ebook.com/wp-content/uploads/2016/04/Manuel-UltraTEA3.pdf">celui de la liseuse Ultra</a>.
-
+Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez également consulter les manuels des liseuses, téléchargeables depuis <a href="https://www.tea-ebook.com/solution/#liseuses">notre site internet</a>.
 
 {% include anchor.html id="pb-matériel" label="J'ai un problème matériel sur ma liseuse TEA." %}
 
@@ -288,6 +287,15 @@ Sur les modèles <i>Touch HD</i>, <i>Touch HD Brown Edition</i> et <i>InkPad 3</
 {% include anchor.html id="autres-faq-liseuse" label="Autres questions" %}
 
 ### Autres questions
+
+{% include anchor.html id="zones-tactiles" label="A quels gestes correspondent les zones tactiles en mode lecture ?" %}
+
+#### A quels gestes correspondent les zones tactiles en mode lecture ?
+
+![](/images/ZonesTactiles.jpg)
+
+{% include feedback-button.html question="A quels gestes correspondent les zones tactiles en mode lecture ?" %}
+
 
 {% include anchor.html id="relier-liseuse-ordi" label="Je n'arrive pas à relier ma liseuse TEA à mon ordinateur" %}
 
