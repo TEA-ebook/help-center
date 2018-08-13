@@ -272,16 +272,16 @@ Sur certaines liseuses, il est également possible de personnaliser l'écran de 
 #### Comment ajouter des dictionnaires à ma liseuse ?
 
 
-Il est possible d'ajouter des dictionnaires à la liste de ceux déjà disponible : 
+Il est possible d'ajouter des dictionnaires à la liste de ceux déjà disponibles : 
 
 <a class="button" href="https://www.bookland.com/fra/dictionaries">Télécharger des dictionnaires pour liseuse</a>
 
-Pour les installer ensuite sur votre liseuse, il faut suivre la manipulation suivante : 
+Voici la marche à suivre pour les installer sur votre liseuse : 
 
-- Connecter la liseuse à l'ordinateur via un cable USB
-- Copier le fichier `.dic` ou `.pbi` dans le répertoire <i>System > Dictionaries</i> de la liseuse
+- Connecter la liseuse à l'ordinateur via un cable USB.
+- Copier le fichier `.dic` ou `.pbi` dans le répertoire <i>System > Dictionaries</i> de la liseuse.
 
-<p class="warningtip">Si le dossier <i>System</i> n’est pas visible, il est possible qu’il faille faire une manipulation pour rendre visibles les fichiers cachés sur l’ordinateur : afficher les fichiers masqués <a href="http://www.youtips.com/fr/mac/afficher-ou-masquer-les-fichiers-caches-sur-mac/">sur Mac</a> ou <a href="https://www.pcastuces.com/pratique/astuces/4563.htm">sur Windows</a> .</p>
+<p class="warningtip">Si le dossier <i>System</i> n’est pas visible, il est possible qu’il faille faire une manipulation pour rendre visibles les fichiers cachés sur l’ordinateur : afficher les fichiers masqués <a href="http://www.youtips.com/fr/mac/afficher-ou-masquer-les-fichiers-caches-sur-mac/">sur Mac</a> ou <a href="https://www.pcastuces.com/pratique/astuces/4563.htm">sur Windows</a>.</p>
 
 Le dictionnaire sera alors disponible parmi les choix des différents dictionnaires.
 
