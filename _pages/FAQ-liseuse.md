@@ -153,9 +153,9 @@ Pour supprimer une étagère, il faut choisir le mode « Étagères », puis f
 
 Le mode « Dossiers » affiche les répertoires présents sur la liseuse. Ces dossiers peuvent être gérés depuis la liseuse (via un appui long sur chaque dossier) ou bien plus simplement en connectant la liseuse à un ordinateur et en utilisant votre gestionnaire de fichiers habituels.
 
-<table class="centered">
+<table class="centered no-border">
   <tr>
-    <td><img src="/images/bibliotheque-tri-dossier.png" alt="" class="small-image"></td>
+    <td><img src="/images/bibliotheque-tri-dossier.png" alt="" class="small-image"><span class="legend">Vue par dossier de la bibliothèque.</span></td>
   </tr>
 </table>
 
