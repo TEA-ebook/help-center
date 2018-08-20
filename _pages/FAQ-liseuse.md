@@ -110,19 +110,56 @@ Le formatage FAT est recommandé.
 
 #### Comment gérer mes étagères et mettre un livre en favori ?
 
-Les étagères permettent de trier les ebooks de la bibliothèque.  
-L'étagère « Favoris » est présente par défaut.
+Il existe différentes manières de trier les livres de sa bibliothèque.
 
-Dans le mode « étagère », vous ne voyez que les livres qui ont été ajoutés à une étagère. Vous pouvez directement créer une nouvelle étagère en appuyant sur "Nouveau rayon de bibliothèque".
+<table class="centered no-border">
+  <tr>
+    <td><img src="/images/bibliotheque-tri.png" alt="Menu de gestion de la bibliothèque" class="small-image"><span class="legend">Menu de gestion de la bibliothèque</span></td>
+  </tr>
+</table>
 
-Pour ajouter un livre dans une étagère, il vous suffit de faire un appui long sur un livre, puis d'appuyer sur « Ajouter à la bibliothèque ».  
-Une fenêtre s'ouvre alors, vous permettant d'ajouter le livre à une étagère existante ou de créer une étagère en ajoutant automatiquement le livre à cette nouvelle étagère.
+##### Par favoris
 
-Pour supprimer un livre d'une étagère, il faut choisir le mode « étagère », puis faire un appui long sur le livre que vous souhaitez supprimer. Appuyez ensuite sur « Supprimer de l'étagère ».
+Le mode « Favoris » permet de regrouper ses ebooks préférés. Pour ajouter un livre à ses favoris, il faut faire un appui long sur le livre et sélectionner « Ajouter aux favoris ».
 
-Pour supprimer une étagère, il faut choisir le mode « étagère », puis faire un appui long sur l'étagère que vous souhaitez supprimer. Appuyer ensuite sur « Supprimer ». Supprimer une étagère ne supprime pas les livres qu'elle contient.
+<table class="centered no-border">
+  <tr>
+    <td><img src="/images/bibliotheque-tri-favori.png" alt="Livres marqués comme favoris" class="small-image"><span class="legend">Livres marqués comme favoris</span></td>
+  </tr>
+</table>
 
-{% include feedback-button.html question="Comment gérer mes étagères et mettre un livre en favoris dans le logiciel v5 ?" %}
+##### Par étagères
+
+
+Le mode « Étagères » permet de trier les ebooks de la bibliothèque. Vous pouvez directement créer une nouvelle étagère en appuyant sur « Nouveau rayon de bibliothèque ».
+
+Pour ajouter un livre dans une étagère, il faut faire un appui long sur un livre, puis sélectionner « Ajouter à la bibliothèque ». Une fenêtre s'ouvre alors, vous permettant d'ajouter le livre à une étagère existante ou mettre le livre dans une nouvelle étagère. 
+
+<table class="centered no-border">
+  <tr>
+    <td><img src="/images/bibliotheque-tri-ajouter-etagere.png" alt="" class="small-image"></td>
+    <td>→</td>
+    <td><img src="/images/bibliotheque-tri-choix-etagere.png" alt="" class="small-image"></td>  
+  </tr>
+</table>
+
+Pour supprimer un livre d'une étagère, il faut choisir le mode « Étagères », puis faire un appui long sur le livre que vous souhaitez retirer de l'étagère. Appuyez ensuite sur « Supprimer de l'étagère ».
+
+Pour supprimer une étagère, il faut choisir le mode « Étagères », puis faire un appui long sur l'étagère que vous souhaitez supprimer. Appuyez ensuite sur « Supprimer ». 
+
+<p class="protip">Supprimer une étagère ne supprime pas les livres qu'elle contient.</p>
+
+##### Par dossier
+
+Le mode « Dossiers » affiche les répertoires présents sur la liseuse. Ces dossiers peuvent être gérés depuis la liseuse (via un appui long sur chaque dossier) ou bien plus simplement en connectant la liseuse à un ordinateur et en utilisant votre gestionnaire de fichiers habituel.
+
+<table class="centered no-border">
+  <tr>
+    <td><img src="/images/bibliotheque-tri-dossier.png" alt="Vue par dossier de la bibliothèque" class="small-image"><span class="legend">Vue par dossier de la bibliothèque.</span></td>
+  </tr>
+</table>
+
+{% include feedback-button.html question="Comment gérer mes étagères et mettre un livre en favori ?" %}
 
 
 {% include anchor.html id="supprimer-livres-liseuses" label="Comment supprimer des livres de la liseuse ?" %}

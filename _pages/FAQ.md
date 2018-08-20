@@ -78,7 +78,7 @@ title: Foire Aux Questions
 
 ##### [Quels sont les formats supportés par ma liseuse TEA ?](/faq-liseuse/#format-supporte)
 
-##### [Comment gérer mes étagères et mettre un livre en favori dans le logiciel v5 ?](/faq-liseuse/#etageres-favoris)
+##### [Comment gérer mes étagères et mettre un livre en favori ?](/faq-liseuse/#etageres-favoris)
 
 ##### [Comment supprimer des livres de la liseuse ?](/faq-liseuse/#supprimer-livres-liseuses)
 
