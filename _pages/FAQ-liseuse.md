@@ -114,7 +114,7 @@ Il existe différentes manières de trier les livres de sa bibliothèque.
 
 <table class="centered no-border">
   <tr>
-    <td><img src="/images/bibliotheque-tri.png" alt="" class="small-image"><span class="legend">Menu de gestion de la bibliothèque</span></td>
+    <td><img src="/images/bibliotheque-tri.png" alt="Menu de gestion de la bibliothèque" class="small-image"><span class="legend">Menu de gestion de la bibliothèque</span></td>
   </tr>
 </table>
 
@@ -124,14 +124,14 @@ Le mode « Favoris » permet de regrouper ses ebooks préférés. Pour ajouter
 
 <table class="centered no-border">
   <tr>
-    <td><img src="/images/bibliotheque-tri-favori.png" alt="" class="small-image"><span class="legend">Livres marqués comme favoris.</span></td>
+    <td><img src="/images/bibliotheque-tri-favori.png" alt="Livres marqués comme favoris" class="small-image"><span class="legend">Livres marqués comme favoris</span></td>
   </tr>
 </table>
 
 ##### Par étagères
 
 
-Le mode « Étagères » permet de trier les ebooks de la bibliothèque. Vous pouvez directement créer une nouvelle étagère en appuyant sur "Nouveau rayon de bibliothèque".
+Le mode « Étagères » permet de trier les ebooks de la bibliothèque. Vous pouvez directement créer une nouvelle étagère en appuyant sur « Nouveau rayon de bibliothèque ».
 
 Pour ajouter un livre dans une étagère, il faut faire un appui long sur un livre, puis sélectionner « Ajouter à la bibliothèque ». Une fenêtre s'ouvre alors, vous permettant d'ajouter le livre à une étagère existante ou mettre le livre dans une nouvelle étagère. 
 
@@ -145,17 +145,17 @@ Pour ajouter un livre dans une étagère, il faut faire un appui long sur un liv
 
 Pour supprimer un livre d'une étagère, il faut choisir le mode « Étagères », puis faire un appui long sur le livre que vous souhaitez retirer de l'étagère. Appuyez ensuite sur « Supprimer de l'étagère ».
 
-Pour supprimer une étagère, il faut choisir le mode « Étagères », puis faire un appui long sur l'étagère que vous souhaitez supprimer. Appuyer ensuite sur « Supprimer ». 
+Pour supprimer une étagère, il faut choisir le mode « Étagères », puis faire un appui long sur l'étagère que vous souhaitez supprimer. Appuyez ensuite sur « Supprimer ». 
 
 <p class="protip">Supprimer une étagère ne supprime pas les livres qu'elle contient.</p>
 
 ##### Par dossier
 
-Le mode « Dossiers » affiche les répertoires présents sur la liseuse. Ces dossiers peuvent être gérés depuis la liseuse (via un appui long sur chaque dossier) ou bien plus simplement en connectant la liseuse à un ordinateur et en utilisant votre gestionnaire de fichiers habituels.
+Le mode « Dossiers » affiche les répertoires présents sur la liseuse. Ces dossiers peuvent être gérés depuis la liseuse (via un appui long sur chaque dossier) ou bien plus simplement en connectant la liseuse à un ordinateur et en utilisant votre gestionnaire de fichiers habituel.
 
 <table class="centered no-border">
   <tr>
-    <td><img src="/images/bibliotheque-tri-dossier.png" alt="" class="small-image"><span class="legend">Vue par dossier de la bibliothèque.</span></td>
+    <td><img src="/images/bibliotheque-tri-dossier.png" alt="Vue par dossier de la bibliothèque" class="small-image"><span class="legend">Vue par dossier de la bibliothèque.</span></td>
   </tr>
 </table>
 
