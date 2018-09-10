@@ -252,7 +252,8 @@ La version du logiciel apparaît sous la forme suivante : T623.4.4.893
 #### Comment régler la langue du menu ?
 
 - Allez dans Paramètres > Langues/Langages > Langue/Langages.
-- Appuyez sur la langue de votre choix.
+- Appuyez sur la langue de votre choix : allemand, anglais, arabe, arménien, azerbaïdjanais, biélorusse, bulgare, chinois, croate, danois, espanol, estonien, finlandais, français, grec, géorgien, hongrois, hébreu, italien, kazakh, letton, lituanien, macédonien, norvégien, néerlandais, polonais, portugais, roumain, russe, slovaque, slovène, suédois, tchèque, turc ou ukrainien.
+
 
 Vous avez aussi la possibilité de choisir la disposition de votre clavier virtuel ou les dictionnaires disponibles.
 
