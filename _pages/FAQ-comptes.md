@@ -35,7 +35,7 @@ Les commandes que vous avez passées depuis notre site Internet sont visibles da
 
 Pour modifier les informations relatives à votre compte, vous devez vous connecter au site internet de votre libraire. L'accès à « Mon compte » se fait généralement en haut à droite de la page d'accueil. Après vous être connecté en saisissant votre adresse mail et votre mot de passe, vous pourrez ensuite modifier ou compléter vos informations personnelles en cliquant sur « Mes informations personnelles ».
 
-<div class="warningtip"><p>Actuellement, il n'est pas possible de modifier votre compte depuis votre liseuse. Pour les liseuses TEA, merci d'envoyer un email à <a href="mailto:support@tea-ebook.com">support@tea-ebook.com</a> pour toute réinitialisation de mot de passe ou changement d'email.</p></div>
+<div class="warningtip"><p>Actuellement, il n'est pas possible de modifier votre compte depuis votre liseuse TEA. En cas de difficulté, vous pouvez envoyer un email à <a href="mailto:support@tea-ebook.com">support@tea-ebook.com</a> pour toute réinitialisation de mot de passe ou changement d'email.</p></div>
 
 {% include feedback-button.html question="Je veux modifier mon adresse mail ou mon mot de passe dans mon compte. Comment faire ?" %}
 
