@@ -20,13 +20,18 @@
             'phone' : ['92', '42', '66', '89', '03'],
             'schedule' :'Le lundi de 10h à 19h<br/>Du mardi au vendredi de 9h à 19h<br/>Le samedi de 9h à 18h30'
         },
+        'Boulanger' : {
+            'name' : 'Boulanger',
+            'mail' : ['sav', 'tea-ebook', 'com'],
+            'schedule' :'Du lundi au vendredi de 9h à 18h'
+        },
         'Cdiscount' : {
             'name' : 'Cdiscount by TEA',
             'mail' : ['cdiscountbytea', 'tea-ebook', 'com'],
             'schedule' : 'Du lundi au vendredi de 9h à 18h'
         },
         'Chapitre' : {
-            'name' : 'Chapitre',
+            'name' : 'Chapitre / France Loisirs',
             'mail' : ['relation_clients', 'chapitre', 'com'],
             'phone' : ['71', '56', '79', '21', '03'],
             'schedule' : 'Du lundi au vendredi de 8h à 19h<br/>Le samedi de 9h à 19h'
@@ -56,10 +61,15 @@
             'schedule' :'Du lundi au vendredi de 9h à 12h et de 14h à 19h<br/>Le samedi de 9h30 à 12h30 et de 14h à 19h'
         },
         'Ebooks-store' : {
-            'name' : 'Ebooks Store',
+            'name' : 'Ebooks Store / France Loisirs Suisse',
             'mail' : ['ebooks-store', 'fls', 'ch'],
             'phone' : ['708', '840', '0848'],
             'schedule' : 'Du lundi au vendredi de 8h à 12h et de 13h à 17h'
+        },
+        'Électro dépôt' : {
+            'name' : 'Électro dépôt',
+            'mail' : ['sav', 'tea-ebook', 'com'],
+            'schedule' :'Du lundi au vendredi de 9h à 18h'
         },
         'Espace-temps' : {
             'name' : 'Espace Temps',
@@ -95,7 +105,7 @@
             'schedule' :'Du lundi au samedi de 9h30 à 12h30 et de 14h à 19h'
         },
         'Mes-livres-numeriques' : {
-            'name' : 'Mes livres numériques',
+            'name' : 'Mes livres numériques / Belgique Loisirs',
             'mail' : ['info', 'meslivresnumeriques', 'be'],
             'phone' : ['60', '11', '22', '70/', '32'],
             'schedule' : 'Du lundi au vendredi de 13h à 16h30'
