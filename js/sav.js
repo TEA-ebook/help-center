@@ -123,7 +123,7 @@
             'name' : 'Québec Loisirs',
             'mail' : ['serviceclub'.'quebecloisirs'.'com'],
             'site' : 'https://www.quebecloisirs.com/contactez-nous'
-        }
+        },
         'Systeme-U' : {
             'name' : 'Système U / Uculture',
             'site' : 'http://www.uculture.fr/contacts',
