@@ -87,22 +87,11 @@
             'mail' : ['contact','supportfuret','com'],
             'schedule' :'Du lundi au vendredi de 9h à 18h'
         },
-        'Lecteur-moderne' : {
-            'name' : 'Lecteur Moderne',
-            'mail' : ['sav', 'tea-ebook', 'com'],
-            'schedule' :'Du lundi au vendredi de 9h à 18h'
-        },
         'Librairie Jésuite' : {
             'name' : 'Librairie Jésuite',
             'mail' : ['communication-ser','ser-sa','com'],
             'phone' : ['24', '48', '39', '44', '01'],
             'schedule' :'Du lundi au vendredi 9h à 17h'
-        },
-        'Madison' : {
-            'name' : 'Madison',
-            'mail' : ['madisonlibourne', 'gmail', 'com'],
-            'phone' : ['25', '32', '51', '57', '05'],
-            'schedule' :'Du lundi au samedi de 9h30 à 12h30 et de 14h à 19h'
         },
         'Mes-livres-numeriques' : {
             'name' : 'Mes livres numériques / Belgique Loisirs',
