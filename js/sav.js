@@ -87,6 +87,14 @@
             'mail' : ['contact','supportfuret','com'],
             'schedule' :'Du lundi au vendredi de 9h à 18h'
         },
+        'Harlequin' : {
+            'name' : 'Harlequin',
+            'site' : 'https://www.harlequin.fr/contenu/contactez-nous'
+        },
+        'Harper Collins France' : {
+            'name' : 'Harper Collins France',
+            'site' : 'https://www.harpercollins.fr/contenu/contactez-nous'
+        },
         'Librairie Jésuite' : {
             'name' : 'Librairie Jésuite',
             'mail' : ['communication-ser','ser-sa','com'],
