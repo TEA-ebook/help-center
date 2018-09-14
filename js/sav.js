@@ -111,6 +111,11 @@
             'phone' : ['77', '17', '77', '33', '02'],
             'schedule' :'Du lundi au samedi de 9h à 19h30'
         },
+        'Québec Loisirs' : {
+            'name' : 'Québec Loisirs',
+            'mail' : ['serviceclub'.'quebecloisirs'.'com'],
+            'site' : 'https://www.quebecloisirs.com/contactez-nous'
+        }
         'Systeme-U' : {
             'name' : 'Système U / Uculture',
             'site' : 'http://www.uculture.fr/contacts',
