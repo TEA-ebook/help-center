@@ -66,7 +66,7 @@
             'phone' : ['708', '840', '0848'],
             'schedule' : 'Du lundi au vendredi de 8h à 12h et de 13h à 17h'
         },
-        'Électro dépôt' : {
+        'Electro-depot' : {
             'name' : 'Électro dépôt',
             'mail' : ['sav', 'tea-ebook', 'com'],
             'schedule' :'Du lundi au vendredi de 9h à 18h'
@@ -82,7 +82,7 @@
             'mail' : ['sav', 'tea-ebook', 'com'],
             'schedule' :'Du lundi au vendredi de 9h à 18h'
         },
-        'Furet du Nord' : {
+        'Furet-du-Nord' : {
             'name' : 'Furet du Nord',
             'mail' : ['contact','supportfuret','com'],
             'schedule' :'Du lundi au vendredi de 9h à 18h'
@@ -91,11 +91,11 @@
             'name' : 'Harlequin',
             'site' : 'https://www.harlequin.fr/contenu/contactez-nous'
         },
-        'Harper Collins France' : {
+        'Harper-Collins-France' : {
             'name' : 'Harper Collins France',
             'site' : 'https://www.harpercollins.fr/contenu/contactez-nous'
         },
-        'Librairie Jésuite' : {
+        'Librairie-Jesuite' : {
             'name' : 'Librairie Jésuite',
             'mail' : ['communication-ser','ser-sa','com'],
             'phone' : ['24', '48', '39', '44', '01'],
@@ -119,7 +119,7 @@
             'phone' : ['77', '17', '77', '33', '02'],
             'schedule' :'Du lundi au samedi de 9h à 19h30'
         },
-        'Québec Loisirs' : {
+        'Quebec-Loisirs' : {
             'name' : 'Québec Loisirs',
             'mail' : ['serviceclub'.'quebecloisirs'.'com'],
             'site' : 'https://www.quebecloisirs.com/contactez-nous'
