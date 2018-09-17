@@ -121,7 +121,7 @@
         },
         'Quebec-Loisirs' : {
             'name' : 'Québec Loisirs',
-            'mail' : ['serviceclub'.'quebecloisirs'.'com'],
+            'mail' : ['serviceclub', 'quebecloisirs', 'com'],
             'site' : 'https://www.quebecloisirs.com/contactez-nous'
         },
         'Systeme-U' : {
