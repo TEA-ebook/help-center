@@ -23,8 +23,6 @@ Vous pouvez maintenant télécharger vos livres directement sur votre liseuse. [
 
 ## Télécharger sur votre liseuse TEA depuis « mes achats »
 
-{% include youtube-embedded-video.html url="https://www.youtube.com/embed/b4oOA8ZJU2o" %}
-
 {% include telecharger-mes-achats.md %}
 
 {% include anchor.html id="lire-liseuseTEA" label="Lire sur votre liseuse TEA" %}
