@@ -138,7 +138,7 @@ Consultez la page [Ouvrir, lire et transférer un ebook avec le logiciel Adobe D
 
 
 
-{% include anchor.html id="lire-autres" label="Comment transférer mes ebooks achetés chez un partenaire de TEA vers une liseuse TEA ?" %}
+{% include anchor.html id="lire-interoparabilite" label="Comment transférer mes ebooks achetés chez un partenaire de TEA vers une liseuse TEA ?" %}
 
 ### Comment transférer mes ebooks achetés chez un partenaire de TEA vers une liseuse TEA ?
 
