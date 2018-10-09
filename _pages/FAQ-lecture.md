@@ -136,6 +136,38 @@ Consultez la page [Ouvrir, lire et transférer un ebook avec le logiciel Adobe D
 
 {% include feedback-button.html question="Comment transférer mes ebooks sur une liseuse non TEA ?" %}
 
+
+
+{% include anchor.html id="lire-autres" label="Comment transférer mes ebooks achetés chez un partenaire de TEA vers une liseuse TEA ?" %}
+
+### Comment transférer mes ebooks achetés chez un partenaire de TEA vers une liseuse TEA ?
+
+<p class="protip">Si vous avez acheté votre ebook avec le même compte client que celui configuré sur votre liseuse, téléchargez-le directement depuis votre liseuse, via <a href="http://aide.tea-ebook.com/web-liseuseTEA/#telecharger-liseuseTEA">l'espace « Mes Achats »</a>.</p>
+
+Si vous avez acheté votre ebook avec un autre compte client que celui configuré sur votre liseuse (ou si votre liseuse est liée à un autre partenaire de TEA), voici la marche à suivre : 
+
+<div class="centered"><select id="select-sav">
+  <option selected="selected" disabled="disabled">Vérifier que votre libraire est partenaire TEA</option>
+</select></div>
+
+1. Installez le logiciel TEA Ebook sur votre ordinateur : <a class="button" href="https://app.tea-ebook.com/">Télécharger TEA Ebook</a>
+
+2. Dans TEA Ebook, connectez-vous avec le compte client que vous avez utilisé pour acheter votre ebook, en sélectionnant la librairie associée.
+
+3. Sur votre liseuse, vérifiez qu'un compte client est renseigné : dans « Paramètres > Comptes et synchronisation > Compte client ». Si besoin, renseignez un compte, ou créez-le.
+
+5. Liez votre liseuse à votre ordinateur à l'aide d'un câble USB.
+
+6. Sur votre ordinateur, ouvrez un explorateur de fichiers et localisez le dossier « Mes ebooks » dans votre dossier personnel. ![](/images/chemin-teaebook-ios.png)
+
+7. Dans ce dossier, copiez le fichier de l'ebook pour le coller sur votre liseuse, via l'explorateur.
+
+<p class="warningtip">Si votre ebook n'apparaît pas dans le dossier « Mes ebooks », c'est qu'il est incompatible avec TEA Ebook. Pour le transférer sur votre liseuse, vous pouvez utiliser <a href="/ade/">Adobe Digital Editions</a>.</p>
+
+{% include feedback-button.html question="Comment transférer mes ebooks achetés chez un partenaire de TEA vers une liseuse TEA ?" %}
+
+
+
 {% include anchor.html id="pas-ouvrir-ebook" label="Je n’arrive pas à ouvrir mon ebook." %}
 
 ### Je n’arrive pas à ouvrir mon ebook. Que puis-je faire ?
