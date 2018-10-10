@@ -40,7 +40,19 @@ title: Foire Aux Questions
 
 #### [Sur quels supports puis-je lire un e-book ?](/faq-lecture/#support-ebook)
 
-#### [Je n’arrive pas à ouvrir mon e-book. Que puis-je faire ?](/faq-lecture/#pas-ouvrir-ebook)
+#### [Puis-je lire mes ebooks sur une liseuse d’une autre marque que TEA ?](/faq-lecture/#lire-autres-marques-liseuses)
+
+##### [Puis-je lire mes ebooks sur une liseuse Kindle ?](/faq-lecture/#lire-kindle)
+
+##### [Puis-je lire mes ebooks sur une liseuse Kobo ?](/faq-lecture/#lire-kobo)
+
+##### [Puis-je lire mes ebooks sur une liseuse Bookeen ?](/faq-lecture/#bookeen)
+
+##### [Puis-je lire mes ebooks sur une liseuse Reader de SONY ?](/faq-lecture/#lire-sony)
+
+#### [Comment transférer mes ebooks sur une liseuse non TEA ?](/faq-lecture/#lire-autres)
+
+#### [Je n’arrive pas à ouvrir mon e-book.](/faq-lecture/#pas-ouvrir-ebook)
 
 #### [Mon e-book est un fichier au format acsm. Comment puis-je l'ouvrir ?](/faq-lecture/#ouvrir-acsm)
 
@@ -48,19 +60,16 @@ title: Foire Aux Questions
 
 #### [Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?](/faq-lecture/#lire-ipad)
 
-#### [Puis-je lire mes e-books sur une liseuse Kindle ?](/faq-lecture/#lire-kindle)
+#### [Puis-je lire mes ebooks sur un ordinateur Linux ?](/faq-lecture/#lire-Linux)
 
-#### [Puis-je lire mes e-books sur Reader de Sony ?](/faq-lecture/#lire-sony)
-
-#### [Puis-je lire mes e-books sur une liseuse Kobo ?](/faq-lecture/#lire-kobo)
-
-#### [Comment lire mes livres sur une liseuse non TEA ?](/faq-lecture/#lire-autres)
 
 {% include anchor.html id="liseuse" label="Liseuse" %}
 
 ## [Liseuses](/faq-liseuse/)
 
-### [Liseuses TEA (ou Pocketbook)](/faq-liseuse/#Pocketbook)
+### [Liseuses TEA](/faq-liseuse/#Liseuses-TEA)
+
+#### [J’ai un problème matériel sur ma liseuse TEA](/faq-liseuse/#pb-matériel)
 
 #### [Recharger sa liseuse TEA](/faq-liseuse/#recharger-liseuse-generalites)
 
@@ -98,23 +107,29 @@ title: Foire Aux Questions
 
 ##### [Comment afficher l'heure ou le niveau de batterie en mode lecture ?](/faq-liseuse/#affichage-mode-lecture)
 
+##### [Comment afficher/cacher la pagination de l’ebook en mode lecture ?](/faq-liseuse/#pagination-mode-lecture)
+
 ##### [Comment personnaliser l'écran de démarrage ou de mise hors tension ?](/faq-liseuse/#ecran-hors-tension)
 
 #### [Autres questions](/faq-liseuse/#autres-faq-liseuse)
 
-##### [Ma liseuse TEA est bloquée sur une page, que dois-je faire ?](/faq-liseuse/#pocketbook-bloque)
+##### [A quels gestes correspondent les zones tactiles en mode lecture ?](/faq-liseuse/#zones-tactiles)
+
+##### [Je n’arrive pas à relier ma liseuse TEA à mon ordinateur, que dois-je faire ?](/faq-liseuse/#relier-liseuse-ordi)
+
+##### [Ma liseuse TEA est bloquée sur une page.](/faq-liseuse/#pocketbook-bloque)
 
 ##### [Comment récupérer mes données après le formatage de ma liseuse ?](/faq-liseuse/#formatage)
 
-#### [Conditions de garantie des liseuses TEA (ou Pocketbook)](/faq-liseuse/#garantie)
+##### [Comment gérer la fonction SMARTlight de ma liseuse TEA ?](/faq-liseuse/#smartlight)
+
+#### [Conditions de garantie des liseuses TEA](/faq-liseuse/#garantie)
 
 ##### [Restrictions et exceptions](/faq-liseuse/#restrictions-exceptions)
 
 ##### [La garantie de la liseuse ne couvre pas et ne s'applique pas](/faq-liseuse/#non-application)
 
 ##### [Remarque importante concernant le rétro-éclairage des liseuses](/faq-liseuse/#remarque-importante)
-
-### [Liseuses Bookeen](/faq-liseuse/#bookeen)
 
 ## [Téléchargement](/faq-telechargement/)
 
@@ -134,13 +149,15 @@ title: Foire Aux Questions
 
 #### [Ce livre est protégé par Adobe DRM. Pour le lire vous devez activer votre compte Adobe sur votre appareil...](/faq-erreurs/#protege-adobe-DRM)
 
-#### [Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse](/faq-erreurs/#400-bad-request)
+#### [Adobe Digital Editions sur Windows 10](/faq-erreurs/#ADE-Windows10)
 
 #### [E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY](/faq-erreurs/#not-ready)
 
 #### [Error check activation](/faq-erreurs/#error-check-activation)
 
 #### [E\_ADEPT\_DUPLICATE\_TRANSACTION\_ID](/faq-erreurs/#duplicate-transaction)
+
+#### [Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse](/faq-erreurs/#400-bad-request)
 
 ## [Autres](/faq-autre/)
 
