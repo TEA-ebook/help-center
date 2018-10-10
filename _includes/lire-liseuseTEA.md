@@ -8,7 +8,7 @@ La Bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de 
 
 Depuis la page d’accueil de votre liseuse TEA, vous pouvez consulter vos e-books en cliquant sur « Bibliothèque » ou l’icône correspondante.
 
-La bibliothèque de votre liseuse vous permet d'accéder aux livres présents sur votre liseuse, mais aussi de les ranger et de les organiser comme vous le souhaitez.
+La Bibliothèque de votre liseuse vous permet d'accéder aux livres présents sur votre liseuse, mais aussi de les ranger et de les organiser comme vous le souhaitez.
 
 ![](/images/lire-liseuse-Pocketbook-F5-2.jpg)
 
@@ -18,7 +18,7 @@ Si c’est votre première utilisation de la liseuse TEA, vous remarquerez qu’
 
 #### Les paramètres de la Bibliothèque
 
-Vous pouvez modifier les paramètres d'affichage et de tri de la bibliothèque.
+Vous pouvez modifier les paramètres d'affichage et de tri de la Bibliothèque.
 
 ![](/images/lire-liseuse-Pocketbook-F5-4.jpg)
 
@@ -73,7 +73,7 @@ Description des boutons de gauche à droite : Accueil | Précédent | Suivant |
 
 ![](/images/ZonesTactiles.jpg)
 
-Afin d'accéder au menu des fonctionnalités de votre liseuse TEA (ou PocketBook) v5, appuyez au centre de l’écran lorsque vous êtes en mode lecture ou sur le bouton physique en bas à droite de votre liseuse. Ensuite cliquez sur le menu en haut à droite de l’écran puis sur « Paramètres ». Vous accéderez à un menu vous permettant de nombreuses actions sur votre texte.
+Afin d'accéder au menu des fonctionnalités de votre liseuse TEA, appuyez au centre de l’écran lorsque vous êtes en mode lecture ou sur le bouton physique en bas à droite de votre liseuse. Ensuite cliquez sur le menu en haut à droite de l’écran puis sur « Paramètres ». Vous accéderez à un menu vous permettant de nombreuses actions sur votre texte.
 
 #### Les paramètres de lecture
 
@@ -102,4 +102,4 @@ Par défaut, il suffit de maintenir longtemps le bouton physique « Menu » ap
 
 ### Dictionnaire embarqué :
 
-Chaque liseuse TEA (ou PocketBook) v5 a un dictionnaire embarqué. Pour l’activer il vous suffit d’ouvrir le menu en mode lecture, de cliquer sur « Dictionnaire » puis de cliquer sur la partie du texte que vous recherchez. Une définition apparaîtra dans une fenêtre en bas de page.
+Chaque liseuse TEA a un dictionnaire embarqué. Pour l’activer il vous suffit d’ouvrir le menu en mode lecture, de cliquer sur « Dictionnaire » puis de cliquer sur la partie du texte que vous recherchez. Une définition apparaîtra dans une fenêtre en bas de page.
