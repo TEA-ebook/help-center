@@ -69,7 +69,4 @@
         result += '</div>';
         $('.client-android-app').html(result);
     });
-
-    console.log("coucou");
-
 }(jQuery, undefined));
