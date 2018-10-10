@@ -1,7 +1,3 @@
-{% include anchor.html id="telecharger-google-play" label="Téléchargement sur Google Play" %}
-
-### Téléchargement sur Google Play
-
 Le téléchargement de l’application de votre librairie se fait sur le Play Store de votre appareil Android. Cliquez sur la loupe de recherche en haut à droite de votre écran et écrivez le nom de votre librairie. Lancez la recherche et cliquez sur l’icône de votre librairie.
 
 La page de présentation de l’application apparaît. Cliquez alors sur « Installer » pour télécharger l’application.
@@ -14,18 +10,20 @@ L’application est alors téléchargée et installée sur votre tablette Androi
 
 Vous retrouverez ensuite l’application sur votre tablette : l’icône de votre librairie apparaît désormais avec les autres applications sur votre tablette.
 
+{% include feedback-button.html question="Téléchargement sur Google Play" %}
+
+
 {% include anchor.html id="initialisation-application" label="Initialisation de l’application" %}
 
 ## Initialisation de l’application
 
-{% include anchor.html id="connexion-compte-client" label="Connexion au compte client" %}
-
-### Connexion au compte client
-
-Pour vous connecter à votre compte client, il vous suffit d'appuyer sur l'icône « personnage » en haut à droite de l'application, puis d'enregistrer votre compte client.
+Pour initialiser votre application, il faut tout d'abord vous connecter à votre compte client. Pour cela, appuyez sur l'icône « personnage » en haut à droite de l'application, puis d'enregistrez votre compte client.
 
 ![](/images/support-tablette2-2.png)
 
 ![](/images/support-tablette2-3.png)
 
 <div class="warningtip"><p>Le compte client que vous enregistrez doit être le même que celui utilisé sur le site web de votre libraire ou la librairie de votre liseuse.</p></div>
+
+
+{% include feedback-button.html question="Initialisation de l'application" %}
