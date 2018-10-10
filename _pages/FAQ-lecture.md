@@ -152,7 +152,7 @@ Si rien ne fonctionne, contactez votre service client.
 {% include feedback-button.html question="Je n’arrive pas à ouvrir mon ebook." %}
 
 
-{% include anchor.html id="ouvrir-acsm" label="Mon livre est un fichier au format acsm" %}
+{% include anchor.html id="ouvrir-acsm" label="Mon livre est un fichier au format acsm." %}
 
 ### Mon ebook est un fichier au format acsm. Comment puis-je l'ouvrir ?
 
