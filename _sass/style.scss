@@ -480,6 +480,17 @@ footer {
   }
 }
 
+// Client list dropdown style
+select.clients {
+  background-color: $insertBackground;
+  border: none;
+  font-size: 1em;
+  height: 2em;
+  padding: 5px;
+  width: 250px;
+  margin-bottom: 1em;
+}
+
 // Feedback
 .feedback {
 
