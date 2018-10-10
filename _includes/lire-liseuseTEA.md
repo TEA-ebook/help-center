@@ -69,10 +69,10 @@ Un moteur de recherche est disponible dans la Bibliothèque pour retrouver vos l
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/QV7K4M7eqkU" %}
 
 Ci-dessous les actions principales en mode lecture. 
-Vous pouvez également utiliser les boutons physiques pour naviguer sur votre liseuse.
-Description des boutons de gauche à droite : Accueil | Précédent | Suivant | Menu.
 
 ![](/images/ZonesTactiles.jpg)
+Vous pouvez également utiliser les boutons physiques pour naviguer sur votre liseuse.
+Description des boutons de gauche à droite : Accueil | Précédent | Suivant | Menu.
 
 Afin d'accéder au menu des fonctionnalités de votre liseuse TEA, appuyez au centre de l’écran lorsque vous êtes en mode lecture ou sur le bouton physique en bas à droite de votre liseuse. Ensuite cliquez sur le menu en haut à droite de l’écran puis sur « Paramètres ». Vous accéderez à un menu vous permettant de nombreuses actions sur votre texte.
 
