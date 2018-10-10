@@ -1,16 +1,16 @@
-{% include anchor.html id="validation-panier" label="Validation du panier" %}
+{% include anchor.html id="validation-panier" label="Sélection des ebooks et validation du panier" %}
 
-### Validation du panier
+### Sélection des ebooks et validation du panier
 
-Accédez à la librairie.
+Accédez à la Librairie.
 
 ![](/images/acheter-liseuse-1.jpg)
 
-Sélectionnez votre e-book grâce aux différents accès de la page principale de la librairie. 
+Sélectionnez l’ebook de votre choix dans la Librairie, en le recherchant dans le moteur de recherche ou bien en naviguant dans les catégories du catalogue.
 
 ![](/images/acheter-liseuse-2.jpg)
 
-Sélectionnez « Acheter » pour ajouter un e-book à votre panier. Vous avez aussi la possibilité de télécharger un extrait, s'il est disponible.
+Sélectionnez « Acheter » pour ajouter un ebook à votre panier. Vous avez aussi la possibilité de télécharger un extrait, s'il est disponible.
 
 ![](/images/acheter-liseuse-3.jpg)
 
@@ -18,7 +18,7 @@ Vous pouvez ensuite soit continuer vos achats, soit accéder à votre panier en 
 
 ![](/images/acheter-liseuse-4.jpg)
 
-Une fois tous vos achats effectués, sélectionnez « Valider ma commande ».
+Une fois tous les ebooks que vous souhaitez acheter mis au panier, sélectionnez « Valider ma commande ».
 
 ![](/images/acheter-liseuse-5.jpg)
 
@@ -52,11 +52,11 @@ Remplissez les champs suivants : le N° de la carte, la date d’expiration et 
 
 ### Téléchargement
 
-Une fois votre commande terminée, vous accédez à un récapitulatif de vos achats. Vous pourrez alors télécharger votre e-book, en cliquant sur « Télécharger ».
+Une fois votre commande terminée, vous accédez à un récapitulatif de vos achats. Vous pourrez alors télécharger votre ebook, en cliquant sur « Télécharger ».
 
 ![](/images/acheter-liseuse-9.jpg)
 
-Une fenêtre apparaît pour vous demander d’ouvrir le fichier de l’e-book. Si vous désirez lire votre e-book immédiatement, sélectionnez « Oui ». En sélectionnant « Non », vous resterez sur la page « Mes commandes ». Vous pourrez ensuite retrouver l'e-book téléchargé dans la bibliothèque.  
+Une fenêtre apparaît pour vous demander d’ouvrir le fichier de l’ebook. Si vous désirez lire votre ebook immédiatement, sélectionnez « Oui ». En sélectionnant « Non », vous resterez sur la page « Mes commandes ». Vous pourrez ensuite retrouver l'ebook téléchargé dans la bibliothèque.  
 Bonne lecture !
 
-Si vous ne souhaitez pas télécharger le livre tout de suite, vous avez la possibilité de le télécharger ultérieurement depuis le store liseuse ou depuis la fonctionnalité « Mes achats » si elle est disponible.
+Si vous ne souhaitez pas télécharger le livre tout de suite, vous avez la possibilité de le télécharger ultérieurement depuis la Librairie ou depuis l'espace « Mes achats ».
