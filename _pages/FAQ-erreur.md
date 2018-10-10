@@ -36,7 +36,7 @@ Vous pouvez le vérifier simplement en tapant l'adresse <http://time.is> dans le
 
 Pour modifier les paramètres Date/heure :
 
-* Sur une liseuse TEA (ou Pocketbook) :
+* Sur une liseuse TEA :
     * Aller dans « Paramètres ».
     * Puis dans « Date et heure ».
     * Vérifier que le fuseau horaire est bien celui de Paris.
