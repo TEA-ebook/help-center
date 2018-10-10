@@ -1,12 +1,12 @@
-{% include anchor.html id="bibliotheque-numerique-5" label="La bibliothèque numérique" %}
+{% include anchor.html id="bibliotheque-numerique-5" label="La Bibliothèque" %}
 
-### La bibliothèque numérique
+### La Bibliothèque
 
-La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de titres disponibles hors connexion après leur téléchargement.
+La Bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de titres, qui resteront disponibles hors connexion une fois téléchargés.
 
-#### L'accès à la bibliothèque
+#### L'accès à la Bibliothèque
 
-Depuis la page d’accueil de votre liseuse TEA (ou PocketBook) v5, vous pouvez consulter vos e-books en cliquant sur « Bibliothèque » ou l’icône correspondante.
+Depuis la page d’accueil de votre liseuse TEA, vous pouvez consulter vos e-books en cliquant sur « Bibliothèque » ou l’icône correspondante.
 
 La bibliothèque de votre liseuse vous permet d'accéder aux livres présents sur votre liseuse, mais aussi de les ranger et de les organiser comme vous le souhaitez.
 
@@ -14,9 +14,9 @@ La bibliothèque de votre liseuse vous permet d'accéder aux livres présents su
 
 ![](/images/lire-liseuse-Pocketbook-F5-3.jpg)
 
-Si c’est votre première utilisation de la liseuse TEA (ou PocketBook) v5, vous remarquerez qu’une bibliothèque de quelques titres vous est offerte afin que vous commenciez à découvrir votre liseuse et les possibilités de la lecture numérique.
+Si c’est votre première utilisation de la liseuse TEA, vous remarquerez qu’une sélection de quelques titres vous est offerte afin que vous commenciez à découvrir votre liseuse et les possibilités de la lecture numérique.
 
-#### Les paramètres de la bibliothèque
+#### Les paramètres de la Bibliothèque
 
 Vous pouvez modifier les paramètres d'affichage et de tri de la bibliothèque.
 
@@ -43,7 +43,8 @@ Vous pouvez aussi effectuer une recherche par mot-clé.
 
 #### Le menu contextuel
 
-Si vous effectuez un toucher long sur l'un des éléments de la bibliothèque, un menu contextuel apparaît.
+Si vous effectuez un toucher long sur l'un des éléments de la Bibliothèque, un menu contextuel apparaît.
+Il permet notamment de supprimer un livre de la Bibliothèque.
 
 ![](/images/lire-liseuse-Pocketbook-F5-5.jpg)
 
@@ -51,7 +52,7 @@ Si vous effectuez un toucher long sur l'un des éléments de la bibliothèque, u
 
 #### La recherche
 
-Un moteur de recherche est disponible dans la bibliothèque pour retrouver vos livres plus rapidement.
+Un moteur de recherche est disponible dans la Bibliothèque pour retrouver vos livres plus rapidement.
 
 ![](/images/lire-liseuse-Pocketbook-F5-7.jpg)
 
