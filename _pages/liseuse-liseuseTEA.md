@@ -5,7 +5,7 @@ title: Acheter un ebook et le lire sur sa liseuse TEA
 type: help
 ---
 
-S'il s'agit de la première utilisation de votre liseuse Pocketbook, assurez-vous de bien la configurer lors de son initialisation. Si vous avez déjà initialisé votre liseuse, consultez directement [Acheter un ebook sur votre liseuse TEA](#acheter-liseuseTEA).
+S'il s'agit de la première utilisation de votre liseuse TEA, assurez-vous de bien la configurer lors de son initialisation. Si vous avez déjà initialisé votre liseuse, vous pouvez consulter directement [Acheter un ebook sur votre liseuse TEA](#acheter-liseuseTEA).
 
 {% include anchor.html id="initialiser-liseuseTEA" label="Initialiser votre liseuse TEA" %}
 
