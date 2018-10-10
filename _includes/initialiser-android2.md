@@ -2,17 +2,17 @@
 
 ### Téléchargement sur Google Play
 
-Le téléchargement de l’application de votre librairie se fait sur le Play Store de votre tablette Android. Cliquez sur la loupe de recherche en haut à droite de votre écran et écrivez le nom de votre librairie. Lancez la recherche et cliquez sur l’icône de votre librairie.
+Le téléchargement de l’application de votre librairie se fait sur le Play Store de votre appareil Android. Cliquez sur la loupe de recherche en haut à droite de votre écran et écrivez le nom de votre librairie. Lancez la recherche et cliquez sur l’icône de votre librairie.
 
 La page de présentation de l’application apparaît. Cliquez alors sur « Installer » pour télécharger l’application.
 
-![](/images/support-tablette2-1.png)
+![](/images/support-tablette-1.jpg)
 
 <div class="warningtip"><p>Votre compte Google doit être enregistré au préalable sur votre tablette, sinon Google Play ne pourra pas installer l’application sur votre tablette. Si ce n’est pas le cas, l’enregistrement du compte Google se fait depuis Paramètres > Comptes > Ajouter un compte.</p></div>
 
 L’application est alors téléchargée et installée sur votre tablette Android. Lancez l’application directement depuis le Play Store en cliquant sur « Ouvrir ».
 
-Vous retrouverez ensuite facilement l’application sur votre tablette : l’icône de votre librairie apparaît désormais avec les autres applications sur votre tablette.
+Vous retrouverez ensuite l’application sur votre tablette : l’icône de votre librairie apparaît désormais avec les autres applications sur votre tablette.
 
 {% include anchor.html id="initialisation-application" label="Initialisation de l’application" %}
 

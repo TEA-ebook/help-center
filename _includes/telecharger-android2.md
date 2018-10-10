@@ -2,7 +2,7 @@
 
 ### Téléchargement depuis le compte client
 
-Vous pouvez télécharger vos livres depuis l'histoirique des achats dans la librairie de l'application.
+Vous pouvez télécharger vos livres depuis l'historique des achats dans la librairie de l'application.
 
 Appuyez ensuite sur l'icône « personnage » en haut à droite de l'application pour accéder à l'historique des achats.
 
