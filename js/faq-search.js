@@ -13,15 +13,15 @@ $(function onLoad() {
         var resultContent = [];
         var anchors = [];
         $('span.highlight').each(function (i, element) {
-            var $matchingElement = $(element).closest('.entry > p, .entry > ul, .entry > table, .entry > ol, .entry > h3');
+            var $matchingElement = $(element).closest('.entry > p, .entry > ul, .entry > table, .entry > ol, .entry > h4, .entry > h3');
             var tagname = $matchingElement.prop('tagName');
             var $title, content;
-            if (tagname === 'H3') {
+            if (tagname === 'H3' || tagname === 'H4') {
                 $title = $matchingElement;
                 content = $title.next().text();
             } else {
                 // find title just before matched element
-                var title = $matchingElement.prevAll('h3[id]')[0];
+                var title = $matchingElement.prevAll('h4[id],h3[id]')[0];
                 if (!title) {
                     return;
                 }
