@@ -14,7 +14,6 @@ $(function onLoad() {
         var anchors = [];
         $('span.highlight').each(function (i, element) {
             var $matchingElement = $(element).closest('.entry > p, .entry > ul, .entry > table, .entry > ol, .entry > h4, .entry > h3');
-            console.log($matchingElement);
             var tagname = $matchingElement.prop('tagName');
             var $title, content;
             if (tagname === 'H3' || tagname === 'H4') {
