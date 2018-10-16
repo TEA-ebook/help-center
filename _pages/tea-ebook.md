@@ -60,7 +60,7 @@ Vous retrouvez l’ensemble de vos ebooks...
 
 ### Lire un ebook avec TEA Ebook
 
-Pour lire un ebook de votre bibliothèque, cliquez simplement sur le bouton « Lire ».
+Pour lire un ebook de votre bibliothèque, cliquez sur le bouton « Lire ».
 
 ![](/images/tea-ebook-lecture.png)
 

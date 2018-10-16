@@ -98,7 +98,7 @@ Certains livres multi-format proposent un format mobipocket, compatible avec la 
 #### Puis-je lire mes ebooks sur une liseuse Kobo ?
 
 Il est possible de lire ses ebooks sur une liseuse Kobo.  
-Pour cela, il suffit de les transférer d'un ordinateur vers la liseuse Kobo via le logiciel Adobe Digital Editions, ce qui nécessite la création d'un identifiant Adobe.
+Pour cela, transférez les d'un ordinateur vers la liseuse Kobo via le logiciel Adobe Digital Editions, ce qui nécessite la création d'un identifiant Adobe.
 Voir [Ouvrir et lire un ebook avec Adobe Digital Editions](/ade).
 
 <div class="warningtip"><p>Pour toute question sur l'utilisation d'une liseuse Kobo, consultez directement le site de Kobo.</p></div>
@@ -110,7 +110,7 @@ Voir [Ouvrir et lire un ebook avec Adobe Digital Editions](/ade).
 #### Puis-je lire mes ebooks sur une liseuse Bookeen ?
 
 Il est possible de lire ses ebooks sur une liseuse Bookeen.  
-Pour cela, il suffit de les transférer d'un ordinateur vers la liseuse Bookeen via le logiciel Adobe Digital Editions, ce qui nécessite la création d'un identifiant Adobe.
+Pour cela, transférez les d'un ordinateur vers la liseuse Bookeen via le logiciel Adobe Digital Editions, ce qui nécessite la création d'un identifiant Adobe.
 Voir [Ouvrir et lire un ebook avec Adobe Digital Editions](/ade).
 
 <div class="warningtip"><p>Pour toute question sur l'utilisation d'une liseuse Bookeen, consultez directement l'aide en ligne de Bookeen.</p></div>

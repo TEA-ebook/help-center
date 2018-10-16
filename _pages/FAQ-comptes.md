@@ -9,7 +9,7 @@ type: faq
 
 ### Mes identifiants de compte client du site du libraire sont-ils valables dans la Librairie de la liseuse ?
 
-Oui, vos identifiants sont les mêmes que sur notre site internet. Il vous suffit de saisir votre adresse mail et votre mot de passe pour vous connecter depuis la liseuse.
+Oui, vos identifiants sont les mêmes que sur notre site internet. Vous pouvez saisir votre adresse mail et votre mot de passe pour vous connecter depuis la liseuse.
 
 {% include feedback-button.html question="Mes identifiants de compte client du site du libraire sont-ils valables sur le store de la liseuse ?" %}
 
