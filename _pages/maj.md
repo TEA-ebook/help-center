@@ -92,9 +92,6 @@ Touch Lux 2, Touch Lux 3.
 ## Logiciels disponibles au téléchargement
 
 Liste des dernières versions des logiciels des liseuses distribuées par nos partenaires :
-{% include anchor.html id="inkpad3" label="Liseuses Inkpad 3" %}
-### Liseuses Inkpad 3
-Télécharger le [logiciel T740.5.17.1680.](https://drive.google.com/open?id=1aSgQKgSK0AYMKgLyFjxgbGWdOtTm7roK)
 
 {% include anchor.html id="THD" label="Liseuses Touch HD et Touch HD Brown" %}
 ### Liseuses Touch HD et Touch HD Brown
