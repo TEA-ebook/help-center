@@ -3,6 +3,7 @@ permalink: "/faq-lecture/"
 layout: page
 title: Foire Aux Questions - Lecture
 type: faq
+custom_js: choix-client.js
 ---
 
 {% include anchor.html id="support-ebook" label="Sur quels supports puis-je lire un ebook ?" %}
@@ -192,6 +193,7 @@ Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateu
 
 * [Ouvrir un fichier `acsm` sur ordinateur](/tea-ebook/#utiliser-ade)
 * [Ouvrir un fichier `acsm` sur liseuse](/liseuseBasic/#tranferer-basic2)
+* [Ouvrir un fichier `acsm` sur mobile ou tablette](/#lire-smartphone)
 
 {% include feedback-button.html question="Mon livre est un fichier au format acsm" %}
 
@@ -207,13 +209,17 @@ S'il s'agit bien du livre complet, contactez votre service client.
 {% include feedback-button.html question="L’ebook est incomplet. Il manque des pages ou des chapitres." %}
 
 
-{% include anchor.html id="lire-ipad" label="Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?" %}
+{% include anchor.html id="lire-smartphone" label="Puis-je lire mes livres sur tablette ou smartphone, si ma librairie ne possède pas d'application spécifique ?" %}
 
-### Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?
+### Puis-je lire mes livres sur tablette ou smartphone, si ma librairie ne possède pas d'application spécifique ?
 
-Les ebooks au format epub et PDF sont lisibles sur iPad, à condition d'avoir téléchargé une application de lecture telle que Bluefire Reader.
+Vérifier que mon libraire propose une application de lecture sur Android ou Apple : 
 
-{% include feedback-button.html question="Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?" %}
+{% include choix-application-android.md %}
+
+Si votre libraire ne possèdepas d'application spécifique, les ebooks au format epub et PDF restent lisibles sur tablette ou smarphone, à condition d’avoir téléchargé une application de lecture telle que Bluefire Reader. Les livres au format ACSM nécessitent la configuration d'un compte Adobe.
+
+{% include feedback-button.html question="Puis-je lire mes livres sur tablette ou smartphone, si ma librairie ne possède pas d'application spécifique?" %}
 
 {% include anchor.html id="lire-Linux" label="Puis-je lire mes ebooks sur un ordinateur Linux ?" %}
 

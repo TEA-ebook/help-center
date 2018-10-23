@@ -7,7 +7,7 @@
         'Furet du Nord' : {
             'name' : 'Furet du Nord eBook',
             'android' : 'https://play.google.com/store/apps/details?id=com.epagine.fdn',
-            'ios' : ''
+            'ios' : 'https://itunes.apple.com/fr/app/furet-du-nord/id908712736'
         },
         'CNAM' : {
             'name' : 'Le Cnam eBooks partagés',
@@ -17,12 +17,12 @@
          'Chapitre' : {
             'name' : 'Chapitre ebooks',
             'android' : 'https://play.google.com/store/apps/details?id=com.chapitre.ebooks',
-            'ios' : ''
+            'ios' : 'https://itunes.apple.com/fr/app/chapitre-ebooks/id483562050'
         },
         'France Loisirs' : {
             'name' : 'France Loisirs eBooks',
             'android' : 'https://play.google.com/store/apps/details?id=fr.tea.ebookreader.franceloisirs&hl=fr',
-            'ios' : ''
+            'ios' : 'https://itunes.apple.com/fr/app/france-loisirs-ebooks/id1121934475'
         },
         'Cultura' : {
             'name' : 'Cultura Ebooks',
@@ -66,7 +66,11 @@
             result += "<h5>Application Android</h5>";
             result += '<p>Téléchargez <a class="button" href="' + clientApp['android'] + '">' + clientApp['name'] + '</a>  sur Google Play.</p>'
         }
+        if (clientApp['ios']){
+            result += "<h5>Application Apple</h5>";
+            result += '<p>Téléchargez <a class="button" href="' + clientApp['ios'] + '">' + clientApp['name'] + '</a>  sur Apple Store.</p>'
+        }
         result += '</div>';
-        $('.client-android-app').html(result);
+        $('.client-app').html(result);
     });
 }(jQuery, undefined));
