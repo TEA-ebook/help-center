@@ -193,7 +193,7 @@ Les fichiers `acsm` sont des fichiers de licence qui permettent à un utilisateu
 
 * [Ouvrir un fichier `acsm` sur ordinateur](/tea-ebook/#utiliser-ade)
 * [Ouvrir un fichier `acsm` sur liseuse](/liseuseBasic/#tranferer-basic2)
-* [Ouvrir un fichier `acsm` sur mobile ou tablette](/#lire-smartphone)
+* [Ouvrir un fichier `acsm` sur mobile ou tablette](#lire-smartphone)
 
 {% include feedback-button.html question="Mon livre est un fichier au format acsm" %}
 
