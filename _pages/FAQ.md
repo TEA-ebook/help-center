@@ -58,7 +58,7 @@ title: Foire Aux Questions
 
 #### [L’e-book est incomplet. Il manque des pages ou des chapitres. Que puis-je faire ?](/faq-lecture/#ebook-incomplet)
 
-#### [Puis-je lire mes livres sur iPad, si ma librairie ne possède pas d'application spécifique iOs ?](/faq-lecture/#lire-ipad)
+#### [Puis-je lire mes livres sur smartphone ou tablette, si ma librairie ne possède pas d'application spécifique ?](/faq-lecture/#lire-smartphone)
 
 #### [Puis-je lire mes ebooks sur un ordinateur Linux ?](/faq-lecture/#lire-Linux)
 
