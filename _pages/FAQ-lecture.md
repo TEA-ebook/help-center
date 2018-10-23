@@ -217,7 +217,7 @@ Vérifier que mon libraire propose une application de lecture sur Android ou App
 
 {% include choix-application-android.md %}
 
-Si votre libraire ne possèdepas d'application spécifique, les ebooks au format epub et PDF restent lisibles sur tablette ou smarphone, à condition d’avoir téléchargé une application de lecture telle que Bluefire Reader. Les livres au format ACSM nécessitent la configuration d'un compte Adobe.
+Si votre libraire ne possède pas d'application spécifique, les ebooks au format epub et PDF restent lisibles sur tablette ou smarphone, à condition d’avoir téléchargé une application de lecture telle que Bluefire Reader. Les livres au format ACSM nécessitent la configuration d'un compte Adobe.
 
 {% include feedback-button.html question="Puis-je lire mes livres sur tablette ou smartphone, si ma librairie ne possède pas d'application spécifique?" %}
 
