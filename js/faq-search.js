@@ -52,8 +52,8 @@ $(function onLoad() {
             var title = $('<h4>').append(link);
             var result = $('<div>').addClass('result').append(title);
             if (element.content) {
-                var secondLink = $('<a>').text(' Voir la réponse complète').attr('href', '#' + element.anchor).addClass('see-more');
-                result.append($('<p>').addClass('result-content').text(element.content).append(secondLink));
+                var secondLink = $(' <a>').text('Voir la réponse complète').attr('href', '#' + element.anchor).addClass('see-more');
+                result.append($('<p> ').addClass('result-content').text(element.content).append(secondLink));
             }
             results.append(result);
         }

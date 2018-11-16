@@ -546,3 +546,16 @@ select.clients {
     }
   }
 }
+
+// FAQ
+.see-more {
+  display: block;
+  padding: .5em 0;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+.see-more::before {
+  content: '→ ';
+}
