@@ -2,7 +2,7 @@ $(function onLoad() {
     'use strict';
 
     $(".show-contact-form").click(function () {
-        $(this).next("form").show();
+        $(this).next("form").toggle();
     });
 
     var $article = $('article.page');
