@@ -1,12 +1,20 @@
 $(function onLoad() {
     'use strict';
 
+    $(".show-contact-form").click(function () {
+        $(this).next("form").show();
+    });
+
     var $article = $('article.page');
     var $results = $('#results');
     var initialText = $results.find('.no-results').text();
 
     function displayResultText(text) {
         $results.html($('<p>').text(text).addClass('no-results'));
+    }
+
+    function displayContactForm() {
+        $(".contact-form").show();
     }
 
     function constructResults() {
@@ -44,6 +52,7 @@ $(function onLoad() {
         var size = resultContent.length;
         if (size == 0) {
             displayResultText('Aucun résultat.');
+            displayContactForm();
             return;
         }
         for (var i = 0; i < size; i++) {
@@ -56,6 +65,7 @@ $(function onLoad() {
                 result.append($('<p> ').addClass('result-content').text(element.content).append(secondLink));
             }
             results.append(result);
+            displayContactForm();
         }
 
         $results.html(results);
