@@ -87,7 +87,7 @@ $(function onLoad() {
         }
     }
 
-    $('#search-form').find('form').bind('submit', function (event) {
+    $('#search-form').find('form.form-inline').bind('submit', function (event) {
         trackEventInGa('faq-search', 'submit-form', 'faq-search|submit-form');
         event.preventDefault();
     });
