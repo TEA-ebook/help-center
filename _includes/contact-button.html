@@ -1,5 +1,5 @@
 <div class="contact-form hidden">
-	<a class="show-contact-form" href="#">{{ include.text }}</a>
+	<button class="show-contact-form">{{ include.text }}</button>
 	<form action="https://formspree.io/feedback-aide@tea-ebook.com" method="POST" class="hidden">
 	    <input type="hidden" name="page" value="{{ page.url }}">
 	    <input type="hidden" name="_next" value="{{ page.url }}" />
