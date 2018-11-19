@@ -1,12 +1,20 @@
 $(function onLoad() {
     'use strict';
 
+    $(".show-contact-form").click(function () {
+        $(this).next("form").toggle();
+    });
+
     var $article = $('article.page');
     var $results = $('#results');
     var initialText = $results.find('.no-results').text();
 
     function displayResultText(text) {
         $results.html($('<p>').text(text).addClass('no-results'));
+    }
+
+    function displayContactForm() {
+        $(".contact-form").show();
     }
 
     function constructResults() {
@@ -44,6 +52,7 @@ $(function onLoad() {
         var size = resultContent.length;
         if (size == 0) {
             displayResultText('Aucun résultat.');
+            displayContactForm();
             return;
         }
         for (var i = 0; i < size; i++) {
@@ -52,10 +61,11 @@ $(function onLoad() {
             var title = $('<h4>').append(link);
             var result = $('<div>').addClass('result').append(title);
             if (element.content) {
-                var secondLink = $('<a>').text(' Voir la réponse complète').attr('href', '#' + element.anchor).addClass('see-more');
-                result.append($('<p>').addClass('result-content').text(element.content).append(secondLink));
+                var secondLink = $(' <a>').text('Voir la réponse complète').attr('href', '#' + element.anchor).addClass('see-more');
+                result.append($('<p> ').addClass('result-content').text(element.content).append(secondLink));
             }
             results.append(result);
+            displayContactForm();
         }
 
         $results.html(results);
@@ -77,7 +87,7 @@ $(function onLoad() {
         }
     }
 
-    $('#search-form').find('form').bind('submit', function (event) {
+    $('#search-form').find('form.form-inline').bind('submit', function (event) {
         trackEventInGa('faq-search', 'submit-form', 'faq-search|submit-form');
         event.preventDefault();
     });

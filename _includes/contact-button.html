@@ -1,0 +1,14 @@
+<div class="contact-form hidden">
+	<button class="show-contact-form">{{ include.text }}</button>
+	<form action="https://formspree.io/feedback-aide@tea-ebook.com" method="POST" class="hidden">
+	    <input type="hidden" name="page" value="{{ page.url }}">
+	    <input type="hidden" name="_next" value="{{ page.url }}" />
+	    <input type="hidden" name="_language" value="fr" />
+	    <input type="hidden" name="_subject" value="[Aide] Question" />
+	    <div class="comment-form">
+	    	<label>Votre question :<textarea name="comment"></textarea></label>
+	    	<label>Votre email (sans lequel nous ne pourrons pas vous apporter une réponse) : <input type="email" name="email" value="" /></label>
+		    <input type="submit" class="button" value="Envoyer">
+		</div>
+	</form>
+</div>

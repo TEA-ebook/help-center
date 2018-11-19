@@ -546,3 +546,58 @@ select.clients {
     }
   }
 }
+
+// FAQ
+.see-more {
+  display: block;
+  padding: .5em 0;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+.see-more::before {
+  content: '→ ';
+}
+
+// Feedback
+.contact-form {
+  button {
+    background: none;
+    border: none;
+    font-size: 0.8em;
+    font-weight: bold;
+    color: $blue;
+    text-decoration: underline;
+  }
+
+  label {
+    font-style: italic;
+    font-size: .75em;
+  }
+
+  label {
+    display: block;
+    margin: 1em 0;
+  }
+
+  textarea, input[type="text"] {
+    display: block;
+    width: 45%;
+    margin-top: .3em;
+    border: 1px solid #edece8;
+  }
+
+  textarea { height: 5em; }
+  input { height: 2.5em; }
+
+  input[type="submit"].button {
+    font-size: .7em;
+    color: white;
+    margin: 0;
+    padding: .5em 1em;
+    &:hover {
+      background: $buttonBackground; // TODO
+    }
+  }
+}
