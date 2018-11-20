@@ -89,13 +89,13 @@ Afin d’optimiser votre confort de lecture, vous pouvez notamment modifier la p
 
 ![](/images/lire-liseuse-Pocketbook-F4-9.jpg)
 
-Vous pouvez également mettre des annotations (signets, surlignages, notes, captures d’écrans…) lors de votre lecture. Pour annoter il vous suffit d’activer le menu puis cliquez sur « Note ». Ceci vous permet de mettre des repères ou simplement de taper des informations supplémentaires sur les textes que vous lisez.
+Vous pouvez également mettre des annotations (signets, surlignages, notes, captures d’écrans…) lors de votre lecture. Pour annoter, vous pouvez activer le menu puis appuyer sur « Note ». Ceci vous permet de mettre des repères ou de taper des informations supplémentaires sur les textes que vous lisez.
 
-#### Activation de l'éclairage frontal :
+#### Activation de l'éclairage frontal
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/d5XTEk3pWkc" %}
 
-Par défaut, il suffit de maintenir longtemps le bouton physique « Menu » appuyé afin de déclencher l’éclairage. Sinon, plusieurs méthodes s’offrent à vous :
+Par défaut, maintenez longtemps le bouton physique « Menu » appuyé afin de déclencher l’éclairage. Sinon, plusieurs méthodes s’offrent à vous :
 
 - Soit vous appuyez deux fois au centre de votre liseuse en mode lecture, une barre en bas de page apparaît. Cliquez sur l’icône en forme de soleil. Une fenêtre s’ouvre pour vous proposer d’activer l’éclairage et de régler l’intensité.
 - Soit vous appuyez deux fois sur le bouton physique « Menu » en mode lecture pour faire apparaître cette même barre.
@@ -104,10 +104,18 @@ Par défaut, il suffit de maintenir longtemps le bouton physique « Menu » ap
 
 ![](/images/lire-liseuse-Pocketbook-F4-10.jpg)
 
+{% include feedback-button.html question="Activation de l'éclairage frontal" %}
+
+
+
 {% include anchor.html id="dictionnaire-embarque-4" label="Dictionnaire embarqué" %}
 
-### Dictionnaire embarqué :
+### Dictionnaire embarqué
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/g9WEq1k-dSU" %}
 
-Chaque PocketBook v4 a un dictionnaire embarqué. Pour l’activer il vous suffit d’ouvrir le menu en mode lecture, de cliquer sur « Dictionnaire » puis d'appuyer sur le mot que vous recherchez. Une définition apparaîtra dans une fenêtre en bas de page.
+Chaque PocketBook v4 a un dictionnaire embarqué. Pour l’activer, ouvrez le menu en mode lecture, et cliquez sur « Dictionnaire » puis appuyez sur le mot que vous recherchez. Une définition apparaîtra dans une fenêtre en bas de page.
+
+
+{% include feedback-button.html question="Dictionnaire embarqué" %}
+

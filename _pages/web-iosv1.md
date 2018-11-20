@@ -69,7 +69,7 @@ Les livres qui n'ont pas encore été téléchargés apparaissent légèrement g
 
 ![](/images/telecharger-iPad-1.png)
 
-Pour télécharger un livre, il suffit d'appuyer sur la couverture, il sera alors ajouté à « Mes livres ».
+Pour télécharger un livre, appuyez sur la couverture, il sera alors ajouté à « Mes livres ».
 
 Il est possible de forcer synchronisation en « tirant » sur la page « Mes livres » lorsque l'on est en haut de la page (comme si on cherchait à aller encore plus haut). La liste de livres sera alors mise à jour.
 

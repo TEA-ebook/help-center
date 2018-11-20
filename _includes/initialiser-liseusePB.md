@@ -51,7 +51,7 @@ Si vous achetez puis téléchargez pour la première fois un e-book avec Adobe D
 
 ![](/images/support-liseuse-2.jpg)
 
-Si vous avez enregistré votre compte Adobe, il vous suffit de cliquer sur « Oui » pour débuter le téléchargement de votre e-book avec Adobe DRM.
+Si vous avez enregistré votre compte Adobe, cliquez sur « Oui » pour débuter le téléchargement de votre e-book avec Adobe DRM.
 
 Dans le cas contraire vous devez enregistrer votre compte personnel ID Adobe ainsi que le mot de passe associé afin de débloquer la protection de l’e-book et commencer la lecture.
 

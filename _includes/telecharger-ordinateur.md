@@ -1,4 +1,4 @@
-Il suffit de vous connecter à votre compte depuis le site de votre libraire.
+Connectez-vous à votre compte depuis le site de votre libraire.
 
 ![](/images/telecharger-ordinateur-1.png)
 

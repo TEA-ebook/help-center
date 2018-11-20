@@ -70,14 +70,14 @@ Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la cart
 
 ### Gérer la bibliothèque de sa liseuse TEA
 
-{% include anchor.html id="combien-livres-stocker" label="Combien de livres puis-je stocker ?" %}
+{% include anchor.html id="combien-livres-stocker" label="Combien d'ebooks puis-je stocker ?" %}
 
 #### Combien d'ebooks puis-je stocker dans ma liseuse ?
 
 Pour les liseuses TEA, la capacité interne est de 4 Go, soit environ 4 000 ebooks (selon leur taille).  
 Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 Go en insérant une carte mémoire dans la fente prévue à cet effet.
 
-{% include feedback-button.html question="Gérer la bibliothèque de sa liseuse TEA" %}
+{% include feedback-button.html question="Combien d'ebooks puis-je stocker dans ma liseuse ?" %}
 
 
 
@@ -388,7 +388,7 @@ S'il ne se passe toujours rien, contactez la hotline constructeur et exposez vot
 
 #### Comment récupérer mes données après le formatage de ma liseuse TEA ?
 
-* __Ebooks__ : pour les ebooks achetés dans votre librairie, il suffit d'aller dans __Mes Achats__ et de les télécharger à nouveau.
+* __Ebooks__ : pour les ebooks achetés dans votre librairie, allez dans __Mes Achats__ puis téléchargez les à nouveau.
 * __Voix pour la synthèse vocale__ : elles sont disponibles au téléchargement sur le site de [Pocket Book](http://www.pocketbook-int.com/fr/support/pocketbook-ultra) dans la catégorie _Text To Speech_.
 
 {% include feedback-button.html question="Comment récupérer mes données après le formatage de ma liseuse ?" %}
