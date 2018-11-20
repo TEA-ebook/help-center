@@ -89,7 +89,7 @@ Afin d’optimiser votre confort de lecture, vous pouvez notamment modifier la p
 
 ![](/images/lire-liseuse-Pocketbook-F4-9.jpg)
 
-Vous pouvez également mettre des annotations (signets, surlignages, notes, captures d’écrans…) lors de votre lecture. Pour annoter, vous pouvez activer le menu puis d'appuyer sur « Note ». Ceci vous permet de mettre des repères ou de taper des informations supplémentaires sur les textes que vous lisez.
+Vous pouvez également mettre des annotations (signets, surlignages, notes, captures d’écrans…) lors de votre lecture. Pour annoter, vous pouvez activer le menu puis appuyer sur « Note ». Ceci vous permet de mettre des repères ou de taper des informations supplémentaires sur les textes que vous lisez.
 
 #### Activation de l'éclairage frontal
 
