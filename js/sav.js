@@ -154,7 +154,6 @@
             result += '<strong>Email : </strong><a href="mailto:' + mail +'">' + mail + '</a><br />';
         }
         if (savChoice['phone']){
-
             var phone = savChoice['phone'].reverse().join('');
             var phoneFormatted = savChoice['phone'].join(' ');
             result += '<strong>Téléphone : </strong>';
@@ -167,7 +166,9 @@
 
             result +=  '<br />';
         }
-        result += '<strong>Horaire : </strong>' + savChoice['schedule'];
+        if (savChoice['schedule']){
+            result += '<strong>Horaire : </strong>' + savChoice['schedule'];
+        }
         result += '</p>';
         $('#sav-contact').html(result);
     });
