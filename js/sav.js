@@ -129,6 +129,11 @@
             'site' : 'http://www.uculture.fr/contacts',
             'phone' : ['05', '48', '49', '76', '01'],
             'schedule' :'Du lundi au samedi de 8h30 à 19h30'
+        },
+        'Vivlio' : {
+            'name' : 'Vivlio',
+            'mail' : ['contact', 'vivlio', 'fr'],
+            'site' : 'http://www.vivlio.fr/contact'
         }
     };
 
@@ -154,7 +159,6 @@
             result += '<strong>Email : </strong><a href="mailto:' + mail +'">' + mail + '</a><br />';
         }
         if (savChoice['phone']){
-
             var phone = savChoice['phone'].reverse().join('');
             var phoneFormatted = savChoice['phone'].join(' ');
             result += '<strong>Téléphone : </strong>';
@@ -167,7 +171,9 @@
 
             result +=  '<br />';
         }
-        result += '<strong>Horaire : </strong>' + savChoice['schedule'];
+        if (savChoice['schedule']){
+            result += '<strong>Horaire : </strong>' + savChoice['schedule'];
+        }
         result += '</p>';
         $('#sav-contact').html(result);
     });
