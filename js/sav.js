@@ -129,6 +129,11 @@
             'site' : 'http://www.uculture.fr/contacts',
             'phone' : ['05', '48', '49', '76', '01'],
             'schedule' :'Du lundi au samedi de 8h30 à 19h30'
+        },
+        'Vivlio' : {
+            'name' : 'Vivlio',
+            'mail' : ['contact', 'vivlio', 'fr'],
+            'site' : 'http://www.vivlio.fr/contact'
         }
     };
 
