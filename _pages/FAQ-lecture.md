@@ -128,7 +128,7 @@ Pour transférer vos ebooks vers une liseuse SONY, le logiciel Reader SONY est n
 <a class="button" href="https://www.sony.fr/electronics/support/downloads/Z0005570">Télécharger Reader SONY pour Mac</a>
 
 Si l'ebook que vous souhaitez transférer est protégé par DRM, un identifiant Adobe vous sera nécessaire. Voir notre rubrique sur la [Création du compte Adobe](/ade/#autoriser-ordinateur-identifiant-adobe).
-Autorisez ensuite votre ordinateur sur le logiciel SONY Reader. Dans l'onglet d'information, sous la section Reader for PC/Mac, cliquez sur le bouton Autoriser. 
+Autorisez ensuite votre ordinateur sur le logiciel SONY Reader. Dans l'onglet d'information, sous la section Reader for PC/Mac, cliquez sur le bouton Autoriser.
 Dans la fenêtre d'autorisation, renseignez votre identifiant Adobe et votre mot de passe, puis cliquez sur OK.
 Votre ordinateur est désormais autorisé à télécharger des livres numériques protégés par la DRM, ce qui vous permet de les ouvrir puis de les transférer sur votre liseuse SONY.
 
