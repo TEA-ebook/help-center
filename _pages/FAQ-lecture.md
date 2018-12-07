@@ -118,16 +118,21 @@ Voir [Ouvrir et lire un ebook avec Adobe Digital Editions](/ade).
 
 {% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Bookeen ?" %}
 
-{% include anchor.html id="lire-sony" label="Puis-je lire mes ebooks sur une liseuse Reader de Sony ?" %}
+{% include anchor.html id="lire-sony" label="Puis-je lire mes ebooks sur une liseuse Reader de SONY ?" %}
 
 #### Puis-je lire mes ebooks sur une liseuse Reader de SONY ?
 
-Pour transférer vos ebooks vers une liseuse SONY, le logiciel Reader SONY est nécessaire. Il est téléchargeable gratuitement sur le site de Sony :
+Pour transférer vos ebooks vers une liseuse SONY, le logiciel Reader SONY est nécessaire. Il est téléchargeable gratuitement sur le site de SONY :
 
 <a class="button" href="https://www.sony.fr/electronics/support/downloads/Z0005571">Télécharger Reader SONY pour Windows</a>
 <a class="button" href="https://www.sony.fr/electronics/support/downloads/Z0005570">Télécharger Reader SONY pour Mac</a>
 
-{% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Reader de Sony ?" %}
+Si l'ebook que vous souhaitez transférer est protégé par DRM, un identifiant Adobe vous sera nécessaire. Voir notre rubrique sur la [Création du compte Adobe](/ade/#autoriser-ordinateur-identifiant-adobe).
+Autorisez ensuite votre ordinateur sur le logiciel SONY Reader. Dans l'onglet d'information, sous la section Reader for PC/Mac, cliquez sur le bouton Autoriser. 
+Dans la fenêtre d'autorisation, renseignez votre identifiant Adobe et votre mot de passe, puis cliquez sur OK.
+Votre ordinateur est désormais autorisé à télécharger des livres numériques protégés par la DRM, ce qui vous permet de les ouvrir puis de les transférer sur votre liseuse SONY.
+
+{% include feedback-button.html question="Puis-je lire mes ebooks sur une liseuse Reader de SONY ?" %}
 
 {% include anchor.html id="lire-autres" label="Comment transférer mes ebooks sur une liseuse non TEA ?" %}
 
