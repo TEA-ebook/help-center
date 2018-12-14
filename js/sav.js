@@ -64,7 +64,7 @@
             'name' : 'Ebooks Store / France Loisirs Suisse',
             'mail' : ['ebooks-store', 'fls', 'ch'],
             'phone' : ['708', '840', '0848'],
-            'schedule' : 'Du lundi au vendredi de 8h à 12h et de 13h à 17h'
+            'schedule' : 'Du lundi au vendredi de 9h à 12h et de 13h à 16h'
         },
         'Electro-depot' : {
             'name' : 'Électro dépôt',
