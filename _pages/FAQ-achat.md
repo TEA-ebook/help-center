@@ -163,7 +163,11 @@ Nous vous conseillons de ne pas sélectionner plus de 30 e-books par commande.
 
 ### Comment puis-je payer mes e-books ?
 
-Vous pouvez payer vos e-books par carte bancaire ou e-carte bleue.
+Vous pouvez payer vos e-books par carte bancaire ou e-carte bleue. Vous pouvez aussi vous procurer vos livres numériques par d’autres biais comme :
+
+- [En magasin chez Decitre](https://www.decitre.fr/nos-librairies)
+- [Les cartes Iziko du Cultura](https://www.cultura.com/communication-magasins/iziko.html)
+- [Les cartes EbookDirect vendues chez Chapitre](https://ebookdirect.fr/index.php/qui-sommes-nous)
 
 {% include feedback-button.html question="Comment puis-je payer mes e-books ?" %}
 
