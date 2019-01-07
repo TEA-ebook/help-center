@@ -377,9 +377,9 @@ Une fois votre liseuse paramétrée, branchez-la __allumée__ à votre ordinateu
 
 #### Ma liseuse TEA est bloquée sur une page, que dois-je faire ?
 
-Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.
-Mettez-la en charge. 
-S'il ne se passe toujours rien, contactez la hotline constructeur et exposez votre problème par téléphone : 08.05.08.02.77 depuis la France (0800 898 720 depuis la Suisse) ou par email : help@pocketbook-int.com.
+Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer. Si cela ne permet pas de débloquer la liseuse, mettez-la en charge plusieurs heures. S'il ne se passe toujours rien, contactez la hotline constructeur et exposez votre problème : 
+
+<div class="contact-pb"></div>
 
 {% include feedback-button.html question="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
 
