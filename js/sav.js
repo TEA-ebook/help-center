@@ -12,7 +12,6 @@
         'Auchan' : {
             'name' : 'Auchan',
             'mail' : ['sav', 'tea-ebook', 'com'],
-            'schedule' :'Du lundi au vendredi de 9h à 18h'
         },
         'Bisey' : {
             'name' : 'Bisey',
@@ -23,12 +22,10 @@
         'Boulanger' : {
             'name' : 'Boulanger',
             'mail' : ['sav', 'tea-ebook', 'com'],
-            'schedule' :'Du lundi au vendredi de 9h à 18h'
         },
         'Cdiscount' : {
             'name' : 'Cdiscount by TEA',
             'mail' : ['cdiscountbytea', 'tea-ebook', 'com'],
-            'schedule' : 'Du lundi au vendredi de 9h à 18h'
         },
         'Chapitre' : {
             'name' : 'Chapitre / France Loisirs',
@@ -69,7 +66,6 @@
         'Electro-depot' : {
             'name' : 'Électro dépôt',
             'mail' : ['sav', 'tea-ebook', 'com'],
-            'schedule' :'Du lundi au vendredi de 9h à 18h'
         },
         'Espace-temps' : {
             'name' : 'Espace Temps',
@@ -80,12 +76,10 @@
         'Eyrolles' : {
             'name' : 'Eyrolles',
             'mail' : ['sav', 'tea-ebook', 'com'],
-            'schedule' :'Du lundi au vendredi de 9h à 18h'
         },
         'Furet-du-Nord' : {
             'name' : 'Furet du Nord',
             'mail' : ['contact','supportfuret','com'],
-            'schedule' :'Du lundi au vendredi de 9h à 18h'
         },
         'Harlequin' : {
             'name' : 'Harlequin',
