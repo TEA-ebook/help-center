@@ -209,6 +209,6 @@
     }
     contactSavPB += '</ul>';
     contactSavPB += '<p>Ou par email à l\'adresse : ' + '<a href="mailto:' + mailPB +'">' + mailPB + '</a></p>';
-    $('#contact-pb').html(contactSavPB);
+    $('.contact-pb').html(contactSavPB);
 
 }(jQuery, undefined));

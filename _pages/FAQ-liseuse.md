@@ -16,7 +16,7 @@ Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez éga
 
 Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran semble cassé), contactez la Hotline Constructeur TEA-Pocketbook par téléphone du lundi au vendredi de 9h à 17h aux numéros suivants :
 
-<div id="contact-pb"></div>
+<div class="contact-pb"></div>
 
 {% include feedback-button.html question="J'ai un problème matériel sur ma liseuse TEA" %}
 
@@ -377,9 +377,9 @@ Une fois votre liseuse paramétrée, branchez-la __allumée__ à votre ordinateu
 
 #### Ma liseuse TEA est bloquée sur une page, que dois-je faire ?
 
-Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer.
-Mettez-la en charge. 
-S'il ne se passe toujours rien, contactez la hotline constructeur et exposez votre problème par téléphone : 08.05.08.02.77 depuis la France (0800 898 720 depuis la Suisse) ou par email : help@pocketbook-int.com.
+Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer. Si cela ne permet pas de débloquer la liseuse, mettez-la en charge plusieurs heures. S'il ne se passe toujours rien, contactez la hotline constructeur et exposez votre problème : 
+
+<div class="contact-pb"></div>
 
 {% include feedback-button.html question="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
 
