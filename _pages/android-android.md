@@ -42,7 +42,7 @@ Vous pouvez ensuite soit continuer vos achats, soit accéder à votre panier en 
 
 ![](/images/acheter-tablette2-3.png)
 
-Une fois vos ebooks sélectionnés, validez votre panier en appuyant sur  « Valider mon panier ».
+Une fois vos ebooks sélectionnés, validez votre panier en appuyant sur « Valider mon panier ».
 
 ![](/images/acheter-tablette2-4.png) 
 
@@ -50,7 +50,7 @@ Une fois vos ebooks sélectionnés, validez votre panier en appuyant sur  « Va
 
 ### Identification
 
-Si vous avez déjà un compte client et que vous vous êtes déjà enregistré dans la partie « Mon compte » de la page d’accueil de l’application, cette étape n’apparaît pas. Sinon, identifiez-vous en saisissant votre adresse e-mail et votre mot de passe.
+Si vous avez déjà un compte client et que vous vous êtes déjà enregistré dans la partie « Mon compte » de la page d’accueil de l’application, cette étape n’apparaît pas. Sinon, identifiez-vous en saisissant votre adresse email et votre mot de passe.
 
 Si vous n’avez pas de compte client : créez un compte directement depuis votre tablette en remplissant les champs adresse mail et mot de passe dans la partie « Vous êtes un nouveau client ? ». 
 

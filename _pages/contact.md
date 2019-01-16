@@ -10,7 +10,7 @@ title: Besoin d'aide ?
   <div class="protip">
     <h5>Un problème matériel sur votre liseuse TEA ?</h5>
 
-    <p>Contactez la <strong>Hotline liseuses TEA-Pocketbook</strong> du lundi au vendredi de 9h à 17h aux numéros suivants (appel gratuit depuis une ligne fixe) :</p>
+    <p>Contactez la <strong>Hotline liseuses TEA-PocketBook</strong> du lundi au vendredi de 9h à 17h aux numéros suivants (appel gratuit depuis une ligne fixe) :</p>
     <div class="contact-pb"></div>
   </div>
 </div>

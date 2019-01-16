@@ -138,33 +138,33 @@ Renseignez ensuite les identifiants Adobe que vous avez créé précédemment.
 
 1. Dans le menu allez dans « Aide ».
 2. Puis dans « Infos sur l'autorisation ».
-3. Vérifiez ensuite quel e-mail a été utilisé ou bien si l'ordinateur a été autorisé sans identifiant.
+3. Vérifiez ensuite quel email a été utilisé ou bien si l'ordinateur a été autorisé sans identifiant.
 
-#### Sur les liseuses TEA (ou Pocketbook)
+#### Sur les liseuses TEA (ou PocketBook)
 
 1. Allez dans « Paramètres »
 2. Puis dans « Comptes et synchronisation » et « Adobe DRM ».
-3. Vérifiez ensuite quel e-mail a été utilisé.
+3. Vérifiez ensuite quel email a été utilisé.
 
 #### Sur les liseuses Bookeen
 
 1. Depuis le menu de la page d'accueil, allez dans « Réglages ».
 2. Puis dans « À propos de ».
-3. Enfin dans la fenêtre qui s'est ouverte, vérifier l'e-mail utilisé dans la section « AdobeID ».
+3. Enfin dans la fenêtre qui s'est ouverte, vérifier l'email utilisé dans la section « AdobeID ».
 
 #### Sur les applications Android
 
 * Version 1 :
     1. Appuyez sur « Mon compte » en haut à droite.
-    2. Vérifiez ensuite quel e-mail a été utilisé.
+    2. Vérifiez ensuite quel email a été utilisé.
 * Version 2 :
     1. Allez dans le menu.
     2. Puis dans « Adobe DRM ».
-    3. Vérifiez ensuite quel e-mail a été utilisé.
+    3. Vérifiez ensuite quel email a été utilisé.
 
 #### Sur l'application iOs
 
 1. Appuyez sur l’icône « Paramètres » (symbolisé par un engrenage) en haut à droite.
-2. Une fois sur la page « Mon compte », vérifiez quel e-mail a été utilisé.
+2. Une fois sur la page « Mon compte », vérifiez quel email a été utilisé.
 
 {% include feedback-button.html question="Comment vérifier avec quel identifiant Adobe le support a été autorisé ?" %}

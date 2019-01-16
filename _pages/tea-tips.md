@@ -4,7 +4,7 @@ layout: page
 title: TEA Tips - Les bonnes idées de la TEAm
 type: faq
 ---
-{% include anchor.html id="Pocketbook" label="Liseuses TEA" %}
+{% include anchor.html id="PocketBook" label="Liseuses TEA" %}
 
 ## Liseuses TEA
 
@@ -15,7 +15,7 @@ Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez éga
 
 ### J'ai un problème matériel sur ma liseuse TEA
 
-Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran semble cassé), contactez la Hotline Constructeur TEA-Pocketbook par téléphone du lundi au vendredi de 9h à 17h aux numéros suivants :
+Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran semble cassé), contactez la Hotline Constructeur TEA-PocketBook par téléphone du lundi au vendredi de 9h à 17h aux numéros suivants :
 
 <div class="contact-pb"></div>
 

@@ -50,6 +50,6 @@ Toujours dans la fenêtre « Mon Compte » en haut à droite, vous trouverez e
 
 ![](/images/support-tablette-3.png)
 
-Identifiez-vous en remplissant les champs « Login » et « Mot de passe ». Une fois de plus vous devez utiliser le même compte personnel ID Adobe et donc la même adresse e-mail que sur vos autres supports de lecture de livres numériques.
+Identifiez-vous en remplissant les champs « Login » et « Mot de passe ». Une fois de plus vous devez utiliser le même compte personnel ID Adobe et donc la même adresse email que sur vos autres supports de lecture de livres numériques.
 
 Cliquez ensuite sur « Connectez-vous ». Votre application est initialisée !

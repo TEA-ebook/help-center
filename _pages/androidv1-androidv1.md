@@ -41,7 +41,7 @@ Une fois vos ebooks sélectionnés, validez votre panier en cliquant sur « Ter
 
 ### Identification
 
-Si vous avez déjà un compte client et que vous vous êtes déjà enregistré dans la partie « Mon compte » de la page d’accueil de l’application, cette étape n’apparaît pas. Sinon, identifiez-vous en saisissant votre adresse e-mail et votre mot de passe.
+Si vous avez déjà un compte client et que vous vous êtes déjà enregistré dans la partie « Mon compte » de la page d’accueil de l’application, cette étape n’apparaît pas. Sinon, identifiez-vous en saisissant votre adresse email et votre mot de passe.
 
 Si vous n’avez pas de compte client : créez un compte directement depuis votre tablette en remplissant les champs adresse mail et mot de passe dans la partie « Vous êtes un nouveau client ? ». 
 
@@ -69,7 +69,7 @@ Un message de confirmation apparaît. Cliquez sur « Télécharger ».
 
 Vous êtes alors redirigé sur la page de synchronisation des ebooks. L’ebook que vous venez d’acheter est pré-coché. Il ne vous reste plus qu’à cliquer sur « Synchroniser la sélection ». Votre ebook est alors sur votre bibliothèque, vous pouvez commencer votre lecture !
 
-Après lecture de ce message, cliquez sur « Fermer, puis « Mon compte » et enregistrez votre adresse e-mail et mot de passe associé à votre compte client. Une fois enregistré, cliquez sur l’onglet « Bibliothèque ». Il ne vous reste plus qu’à faire la synchronisation de votre compte client via l’onglet importer.
+Après lecture de ce message, cliquez sur « Fermer, puis « Mon compte » et enregistrez votre adresse email et mot de passe associé à votre compte client. Une fois enregistré, cliquez sur l’onglet « Bibliothèque ». Il ne vous reste plus qu’à faire la synchronisation de votre compte client via l’onglet importer.
 
 {% include feedback-button.html question="Téléchargement" %}
 

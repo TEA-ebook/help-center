@@ -107,7 +107,7 @@ Il existe 3 cas de figure pour les protections des ebooks.
 <a id="protection-care"></a>
 **Contenu protégé**  
 Il s'agit d'un ebook protégé par une mesure technique de protection mise en place pour préserver les droits des œuvres numériques. Le fichier est crypté grâce à l'insertion d'informations codées.  
-Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse TEA ou liseuse Pocketbook compatible, logiciel TEA Ebook, application Android et iOs), ce cryptage reste totalement invisible.  
+Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse TEA ou liseuse PocketBook compatible, logiciel TEA Ebook, application Android et iOs), ce cryptage reste totalement invisible.  
 Par contre, si vous souhaitez sortir de cet environnement, le livre vous sera fourni sous DRM (Digital Right Management) ACS4 (Adobe Content Server 4) dite DRM Adobe ou Adobe DRM.
 
 [Comment lire un ebook protégé par la DRM Adobe ?](http://aide.tea-ebook.com/ade/)
