@@ -10,7 +10,7 @@
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/ufR3HeqZFsQ" %}
 
-Pour accéder à la librairie numérique et télécharger / acheter des e-books, vous devez être connecté à Internet.
+Pour accéder à la librairie numérique et télécharger / acheter des ebooks, vous devez être connecté à Internet.
 
 Appuyez sur « Paramètres » depuis la page d'accueil, puis sur « Réseau ».
 
@@ -47,13 +47,13 @@ Pour se connecter à votre compte personnel ID Adobe, il faut cliquer sur « Pa
 
 ### Activation du compte Adobe dans la liseuse Pocketbook
 
-Si vous achetez puis téléchargez pour la première fois un e-book avec Adobe DRM sur votre liseuse, une demande d’activation de votre compte personnel ID Adobe vous sera demandée lors de l’ouverture du fichier.
+Si vous achetez puis téléchargez pour la première fois un ebook avec Adobe DRM sur votre liseuse, une demande d’activation de votre compte personnel ID Adobe vous sera demandée lors de l’ouverture du fichier.
 
 ![](/images/support-liseuse-2.jpg)
 
-Si vous avez enregistré votre compte Adobe, cliquez sur « Oui » pour débuter le téléchargement de votre e-book avec Adobe DRM.
+Si vous avez enregistré votre compte Adobe, cliquez sur « Oui » pour débuter le téléchargement de votre ebook avec Adobe DRM.
 
-Dans le cas contraire vous devez enregistrer votre compte personnel ID Adobe ainsi que le mot de passe associé afin de débloquer la protection de l’e-book et commencer la lecture.
+Dans le cas contraire vous devez enregistrer votre compte personnel ID Adobe ainsi que le mot de passe associé afin de débloquer la protection de l’ebook et commencer la lecture.
 
 {% include anchor.html id="utiliser-pbv4" label="Utiliser votre liseuse Pocketbook" %}
 

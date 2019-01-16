@@ -5,9 +5,9 @@ title: Foire Aux Questions - Téléchargement
 type: faq
 ---
 
-{% include anchor.html id="recuperer-ebook" label="Après avoir acheté un e-book où puis-je le récupérer ?" %}
+{% include anchor.html id="recuperer-ebook" label="Après avoir acheté un ebook où puis-je le récupérer ?" %}
 
-### Après avoir acheté un e-book, où puis-je le récupérer ?
+### Après avoir acheté un ebook, où puis-je le récupérer ?
 
 **Sur ordinateur**
 
@@ -32,11 +32,11 @@ type: faq
 
 [Comment connaître la version de votre application ou du logiciel de votre liseuse TEA ?](/faq-autre/#version-logiciel)
 
-{% include feedback-button.html question="Après avoir acheté un e-book où puis-je le récupérer ?" %}
+{% include feedback-button.html question="Après avoir acheté un ebook où puis-je le récupérer ?" %}
 
-{% include anchor.html id="pas-telecharger-ebook" label="Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?" %}
+{% include anchor.html id="pas-telecharger-ebook" label="Je n’arrive pas à télécharger mon ebook sur mon ordinateur ?" %}
 
-### Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?
+### Je n’arrive pas à télécharger mon ebook sur mon ordinateur ?
 
 **La fenêtre de téléchargement de mon navigateur est apparue :**
 
@@ -52,11 +52,11 @@ Le bouton « Télécharger » est :
 - absent : la commande a été annulée et le livre n'est pas téléchargeable ;
 - présent : contacter le service client.
 
-{% include feedback-button.html question="Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?" %}
+{% include feedback-button.html question="Je n’arrive pas à télécharger mon ebook sur mon ordinateur ?" %}
 
-{% include anchor.html id="pas-telecharger-ebook-liseuse" label="Je n’arrive pas à télécharger mon e-book sur ma liseuse ?" %}
+{% include anchor.html id="pas-telecharger-ebook-liseuse" label="Je n’arrive pas à télécharger mon ebook sur ma liseuse ?" %}
 
-### Je n’arrive pas à télécharger mon e-book sur ma liseuse ?
+### Je n’arrive pas à télécharger mon ebook sur ma liseuse ?
 
 **Si vous possèdez une liseuse TEA Touch Lux 2/3, Sense, Ultran Touch HD, Inkpad :**
 
@@ -64,4 +64,4 @@ Le bouton « Télécharger » est :
 * Assurez-vous que votre compte client est bien enregistré dans la liseuse :
 [Comment vérifier quel compte client est enregistré sur ma liseuse ?](/faq-comptes/#compte-liseuse)
 
-{% include feedback-button.html question="Je n’arrive pas à télécharger mon e-book sur ma liseuse ?" %}
+{% include feedback-button.html question="Je n’arrive pas à télécharger mon ebook sur ma liseuse ?" %}

@@ -18,7 +18,7 @@ Vous retrouverez ensuite facilement l’application sur votre tablette : l’ic
 
 ## Initialisation de l’application
 
-Une fois l’application lancée et si c’est **la première fois** que vous l’ouvrez, il vous sera demandé d’« **Affirmer avoir pris connaissance des conditions d’utilisation** ». Ces dernières vous conseillent de vous identifier avec votre compte client et votre compte personnel ID Adobe dès la première utilisation de l’application afin de faciliter votre expérience utilisateur ainsi que la lecture des fichiers protégés par Adobe DRM. [En savoir plus sur les protections d’e-books](/faq-achat/#protections-ebook).
+Une fois l’application lancée et si c’est **la première fois** que vous l’ouvrez, il vous sera demandé d’« **Affirmer avoir pris connaissance des conditions d’utilisation** ». Ces dernières vous conseillent de vous identifier avec votre compte client et votre compte personnel ID Adobe dès la première utilisation de l’application afin de faciliter votre expérience utilisateur ainsi que la lecture des fichiers protégés par Adobe DRM. [En savoir plus sur les protections d’ebooks](/faq-achat/#protections-ebook).
 
 {% include anchor.html id="validation-conditions-utilisation" label="Validation des Conditions d’Utilisation" %}
 
