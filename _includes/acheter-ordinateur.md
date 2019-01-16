@@ -22,7 +22,7 @@ Pour finir cliquez sur « Valider mon panier ».
 
 ### S'identifier
 
-Identifiez-vous si « Vous avez déjà un compte client ». Sinon, créez-vous un compte en enregistrant une adresse e-mail et un mot de passe dans la partie « Vous êtes un nouveau client ? ». Vous devrez par la suite compléter les champs proposés afin de finaliser la création de votre compte client.
+Identifiez-vous si « Vous avez déjà un compte client ». Sinon, créez-vous un compte en enregistrant une adresse email et un mot de passe dans la partie « Vous êtes un nouveau client ? ». Vous devrez par la suite compléter les champs proposés afin de finaliser la création de votre compte client.
 
 ![](/images/acheter-ordinateur-4.png)
 

@@ -26,7 +26,7 @@ Une fois tous les ebooks que vous souhaitez acheter mis au panier, sélectionnez
 
 ### Identification
 
-Si vous avez déjà un compte client : identifiez-vous en saisissant votre adresse e-mail et votre mot de passe.
+Si vous avez déjà un compte client : identifiez-vous en saisissant votre adresse email et votre mot de passe.
 
 ![](/images/acheter-liseuse-6.jpg)
 
