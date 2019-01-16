@@ -14,7 +14,7 @@ Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez éga
 
 ### J'ai un problème matériel sur ma liseuse TEA
 
-Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran semble cassé), contactez la Hotline Constructeur TEA-Pocketbook par téléphone du lundi au vendredi de 9h à 17h aux numéros suivants :
+Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran semble cassé), contactez la Hotline Constructeur TEA-PocketBook par téléphone du lundi au vendredi de 9h à 17h aux numéros suivants :
 
 <div class="contact-pb"></div>
 
@@ -94,14 +94,14 @@ Le formatage FAT est recommandé.
 
 
 
-{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse  TEA (ou Pocketbook) ?" %}
+{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse  TEA (ou PocketBook) ?" %}
 
 #### Quels sont les formats supportés par ma liseuse TEA ?
 
 - Formats d’ebooks supportés par les liseuses TEA: ePub, PDF, Adobe® DRM, HTML, TXT, FB2, FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
 - Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
 
-{% include feedback-button.html question="Quels sont les formats supportés par ma liseuse  TEA (ou Pocketbook) ?" %}
+{% include feedback-button.html question="Quels sont les formats supportés par ma liseuse  TEA (ou PocketBook) ?" %}
 
 
 
@@ -225,7 +225,7 @@ Dans votre liseuse, rendez-vous dans *Paramètres > À propos de l'appareil > Lo
 
 La version du logiciel apparaît sous la forme suivante : T623.4.4.893
 
-* La lettre T indique s'il s'agit d'un logiciel spécifique TEA. Si vous avez une autre lettre (W), il s'agit d'un logiciel générique Pocketbook.
+* La lettre T indique s'il s'agit d'un logiciel spécifique TEA. Si vous avez une autre lettre (W), il s'agit d'un logiciel générique PocketBook.
 * Les trois premiers chiffres indiquent le modèle de la liseuse.
   - 631 : Touch HD
   - 650 : Ultra

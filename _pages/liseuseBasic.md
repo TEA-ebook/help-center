@@ -1,7 +1,7 @@
 ---
 permalink: "/liseuseBasic/"
 layout: page
-title: Acheter un ebook sur Internet et le lire sur sa liseuse Pocketbook Basic 2
+title: Acheter un ebook sur Internet et le lire sur sa liseuse PocketBook Basic 2
 type: help
 ---
 
@@ -17,11 +17,11 @@ type: help
 
 {% include telecharger-ordinateur.md %}
 
-{% include anchor.html id="premiers-pas" label="Faire ses premiers pas sur sa liseuse Pocketbook Basic 2" %}
+{% include anchor.html id="premiers-pas" label="Faire ses premiers pas sur sa liseuse PocketBook Basic 2" %}
 
-## Faire ses premiers pas sur sa liseuse Pocketbook Basic 2
+## Faire ses premiers pas sur sa liseuse PocketBook Basic 2
 
-La Pocketbook Basic 2 ne possède pas d'écran tactile, la navigation dans la liseuse se fait donc à l'aide des boutons (pour plus d'information se référer au manuel de la liseuse). Lors du premier démarrage de la liseuse, acceptez le contrat de licence puis paramétrez la date et l'heure.
+La PocketBook Basic 2 ne possède pas d'écran tactile, la navigation dans la liseuse se fait donc à l'aide des boutons (pour plus d'information se référer au manuel de la liseuse). Lors du premier démarrage de la liseuse, acceptez le contrat de licence puis paramétrez la date et l'heure.
 
 <div class="warningtip"><p>Il est important de bien vérifier et régler la date et l’heure correctement pour garantir un bon fonctionnement de la liseuse.</p></div>
 

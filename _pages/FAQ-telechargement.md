@@ -18,7 +18,7 @@ type: faq
 **Sur la liseuse**
 
 * [Transférer un livre sur sa liseuse Basic 2](/liseuseBasic/#tranferer-basic2)
-* [Télécharger sur votre liseuse TEA/Pocketbook depuis le store liseuse](/liseusePB/#telecharger-store-liseuse)
+* [Télécharger sur votre liseuse TEA/PocketBook depuis le store liseuse](/liseusePB/#telecharger-store-liseuse)
 * [Télécharger sur votre liseuse TEA depuis « Mes achats »](/web-liseuseTEA/#telecharger-liseuseTEA)
 
 **Sur tablette/smartphone Android**

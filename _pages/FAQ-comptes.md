@@ -140,7 +140,7 @@ Renseignez ensuite les identifiants Adobe que vous avez créé précédemment.
 2. Puis dans « Infos sur l'autorisation ».
 3. Vérifiez ensuite quel e-mail a été utilisé ou bien si l'ordinateur a été autorisé sans identifiant.
 
-#### Sur les liseuses TEA (ou Pocketbook)
+#### Sur les liseuses TEA (ou PocketBook)
 
 1. Allez dans « Paramètres »
 2. Puis dans « Comptes et synchronisation » et « Adobe DRM ».
