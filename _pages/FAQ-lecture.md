@@ -222,7 +222,7 @@ Vérifier que mon libraire propose une application de lecture sur Android ou App
 
 {% include choix-application-android.md %}
 
-Si votre libraire ne possède pas d'application spécifique, les ebooks au format epub et PDF restent lisibles sur tablette ou smarphone, à condition d’avoir téléchargé une application de lecture telle que Bluefire Reader. Les livres au format ACSM nécessitent la configuration d'un compte Adobe.
+Si votre libraire ne possède pas d'application spécifique, les ebooks au format ePub et PDF restent lisibles sur tablette ou smarphone, à condition d’avoir téléchargé une application de lecture telle que Bluefire Reader. Les livres au format ACSM nécessitent la configuration d'un compte Adobe.
 
 {% include feedback-button.html question="Puis-je lire mes livres sur tablette ou smartphone, si ma librairie ne possède pas d'application spécifique?" %}
 
@@ -231,7 +231,7 @@ Si votre libraire ne possède pas d'application spécifique, les ebooks au forma
 ### Puis-je lire mes ebooks sur un ordinateur Linux ?
 
 Le logiciel [TEA Ebook](https://app.tea-ebook.com/) est compatible avec les ordinateurs Linux. 
-Il vous permet de retrouver tous vos livres au format epub et de les lire sur votre ordinateur.
+Il vous permet de retrouver tous vos livres au format ePub et de les lire sur votre ordinateur.
 
 <a class="button" href="https://app.tea-ebook.com/">Télécharger TEA Ebook pour Linux</a>
 
