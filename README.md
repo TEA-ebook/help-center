@@ -31,7 +31,7 @@ bundle exec rake test_dead_links
 1. Le lien fait référence à une page de magasin et ne peut être générique.
 2. Dans l'aide en marque blanche actuelle, le lien fait référence à une page inexistante chez Cultura.
 
-### Acheter un e-book
+### Acheter un ebook
 
 - Création de compte client¹.
 - CGV¹.

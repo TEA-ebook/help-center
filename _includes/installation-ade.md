@@ -33,7 +33,7 @@ Laissez l’ensemble des cases cochées et cliquez sur « Suivant » puis sur 
 
 ![](/images/support-ordinateur-8.png)
 
-Adobe Digital Editions peut reconnaître une ancienne version d’Adobe sur votre ordinateur ou des fichiers d’e-books. Dans ce cas cliquez sur « Migrer les données ».
+Adobe Digital Editions peut reconnaître une ancienne version d’Adobe sur votre ordinateur ou des fichiers d’ebooks. Dans ce cas cliquez sur « Migrer les données ».
 
 #### Sur Mac OS
 
@@ -79,4 +79,4 @@ Dans le champ « Fournisseur d'eBook », choisissez « Adobe ID ». Puis tap
 
 Une fois l'ordinateur autorisé, cliquez sur « OK ».
 
-<div class="warningtip"><p>Dans les deux cas, vous <strong>ne devez pas</strong> cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</p></div>
+<div class="warningtip"><p>Dans les deux cas, vous <strong>ne devez pas</strong> cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos ebooks seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</p></div>

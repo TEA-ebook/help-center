@@ -32,7 +32,7 @@ custom_js: choix-client.js
 
 ### Validation du panier
 
-Rendez-vous dans l'espace librairie de votre application et cliquez sur la couverture de l’e-book qui vous intéresse, puis sur « Ajouter au panier ».
+Rendez-vous dans l'espace librairie de votre application et cliquez sur la couverture de l’ebook qui vous intéresse, puis sur « Ajouter au panier ».
 
 ![](/images/acheter-tablette2-1.png)
 
@@ -42,7 +42,7 @@ Vous pouvez ensuite soit continuer vos achats, soit accéder à votre panier en 
 
 ![](/images/acheter-tablette2-3.png)
 
-Une fois vos e-books sélectionnés, validez votre panier en appuyant sur  « Valider mon panier ».
+Une fois vos ebooks sélectionnés, validez votre panier en appuyant sur  « Valider mon panier ».
 
 ![](/images/acheter-tablette2-4.png) 
 

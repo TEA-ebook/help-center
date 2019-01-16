@@ -10,7 +10,7 @@ Elle vous permet d'accéder à toutes les informations liées au livre, notammen
 
 ### Valider son panier
 
-Trouvez l’e-book que vous désirez en vous servant du moteur de recherche ou en cliquant sur l’une des catégories proposées et cliquez sur « Télécharger ». Cliquez ensuite sur « Voir mon panier ».
+Trouvez l’ebook que vous désirez en vous servant du moteur de recherche ou en cliquant sur l’une des catégories proposées et cliquez sur « Télécharger ». Cliquez ensuite sur « Voir mon panier ».
 
 ![](/images/acheter-ordinateur-2.png)
 

@@ -11,7 +11,7 @@ type: help
 
 {% include acheter-ordinateur.md %}
 
-Pour accéder à vos e-books achetés depuis le web sur votre tablette iPad/iPhone, vous devez disposer de l'application iOS de votre libraire*.
+Pour accéder à vos ebooks achetés depuis le web sur votre tablette iPad/iPhone, vous devez disposer de l'application iOS de votre libraire*.
 **Sous réserve que votre libraire dispose d'une application iOS.*
 
 {% include anchor.html id="installer-application" label="Installer l'application" %}

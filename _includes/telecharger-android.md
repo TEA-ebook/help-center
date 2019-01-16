@@ -8,10 +8,10 @@ Vous devez donc avoir enregistré votre compte client sur l’application de vot
 
 Sur la page principale de la bibliothèque, cliquez sur la flèche jaune « Importer ».
 
-Dans la partie « Synchronisation » cliquez sur « Lancez la recherche ». L’ensemble des e-books que vous avez acheté via votre compte client (sur site web, tablette ou liseuse) va apparaître.
+Dans la partie « Synchronisation » cliquez sur « Lancez la recherche ». L’ensemble des ebooks que vous avez acheté via votre compte client (sur site web, tablette ou liseuse) va apparaître.
 
 ![](/images/telecharger-tablette-Android-1.jpg)
 
-Cochez les e-books que vous voulez synchroniser. 
+Cochez les ebooks que vous voulez synchroniser. 
 Une fois votre sélection terminée, cliquez sur « Importer la sélection ». 
-Vous pouvez dès à présent retrouver vos e-books synchronisés dans votre bibliothèque et commencer votre lecture ! 
+Vous pouvez dès à présent retrouver vos ebooks synchronisés dans votre bibliothèque et commencer votre lecture ! 

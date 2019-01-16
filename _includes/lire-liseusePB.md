@@ -6,7 +6,7 @@ La bibliothèque numérique de votre liseuse peut stocker plusieurs milliers de 
 
 #### L'accès à la bibliothèque
 
-Depuis la page d’accueil de votre PocketBook v4, vous pouvez consulter vos e-books en cliquant sur « Bibliothèque » ou l’icône correspondante.
+Depuis la page d’accueil de votre PocketBook v4, vous pouvez consulter vos ebooks en cliquant sur « Bibliothèque » ou l’icône correspondante.
 
 La bibliothèque de votre liseuse vous permet de d'accèder aux livres présents sur votre liseuse, mais aussi de les ranger et de les organiser comme vous le souhaitez.
 

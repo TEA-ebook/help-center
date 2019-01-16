@@ -72,7 +72,7 @@ L'enregistrement du compte Adobe sur votre ordinateur est nécessaire si vous so
 
 Pour créer votre compte Adobe, rendez-vous sur le lien suivant avec un navigateur web : [Mon compte Adobe](https://adobeid-na1.services.adobe.com/renga-idprovider/pages/create_account?client_id=adobedotcom2&callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fadobedotcom2%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526client_id%253Dadobedotcom2%2526scope%253Dcreative_cloud%25252CAdobeID%25252Copenid%25252Cgnav%25252Cread_organizations%25252Cadditional_info.projectedProductContext%2526api%253Dauthorize%26scope%3Dcreative_cloud%252CAdobeID%252Copenid%252Cgnav%252Cread_organizations%252Cadditional_info.projectedProductContext&client_redirect=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fredirect%2Fadobedotcom2%3Fclient_redirect%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526client_id%253Dadobedotcom2%2526scope%253Dcreative_cloud%25252CAdobeID%25252Copenid%25252Cgnav%25252Cread_organizations%25252Cadditional_info.projectedProductContext%2526api%253Dauthorize&denied_callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fdenied%2Fadobedotcom2%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526client_id%253Dadobedotcom2%2526scope%253Dcreative_cloud%25252CAdobeID%25252Copenid%25252Cgnav%25252Cread_organizations%25252Cadditional_info.projectedProductContext%2526api%253Dauthorize%26response_type%3Dtoken%26scope%3Dcreative_cloud%252CAdobeID%252Copenid%252Cgnav%252Cread_organizations%252Cadditional_info.projectedProductContext&display=web_v2&locale=fr_FR&relay=ec6a5920-3bc1-4fb4-9fe6-aa7f306bb2bf&flow=true&flow_type=token&dc=false&idp_flow_type=login)
 
-Pensez à bien conserver vos identifiant et mot de passe, vous devrez les saisir sur le(s) support(s) de lecture de votre choix afin de les autoriser et d'ainsi pouvoir lire vos e-books protégés par Adobe DRM.
+Pensez à bien conserver vos identifiant et mot de passe, vous devrez les saisir sur le(s) support(s) de lecture de votre choix afin de les autoriser et d'ainsi pouvoir lire vos ebooks protégés par Adobe DRM.
 
 {% include feedback-button.html question="Qu'est-ce que mon compte Adobe, ou Adobe ID ?" %}
 
@@ -100,7 +100,7 @@ Dans le champ « Fournisseur d'eBook », choisissez « Adobe ID ». Puis tap
 
 Une fois l'ordinateur autorisé, cliquez sur « OK ».
 
-<div class="warningtip"><p>Dans les deux cas, vous <strong>ne devez pas</strong> cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos e-books seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</p></div>
+<div class="warningtip"><p>Dans les deux cas, vous <strong>ne devez pas</strong> cocher la case « Je souhaite autoriser mon ordinateur sans ID » car cela limiterait la lecture de vos ebooks seulement sur votre ordinateur (vous recevrez alors ce message d'erreur : « CE_COPY_NOT_ALLOWED »).</p></div>
 
 #### Sur une liseuse TEA
 

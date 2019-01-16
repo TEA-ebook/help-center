@@ -12,7 +12,7 @@
 6. Mode d'affichage : Couverture - Détail.
 7. Trier les livres par Titres - Auteurs - Dates d'ajout.
 
-<div class="protip"><p>S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’outil d’importation afin de synchroniser l’ensemble des e-books que vous avez achetés sur le site, web ou liseuse, ou l'application de votre libraire, grâce à votre compte client.</p></div>
+<div class="protip"><p>S’il vous manque certains des titres que vous avez achetés, n’hésitez pas à aller dans l’outil d’importation afin de synchroniser l’ensemble des ebooks que vous avez achetés sur le site, web ou liseuse, ou l'application de votre libraire, grâce à votre compte client.</p></div>
 
 {% include anchor.html id="fonctionnalites-lecture" label="Les fonctionnalités de lecture" %}
 

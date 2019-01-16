@@ -21,11 +21,11 @@ type: help
 
 ### Validation du panier
 
-Rendez-vous dans l'espace librairie de votre application et cliquez sur la couverture de l’e-book qui vous intéresse, puis sur « Ajouter au panier ».
+Rendez-vous dans l'espace librairie de votre application et cliquez sur la couverture de l’ebook qui vous intéresse, puis sur « Ajouter au panier ».
 
 Vous pouvez ensuite soit continuer vos achats, soit accéder à votre panier en touchant « Voir mon panier ».
 
-Une fois vos e-books sélectionnés, validez votre panier en cliquant sur « Terminer ma commande », puis « Valider mon panier ».
+Une fois vos ebooks sélectionnés, validez votre panier en cliquant sur « Terminer ma commande », puis « Valider mon panier ».
 
 ![](/images/acheter-tablette-Android-1.png)
 
@@ -67,7 +67,7 @@ Un message de confirmation apparaît. Cliquez sur « Télécharger ».
 
 ![](/images/acheter-tablette-Android-7.png)
 
-Vous êtes alors redirigé sur la page de synchronisation des e-books. L’e-book que vous venez d’acheter est pré-coché. Il ne vous reste plus qu’à cliquer sur « Synchroniser la sélection ». Votre e-book est alors sur votre bibliothèque, vous pouvez commencer votre lecture !
+Vous êtes alors redirigé sur la page de synchronisation des ebooks. L’ebook que vous venez d’acheter est pré-coché. Il ne vous reste plus qu’à cliquer sur « Synchroniser la sélection ». Votre ebook est alors sur votre bibliothèque, vous pouvez commencer votre lecture !
 
 Après lecture de ce message, cliquez sur « Fermer, puis « Mon compte » et enregistrez votre adresse e-mail et mot de passe associé à votre compte client. Une fois enregistré, cliquez sur l’onglet « Bibliothèque ». Il ne vous reste plus qu’à faire la synchronisation de votre compte client via l’onglet importer.
 

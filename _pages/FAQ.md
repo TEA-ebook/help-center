@@ -6,19 +6,19 @@ title: Foire Aux Questions
 
 ## [Achat](/faq-achat/)
 
-#### [Quel format choisir pour acheter un e-book ?](/faq-achat/#format-ebook)
+#### [Quel format choisir pour acheter un ebook ?](/faq-achat/#format-ebook)
 
-#### [Quelles sont les protections présentes sur un e-book ?](/faq-achat/#protections-ebook)
+#### [Quelles sont les protections présentes sur un ebook ?](/faq-achat/#protections-ebook)
 
-#### [Puis-je acheter plusieurs e-books en même temps ?](/faq-achat/#plusieurs-ebooks)
+#### [Puis-je acheter plusieurs ebooks en même temps ?](/faq-achat/#plusieurs-ebooks)
 
 #### [Y a-t-il une limitation du nombre de livres par commande sur la liseuse ?](/faq-achat/#limitation-nombre-ebook)
 
-#### [Comment puis-je payer mes e-books ?](/faq-achat/#payer-ebook)
+#### [Comment puis-je payer mes ebooks ?](/faq-achat/#payer-ebook)
 
-#### [Y a-t-il des frais de dossier supplémentaires au prix de l’e-book ?](/faq-achat/#frais-supplementaires)
+#### [Y a-t-il des frais de dossier supplémentaires au prix de l’ebook ?](/faq-achat/#frais-supplementaires)
 
-#### [Puis-je offrir un e-book ?](/faq-achat/#offrir-ebook)
+#### [Puis-je offrir un ebook ?](/faq-achat/#offrir-ebook)
 
 #### [Ai-je un droit / délai de rétractation ?](/faq-achat/#delai-retractation)
 
@@ -38,7 +38,7 @@ title: Foire Aux Questions
 
 ## [Lecture](/faq-lecture/)
 
-#### [Sur quels supports puis-je lire un e-book ?](/faq-lecture/#support-ebook)
+#### [Sur quels supports puis-je lire un ebook ?](/faq-lecture/#support-ebook)
 
 #### [Puis-je lire mes ebooks sur une liseuse d’une autre marque que TEA ?](/faq-lecture/#lire-autres-marques-liseuses)
 
@@ -52,11 +52,11 @@ title: Foire Aux Questions
 
 #### [Comment transférer mes ebooks sur une liseuse non TEA ?](/faq-lecture/#lire-autres)
 
-#### [Je n’arrive pas à ouvrir mon e-book.](/faq-lecture/#pas-ouvrir-ebook)
+#### [Je n’arrive pas à ouvrir mon ebook.](/faq-lecture/#pas-ouvrir-ebook)
 
-#### [Mon e-book est un fichier au format acsm. Comment puis-je l'ouvrir ?](/faq-lecture/#ouvrir-acsm)
+#### [Mon ebook est un fichier au format acsm. Comment puis-je l'ouvrir ?](/faq-lecture/#ouvrir-acsm)
 
-#### [L’e-book est incomplet. Il manque des pages ou des chapitres. Que puis-je faire ?](/faq-lecture/#ebook-incomplet)
+#### [L’ebook est incomplet. Il manque des pages ou des chapitres. Que puis-je faire ?](/faq-lecture/#ebook-incomplet)
 
 #### [Puis-je lire mes livres sur smartphone ou tablette, si ma librairie ne possède pas d'application spécifique ?](/faq-lecture/#lire-smartphone)
 
@@ -133,11 +133,11 @@ title: Foire Aux Questions
 
 ## [Téléchargement](/faq-telechargement/)
 
-#### [Après avoir acheté un e-book, où puis-je le récupérer ?](/faq-telechargement/#recuperer-ebook)
+#### [Après avoir acheté un ebook, où puis-je le récupérer ?](/faq-telechargement/#recuperer-ebook)
 
-#### [Je n’arrive pas à télécharger mon e-book sur mon ordinateur ?](/faq-telechargement/#pas-telecharger-ebook)
+#### [Je n’arrive pas à télécharger mon ebook sur mon ordinateur ?](/faq-telechargement/#pas-telecharger-ebook)
 
-#### [Je n’arrive pas à télécharger mon e-book sur ma liseuse ?](/faq-telechargement/#pas-telecharger-ebook-liseuse)
+#### [Je n’arrive pas à télécharger mon ebook sur ma liseuse ?](/faq-telechargement/#pas-telecharger-ebook-liseuse)
 
 ## [Les messages d'erreurs les plus courants](/faq-erreurs/)
 
@@ -161,6 +161,6 @@ title: Foire Aux Questions
 
 ## [Autres](/faq-autre/)
 
-#### [Malgré les protections, peut-on imprimer ou copier un e-book ?](/faq-autre/#imprimer-copier-ebook)
+#### [Malgré les protections, peut-on imprimer ou copier un ebook ?](/faq-autre/#imprimer-copier-ebook)
 
 #### [Comment connaître la version de votre application Android ?](/faq-autre/#version-logiciel)
