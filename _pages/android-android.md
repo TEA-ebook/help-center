@@ -42,7 +42,7 @@ Vous pouvez ensuite soit continuer vos achats, soit accéder à votre panier en 
 
 ![](/images/acheter-tablette2-3.png)
 
-Une fois vos ebooks sélectionnés, validez votre panier en appuyant sur  « Valider mon panier ».
+Une fois vos ebooks sélectionnés, validez votre panier en appuyant sur « Valider mon panier ».
 
 ![](/images/acheter-tablette2-4.png) 
 

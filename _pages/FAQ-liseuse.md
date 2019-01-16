@@ -94,14 +94,14 @@ Le formatage FAT est recommandé.
 
 
 
-{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse  TEA (ou PocketBook) ?" %}
+{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse TEA (ou PocketBook) ?" %}
 
 #### Quels sont les formats supportés par ma liseuse TEA ?
 
 - Formats d’ebooks supportés par les liseuses TEA: ePub, PDF, Adobe® DRM, HTML, TXT, FB2, FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
 - Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
 
-{% include feedback-button.html question="Quels sont les formats supportés par ma liseuse  TEA (ou PocketBook) ?" %}
+{% include feedback-button.html question="Quels sont les formats supportés par ma liseuse TEA (ou PocketBook) ?" %}
 
 
 
