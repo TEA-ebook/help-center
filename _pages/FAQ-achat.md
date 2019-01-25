@@ -107,7 +107,7 @@ Il existe 3 cas de figure pour les protections des ebooks.
 <a id="protection-care"></a>
 **Contenu protégé**  
 Il s'agit d'un ebook protégé par une mesure technique de protection mise en place pour préserver les droits des œuvres numériques. Le fichier est crypté grâce à l'insertion d'informations codées.  
-Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse TEA ou liseuse PocketBook compatible, logiciel TEA Ebook, application Android et iOs), ce cryptage reste totalement invisible.  
+Tant que vous restez dans l'environnement de votre librairie (lecture en ligne, liseuse TEA compatible, logiciel TEA Ebook, application Android et iOs), ce cryptage reste totalement invisible.  
 Par contre, si vous souhaitez sortir de cet environnement, le livre vous sera fourni sous DRM (Digital Right Management) ACS4 (Adobe Content Server 4) dite DRM Adobe ou Adobe DRM.
 
 [Comment lire un ebook protégé par la DRM Adobe ?](http://aide.tea-ebook.com/ade/)
@@ -163,11 +163,12 @@ Nous vous conseillons de ne pas sélectionner plus de 30 ebooks par commande.
 
 ### Comment puis-je payer mes ebooks ?
 
-Vous pouvez payer vos ebooks par carte bancaire ou e-carte bleue. Vous pouvez aussi vous procurer vos livres numériques par d’autres biais comme :
+Vous pouvez payer vos ebooks par carte bancaire ou e-carte bleue. 
+Vous pouvez aussi vous procurer vos livres numériques par d’autres biais comme :
 
 - [En magasin](https://www.decitre.fr/nos-librairies) chez Decitre
 - [Les cartes Iziko](https://www.cultura.com/communication-magasins/iziko.html) de Cultura
-- [Les cartes EbookDirect](https://ebookdirect.fr/index.php/qui-sommes-nous) chez Chapitre et France Loisirs
+- [Les cartes EbookDirect](https://ebookdirect.fr/index.php/qui-sommes-nous) chez France Loisirs
 
 {% include feedback-button.html question="Comment puis-je payer mes ebooks ?" %}
 
