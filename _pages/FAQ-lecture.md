@@ -70,9 +70,9 @@ Selon le format et la protection d'un ebook, vous ne pourrez pas lire sur tous l
     <tr>
         <th>ePub Fixed Layout</th>
         <td class="success" ><strong>Recommandé</strong></td>
-        <td class="warning">Compatible depuis la liseuse en ligne dans « Vos Ebooks »</td>
+        <td class="warning">Compatible en cliquant sur "Lire en ligne" depuis la page « Vos Ebooks »</td>
         <td class="danger">Non compatible</td>
-        <td class="warning">Compatible depuis la liseuse en ligne dans « Vos Ebooks »</td>
+        <td class="warning">Compatible en cliquant sur "Lire en ligne" depuis la page « Vos Ebooks »</td>
     </tr>
 </table>
 
