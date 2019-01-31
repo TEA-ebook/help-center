@@ -31,9 +31,9 @@ Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran sem
 Pour charger votre liseuse vous devez la connecter à un ordinateur en utilisant le câble fourni avec l'appareil (micro-USB).  
 Vous pouvez également utiliser un chargeur USB. Celui-ci doit avoir les caractéristiques suivantes :
 
-- Input: AC100-240V 50/60Hz ;
-- Output: DC5.0V +/- 5% ;
-- Max: 700mA Min 150mA.
+- Input : AC100-240V 50/60Hz ;
+- Output : DC5.0V +/- 5% ;
+- Min 1 - max 1,5 A (ou min 1000mA et max 1500mA)
 
 {% include feedback-button.html question="Comment puis-je recharger ma liseuse ?" %}
 
