@@ -3,7 +3,9 @@ permalink: "/tea-tips/"
 layout: page
 title: TEA Tips - Les bonnes idées de la TEAm
 type: faq
+published: false
 ---
+
 {% include anchor.html id="PocketBook" label="Liseuses TEA" %}
 
 ## Liseuses TEA
