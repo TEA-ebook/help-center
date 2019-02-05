@@ -35,6 +35,6 @@ Tout dépend des protections qui sont apposées sur vos ebooks. La fiche techniq
 ### Est-ce que des liseuses couleur existent ?
 
 La technologie actuelle des écrans à encre électronique ne permet pas l'affichage des couleurs sur les liseuses.
-Pour tous les ebooks illustrés qui nécessitent l'affichage des couleurs, nous recommandons plutôt la lecture sur tablette ou sur ordinateur, via notre logiciel TEA Ebook. [tea-ebook] (https://app.tea-ebook.com)
+Pour tous les ebooks illustrés qui nécessitent l'affichage des couleurs, nous recommandons plutôt la lecture sur tablette ou sur ordinateur, via notre [logiciel TEA Ebook](https://app.tea-ebook.com).
 
 {% include feedback-button.html question="Est-ce que des liseuses couleur existent ?" %}
