@@ -29,3 +29,11 @@ Tout dépend des protections qui sont apposées sur vos ebooks. La fiche techniq
 </table>
 
 {% include feedback-button.html question="Comment connaître la version de votre application Android ?" %}
+
+{% include anchor.html id="liseuses couleur" label="Est-ce que des liseuses couleur existent ?" %}
+
+### Est-ce que des liseuses couleur existent ?
+
+La technologie actuelle ne permet pasd'avoir de couleurs sur la liseuse. Toutefois, pour tous ceux qui sont attachés à l'aspect couleur de la lecture, il reste la possibilités de lire sur tablette ou ordinateur.
+
+{% include feedback-button.html question="Est-ce que des liseuses couleur existent ?" %}
