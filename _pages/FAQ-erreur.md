@@ -176,7 +176,6 @@ Contactez votre Service Clients et demandez une réinitialisation du lien de vot
 {% include feedback-button.html question="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
 
 {% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
-
 ### Erreur : « 400 Bad Request » à l'ouverture de la Librairie ou de Mes Achats sur liseuse
 
 Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de votre liseuse, en suivant les étapes suivantes :
@@ -190,3 +189,19 @@ Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de 
 
 
  {% include feedback-button.html question="400 Bad request" %}
+{% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
+### Erreur : « Erreur 500 » 
+
+Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de votre liseuse, en suivant les étapes suivantes :
+
+ * Depuis la page d'accueil de votre liseuse, ouvrir le menu du bas en appuyant sur les deux traits horizontaux.
+ * Sélectionner le navigateur.
+ * Appuyer sur l'icone menu (trois traits horizontaux) à droite de la barre d'adresse
+ * Appuyer ensuite sur « Paramètres », puis sur « Effacer les cookies »
+ * Fermer le navigateur pour revenir à la page d'accueil de votre liseuse.
+ * Ré-essayer alors de vous connecter à votre librairie.
+
+
+ {% include feedback-button.html question="400 Bad request" %}
+
+
