@@ -65,7 +65,7 @@ Actuellement, votre liseuse ne peut se connecter qu'à un seul compte à la fois
 Pour changer de compte client sur une liseuse TEA :
 - Aller dans « Paramètres / Comptes et synchronisation / Mon compte client ».
 - Si vous voyez apparaître une icône de cadenas ouvert ainsi que la mention « Connexion » vous pouvez vous enregistrer en saisissant l' adresse mail de votre compte.
-- Si en revanche, vous voyez déjà una adresse mail ainsi que la mention « Se déconnecter » cela signifie qu'un compte client est déjà connecté. Dans ce cas, il faudra le déconnecter car actuellement, votre liseuse peut être connectée à un seul compte à la fois.
+- Si en revanche, vous voyez déjà una adresse mail, cliquez sur « Se déconnecter » pour pouvoir vous connecter à un nouveau compte. Votre liseuse peut être connectée à un seul compte à la fois.
 
 {% include feedback-button.html question="Comment changer de compte client sur une liseuse TEA ?" %}
 
