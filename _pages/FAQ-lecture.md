@@ -238,3 +238,14 @@ Il vous permet de retrouver tous vos livres au format ePub et de les lire sur vo
 {% include feedback-button.html question="Puis-je lire mes ebooks sur un ordinateur Linux ?" %}
 
 <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span> Haut de page</a></p>
+
+{% include anchor.html id="ebook-incomplet" label="L’ebook est incomplet. Il manque des pages ou des chapitres." %}
+
+### Comment trouver des caractères spéciaux sur le clavier ?
+
+Il existe deux options pour trouver des caractères spéciaux sur le clavier de la liseuse. 
+La 1ère est de changer sa disposition avec la touche MAJ (une  flèche vers le haut, à gauche en bas du clavier)  
+La 2nde option consite à  passer par le clavier anglais (touche EN) pour trouver d'autres caractères (tels que: % et \)
+
+
+{% include feedback-button.html question="Comment trouver des caractères spéciaux sur le clavier." %}
