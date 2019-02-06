@@ -58,7 +58,7 @@ Actuellement, votre liseuse ne peut se connecter qu'à un seul compte à la fois
 
 {% include feedback-button.html question="Comment vérifier quel compte client est entré sur ma liseuse ?" %}
 
-{% include anchor.html id=" changer de compte client de ma liseuse" label="Comment changer de compte client de ma liseuse TEA ?" %}
+{% include anchor.html id="changement-compte-liseuse" label="Comment changer de compte client de ma liseuse TEA ?" %}
 
 ### Comment changer de compte client sur une liseuse TEA ?
 
