@@ -321,8 +321,13 @@ Sur les modèles <i>Touch HD</i>, <i>Touch HD Brown Edition</i> et <i>InkPad 3</
 
 {% include feedback-button.html question="Comment personnaliser l'écran hors tension ?" %}
 
+{% include anchor.html id="4ème-couverture" label="Est-il possible d'ajouter une 4ème couverture aux 'Livres récents' ?" %}
 
+##### Est-il possible d'ajouter une 4ème couverture à la page d'accueil ?
 
+Le module des'Livres récents' permet d'afficher les couvertures de trois derniers livres ouverts.  Actuellement, il n'est pas possible d'en ajouter d'autres.
+
+{% include feedback-button.html question="Est-il possible d'ajouter une 4ème couverture à la page d'acceuil ?" %}
 
 {% include anchor.html id="dictionnaires" label="Comment ajouter des dictionnaires à ma liseuse ?" %}
 
