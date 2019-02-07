@@ -321,13 +321,13 @@ Sur les modèles <i>Touch HD</i>, <i>Touch HD Brown Edition</i> et <i>InkPad 3</
 
 {% include feedback-button.html question="Comment personnaliser l'écran hors tension ?" %}
 
-{% include anchor.html id="4ème-couverture" label="Est-il possible d'ajouter une 4ème couverture aux 'Livres récents' ?" %}
+{% include anchor.html id="4ème-de-couverture" label="Comment afficher la 4ème de couverture de mon livre ?" %}
 
-##### Est-il possible d'ajouter une 4ème couverture à la page d'accueil ?
+##### Comment afficher la 4ème de couverture de mon livre ?
 
-Le module des'Livres récents' permet d'afficher les couvertures de trois derniers livres ouverts.  Actuellement, il n'est pas possible d'en ajouter d'autres.
+La réponse est que hélas, contrairement au livre papier, le livre numérique n'en a pas. Cependant,  vous pouvez, via un appui long sur une couverture, trouver la plupart d'éléments de la 4ème de couverture dans les "Informations sur le livre". 
 
-{% include feedback-button.html question="Est-il possible d'ajouter une 4ème couverture à la page d'acceuil ?" %}
+{% include feedback-button.html question="Comment afficher la 4ème de couverture de mon livre ?" %}
 
 {% include anchor.html id="dictionnaires" label="Comment ajouter des dictionnaires à ma liseuse ?" %}
 
