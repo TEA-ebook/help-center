@@ -325,7 +325,7 @@ Sur les modèles <i>Touch HD</i>, <i>Touch HD Brown Edition</i> et <i>InkPad 3</
 
 ##### Comment afficher la 4ème de couverture de mon livre ?
 
-La réponse est que hélas, contrairement au livre papier, le livre numérique n'en a pas. Cependant,  vous pouvez, via un appui long sur une couverture, trouver la plupart d'éléments de la 4ème de couverture dans les "Informations sur le livre". 
+Le livre numérique ne possède pas la 4ème de couverture. Toutefois, certaines de ses informations ont été reprises dans la section "Infos sur le livre". Pour les consulter : faites un appui long sur une couverture puis sélectionnez : "Infos sur le livre"
 
 {% include feedback-button.html question="Comment afficher la 4ème de couverture de mon livre ?" %}
 
