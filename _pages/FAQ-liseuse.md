@@ -412,7 +412,7 @@ La liseuse détermine alors la température de couleur optimale selon l’heure 
 
 {% include anchor.html id="caracteres-speciaux" label="Comment trouver des caractères spéciaux sur le clavier ?" %}
 
-### Comment trouver des caractères spéciaux sur le clavier ?
+#### Comment trouver des caractères spéciaux sur le clavier ?
 
 Il existe deux manières d'afficher les caractères spéciaux sur le clavier de la liseuse : 
 * Changer la disposition du clavier avec la touche MAJ (en bas à gauche).
