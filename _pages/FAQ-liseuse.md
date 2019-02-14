@@ -321,8 +321,13 @@ Sur les modèles <i>Touch HD</i>, <i>Touch HD Brown Edition</i> et <i>InkPad 3</
 
 {% include feedback-button.html question="Comment personnaliser l'écran hors tension ?" %}
 
+{% include anchor.html id="4ème-de-couverture" label="Comment afficher la 4ème de couverture de mon livre ?" %}
 
+##### Comment afficher la 4ème de couverture de mon livre ?
 
+Le livre numérique ne possède pas la 4ème de couverture. Certaines informations relatives au livre (auteur, genre, taille du fichier...) sont toutefois accessible depuis la Bibliothèque, en faisant un appui long sur une couverture puis en sélectionnant "Infos sur le livre".
+
+{% include feedback-button.html question="Comment afficher la 4ème de couverture de mon livre ?" %}
 
 {% include anchor.html id="dictionnaires" label="Comment ajouter des dictionnaires à ma liseuse ?" %}
 
