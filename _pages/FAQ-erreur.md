@@ -5,93 +5,9 @@ title: Foire Aux Questions - Erreurs courantes
 type: faq
 ---
 
-{% include anchor.html id="erreurs-adobe" label="Erreurs Adobe" %}
+{% include anchor.html id="autres" label="Erreurs courantes" %}
 
-### Erreurs Adobe
-
-{% include anchor.html id="duplicate-transaction" label="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
-
-#### E\_ADEPT\_DUPLICATE\_TRANSACTION\_ID
-
-Lorsque vous rencontrez ce message, cela signifie que votre autorisation Adobe ID n'est plus reconnue par le logiciel Adobe Digital Editions.
-Contactez votre Service Clients et demandez une réinitialisation du lien de votre livre numérique.
-
-{% include feedback-button.html question="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
-
-
-{% include anchor.html id="request-expired" label="E_ADEPT_REQUEST_EXPIRED" %}
-
-#### E\_ADEPT\_REQUEST\_EXPIRED
-
-<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
-
-Cette erreur indique que le fichier `acsm` téléchargé est trop vieux. Les fichiers de licences `acsm` ont une durée de validité limitée (entre 3 et 5 jours). Ils doivent donc être ouverts dans ce laps de temps.
-
-Pour résoudre ce problème, supprimez le fichier `acsm` et téléchargez-en un nouveau depuis votre compte client. Puis ouvrez  le fichier pour télécharger le livre.
-
-Si le problème persiste il faut vous assurez que la date, l'heure et le fuseau horaire de votre support sont correctement paramétrés.
-Vous pouvez le vérifier simplement en tapant l'adresse <http://time.is> dans le navigateur du support.
-
-Pour modifier les paramètres Date/heure :
-
-* Sur une liseuse TEA :
-    * Aller dans « Paramètres ».
-    * Puis dans « Date et heure ».
-    * Vérifier que le fuseau horaire est bien celui de Paris.
-    * Appuyer ensuite sur « Synchroniser l'heure ».
-    * Activer aussi la « Synchronisation automatique de l'heure », en appuyant sur le bouton On/Off
-
-{% include feedback-button.html question="E_ADEPT_REQUEST_EXPIRED" %}
-
-
-{% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
-
-#### E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY
-
-Cette erreur indique que vous ne pouvez pas changer l'autorisation Adobe de votre PC, même après une autorisation SANS ID.  
-Il faut donc retirer manuellement l'autorisation de l'ordinateur.
-
-* Mac :
-    1. Dans le finder : Dans l'onglet « Aller », sélectionner « Aller au dossier »
-    2. Taper : ~/Library/Application Support/Adobe/Digital Editions et déplacer le fichier activation.dat dans la corbeille.
-    3. Ré-autoriser Adobe Digital Editions avec son identifiant Adobe.
-* Windows :
-    1. Cliquer sur Démarrer > Exécuter. (Dans windows 7 ou 8, il faut utiliser la fonction recherche et taper « executer » ou « run »)
-    2. Taper « regedit » dans la boite de dialogue et taper sur Entrée.
-    3. Localiser la clé suivante « HKEY_CURRENT_USER>Software>Adobe>Digital Editions » et supprimer le dossier complet (faire un clic droit dessus et cliquer sur « Supprimer »).
-    4. Localiser aussi HKEY_CURRENT_USER>Software>Adobe>Adept et supprimer le dossier complet.
-
-<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
-
-{% include feedback-button.html question="E_AUTH_NOT_READY" %}
-
-
-{% include anchor.html id="fulfilled-another" label="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
-
-#### E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER
-
-<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
-
-Cette erreur indique que le livre a déjà été ouvert avec un identifiant Adobe différent ou bien sans identifiant sur Adobe Digital Editions.
-Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sans identifiant sur un ordinateur.
-
-* Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
-* Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
-
-[Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#authorized-identifiant-adobe)
-
-{% include feedback-button.html question="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
-
-
-
-
-
-
-
-
-{% include anchor.html id="autres" label="Autres erreurs" %}
-
-### Autres
+### Erreurs courantes
 
 
 {% include anchor.html id="livre-abime-protege" label="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
@@ -211,3 +127,85 @@ Pour corriger cette erreur, il faut supprimer les cookies dans le navigateur de 
 
 
  {% include feedback-button.html question="400 Bad request" %}
+
+
+
+
+
+{% include anchor.html id="erreurs-adobe" label="Erreurs Adobe Digital Editions" %}
+
+### Erreurs Adobe Digital Editions
+
+{% include anchor.html id="duplicate-transaction" label="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
+
+#### E\_ADEPT\_DUPLICATE\_TRANSACTION\_ID
+
+Lorsque vous rencontrez ce message, cela signifie que votre autorisation Adobe ID n'est plus reconnue par le logiciel Adobe Digital Editions.
+Contactez votre Service Clients et demandez une réinitialisation du lien de votre livre numérique.
+
+{% include feedback-button.html question="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
+
+
+{% include anchor.html id="request-expired" label="E_ADEPT_REQUEST_EXPIRED" %}
+
+#### E\_ADEPT\_REQUEST\_EXPIRED
+
+<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
+
+Cette erreur indique que le fichier `acsm` téléchargé est trop vieux. Les fichiers de licences `acsm` ont une durée de validité limitée (entre 3 et 5 jours). Ils doivent donc être ouverts dans ce laps de temps.
+
+Pour résoudre ce problème, supprimez le fichier `acsm` et téléchargez-en un nouveau depuis votre compte client. Puis ouvrez  le fichier pour télécharger le livre.
+
+Si le problème persiste il faut vous assurez que la date, l'heure et le fuseau horaire de votre support sont correctement paramétrés.
+Vous pouvez le vérifier simplement en tapant l'adresse <http://time.is> dans le navigateur du support.
+
+Pour modifier les paramètres Date/heure :
+
+* Sur une liseuse TEA :
+    * Aller dans « Paramètres ».
+    * Puis dans « Date et heure ».
+    * Vérifier que le fuseau horaire est bien celui de Paris.
+    * Appuyer ensuite sur « Synchroniser l'heure ».
+    * Activer aussi la « Synchronisation automatique de l'heure », en appuyant sur le bouton On/Off
+
+{% include feedback-button.html question="E_ADEPT_REQUEST_EXPIRED" %}
+
+
+{% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
+
+#### E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY
+
+Cette erreur indique que vous ne pouvez pas changer l'autorisation Adobe de votre PC, même après une autorisation SANS ID.  
+Il faut donc retirer manuellement l'autorisation de l'ordinateur.
+
+* Mac :
+    1. Dans le finder : Dans l'onglet « Aller », sélectionner « Aller au dossier »
+    2. Taper : ~/Library/Application Support/Adobe/Digital Editions et déplacer le fichier activation.dat dans la corbeille.
+    3. Ré-autoriser Adobe Digital Editions avec son identifiant Adobe.
+* Windows :
+    1. Cliquer sur Démarrer > Exécuter. (Dans windows 7 ou 8, il faut utiliser la fonction recherche et taper « executer » ou « run »)
+    2. Taper « regedit » dans la boite de dialogue et taper sur Entrée.
+    3. Localiser la clé suivante « HKEY_CURRENT_USER>Software>Adobe>Digital Editions » et supprimer le dossier complet (faire un clic droit dessus et cliquer sur « Supprimer »).
+    4. Localiser aussi HKEY_CURRENT_USER>Software>Adobe>Adept et supprimer le dossier complet.
+
+<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
+
+{% include feedback-button.html question="E_AUTH_NOT_READY" %}
+
+
+{% include anchor.html id="fulfilled-another" label="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
+
+#### E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER
+
+<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
+
+Cette erreur indique que le livre a déjà été ouvert avec un identifiant Adobe différent ou bien sans identifiant sur Adobe Digital Editions.
+Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sans identifiant sur un ordinateur.
+
+* Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
+* Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
+
+[Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#authorized-identifiant-adobe)
+
+{% include feedback-button.html question="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
+
