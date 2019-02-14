@@ -9,25 +9,15 @@ type: faq
 
 ### Erreurs Adobe
 
-{% include anchor.html id="autres" label="Autres erreurs" %}
+{% include anchor.html id="duplicate-transaction" label="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
 
-### Autres
+#### E\_ADEPT\_DUPLICATE\_TRANSACTION\_ID
 
-{% include anchor.html id="fulfilled-another" label="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
+Lorsque vous rencontrez ce message, cela signifie que votre autorisation Adobe ID n'est plus reconnue par le logiciel Adobe Digital Editions.
+Contactez votre Service Clients et demandez une réinitialisation du lien de votre livre numérique.
 
-#### E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER
+{% include feedback-button.html question="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
 
-<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
-
-Cette erreur indique que le livre a déjà été ouvert avec un identifiant Adobe différent ou bien sans identifiant sur Adobe Digital Editions.
-Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sans identifiant sur un ordinateur.
-
-* Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
-* Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
-
-[Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#authorized-identifiant-adobe)
-
-{% include feedback-button.html question="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
 
 {% include anchor.html id="request-expired" label="E_ADEPT_REQUEST_EXPIRED" %}
 
@@ -52,6 +42,57 @@ Pour modifier les paramètres Date/heure :
     * Activer aussi la « Synchronisation automatique de l'heure », en appuyant sur le bouton On/Off
 
 {% include feedback-button.html question="E_ADEPT_REQUEST_EXPIRED" %}
+
+
+{% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
+
+#### E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY
+
+Cette erreur indique que vous ne pouvez pas changer l'autorisation Adobe de votre PC, même après une autorisation SANS ID.  
+Il faut donc retirer manuellement l'autorisation de l'ordinateur.
+
+* Mac :
+    1. Dans le finder : Dans l'onglet « Aller », sélectionner « Aller au dossier »
+    2. Taper : ~/Library/Application Support/Adobe/Digital Editions et déplacer le fichier activation.dat dans la corbeille.
+    3. Ré-autoriser Adobe Digital Editions avec son identifiant Adobe.
+* Windows :
+    1. Cliquer sur Démarrer > Exécuter. (Dans windows 7 ou 8, il faut utiliser la fonction recherche et taper « executer » ou « run »)
+    2. Taper « regedit » dans la boite de dialogue et taper sur Entrée.
+    3. Localiser la clé suivante « HKEY_CURRENT_USER>Software>Adobe>Digital Editions » et supprimer le dossier complet (faire un clic droit dessus et cliquer sur « Supprimer »).
+    4. Localiser aussi HKEY_CURRENT_USER>Software>Adobe>Adept et supprimer le dossier complet.
+
+<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
+
+{% include feedback-button.html question="E_AUTH_NOT_READY" %}
+
+
+{% include anchor.html id="fulfilled-another" label="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
+
+#### E\_LIC\_ALREADY\_FULFILLED\_BY\_ANOTHER\_USER
+
+<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
+
+Cette erreur indique que le livre a déjà été ouvert avec un identifiant Adobe différent ou bien sans identifiant sur Adobe Digital Editions.
+Il faut donc vérifier avec que le livre n'a pas été précédemment ouvert avec un autre identifiant Adobe ou sans identifiant sur un ordinateur.
+
+* Si vous vous êtes trompé d'identifiant, il faut enregistrer le bon identifiant dans votre support. Si ça ne fonctionne toujours pas, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
+* Si vous avez ouvert votre livre avec Adobe Digital Editions sans identifiant Adobe, contactez le service client pour procéder à une réinitialisation du ou des livres concernés.
+
+[Vérifier avec quel identifiant Adobe le support a été autorisé.](/faq-comptes/#authorized-identifiant-adobe)
+
+{% include feedback-button.html question="E_LIC_ALREADY_FULFILLED_BY_ANOTHER_USER" %}
+
+
+
+
+
+
+
+
+{% include anchor.html id="autres" label="Autres erreurs" %}
+
+### Autres
+
 
 {% include anchor.html id="livre-abime-protege" label="Impossible de lire ce livre il est peut-être abîmé ou protégé (sur liseuse)" %}
 
@@ -96,26 +137,7 @@ Nous vous conseillons de désinstaller Adobe Digital Editions et de réinstaller
 
 {% include feedback-button.html question="Adobe Digital Editions sur Windows 10" %}
 
-{% include anchor.html id="not-ready" label="E_AUTH_NOT_READY ou E_ACT_NOT_READY" %}
 
-#### E\_AUTH\_NOT\_READY ou E\_ACT\_NOT\_READY
-
-Cette erreur indique que vous ne pouvez pas changer l'autorisation Adobe de votre PC, même après une autorisation SANS ID.  
-Il faut donc retirer manuellement l'autorisation de l'ordinateur.
-
-* Mac :
-    1. Dans le finder : Dans l'onglet « Aller », sélectionner « Aller au dossier »
-    2. Taper : ~/Library/Application Support/Adobe/Digital Editions et déplacer le fichier activation.dat dans la corbeille.
-    3. Ré-autoriser Adobe Digital Editions avec son identifiant Adobe.
-* Windows :
-    1. Cliquer sur Démarrer > Exécuter. (Dans windows 7 ou 8, il faut utiliser la fonction recherche et taper « executer » ou « run »)
-    2. Taper « regedit » dans la boite de dialogue et taper sur Entrée.
-    3. Localiser la clé suivante « HKEY_CURRENT_USER>Software>Adobe>Digital Editions » et supprimer le dossier complet (faire un clic droit dessus et cliquer sur « Supprimer »).
-    4. Localiser aussi HKEY_CURRENT_USER>Software>Adobe>Adept et supprimer le dossier complet.
-
-<div class="warningtip"><p>Si vous possédez une liseuse TEA, nous vous conseillons de télécharger vos ebooks directement depuis votre liseuse, depuis l'espace Mes Achats.</p></div>
-
-{% include feedback-button.html question="E_AUTH_NOT_READY" %}
 
 {% include anchor.html id="error-check-activation" label="Error check activation" %}
 
@@ -173,15 +195,6 @@ Les versions 4.0.0 et 4.0.1 d'Adobe Digital Editions génèrent régulièrement 
 
 {% include feedback-button.html question="Error check activation" %}
 
-
-{% include anchor.html id="duplicate-transaction" label="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
-
-#### E\_ADEPT\_DUPLICATE\_TRANSACTION\_ID
-
-Lorsque vous rencontrez ce message, cela signifie que votre autorisation Adobe ID n'est plus reconnue par le logiciel Adobe Digital Editions.
-Contactez votre Service Clients et demandez une réinitialisation du lien de votre livre numérique.
-
-{% include feedback-button.html question="E_ADEPT_DUPLICATE_TRANSACTION_ID" %}
 
 {% include anchor.html id="400-bad-request" label="Erreur : « 400 Bad Request » à l'ouverture de la librairie ou de mes Achats sur liseuse" %}
 
