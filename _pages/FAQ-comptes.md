@@ -48,10 +48,8 @@ Pour modifier les informations relatives à votre compte, vous devez vous connec
 ### Comment vérifier quel compte client est enregistré sur ma liseuse TEA ?
 
 Pour vérifier quel compte client est enregistré sur une liseuse TEA :
-- Aller dans « Paramètres »
-- Puis dans « Comptes et synchronisation »
-- Et enfin dans « Mon compte client »
-- Si vous êtes connecté, vous voyez apparaître le mail du compte client avec lequel vous êtes enregistré, ainsi que la mention « Se déconnecter »
+- Aller dans : « Paramètres/ Comptes et synchronisation/ Mon compte client »
+- Si vous êtes connecté, vous voyez apparaître le mail du compte client enregistré, ainsi que la mention « Se déconnecter »
 - Si vous n'êtes pas connecté, vous voyez apparaître une icône de cadenas ouvert ainsi que la mention « Connexion ». Appuyez sur « Connexion » pour enregistrer votre compte client.
 
 Actuellement, votre liseuse ne peut se connecter qu'à un seul compte à la fois.
