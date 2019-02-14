@@ -405,6 +405,15 @@ La liseuse détermine alors la température de couleur optimale selon l’heure 
 
 {% include feedback-button.html question="Comment gérer la fonction SMARTlight de ma liseuse TEA ?" %}
 
+{% include anchor.html id="caracteres-speciaux" label="Comment trouver des caractères spéciaux sur le clavier ?" %}
+
+### Comment trouver des caractères spéciaux sur le clavier ?
+
+Il existe deux manières d'afficher les caractères spéciaux sur le clavier de la liseuse : 
+* Changer la disposition du clavier avec la touche MAJ (en bas à gauche).
+* Changer la langue du clavier pour accéder à d'autres caractères spéciaux, en appuyant sur la touche EN.
+
+{% include feedback-button.html question="Comment trouver des caractères spéciaux sur le clavier." %}
 
 {% include anchor.html id="garantie" label="Conditions de garantie des liseuses TEA" %}
 
