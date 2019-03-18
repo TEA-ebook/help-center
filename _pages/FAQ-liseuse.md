@@ -8,7 +8,7 @@ type: faq
 
 ## Liseuses TEA
 
-Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez également consulter les manuels des liseuses, téléchargeables depuis <a href="https://www.tea-ebook.com/solution/#liseuses">notre site internet</a>.
+Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez également consulter les manuels des liseuses, téléchargeables depuis <a href="https://www.tea-ebook.com/lecture-numerique/liseuses-tea/">notre site internet</a>.
 
 {% include anchor.html id="pb-matériel" label="J'ai un problème matériel sur ma liseuse TEA." %}
 
