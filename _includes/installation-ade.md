@@ -1,4 +1,4 @@
-L’installation d'Adobe Digital Editions est nécessaire si vous souhaitez transférer __des ebooks protégés par Adobe DRM__ (`.acsm`) sur d'autres liseuses que celles de TEA ou sur des applications différentes de celles de nos [partenaires](https://www.tea-ebook.com/clients).
+L’installation d'Adobe Digital Editions est nécessaire si vous souhaitez transférer __des ebooks protégés par Adobe DRM__ (`.acsm`) sur d'autres liseuses que celles de TEA ou sur des applications différentes de celles de nos [partenaires](https://www.tea-ebook.com/societe/#clients).
 
 Il n'est pas nécessaire de télécharger Adobe Digital Editions pour [lire sur votre ordinateur](/tea-ebook), [lire sur une liseuse TEA](/liseuse-liseuseTEA/#lire-liseuseTEA) ou lire sur l'application de l'un de nos partenaires.
 
