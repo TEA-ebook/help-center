@@ -1,6 +1,6 @@
 <div class="protip"><p>Afin de profiter des dernières fonctionnalités de votre liseuse, il est recommandé de maintenir sa liseuse à jour. <a href="/maj">En savoir plus…</a></p></div>
 
-Pour plus d'informations, vous pouvez télécharger les manuels complets des liseuses sur [notre site internet](https://www.tea-ebook.com/solution/#liseuses).
+Pour plus d'informations, vous pouvez télécharger les manuels complets des liseuses sur [notre site internet](https://www.tea-ebook.com/lecture-numerique/liseuses-tea/).
 
 {% include youtube-embedded-video.html url="https://www.youtube.com/embed/9UO-n02Tdko" %}
 
