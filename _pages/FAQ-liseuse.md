@@ -465,7 +465,7 @@ Lorsque le rétro-éclairage d’une liseuse est activé, il est possible d’ap
 ## Je n'ai pas une liseuse TEA et j'ai des questions sur une liseuse d'une autre marque.
 
 Il n'est pas trop tard, vous pouvez encore vous rattraper et vous procurer une liseuse TEA ;-).
-Toutes nos liseuses et leurs points de vente sont présents sur l'espace [Liseuses](https://www.tea-ebook.com/solution/#liseuses) de notre site.
+Toutes nos liseuses et leurs points de vente sont présents sur l'espace [Liseuses](https://www.tea-ebook.com/lecture-numerique/liseuses-tea/) de notre site.
 
 Si vous avez des questions sur une liseuse d'une autre marque que TEA (Kobo, Kindle, Bookeen, Sony...), consultez la [FAQ lecture](http://aide.tea-ebook.com/faq-lecture/).
 
