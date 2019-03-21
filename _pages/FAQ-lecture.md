@@ -222,7 +222,19 @@ Vérifier que mon libraire propose une application de lecture sur Android ou App
 
 {% include choix-application-android.md %}
 
-Si votre libraire ne possède pas d'application spécifique, les ebooks au format ePub et PDF restent lisibles sur tablette ou smarphone, à condition d’avoir téléchargé une application de lecture telle que Bluefire Reader. Les livres au format ACSM nécessitent la configuration d'un compte Adobe.
+Si votre libraire ne possède pas d'application spécifique, les ebooks au format ePub et PDF restent lisibles sur tablette ou smarphone, à condition d’avoir téléchargé une application de lecture telle que Bluefire Reader. 
+Les ebooks protégés par la DRM Adobe (téléchargés au format ACSM) nécessitent la création d'un compte Adobe et l'autorisation de votre support de lecture avec un identifiant Adobe.
+
+Comment faire ?
+1. Téléchargez une application de lecture d'ebooks, par exempe Bluefire Reader, depuis Google Play ou l'AppStore.
+
+2. Si vous n'en avez pas, créez un identifiant Adobe. Pour créer un compte personnel Adobe, rendez vous sur le site d’Adobe via le lien suivant : [Mon compte Adobe](https://adobeid-na1.services.adobe.com/renga-idprovider/pages/create_account?client_id=adobedotcom2&callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fadobedotcom2%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526client_id%253Dadobedotcom2%2526scope%253Dcreative_cloud%25252CAdobeID%25252Copenid%25252Cgnav%25252Cread_organizations%25252Cadditional_info.projectedProductContext%2526api%253Dauthorize%26scope%3Dcreative_cloud%252CAdobeID%252Copenid%252Cgnav%252Cread_organizations%252Cadditional_info.projectedProductContext&client_redirect=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fredirect%2Fadobedotcom2%3Fclient_redirect%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526client_id%253Dadobedotcom2%2526scope%253Dcreative_cloud%25252CAdobeID%25252Copenid%25252Cgnav%25252Cread_organizations%25252Cadditional_info.projectedProductContext%2526api%253Dauthorize&denied_callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fdenied%2Fadobedotcom2%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Ffr%252F%2523from_ims%253Dtrue%2526old_hash%253D%252523%2526client_id%253Dadobedotcom2%2526scope%253Dcreative_cloud%25252CAdobeID%25252Copenid%25252Cgnav%25252Cread_organizations%25252Cadditional_info.projectedProductContext%2526api%253Dauthorize%26response_type%3Dtoken%26scope%3Dcreative_cloud%252CAdobeID%252Copenid%252Cgnav%252Cread_organizations%252Cadditional_info.projectedProductContext&display=web_v2&locale=fr_FR&relay=ec6a5920-3bc1-4fb4-9fe6-aa7f306bb2bf&flow=true&flow_type=token&dc=false&idp_flow_type=login).
+Remplissez l’ensemble des champs proposés puis cliquez sur « S'inscrire ».
+Pensez à bien conserver vos identifiant et mot de passe, vous aurez à les saisir sur le(s) support(s) de lecture de votre choix afin de pouvoir lire vos ebooks protégés par Adobe DRM.
+
+3. Renseignez vos identifiants Adobe dans les Paramètres de votre application.
+4. Téléchargez l'ebook sur votre téléphone ou votre tablette. 
+5. Ouvrez le fichier téléchargé avec l'application de lecture.
 
 {% include feedback-button.html question="Puis-je lire mes livres sur tablette ou smartphone, si ma librairie ne possède pas d'application spécifique?" %}
 
