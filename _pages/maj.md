@@ -41,51 +41,6 @@ type: help
 Vous pouvez activer les mises à jour automatiques en appuyant sur le bouton On/Off correspondant à « Mise à jour automatique ». La liseuse recherchera automatiquement s'il y a une mise à jour disponible lorsque vous connecterez en Wi-Fi et le cas échéant, vous proposera de la télécharger et de l'installer.
 
 {% include feedback-button.html question="Mettre à jour ma liseuse" %}
-
-
-{% include anchor.html id="logiciel5.17" label="Détails du logiciel 5.17" %}
-
-## Liseuses Touch HD - Détails du logiciel 5.17
-
-{% include anchor.html id="liseuses-compatibles" label="Liseuses compatibles" %}
-
-### Liseuses compatibles
-
-Liseuses Touch HD.
-
-{% include anchor.html id="nouveautes" label="Nouveauté" %}
-
-### Nouveauté
-
-- **Posssibilité d'afficher la dernière page lue pendant le démarrage de votre liseuse.**
-
-Pour ne plus perdre une minute de lecture, vous pouvez désormais afficher la page en cours de lecture lors du démarrage de votre liseuse.
-Pour profiter de cette nouvelle fonctionnalité, allez dans Paramètres > Personnalisation puis modifiez le paramètre "Logo de démarrage" en sélectionnant "page actuelle".
-
-- **Amélioration générale des performances de la liseuse et correction de bugs**
-
-{% include anchor.html id="logiciel5.14" label="Détails du logiciel 5.14" %}
-
-## Liseuses Touch Lux 3, Touch Lux 2 - Détails du logiciel 5.14.1487
-
-{% include anchor.html id="liseuses-compatibles" label="Liseuses compatibles" %}
-
-### Liseuses compatibles
-
-Touch Lux 2, Touch Lux 3.
-
-{% include anchor.html id="ameliorations-xp" label="Amélioration de l'expérience d'utilisation" %}
-
-### Amélioration des performances de la liseuse
-
-{% include anchor.html id="corrections" label="Corrections des bugs et des messages d'erreur" %}
-
-### Correction de bugs
-- **Correction des problèmes de connexion et synchronisation Dropbox**
-- **Éclairage LED** : LED éteinte si le paramétrage est configuré en « off »
-- **Meilleure gestion des multi-utilisateurs** avec les positions de lecture distinctes par profils.
-- **Fermeture de la librairie par l’icône**
-- **Écran spécifique batterie vide**
  
 {% include anchor.html id="logiciels-disponibles" label="Logiciels disponibles" %}
 
