@@ -83,6 +83,13 @@ Selon le format et la protection d'un ebook, vous ne pourrez pas lire sur tous l
 
 ### Puis-je lire mes ebooks sur une liseuse d'une autre marque que TEA ?
 
+{% include anchor.html id="lire-vivlio" label="Puis-je lire mes livres sur une liseuse Vivlio ?" %}
+
+#### Puis-je lire mes ebooks sur une liseuse Vivlio ?
+Pour toute question sur une liseuse Vivlio, consultez <a href="https://help.vivlio.fr" title="Aide en ligne Vivlio">l'Aide en ligne Vivlio</a>.
+
+{% include feedback-button.html question="Puis-je lire mes livres sur une liseuse Vivlio ?" %}
+
 {% include anchor.html id="lire-kindle" label="Puis-je lire mes livres sur une liseuse Kindle ?" %}
 
 #### Puis-je lire mes ebooks sur une liseuse Kindle ?
