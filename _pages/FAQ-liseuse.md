@@ -81,7 +81,7 @@ Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la cart
 
 #### Combien d'ebooks puis-je stocker dans ma liseuse ?
 
-Pour les liseuses TEA, la capacité interne varie selon les modèles, en allant de 4 Go, soit environ 4 000 ebooks (selon leur taille), à 8 Go.  
+Pour les liseuses TEA, la capacité interne de stockage varie selon les modèles, en allant de 4 Go, soit environ 4 000 ebooks (selon leur taille), à 8 Go.  
 Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 Go en insérant une carte mémoire dans la fente prévue à cet effet.
 
 {% include feedback-button.html question="Combien d'ebooks puis-je stocker dans ma liseuse ?" %}
