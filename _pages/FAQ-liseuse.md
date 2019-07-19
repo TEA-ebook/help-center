@@ -8,15 +8,22 @@ type: faq
 
 ## Liseuses TEA
 
+Les liseuses TEA sont désormais commercialisées sous la marque Vivlio.
+Vous trouverez toutes les infos sur les liseuses Vivlio dans l'[Aide Vivlio](https://help.vivlio.fr).
 Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez également consulter les manuels des liseuses, téléchargeables depuis <a href="https://www.tea-ebook.com/lecture-numerique/liseuses-tea/">notre site internet</a>.
 
 {% include anchor.html id="pb-matériel" label="J'ai un problème matériel sur ma liseuse TEA." %}
 
 ### J'ai un problème matériel sur ma liseuse TEA
 
-Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran semble cassé), 
-
-<div class="contact-pb"></div>
+Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran semble cassé), contactez le service clients du magasin ou de l'enseigne où vous avez fait l'achat de votre liseuse.
+<form>
+        <select id="select-sav">
+          <option selected="selected" disabled="disabled">Choisissez votre enseigne</option>
+        </select>
+</form>
+<div id="sav-contact">
+</div>
 
 {% include feedback-button.html question="J'ai un problème matériel sur ma liseuse TEA" %}
 
@@ -74,12 +81,10 @@ Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la cart
 
 #### Combien d'ebooks puis-je stocker dans ma liseuse ?
 
-Pour les liseuses TEA, la capacité interne est de 4 Go, soit environ 4 000 ebooks (selon leur taille).  
+Pour les liseuses TEA, la capacité interne varie selon les modèles, en allant de 4 Go, soit environ 4 000 ebooks (selon leur taille), à 8 Go.  
 Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 Go en insérant une carte mémoire dans la fente prévue à cet effet.
 
 {% include feedback-button.html question="Combien d'ebooks puis-je stocker dans ma liseuse ?" %}
-
-
 
 
 {% include anchor.html id="carteSD-liseuse" label="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
@@ -92,8 +97,6 @@ Le formatage FAT est recommandé.
 {% include feedback-button.html question="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
 
 
-
-
 {% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse TEA ?" %}
 
 #### Quels sont les formats supportés par ma liseuse TEA ?
@@ -102,8 +105,6 @@ Le formatage FAT est recommandé.
 - Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
 
 {% include feedback-button.html question="Quels sont les formats supportés par ma liseuse TEA ?" %}
-
-
 
 
 {% include anchor.html id="etageres-favoris" label="Comment gérer mes étagères et mettre un livre en favori ?" %}
@@ -149,7 +150,7 @@ Pour supprimer une étagère, il faut choisir le mode « Étagères », puis f
 
 <p class="protip">Supprimer une étagère ne supprime pas les livres qu'elle contient.</p>
 
-##### Par dossier
+##### Par dossiers
 
 Le mode « Dossiers » affiche les répertoires présents sur la liseuse. Ces dossiers peuvent être gérés depuis la liseuse (via un appui long sur chaque dossier) ou bien plus simplement en connectant la liseuse à un ordinateur et en utilisant votre gestionnaire de fichiers habituel.
 
@@ -333,7 +334,6 @@ Le livre numérique ne possède pas la 4ème de couverture. Certaines informatio
 
 #### Comment ajouter des dictionnaires à ma liseuse ?
 
-
 Il est possible d'ajouter des dictionnaires à la liste de ceux déjà disponibles : 
 
 <a class="button" href="https://www.bookland.com/fra/dictionaries">Télécharger des dictionnaires pour liseuse</a>
@@ -348,8 +348,6 @@ Voici la marche à suivre pour les installer sur votre liseuse :
 Le dictionnaire sera alors disponible parmi les choix des différents dictionnaires.
 
 {% include feedback-button.html question="Comment ajouter des dictionnaires à ma liseuse ?" %}
-
-
 
 {% include anchor.html id="autres-faq-liseuse" label="Autres questions" %}
 
@@ -375,8 +373,6 @@ Une fois votre liseuse paramétrée, branchez-la __allumée__ à votre ordinateu
 <p class="protip">Cela ne fonctionne pas ? Testez la connexion sur un autre ordinateur ou avec un autre cable micro USB (destiné pour le transfert des fichiers et non seulement pour la charge).</p>
 
 {% include feedback-button.html question="Je n'arrive pas à relier ma liseuse TEA à mon ordinateur, que dois-je faire ?" %}
-
-
 
 {% include anchor.html id="pocketbook-bloque" label="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
 
