@@ -14,7 +14,7 @@ Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez éga
 
 ### J'ai un problème matériel sur ma liseuse TEA
 
-Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran semble cassé), contactez la Hotline Constructeur TEA-PocketBook par téléphone du lundi au vendredi de 9h à 17h aux numéros suivants :
+Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran semble cassé), 
 
 <div class="contact-pb"></div>
 
@@ -94,14 +94,14 @@ Le formatage FAT est recommandé.
 
 
 
-{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse TEA (ou PocketBook) ?" %}
+{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse TEA ?" %}
 
 #### Quels sont les formats supportés par ma liseuse TEA ?
 
 - Formats d’ebooks supportés par les liseuses TEA: ePub, PDF, Adobe® DRM, HTML, TXT, FB2, FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
 - Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
 
-{% include feedback-button.html question="Quels sont les formats supportés par ma liseuse TEA (ou PocketBook) ?" %}
+{% include feedback-button.html question="Quels sont les formats supportés par ma liseuse TEA ?" %}
 
 
 
@@ -225,7 +225,7 @@ Dans votre liseuse, rendez-vous dans *Paramètres > À propos de l'appareil > Lo
 
 La version du logiciel apparaît sous la forme suivante : T623.4.4.893
 
-* La lettre T indique s'il s'agit d'un logiciel spécifique TEA. Si vous avez une autre lettre (W), il s'agit d'un logiciel générique PocketBook.
+* La lettre T indique s'il s'agit d'un logiciel spécifique TEA. Si vous avez une autre lettre (W), il s'agit d'un logiciel générique du constructeur PocketBook.
 * Les trois premiers chiffres indiquent le modèle de la liseuse.
   - 631 : Touch HD
   - 650 : Ultra
@@ -443,7 +443,7 @@ La présente garantie tient lieu et place de toute autre garantie, implicite ou 
 5. Aux dommages attribuables à une surtension ou à toute anomalie électrique externe à la liseuse.
 6. Aux détériorations découlant d'une installation ou de la modification non autorisées des logiciels contenus dans la liseuse.
 7. Aux défaillances découlant de la négligence, d'une mauvaise utilisation ou manipulation, d'une utilisation abusive de la liseuse.
-8. Aux conséquences liées à l’utilisation d’accessoires ou tout autres produits qui n’ont pas été fournis par PocketBook ou qui n’ont pas été certifiés par lui comme compatibles avec cette liseuse.
+8. Aux conséquences liées à l’utilisation d’accessoires ou tout autres produits qui n’ont pas été fournis par le constructeur PocketBook ou qui n’ont pas été certifiés par lui comme compatibles avec cette liseuse.
 9. Aux dommages causés par une catastrophe naturelle (incendie, inondation, foudre, tempêtes, tremblements de terre, etc.).
 10. Aux dommages dus à un mauvais traitement de la liseuse ou une fausse manipulation incluant la chute de la liseuse, la casse de son écran pour quelque cause que ce soit et son contact avec tout liquide par exemple renversé sur la liseuse ou dans lequel la liseuse a été immergé et conduisant à la présence de liquide sur ou à l’intérieur de la liseuse.
 11. Aux dommages causés par une incompatibilité de la liseuse avec des flux de télécommunication (wifi, réseaux câblés, etc.) ne respectant pas les normes et protocoles standard.
@@ -464,9 +464,8 @@ Lorsque le rétro-éclairage d’une liseuse est activé, il est possible d’ap
 
 ## Je n'ai pas une liseuse TEA et j'ai des questions sur une liseuse d'une autre marque.
 
-Il n'est pas trop tard, vous pouvez encore vous rattraper et vous procurer une liseuse TEA ;-).
 Toutes nos liseuses et leurs points de vente sont présents sur l'espace [Liseuses](https://www.tea-ebook.com/lecture-numerique/liseuses-tea/) de notre site.
-
-Si vous avez des questions sur une liseuse d'une autre marque que TEA (Kobo, Kindle, Bookeen, Sony...), consultez la [FAQ lecture](http://aide.tea-ebook.com/faq-lecture/).
+Nos liseuses sont désormais commercialisées sous la marque Vivlio et toutes les infos sur Vivlio sont sur l'[Aide Vivlio](https://help.vivlio.fr).
+Si vous avez des questions sur une liseuse d'une autre marque que TEA/Vivlio (Kobo, Kindle, Bookeen, Sony...), consultez la [FAQ lecture](http://aide.tea-ebook.com/faq-lecture/).
 
 {% include feedback-button.html question="Autres marques de liseuses" %}
