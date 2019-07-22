@@ -8,15 +8,22 @@ type: faq
 
 ## Liseuses TEA
 
+Les liseuses TEA sont désormais commercialisées sous la marque Vivlio.
+Vous trouverez toutes les infos sur les liseuses Vivlio dans l'[Aide Vivlio](https://help.vivlio.fr).
 Pour toute question sur le fonctionnement de votre liseuse TEA, vous pouvez également consulter les manuels des liseuses, téléchargeables depuis <a href="https://www.tea-ebook.com/lecture-numerique/liseuses-tea/">notre site internet</a>.
 
 {% include anchor.html id="pb-matériel" label="J'ai un problème matériel sur ma liseuse TEA." %}
 
 ### J'ai un problème matériel sur ma liseuse TEA
 
-Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran semble cassé), contactez la Hotline Constructeur TEA-PocketBook par téléphone du lundi au vendredi de 9h à 17h aux numéros suivants :
-
-<div class="contact-pb"></div>
+Pour tout problème matériel sur votre liseuse TEA (par exemple si l'écran semble cassé), contactez le service clients du magasin ou de l'enseigne où vous avez fait l'achat de votre liseuse.
+<form>
+        <select id="select-sav">
+          <option selected="selected" disabled="disabled">Choisissez votre enseigne</option>
+        </select>
+</form>
+<div id="sav-contact">
+</div>
 
 {% include feedback-button.html question="J'ai un problème matériel sur ma liseuse TEA" %}
 
@@ -74,12 +81,10 @@ Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la cart
 
 #### Combien d'ebooks puis-je stocker dans ma liseuse ?
 
-Pour les liseuses TEA, la capacité interne est de 4 Go, soit environ 4 000 ebooks (selon leur taille).  
+Pour les liseuses TEA, la capacité interne de stockage varie selon les modèles, en allant de 4 Go, soit environ 4 000 ebooks (selon leur taille), à 8 Go.  
 Vous pouvez augmenter la capacité de stockage de votre liseuse jusqu’à 32 Go en insérant une carte mémoire dans la fente prévue à cet effet.
 
 {% include feedback-button.html question="Combien d'ebooks puis-je stocker dans ma liseuse ?" %}
-
-
 
 
 {% include anchor.html id="carteSD-liseuse" label="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
@@ -92,18 +97,14 @@ Le formatage FAT est recommandé.
 {% include feedback-button.html question="Quel type de carte SD dois-je utiliser avec ma liseuse ?" %}
 
 
-
-
-{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse TEA (ou PocketBook) ?" %}
+{% include anchor.html id="format-supporte" label="Quels sont les formats supportés par ma liseuse TEA ?" %}
 
 #### Quels sont les formats supportés par ma liseuse TEA ?
 
 - Formats d’ebooks supportés par les liseuses TEA: ePub, PDF, Adobe® DRM, HTML, TXT, FB2, FB2.ZIP, DJVU, HTM, HTML, DOC, DOCX, RTF, CHM, TCR, PRC (MOBI).
 - Formats d’images acceptés : JPEG, PNG, GIF, BMP, TIF.
 
-{% include feedback-button.html question="Quels sont les formats supportés par ma liseuse TEA (ou PocketBook) ?" %}
-
-
+{% include feedback-button.html question="Quels sont les formats supportés par ma liseuse TEA ?" %}
 
 
 {% include anchor.html id="etageres-favoris" label="Comment gérer mes étagères et mettre un livre en favori ?" %}
@@ -149,7 +150,7 @@ Pour supprimer une étagère, il faut choisir le mode « Étagères », puis f
 
 <p class="protip">Supprimer une étagère ne supprime pas les livres qu'elle contient.</p>
 
-##### Par dossier
+##### Par dossiers
 
 Le mode « Dossiers » affiche les répertoires présents sur la liseuse. Ces dossiers peuvent être gérés depuis la liseuse (via un appui long sur chaque dossier) ou bien plus simplement en connectant la liseuse à un ordinateur et en utilisant votre gestionnaire de fichiers habituel.
 
@@ -225,7 +226,7 @@ Dans votre liseuse, rendez-vous dans *Paramètres > À propos de l'appareil > Lo
 
 La version du logiciel apparaît sous la forme suivante : T623.4.4.893
 
-* La lettre T indique s'il s'agit d'un logiciel spécifique TEA. Si vous avez une autre lettre (W), il s'agit d'un logiciel générique PocketBook.
+* La lettre T indique s'il s'agit d'un logiciel spécifique TEA. Si vous avez une autre lettre (W), il s'agit d'un logiciel générique du constructeur PocketBook.
 * Les trois premiers chiffres indiquent le modèle de la liseuse.
   - 631 : Touch HD
   - 650 : Ultra
@@ -333,7 +334,6 @@ Le livre numérique ne possède pas la 4ème de couverture. Certaines informatio
 
 #### Comment ajouter des dictionnaires à ma liseuse ?
 
-
 Il est possible d'ajouter des dictionnaires à la liste de ceux déjà disponibles : 
 
 <a class="button" href="https://www.bookland.com/fra/dictionaries">Télécharger des dictionnaires pour liseuse</a>
@@ -348,8 +348,6 @@ Voici la marche à suivre pour les installer sur votre liseuse :
 Le dictionnaire sera alors disponible parmi les choix des différents dictionnaires.
 
 {% include feedback-button.html question="Comment ajouter des dictionnaires à ma liseuse ?" %}
-
-
 
 {% include anchor.html id="autres-faq-liseuse" label="Autres questions" %}
 
@@ -375,8 +373,6 @@ Une fois votre liseuse paramétrée, branchez-la __allumée__ à votre ordinateu
 <p class="protip">Cela ne fonctionne pas ? Testez la connexion sur un autre ordinateur ou avec un autre cable micro USB (destiné pour le transfert des fichiers et non seulement pour la charge).</p>
 
 {% include feedback-button.html question="Je n'arrive pas à relier ma liseuse TEA à mon ordinateur, que dois-je faire ?" %}
-
-
 
 {% include anchor.html id="pocketbook-bloque" label="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
 
@@ -443,7 +439,7 @@ La présente garantie tient lieu et place de toute autre garantie, implicite ou 
 5. Aux dommages attribuables à une surtension ou à toute anomalie électrique externe à la liseuse.
 6. Aux détériorations découlant d'une installation ou de la modification non autorisées des logiciels contenus dans la liseuse.
 7. Aux défaillances découlant de la négligence, d'une mauvaise utilisation ou manipulation, d'une utilisation abusive de la liseuse.
-8. Aux conséquences liées à l’utilisation d’accessoires ou tout autres produits qui n’ont pas été fournis par PocketBook ou qui n’ont pas été certifiés par lui comme compatibles avec cette liseuse.
+8. Aux conséquences liées à l’utilisation d’accessoires ou tout autres produits qui n’ont pas été fournis par le constructeur PocketBook ou qui n’ont pas été certifiés par lui comme compatibles avec cette liseuse.
 9. Aux dommages causés par une catastrophe naturelle (incendie, inondation, foudre, tempêtes, tremblements de terre, etc.).
 10. Aux dommages dus à un mauvais traitement de la liseuse ou une fausse manipulation incluant la chute de la liseuse, la casse de son écran pour quelque cause que ce soit et son contact avec tout liquide par exemple renversé sur la liseuse ou dans lequel la liseuse a été immergé et conduisant à la présence de liquide sur ou à l’intérieur de la liseuse.
 11. Aux dommages causés par une incompatibilité de la liseuse avec des flux de télécommunication (wifi, réseaux câblés, etc.) ne respectant pas les normes et protocoles standard.
@@ -464,9 +460,8 @@ Lorsque le rétro-éclairage d’une liseuse est activé, il est possible d’ap
 
 ## Je n'ai pas une liseuse TEA et j'ai des questions sur une liseuse d'une autre marque.
 
-Il n'est pas trop tard, vous pouvez encore vous rattraper et vous procurer une liseuse TEA ;-).
 Toutes nos liseuses et leurs points de vente sont présents sur l'espace [Liseuses](https://www.tea-ebook.com/lecture-numerique/liseuses-tea/) de notre site.
-
-Si vous avez des questions sur une liseuse d'une autre marque que TEA (Kobo, Kindle, Bookeen, Sony...), consultez la [FAQ lecture](http://aide.tea-ebook.com/faq-lecture/).
+Nos liseuses sont désormais commercialisées sous la marque Vivlio et toutes les infos sur Vivlio sont sur l'[Aide Vivlio](https://help.vivlio.fr).
+Si vous avez des questions sur une liseuse d'une autre marque que TEA/Vivlio (Kobo, Kindle, Bookeen, Sony...), consultez la [FAQ lecture](http://aide.tea-ebook.com/faq-lecture/).
 
 {% include feedback-button.html question="Autres marques de liseuses" %}
