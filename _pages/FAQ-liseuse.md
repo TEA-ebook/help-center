@@ -60,8 +60,6 @@ Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inf�
 
 {% include feedback-button.html question="Où peut-on voir le niveau de la batterie ?" %}
 
-
-
 {% include anchor.html id="batterie-vide" label="Que se passe-t-il si la batterie de ma liseuse se vide complètement ?" %}
 
 #### Que se passe-t-il si la batterie de ma liseuse se vide complètement ?
@@ -69,8 +67,6 @@ Suivant les modèles vous pouvez voir le niveau de la batterie dans le coin inf�
 Rien du tout. Vos données sont gardées dans la mémoire interne ou sur la carte SD. Vous ne pouvez juste plus utiliser votre liseuse et vous devez donc <a href="#recharger-liseuse">la mettre en charge</a>. En revanche, vous pouvez parfaitement continuer d’avoir une image ou un texte à l’écran même si l’appareil est déchargé.
 
 {% include feedback-button.html question="Que se passe-t-il si la batterie de ma liseuse se vide complètement ?" %}
-
-
 
 
 {% include anchor.html id="gestion-bibliotheque" label="Gérer la bibliothèque de sa liseuse TEA" %}
@@ -194,7 +190,6 @@ Pour en savoir plus sur les mises à jours disponibles sur votre liseuse TEA, co
 {% include feedback-button.html question="Comment mettre à jour ma liseuse ?" %}
 
 
-
 {% include anchor.html id="maj-liseuse-freeze" label="Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?" %}
 
 #### Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?
@@ -205,8 +200,6 @@ Essayez de laisser la batterie de la liseuse se charger pendant toute une nuit, 
 {% include feedback-button.html question="Pourquoi ma liseuse s'est-elle bloquée lors de la mise à jour ?" %}
 
 
-
-
 {% include anchor.html id="perdre-livres-maj" label="Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?" %}
 
 #### Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?
@@ -214,8 +207,6 @@ Essayez de laisser la batterie de la liseuse se charger pendant toute une nuit, 
 Vous ne perdrez pas vos documents ou vos livres quand vous mettrez à jour votre liseuse. C’est seulement l’opportunité pour votre appareil de gagner de nouvelles fonctionnalités.
 
 {% include feedback-button.html question="Est-ce que je vais perdre tous mes livres quand je vais mettre à jour ma liseuse ?" %}
-
-
 
 
 {% include anchor.html id="version-logiciel-liseuse" label="Comment puis-je connaître la version du logiciel de ma liseuse ?" %}
@@ -378,9 +369,14 @@ Une fois votre liseuse paramétrée, branchez-la __allumée__ à votre ordinateu
 
 #### Ma liseuse TEA est bloquée sur une page, que dois-je faire ?
 
-Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer. Si cela ne permet pas de débloquer la liseuse, mettez-la en charge plusieurs heures. S'il ne se passe toujours rien, contactez la hotline constructeur et exposez votre problème : 
-
-<div class="contact-pb"></div>
+Appuyez une dizaine de secondes sur le bouton On/Off de la liseuse, afin de la redémarrer. Si cela ne permet pas de débloquer la liseuse, mettez-la en charge plusieurs heures. S'il ne se passe toujours rien, contactez le service clients du magasin ou de l'enseigne où vous avez fait l'achat de votre liseuse.
+<form>
+        <select id="select-sav">
+          <option selected="selected" disabled="disabled">Choisissez votre enseigne</option>
+        </select>
+</form>
+<div id="sav-contact">
+</div>
 
 {% include feedback-button.html question="Ma liseuse TEA est bloquée sur une page, que dois-je faire ?" %}
 
